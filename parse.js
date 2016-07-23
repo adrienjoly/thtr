@@ -19,7 +19,10 @@ function parseText(text) {
     var char = ACTOR_NAME.exec(l);
     if (char) {
       var [ name, ...desc ] = l.split(', ');
-      characters.push([ name, desc.join(', ') ].join(desc.length ? ', ' : ''));
+      characters.push({
+        name: name,
+        desc: desc.join(', ')
+      });
     } else {
       context.push(l);
     }

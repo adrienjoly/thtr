@@ -1,22 +1,73 @@
 {
   "characters": [
-    "MONSIEUR JOURDAIN, bourgeois.",
-    "MADAME JOURDAIN, sa femme.",
-    "LUCILE, fille de M. Jourdain.",
-    "NICOLE, servante.",
-    "CLÉONTE, amoureux de Lucile.",
-    "COVIELLE, valet de Cléonte.",
-    "DORANTE, comte, amant de Dorimène.",
-    "DORIMÈNE, marquise.",
-    "MAÎTRE DE MUSIQUE.",
-    "ÉLÈVE DU MAÎTRE DE MUSIQUE.",
-    "MAÎTRE À DANSER.",
-    "MAÎTRE D’ARMES.",
-    "MAÎTRE DE PHILOSOPHIE.",
-    "MAÎTRE TAILLEUR.",
-    "GARÇON TAILLEUR.",
-    "DEUX LAQUAIS.",
-    "PLUSIEURS MUSICIENS, MUSICIENNES, JOUEURS D’INSTRUMENTS, DANSEURS, CUISINIERS, GARÇONS TAILLEURS, ET AUTRES PERSONNAGES DES INTERMÈDES ET DU BALLET."
+    {
+      "name": "MONSIEUR JOURDAIN",
+      "desc": "bourgeois."
+    },
+    {
+      "name": "MADAME JOURDAIN",
+      "desc": "sa femme."
+    },
+    {
+      "name": "LUCILE",
+      "desc": "fille de M. Jourdain."
+    },
+    {
+      "name": "NICOLE",
+      "desc": "servante."
+    },
+    {
+      "name": "CLÉONTE",
+      "desc": "amoureux de Lucile."
+    },
+    {
+      "name": "COVIELLE",
+      "desc": "valet de Cléonte."
+    },
+    {
+      "name": "DORANTE",
+      "desc": "comte, amant de Dorimène."
+    },
+    {
+      "name": "DORIMÈNE",
+      "desc": "marquise."
+    },
+    {
+      "name": "MAÎTRE DE MUSIQUE.",
+      "desc": ""
+    },
+    {
+      "name": "ÉLÈVE DU MAÎTRE DE MUSIQUE.",
+      "desc": ""
+    },
+    {
+      "name": "MAÎTRE À DANSER.",
+      "desc": ""
+    },
+    {
+      "name": "MAÎTRE D’ARMES.",
+      "desc": ""
+    },
+    {
+      "name": "MAÎTRE DE PHILOSOPHIE.",
+      "desc": ""
+    },
+    {
+      "name": "MAÎTRE TAILLEUR.",
+      "desc": ""
+    },
+    {
+      "name": "GARÇON TAILLEUR.",
+      "desc": ""
+    },
+    {
+      "name": "DEUX LAQUAIS.",
+      "desc": ""
+    },
+    {
+      "name": "PLUSIEURS MUSICIENS",
+      "desc": "MUSICIENNES, JOUEURS D’INSTRUMENTS, DANSEURS, CUISINIERS, GARÇONS TAILLEURS, ET AUTRES PERSONNAGES DES INTERMÈDES ET DU BALLET."
+    }
   ],
   "context": [
     "",

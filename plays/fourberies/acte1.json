@@ -1,16 +1,49 @@
 {
   "characters": [
-    "ARGANTE, père d’Octave et de Zerbinette.",
-    "GÉRONTE, père de Léandre et de Hyacinte.",
-    "OCTAVE, fils d’Argante, et amant de Hyacinte.",
-    "LÉANDRE, fils de Géronte, et amant de Zerbinette.",
-    "ZERBINETTE, crue Égyptienne, et reconnue fille d’Argante, et amante de Léandre.",
-    "HYACINTE, fille de Géronte, et amante d’Octave.",
-    "SCAPIN, valet de Léandre, et fourbe.",
-    "SILVESTRE, valet d’Octave.",
-    "NÉRINE, nourrice de Hyacinte.",
-    "CARLE, fourbe.",
-    "DEUX PORTEURS."
+    {
+      "name": "ARGANTE",
+      "desc": "père d’Octave et de Zerbinette."
+    },
+    {
+      "name": "GÉRONTE",
+      "desc": "père de Léandre et de Hyacinte."
+    },
+    {
+      "name": "OCTAVE",
+      "desc": "fils d’Argante, et amant de Hyacinte."
+    },
+    {
+      "name": "LÉANDRE",
+      "desc": "fils de Géronte, et amant de Zerbinette."
+    },
+    {
+      "name": "ZERBINETTE",
+      "desc": "crue Égyptienne, et reconnue fille d’Argante, et amante de Léandre."
+    },
+    {
+      "name": "HYACINTE",
+      "desc": "fille de Géronte, et amante d’Octave."
+    },
+    {
+      "name": "SCAPIN",
+      "desc": "valet de Léandre, et fourbe."
+    },
+    {
+      "name": "SILVESTRE",
+      "desc": "valet d’Octave."
+    },
+    {
+      "name": "NÉRINE",
+      "desc": "nourrice de Hyacinte."
+    },
+    {
+      "name": "CARLE",
+      "desc": "fourbe."
+    },
+    {
+      "name": "DEUX PORTEURS.",
+      "desc": ""
+    }
   ],
   "context": [
     "",
