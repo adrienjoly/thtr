@@ -2,6 +2,9 @@ const request = require('request')
 
 const EMOJI_DEF = /data-c="([^"]+)"\>([^\<]+)/g;
 
+var URL = 'http://facebook-emoticons.fr.downloadastro.com/tools/';
+// other source: http://pastebin.com/raw/hzURT2EX (201 emojis in french)
+
 const processName = name => name
   .toLowerCase()
   .replace(/[Tt].te d[e\']/, '') //  tête de...
@@ -11,7 +14,7 @@ const processName = name => name
   .replace(/^(gros|petit|visage)$/, '')
   .trim()
 
-request('http://facebook-emoticons.fr.downloadastro.com/tools/', (error, response, body) => {
+request(URL, (error, response, body) => {
   let m
   while (m = EMOJI_DEF.exec(body)) {
     [match, emoji, name] = m
