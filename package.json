@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "convert": "node parse.js plays/fourberies/acte1.txt >plays/fourberies/acte1.json",
+    "convert": "for f in $(find ./plays -name '*.txt'); do node parse.js $f >${f%.txt}.json; done",
     "start": "node server.js",
     "test": "curl http://localhost:3000/api/play/fourberies/act/1"
   },

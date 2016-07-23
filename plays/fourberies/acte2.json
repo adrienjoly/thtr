@@ -1,1481 +1,1481 @@
 {
-  "actors": [],
+  "characters": [],
   "context": [
     " "
   ],
-  "parts": [
+  "scenes": [
     {
       "act": "II",
-      "part": 1,
+      "scene": 1,
       "dialogue": [
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Oui, sans doute [1] , par le temps qu’il fait, nous aurons ici nos gens aujourd’hui ; et un matelot qui vient de Tarente, m’a assuré qu’il avait vu mon homme qui était près de s’embarquer. Mais l’arrivée de ma fille trouvera les choses mal disposées à ce que nous nous proposions ; et ce que vous venez de m’apprendre de votre fils, rompt étrangement les mesures que nous avions prises ensemble."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Ne vous mettez pas en peine ; je vous réponds de renverser tout cet obstacle, et j’y vais travailler de ce pas."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Ma foi, seigneur Argante, voulez-vous que je vous dise ? l’éducation des enfants est une chose à quoi il faut s’attacher fortement."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Sans doute [2] . À quel propos cela ?"
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "À propos, de ce que les mauvais déportements des jeunes gens viennent le plus souvent de la mauvaise éducation que leurs pères leur donnent."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Cela arrive parfois. Mais que voulez-vous dire par là ?"
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Ce que je veux dire par là ?"
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Oui."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Que si vous aviez en brave père, bien morigéné votre fils, il ne vous aurait pas joué le tour qu’il vous a fait."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Fort bien. De sorte donc que vous avez bien mieux morigéné le vôtre ?"
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Sans doute [3] , et je serais bien fâché qu’il m’eût rien fait approchant de cela."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Et si ce fils que vous avez, en brave père, si bien morigéné, avait fait pis encore que le mien ; eh ?"
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Comment ?"
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Comment ?"
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Qu’est-ce que cela veut dire ?"
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Cela veut dire, Seigneur Géronte, qu’il ne faut pas être si prompt à condamner la conduite des autres ; et que ceux qui veulent gloser, doivent bien regarder chez eux, s’il n’y a rien qui cloche."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Je n’entends point cette énigme."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "On vous l’expliquera."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Est-ce que vous auriez ouï dire quelque chose de mon fils ?"
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Cela se peut faire."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Et quoi encore ?"
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Votre Scapin, dans mon dépit [4] , ne m’a dit la chose qu’en gros ; et vous pourrez de lui, ou de quelque autre, être instruit du détail. Pour moi, je vais vite consulter un avocat, et aviser des biais que j’ai à prendre [5] . Jusqu’au revoir.\n "
         }
       ]
     },
     {
       "act": "II",
-      "part": 2,
+      "scene": 2,
       "dialogue": [
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Que pourrait-ce être que cette affaire-ci ? Pis encore que le sien ! Pour moi, je ne vois pas ce que l’on peut faire de pis ; et je trouve que se marier sans le consentement de son père, est une action qui passe tout ce qu’on peut s’imaginer. Ah vous voilà."
         },
         {
-          "actor": "LÉANDRE, en courant à lui pour l’embrasser",
+          "character": "LÉANDRE, en courant à lui pour l’embrasser",
           "text": "Ah ! mon père, que j’ai de joie de vous voir de retour !"
         },
         {
-          "actor": "GÉRONTE, refusant de l’embrasser",
+          "character": "GÉRONTE, refusant de l’embrasser",
           "text": "Doucement. Parlons un peu d’affaire."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Souffrez que je vous embrasse, et que..."
         },
         {
-          "actor": "GÉRONTE, le repoussant encore",
+          "character": "GÉRONTE, le repoussant encore",
           "text": "Doucement, vous dis-je."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Quoi, vous me refusez, mon père, de vous exprimer mon transport par mes embrassements ?"
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Oui, nous avons quelque chose à démêler ensemble."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Et quoi ?"
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Tenez-vous, que je vous voie en face."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Comment ?"
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Regardez-moi entre deux yeux."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Hé bien ?"
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Qu’est-ce donc qui s’est passé ici ?"
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Ce qui s’est passé ?"
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Oui. Qu’avez-vous fait pendant mon absence ?"
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Que voulez-vous, mon père, que j’aie fait ?"
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Ce n’est pas moi qui veux que vous ayez fait, mais qui demande ce que c’est que vous avez fait."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Moi, je n’ai fait aucune chose dont vous ayez lieu de vous plaindre."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Aucune chose ?"
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Non."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Vous êtes bien résolu [6] ."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "C’est que je suis sûr de mon innocence."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Scapin pourtant a dit de vos nouvelles."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Scapin !"
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Ah, ah, ce mot vous fait rougir."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Il vous a dit quelque chose de moi ?"
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Ce lieu n’est pas tout à fait propre à vider cette affaire, et nous allons l’examiner ailleurs. Qu’on se rende au logis. J’y vais revenir tout à l’heure. Ah, traître, s’il faut que tu me déshonores, je te renonce pour mon fils, et tu peux bien pour jamais te résoudre à fuir de ma présence.\n "
         }
       ]
     },
     {
       "act": "II",
-      "part": 3,
+      "scene": 3,
       "dialogue": [
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Me trahir de cette manière ! Un coquin, qui doit par cent raisons être le premier à cacher les choses que je lui confie, est le premier à les aller découvrir à mon père. Ah ! je jure le Ciel [i] que cette trahison ne demeurera pas impunie."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Mon cher Scapin, que ne dois-je point à tes soins ! Que tu es un homme admirable ! et que le Ciel m’est favorable, de t’envoyer à mon secours !"
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Ah, ah, vous voilà. Je suis ravi de vous trouver, Monsieur le coquin."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Monsieur, votre serviteur. C’est trop d’honneur que vous me faites."
         },
         {
-          "actor": "LÉANDRE, en mettant l’épée à la main",
+          "character": "LÉANDRE, en mettant l’épée à la main",
           "text": "Vous faites le méchant plaisant. Ah ! je vous apprendrai..."
         },
         {
-          "actor": "SCAPIN, se mettant à genoux",
+          "character": "SCAPIN, se mettant à genoux",
           "text": "Monsieur."
         },
         {
-          "actor": "OCTAVE, se mettant entre-deux, pour empêcher Léandre de le frapper",
+          "character": "OCTAVE, se mettant entre-deux, pour empêcher Léandre de le frapper",
           "text": "Ah, Léandre."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Non, Octave, ne me retenez point, je vous prie."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Eh, Monsieur."
         },
         {
-          "actor": "OCTAVE, le retenant",
+          "character": "OCTAVE, le retenant",
           "text": "De grâce."
         },
         {
-          "actor": "LÉANDRE, voulant frapper Scapin",
+          "character": "LÉANDRE, voulant frapper Scapin",
           "text": "Laissez-moi contenter mon ressentiment."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Au nom de l’amitié, Léandre, ne le maltraitez point."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Monsieur, que vous ai-je fait ?"
         },
         {
-          "actor": "LÉANDRE, voulant le frapper",
+          "character": "LÉANDRE, voulant le frapper",
           "text": "Ce que tu m’as fait, traître ?"
         },
         {
-          "actor": "OCTAVE, le retenant",
+          "character": "OCTAVE, le retenant",
           "text": "Eh doucement."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Non, Octave, je veux qu’il me confesse lui-même tout à l’heure [7] la perfidie qu’il m’a faite. Oui, coquin, je sais le trait que tu m’as joué, on vient de me l’apprendre ; et tu ne croyais pas peut-être que l’on me dût révéler ce secret : mais je veux en avoir la confession de ta propre bouche, ou je vais te passer cette épée au travers du corps."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Ah ! Monsieur, auriez-vous bien ce cœur-là ?"
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Parle donc."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Je vous ai fait quelque chose, Monsieur ?"
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Oui, coquin ; et ta conscience ne te dit que trop ce que c’est."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Je vous assure que je l’ignore."
         },
         {
-          "actor": "LÉANDRE, s’avançant pour le frapper",
+          "character": "LÉANDRE, s’avançant pour le frapper",
           "text": "Tu l’ignores !"
         },
         {
-          "actor": "OCTAVE, le retenant",
+          "character": "OCTAVE, le retenant",
           "text": "Léandre."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Hé bien Monsieur, puisque vous le voulez, je vous confesse que j’ai bu avec mes amis ce petit quartaut [8] de vin d’Espagne dont on vous fit présent il y a quelques jours ; et que c’est moi qui fis une fente au tonneau, et répandis de l’eau autour, pour faire croire que le vin s’était échappé."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "C’est toi, pendard, qui m’as bu mon vin d’Espagne, et qui as été cause que j’ai tant querellé la servante, croyant que c’était elle qui m’avait fait le tour ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Oui, Monsieur, je vous en demande pardon."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Je suis bien aise d’apprendre cela ; mais ce n’est pas l’affaire dont il est question maintenant."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Ce n’est pas cela, Monsieur ?"
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Non, c’est une autre affaire qui me touche bien plus, et je veux que tu me la dises."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Monsieur, je ne me souviens pas d’avoir fait autre chose."
         },
         {
-          "actor": "LÉANDRE, le voulant frapper",
+          "character": "LÉANDRE, le voulant frapper",
           "text": "Tu ne veux pas parler ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Eh."
         },
         {
-          "actor": "OCTAVE, le retenant",
+          "character": "OCTAVE, le retenant",
           "text": "Tout doux."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Oui, Monsieur, il est vrai qu’il y a trois semaines que vous m’envoyâtes porter le soir, une petite montre à la jeune Égyptienne que vous aimez. Je revins au logis mes habits tout couverts de boue, et le visage plein de sang, et vous dis que j’avais trouvé des voleurs qui m’avaient bien battu, et m’avaient dérobé la montre. C’était moi, Monsieur, qui l’avais retenue."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "C’est toi qui as retenu ma montre ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Oui, Monsieur, afin de voir quelle heure il est."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Ah, ah, j’apprends ici de jolies choses, et j’ai un serviteur fort fidèle vraiment. Mais ce n’est pas encore cela que je demande."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Ce n’est pas cela ?"
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Non, infâme, c’est autre chose encore que je veux que tu me confesses."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Peste !"
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Parle vite, j’ai hâte."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Monsieur, voilà tout ce que j’ai fait."
         },
         {
-          "actor": "LÉANDRE, voulant frapper Scapin",
+          "character": "LÉANDRE, voulant frapper Scapin",
           "text": "Voilà tout ?"
         },
         {
-          "actor": "OCTAVE, se mettant au-devant",
+          "character": "OCTAVE, se mettant au-devant",
           "text": "Eh."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Hé bien oui, Monsieur, vous vous souvenez de ce loup-garou il y a six mois qui vous donna tant de coups de bâton la nuit, et vous pensa faire rompre le cou dans une cave où vous tombâtes en fuyant."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Hé bien ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "C’était moi, Monsieur, qui faisais le loup-garou."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "C’était toi, traître, qui faisais le loup-garou ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Oui, Monsieur, seulement pour vous faire peur, et vous ôter l’envie de nous faire courir toutes les nuits comme vous aviez de coutume."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Je saurai me souvenir en temps et lieu de tout ce que je viens d’apprendre. Mais je veux venir au fait, et que tu me confesses ce que tu as dit à mon père."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "À votre père ?"
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Oui, fripon, à mon père."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Je ne l’ai pas seulement vu depuis son retour."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Tu ne l’as pas vu ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Non, Monsieur."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Assurément ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Assurément. C’est une chose que je vais vous faire dire par lui-même."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "C’est de sa bouche que je le tiens pourtant."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Avec votre permission, il n’a pas dit la vérité.\n "
         }
       ]
     },
     {
       "act": "II",
-      "part": 4,
+      "scene": 4,
       "dialogue": [
         {
-          "actor": "CARLE",
+          "character": "CARLE",
           "text": "Monsieur, je vous apporte une nouvelle qui est fâcheuse pour votre amour."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Comment ?"
         },
         {
-          "actor": "CARLE",
+          "character": "CARLE",
           "text": "Vos Égyptiens sont sur le point de vous enlever Zerbinette ; et elle-même, les larmes aux yeux, m’a chargé de venir promptement vous dire, que si dans deux heures vous ne songez à leur porter l’argent qu’ils vous ont demandé pour elle, vous l’allez perdre pour jamais."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Dans deux heures ?"
         },
         {
-          "actor": "CARLE",
+          "character": "CARLE",
           "text": "Dans deux heures."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Ah ! mon pauvre Scapin, j’implore ton secours."
         },
         {
-          "actor": "SCAPIN, passant devant lui avec un air fier",
+          "character": "SCAPIN, passant devant lui avec un air fier",
           "text": "\"Ah ! mon pauvre Scapin.\" Je suis \"mon pauvre Scapin\" à cette heure qu’on a besoin de moi."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Va, je te pardonne tout ce que tu viens de me dire, et pis encore si tu me l’as fait."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Non, non, ne me pardonnez rien. Passez-moi votre épée au travers du corps. Je serai ravi que vous me tuiez."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Non. Je te conjure plutôt de me donner la vie, en servant mon amour."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Point, point, vous ferez mieux de me tuer."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Tu m’es trop précieux ; et je te prie de vouloir employer pour moi ce génie admirable, qui vient à bout de toute chose."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Non, tuez-moi, vous dis-je."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Ah, de grâce, ne songe plus à tout cela, et pense à me donner le secours que je te demande."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Scapin, il faut faire quelque chose pour lui."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Le moyen, après une avanie [9] de la sorte ?"
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Je te conjure d’oublier mon emportement, et de me prêter ton adresse."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Je joins mes prières aux siennes."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "J’ai cette insulte-là sur le cœur."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Il faut quitter ton ressentiment."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Voudrais-tu m’abandonner, Scapin, dans la cruelle extrémité où se voit mon amour ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Me venir faire à l’improviste un affront comme celui-là !"
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "J’ai tort, je le confesse."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Me traiter de coquin, de fripon, de pendard, d’infâme !"
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "J’en ai tous les regrets du monde."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Me vouloir passer son épée au travers du corps !"
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Je t’en demande pardon de tout mon cœur ; et s’il ne tient qu’à me jeter à tes genoux, tu m’y vois, Scapin, pour te conjurer encore une fois de ne me point abandonner."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Ah ! ma foi, Scapin, il se faut rendre à cela."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Levez-vous. Une autre fois ne soyez point si prompt."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Me promets-tu de travailler pour moi ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "On y songera."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Mais tu sais que le temps presse."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Ne vous mettez pas en peine. Combien est-ce qu’il vous faut ?"
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Cinq cents écus."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Et à vous ?"
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Deux cents pistoles."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Je veux tirer cet argent de vos pères. Pour ce qui est du vôtre, la machine est déjà toute trouvée : et quant au vôtre, bien qu’avare au dernier degré, il y faudra moins de façon encore ; car vous savez que pour l’esprit, il n’en a pas grâces à Dieu grande provision, et je le livre [10] pour une espèce d’homme à qui l’on fera toujours croire tout ce que l’on voudra. Cela ne vous offense point, il ne tombe entre lui et vous aucun soupçon de ressemblance ; et vous savez assez l’opinion de tout le monde, qui veut qu’il ne soit votre père que pour la forme."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Tout beau, Scapin."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Bon, bon ; on fait bien scrupule de cela, vous moquez-vous ? Mais j’aperçois venir le père d’Octave. Commençons par lui, puisqu’il se présente. Allez-vous-en tous deux. Et vous, avertissez votre Silvestre de venir vite jouer son rôle.\n "
         }
       ]
     },
     {
       "act": "II",
-      "part": 5,
+      "scene": 5,
       "dialogue": [
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Le voilà qui rumine."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Avoir si peu de conduite et de considération [11]  ! S’aller jeter dans un engagement comme celui-là ! Ah, ah, jeunesse impertinente [12] ."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Monsieur, votre serviteur."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Bonjour, Scapin."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Vous rêvez à l’affaire de votre fils."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Je t’avoue que cela me donne un furieux chagrin."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Monsieur, la vie est mêlée de traverses. Il est bon de s’y tenir sans cesse préparé ; et j’ai ouï dire il y a longtemps une parole d’un ancien que j’ai toujours retenue."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Quoi ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Que pour peu qu’un père de famille ait été absent de chez lui, il doit promener son esprit sur tous les fâcheux accidents que son retour peut rencontrer ; se figurer sa maison brûlée, son argent dérobé, sa femme morte, son fils estropié, sa fille subornée ; et ce qu’il trouve qui ne lui est point arrivé, l’imputer à bonne fortune. Pour moi, j’ai pratiqué toujours cette leçon dans ma petite philosophie ; et je ne suis jamais revenu au logis, que je ne me sois tenu prêt à la colère de mes maîtres, aux réprimandes, aux injures, aux coups de pied au cul, aux bastonnades, aux étrivières ; et ce qui a manqué à m’arriver, j’en ai rendu grâce à mon bon destin."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Voilà qui est bien ; mais ce mariage impertinent qui trouble celui que nous voulons faire, est une chose que je ne puis souffrir, et je viens de consulter des avocats pour le faire casser."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Ma foi, Monsieur, si vous m’en croyez, vous tâcherez, par quelque autre voie, d’accommoder l’affaire. Vous savez ce que c’est que les procès en ce pays-ci, et vous allez vous enfoncer dans d’étranges épines."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Tu as raison, je le vois bien. Mais quelle autre voie ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Je pense que j’en ai trouvé une. La compassion que m’a donnée tantôt votre chagrin, m’a obligé à chercher dans ma tête quelque moyen pour vous tirer d’inquiétude : car je ne saurais voir d’honnêtes pères chagrinés par leurs enfants, que cela ne m’émeuve ; et de tout temps je me suis senti pour votre personne une inclination particulière."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Je te suis obligé."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "J’ai donc été trouver le frère de cette fille qui a été épousée. C’est un de ces braves de profession [13] , de ces gens qui sont tous coups d’épée ; qui ne parlent que d’échiner, et ne font non plus de conscience de tuer un homme, que d’avaler un verre de vin. Je l’ai mis sur ce mariage ; lui ai fait voir quelle facilité offrait la raison de la violence, pour le faire casser ; vos prérogatives du nom de père, et l’appui que vous donnerait auprès de la justice et votre droit, et votre argent, et vos amis. Enfin je l’ai tant tourné de tous les côtés, qu’il a prêté l’oreille aux propositions que je lui ai faites d’ajuster l’affaire pour quelque somme ; et il donnera son consentement à rompre le mariage, pourvu que vous lui donniez de l’argent."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Et qu’a-t-il demandé ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Oh d’abord, des choses par-dessus les maisons."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Et quoi ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Des choses extravagantes."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Mais encore ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Il ne parlait pas moins que de cinq ou six cents pistoles."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Cinq ou six cents fièvres quartaines qui le puissent serrer. Se moque-t-il des gens ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "C’est ce que je lui ai dit. J’ai rejeté bien loin de pareilles propositions, et je lui ai bien fait entendre que vous n’étiez point une dupe, pour vous demander des cinq ou six cents pistoles. Enfin après plusieurs discours, voici où s’est réduit le résultat de notre conférence. \"Nous voilà au temps, m’a-t-il dit, que je dois partir pour l’armée. Je suis après à m’équiper [14]  ; et le besoin que j’ai de quelque argent, me fait consentir malgré moi à ce qu’on me propose. Il me faut un cheval de service, et je n’en saurais avoir un qui soit tant soit peu raisonnable [15] , à moins de soixante pistoles.\""
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Hé bien, pour soixante pistoles, je les donne."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "\"Il faudra le harnais, et les pistolets ; et cela ira bien à vingt pistoles encore.\""
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Vingt pistoles, et soixante, ce serait quatre-vingts."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Justement."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "C’est beaucoup ; mais soit, je consens à cela."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "\"Il me faut aussi un cheval pour monter mon valet, qui coûtera bien trente pistoles [16] \"."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Comment diantre ! Qu’il se promène ; il n’aura rien du tout."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Monsieur."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Non, c’est un impertinent."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Voulez-vous que son valet aille à pied ?"
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Qu’il aille comme il lui plaira, et le maître aussi."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Mon Dieu, Monsieur, ne vous arrêtez point à peu de chose. N’allez point plaider, je vous prie, et donnez tout pour vous sauver des mains de la justice."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Hé bien soit, je me résous à donner encore ces trente pistoles."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "\"Il me faut encore, a-t-il dit, un mulet pour porter...\""
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Oh qu’il aille au diable avec son mulet ; c’en est trop, et nous irons devant les juges."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "De grâce, Monsieur..."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Non, je n’en ferai rien."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Monsieur, un petit mulet."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Je ne lui donnerais pas seulement un âne."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Considérez..."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Non, j’aime mieux plaider."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Eh, Monsieur, de quoi parlez-vous là, et à quoi vous résolvez-vous ? Jetez les yeux sur les détours de la justice. Voyez combien d’appels et de degrés de juridiction ; combien de procédures embarrassantes ; combien d’animaux ravissants [i] par les griffes desquels il vous faudra passer, sergents, procureurs, avocats, greffiers, substituts, rapporteurs, juges, et leurs clercs. Il n’y a pas un de tous ces gens-là, qui pour la moindre chose, ne soit capable de donner un soufflet au meilleur droit du monde. Un sergent baillera de faux exploits, sur quoi vous serez condamné sans que vous le sachiez. Votre procureur s’entendra avec votre partie, et vous vendra à beaux deniers comptants. Votre avocat gagné de même, ne se trouvera point lorsqu’on plaidera votre cause, ou dira des raisons qui ne feront que battre la campagne, et n’iront point au fait. Le greffier délivrera par contumace [17] des sentences et arrêts contre vous. Le clerc du rapporteur soustraira des pièces, ou le rapporteur même ne dira pas ce qu’il a vu. Et quand par les plus grandes précautions du monde vous aurez paré tout cela, vous serez ébahi que vos juges auront été sollicités contre vous, ou par des gens dévots, ou par des femmes qu’ils aimeront. Eh, Monsieur, si vous le pouvez, sauvez-vous de cet enfer-là. C’est être damné dès ce monde, que d’avoir à plaider ; et la seule pensée d’un procès serait capable de me faire fuir jusqu’aux Indes."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "À combien est-ce qu’il fait monter le mulet ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Monsieur, pour le mulet, pour son cheval, et celui de son homme, pour le harnais et les pistolets, et pour payer quelque petite chose qu’il doit à son hôtesse, il demande en tout deux cents pistoles."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Deux cents pistoles ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Oui."
         },
         {
-          "actor": "ARGANTE, se promenant en colère le long du théâtre",
+          "character": "ARGANTE, se promenant en colère le long du théâtre",
           "text": "Allons, allons, nous plaiderons."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Faites réflexion..."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Je plaiderai."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Ne vous allez point jeter..."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Je veux plaider."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Mais pour plaider, il vous faudra de l’argent. Il vous en faudra pour l’exploit ; il vous en faudra pour le contrôle. Il vous en faudra pour la procuration, pour la présentation, conseils, productions, et journées du procureur. Il vous en faudra pour les consultations et plaidoiries des avocats ; pour le droit de retirer le sac, et pour les grosses d’écritures. Il vous en faudra pour le rapport des substituts ; pour les épices de conclusion ; pour l’enregistrement du greffier, façon d’appointement, sentences et arrêts, contrôles, signatures, et expéditions de leurs clercs, sans parler de tous les présents qu’il vous faudra faire. Donnez cet argent-là à cet homme-ci, vous voilà hors d’affaire [18] ."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Comment, deux cents pistoles ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Oui, vous y gagnerez. J’ai fait un petit calcul en moi-même de tous les frais de la justice ; et j’ai trouvé qu’en donnant deux cents pistoles à votre homme, vous en aurez de reste pour le moins cent cinquante, sans compter les soins, les pas, et les chagrins que vous épargnerez. Quand il n’y aurait à essuyer que les sottises que disent devant tout le monde de méchants plaisants d’avocats, j’aimerais mieux donner trois cents pistoles, que de plaider."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Je me moque de cela, et je défie les avocats de rien dire de moi."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Vous ferez ce qu’il vous plaira ; mais si j’étais que de vous, je fuirais les procès."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Je ne donnerai point deux cents pistoles."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Voici l’homme dont il s’agit.\n "
         }
       ]
     },
     {
       "act": "II",
-      "part": 6,
+      "scene": 6,
       "dialogue": [
         {
-          "actor": "SILVESTRE [19] ",
+          "character": "SILVESTRE [19] ",
           "text": "Scapin, faites-moi connaître un peu cet Argante, qui est père d’Octave."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Pourquoi, Monsieur ?"
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "Je viens d’apprendre qu’il veut me mettre en procès, et faire rompre par justice le mariage de ma sœur."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Je ne sais pas s’il a cette pensée ; mais il ne veut point consentir aux deux cents pistoles que vous voulez, et il dit que c’est trop."
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "Par la mort, par la tête, par la ventre [i] , si je le trouve, je le veux échiner, dussé-je être roué tout vif.\nArgante, pour n’être point vu, se tient en tremblant couvert de Scapin."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Monsieur, ce père d’Octave a du cœur, et peut-être ne vous craindra-t-il point."
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "Lui ? lui ? Par la sang, par la tête, s’il était là, je lui donnerais tout à l’heure [20] de l’épée dans le ventre. Qui est cet homme-là ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Ce n’est pas lui, Monsieur, ce n’est pas lui."
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "N’est-ce point quelqu’un de ses amis ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Non, Monsieur, au contraire, c’est son ennemi capital."
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "Son ennemi capital ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Oui."
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "Ah, parbleu, j’en suis ravi. Vous êtes ennemi, Monsieur, de ce faquin d’Argante ; eh ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Oui, oui, je vous en réponds."
         },
         {
-          "actor": "SILVESTRE, lui prend rudement la main",
+          "character": "SILVESTRE, lui prend rudement la main",
           "text": "Touchez là. Touchez. Je vous donne ma parole, et vous jure sur mon honneur, par l’épée que je porte, par tous les serments que je saurais faire, qu’avant la fin du jour je vous déferai de ce maraud fieffé, de ce faquin d’Argante. Reposez-vous sur moi."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Monsieur, les violences en ce pays-ci ne sont guère souffertes."
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "Je me moque de tout, et je n’ai rien à perdre."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Il se tiendra sur ses gardes assurément ; et il a des parents, des amis, et des domestiques, dont il se fera un secours contre votre ressentiment."
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "C’est ce que je demande, morbleu, c’est ce que je demande. (Il met l’épée à la main, et pousse de tous les côtés, comme s’il y avait plusieurs personnes devant lui.) Ah, tête ! ah, ventre ! Que ne le trouvé-je à cette heure avec tout son secours ! Que ne paraît-il à mes yeux au milieu de trente personnes ! Que ne les vois-je fondre sur moi les armes à la main ! Comment, marauds, vous avez la hardiesse de vous attaquer à moi ? Allons, morbleu, tue, point de quartier. Donnons. Ferme. Poussons. Bon pied, bon œil. Ah coquins, ah canaille, vous en voulez par là ; je vous en ferai tâter votre soûl. Soutenez, marauds, soutenez. Allons. À cette botte. À cette autre. À celle-ci. À celle-là. Comment, vous reculez ? Pied ferme, morbleu, pied ferme."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Eh, eh, eh, Monsieur, nous n’en sommes pas."
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "Voilà qui vous apprendra à vous oser jouer à moi."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Hé bien, vous voyez combien de personnes tuées pour deux cents pistoles. Oh sus, je vous souhaite une bonne fortune [21] ."
         },
         {
-          "actor": "ARGANTE, tout tremblant",
+          "character": "ARGANTE, tout tremblant",
           "text": "Scapin."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Plaît-il ?"
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Je me résous à donner les deux cents pistoles."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "J’en suis ravi, pour l’amour de vous."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Allons le trouver, je les ai sur moi."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Vous n’avez qu’à me les donner. Il ne faut pas pour votre honneur, que vous paraissiez là, après avoir passé ici pour autre que ce que vous êtes ; et de plus, je craindrais qu’en vous faisant connaître, il n’allât s’aviser de vous demander davantage."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Oui ; mais j’aurais été bien aise de voir comme je donne mon argent."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Est-ce que vous vous défiez de moi ?"
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Non pas, mais..."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Parbleu, Monsieur, je suis un fourbe, ou je suis honnête homme ; c’est l’un des deux. Est-ce que je voudrais vous tromper, et que dans tout ceci j’ai d’autre intérêt que le vôtre, et celui de mon maître, à qui vous voulez vous allier ? Si je vous suis suspect, je ne me mêle plus de rien, et vous n’avez qu’à chercher, dès cette heure, qui accommodera vos affaires."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Tiens donc."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Non, Monsieur, ne me confiez point votre argent. Je serai bien aise que vous vous serviez de quelque autre."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Mon Dieu, tiens."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Non, vous dis-je, ne vous fiez point à moi. Que sait-on, si je ne veux point vous attraper votre argent ?"
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Tiens, te dis-je, ne me fais point contester davantage. Mais songe à bien prendre tes sûretés avec lui."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Laissez-moi faire, il n’a pas affaire à un sot."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Je vais t’attendre chez moi."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Je ne manquerai pas d’y aller. Et un. Je n’ai qu’à chercher l’autre. Ah, ma foi, le voici. Il semble que le Ciel, l’un après l’autre, les amène dans mes filets.\n "
         }
       ]
     },
     {
       "act": "II",
-      "part": 7,
+      "scene": 7,
       "dialogue": [
         {
-          "actor": "SCAPIN [22] ",
+          "character": "SCAPIN [22] ",
           "text": "Ô Ciel ! ô disgrâce imprévue ! ô misérable père ! Pauvre Géronte, que feras-tu ?"
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Que dit-il là de moi, avec ce visage affligé ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "N’y a-t-il personne qui puisse me dire où est le seigneur Géronte ?"
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Qu’y a-t-il, Scapin ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Où pourrai-je le rencontrer, pour lui dire cette infortune ?"
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Qu’est-ce que c’est donc ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "En vain je cours de tous côtés pour le pouvoir trouver."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Me voici."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Il faut qu’il soit caché en quelque endroit qu’on ne puisse point deviner."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Holà, es-tu aveugle, que tu ne me vois pas ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Ah, Monsieur, il n’y a pas moyen de vous rencontrer."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Il y a une heure que je suis devant toi. Qu’est-ce que c’est donc qu’il y a ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Monsieur..."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Quoi ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Monsieur, votre fils..."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Hé bien mon fils..."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Est tombé dans une disgrâce la plus étrange du monde."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Et quelle ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Je l’ai trouvé tantôt, tout triste, de je ne sais quoi que vous lui avez dit, où vous m’avez mêlé assez mal à propos ; et cherchant à divertir [23] cette tristesse, nous nous sommes allés promener sur le port. Là, entre autres plusieurs choses, nous avons arrêté nos yeux sur une galère turque assez bien équipée. Un jeune Turc de bonne mine, nous a invités d’y entrer, et nous a présenté la main. Nous y avons passé ; il nous a fait mille civilités, nous a donné la collation, où nous avons mangé des fruits les plus excellents qui se puissent voir, et bu du vin que nous avons trouvé le meilleur du monde."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Qu’y a-t-il de si affligeant en tout cela ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Attendez, Monsieur, nous y voici. Pendant que nous mangions, il a fait mettre la galère en mer, et se voyant éloigné du port, il m’a fait mettre dans un esquif, et m’envoie vous dire que si vous ne lui envoyez par moi tout à l’heure [24] cinq cents écus, il va vous emmener votre fils en Alger."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Comment, diantre, cinq cents écus ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Oui, Monsieur ; et de plus, il ne m’a donné pour cela que deux heures."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Ah le pendard de Turc, m’assassiner de la façon !"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "C’est à vous, Monsieur, d’aviser promptement aux moyens de sauver des fers un fils que vous aimez avec tant de tendresse."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Que diable allait-il faire dans cette galère ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Il ne songeait pas à ce qui est arrivé."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Va-t’en, Scapin, va-t’en vite dire à ce Turc que je vais envoyer la justice après lui."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "La justice en pleine mer ! Vous moquez-vous des gens ?"
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Que diable allait-il faire dans cette galère ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Une méchante destinée conduit quelquefois les personnes."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Il faut, Scapin, il faut que tu fasses ici, l’action d’un serviteur fidèle."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Quoi, Monsieur ?"
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Que tu ailles dire à ce Turc, qu’il me renvoie mon fils, et que tu te mets à sa place, jusqu’à ce que j’aie amassé la somme qu’il demande."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Eh, Monsieur, songez-vous à ce que vous dites ? et vous figurez-vous que ce Turc ait si peu de sens, que d’aller recevoir un misérable comme moi, à la place de votre fils ?"
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Que diable allait-il faire dans cette galère ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Il ne devinait pas ce malheur. Songez, Monsieur, qu’il ne m’a donné que deux heures."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Tu dis qu’il demande..."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Cinq cents écus."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Cinq cents écus ! N’a-t-il point de conscience ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Vraiment oui, de la conscience à un Turc."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Sait-il bien ce que c’est que cinq cents écus ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Oui, Monsieur, il sait que c’est mille cinq cents livres."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Croit-il, le traître, que mille cinq cents livres se trouvent dans le pas d’un cheval ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Ce sont des gens qui n’entendent point de raison."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Mais que diable allait-il faire à cette galère ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Il est vrai ; mais quoi ! on ne prévoyait pas les choses. De grâce, Monsieur, dépêchez."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Tiens, voilà la clef de mon armoire."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Bon."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Tu l’ouvriras."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Fort bien."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Tu trouveras une grosse clef du côté gauche, qui est celle de mon grenier."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Oui."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Tu iras prendre toutes les hardes qui sont dans cette grande manne, et tu les vendras aux fripiers, pour aller racheter mon fils."
         },
         {
-          "actor": "SCAPIN, en lui rendant la clef",
+          "character": "SCAPIN, en lui rendant la clef",
           "text": "Eh, Monsieur, rêvez-vous ? Je n’aurais pas cent francs de tout ce que vous dites ; et de plus, vous savez le peu de temps qu’on m’a donné."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Mais que diable allait-il faire à cette galère ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Oh que de paroles perdues ! Laissez là cette galère, et songez que le temps presse, et que vous courez risque de perdre votre fils. Hélas ! mon pauvre maître, peut-être que je ne te verrai de ma vie, et qu’à l’heure que je parle on t’emmène esclave en Alger. Mais le Ciel me sera témoin que j’ai fait pour toi tout ce que j’ai pu ; et que si tu manques à être racheté, il n’en faut accuser que le peu d’amitié d’un père."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Attends, Scapin, je m’en vais quérir cette somme."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Dépêchez donc vite, Monsieur, je tremble que l’heure ne sonne."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "N’est-ce pas quatre cents écus que tu dis ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Non, cinq cents écus."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Cinq cents écus ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Oui."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Que diable allait-il faire à cette galère ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Vous avez raison, mais hâtez-vous."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "N’y avait-il point d’autre promenade ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Cela est vrai. Mais faites promptement."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Ah maudite galère !"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Cette galère lui tient au cœur."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Tiens, Scapin, je ne me souvenais pas que je viens justement de recevoir cette somme en or, et je ne croyais pas qu’elle dût m’être si tôt ravie.(Il lui présente sa bourse, qu’il ne laisse pourtant pas aller ; et dans ses transports il fait aller son bras de côté et d’autre, et Scapin le sien pour avoir la bourse.) Tiens. Va-t’en racheter mon fils."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Oui, Monsieur."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Mais dis à ce Turc que c’est un scélérat."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Oui."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Un infâme."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Oui."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Un homme sans foi, un voleur."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Laissez-moi faire."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Qu’il me tire cinq cents écus contre toute sorte de droit."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Oui."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Que je ne les lui donne ni à la mort, ni à la vie [25] ."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Fort bien."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Et que si jamais je l’attrape, je saurai me venger de lui."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Oui."
         },
         {
-          "actor": "GÉRONTE, remet la bourse dans sa poche, et s’en va",
+          "character": "GÉRONTE, remet la bourse dans sa poche, et s’en va",
           "text": "Va, va vite requérir mon fils."
         },
         {
-          "actor": "SCAPIN, allant après lui",
+          "character": "SCAPIN, allant après lui",
           "text": "Holà, Monsieur."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Quoi ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Où est donc cet argent ?"
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Ne te l’ai-je pas donné ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Non vraiment, vous l’avez remis dans votre poche."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Ah, c’est la douleur qui me trouble l’esprit."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Je le vois bien."
         },
         {
-          "actor": "GÉRONTE",
+          "character": "GÉRONTE",
           "text": "Que diable allait-il faire dans cette galère ? Ah maudite galère ! Traître de Turc à tous les diables !"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Il ne peut digérer les cinq cents écus que je lui arrache ; mais il n’est pas quitte envers moi, et je veux qu’il me paye en une autre monnaie, l’imposture qu’il m’a faite auprès de son fils.\n "
         }
       ]
     },
     {
       "act": "II",
-      "part": 8,
+      "scene": 8,
       "dialogue": [
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Hé bien, Scapin, as-tu réussi pour moi dans ton entreprise ?"
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "As-tu fait quelque chose pour tirer mon amour de la peine où il est ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Voilà deux cents pistoles que j’ai tirées de votre père."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Ah que tu me donnes de joie !"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Pour vous, je n’ai pu faire rien."
         },
         {
-          "actor": "LÉANDRE veut s’en aller",
+          "character": "LÉANDRE veut s’en aller",
           "text": "Il faut donc que j’aille mourir ; et je n’ai que faire de vivre, si Zerbinette m’est ôtée."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Holà, holà, tout doucement. Comme diantre vous allez vite."
         },
         {
-          "actor": "LÉANDRE se retourne",
+          "character": "LÉANDRE se retourne",
           "text": "Que veux-tu que je devienne ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Allez, j’ai votre affaire ici."
         },
         {
-          "actor": "LÉANDRE revient",
+          "character": "LÉANDRE revient",
           "text": "Ah tu me redonnes la vie."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Mais à condition que vous me permettrez à moi, une petite vengeance contre votre père, pour le tour qu’il m’a fait."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Tout ce que tu voudras."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Vous me le promettez devant témoin."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Oui."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Tenez, voilà cinq cents écus."
         },
         {
-          "actor": "LÉANDRE",
+          "character": "LÉANDRE",
           "text": "Allons en promptement acheter celle que j’adore."
         }
       ]
