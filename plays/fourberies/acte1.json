@@ -1,5 +1,5 @@
 {
-  "actors": [
+  "characters": [
     "ARGANTE, père d’Octave et de Zerbinette.",
     "GÉRONTE, père de Léandre et de Hyacinte.",
     "OCTAVE, fils d’Argante, et amant de Hyacinte.",
@@ -17,937 +17,937 @@
     "La scène est à Naples.",
     " "
   ],
-  "parts": [
+  "scenes": [
     {
       "act": "I",
-      "part": 1,
+      "scene": 1,
       "dialogue": [
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Ah fâcheuses nouvelles pour un cœur amoureux ! Dures extrémités où je me vois réduit ! Tu viens, Silvestre, d’apprendre au port, que mon père revient ?"
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "Oui."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Qu’il arrive ce matin même ?"
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "Ce matin même."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Et qu’il revient dans la résolution de me marier ?"
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "Oui."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Avec une fille du seigneur Géronte ?"
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "Du seigneur Géronte."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Et que cette fille est mandée de Tarente ici pour cela ?"
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "Oui."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Et tu tiens ces nouvelles de mon oncle ?"
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "De votre oncle."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "À qui mon père les a mandées par une lettre ?"
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "Par une lettre."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Et cet oncle, dis-tu, sait toutes nos affaires."
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "Toutes nos affaires."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Ah parle, si tu veux, et ne te fais point de la sorte, arracher les mots de la bouche."
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "Qu’ai-je à parler davantage ! Vous n’oubliez aucune circonstance, et vous dites les choses tout justement comme elles sont."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Conseille-moi, du moins, et me dis ce que je dois faire dans ces cruelles conjonctures."
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "Ma foi, je m’y trouve autant embarrassé que vous, et j’aurais bon besoin que l’on me conseillât moi-même."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Je suis assassiné par ce maudit retour."
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "Je ne le suis pas moins."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Lorsque mon père apprendra les choses, je vais voir fondre sur moi un orage soudain d’impétueuses réprimandes."
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "Les réprimandes ne sont rien ; et plût au Ciel que j’en fusse quitte à ce prix ! Mais j’ai bien la mine, pour moi, de payer plus cher vos folies, et je vois se former de loin un nuage de coups de bâton qui crèvera sur mes épaules."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Ô Ciel ! par où sortir de l’embarras où je me trouve ?"
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "C’est à quoi vous deviez songer, avant que de vous y jeter."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Ah tu me fais mourir par tes leçons hors de saison."
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "Vous me faites bien plus mourir, par vos actions étourdies."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Que dois-je faire ? Quelle résolution prendre ? À quel remède recourir ?\n "
         }
       ]
     },
     {
       "act": "I",
-      "part": 2,
+      "scene": 2,
       "dialogue": [
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Qu’est-ce, Seigneur Octave, qu’avez-vous ? Qu’y a-t-il ? Quel désordre est-ce là ? Je vous vois tout troublé."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Ah, mon pauvre Scapin, je suis perdu, je suis désespéré ; je suis le plus infortuné de tous les hommes."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Comment ?"
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "N’as-tu rien appris de ce qui me regarde ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Non."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Mon père arrive avec le seigneur Géronte, et ils me veulent marier."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Hé bien, qu’y a-t-il là de si funeste ?"
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Hélas ! tu ne sais pas la cause de mon inquiétude."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Non ; mais il ne tiendra qu’à vous que je la sache bientôt ; et je suis homme consolatif [1] , homme à m’intéresser aux affaires des jeunes gens."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Ah ! Scapin, si tu pouvais trouver quelque invention, forger quelque machine, pour me tirer de la peine où je suis, je croirais t’être redevable de plus que de la vie."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "À vous dire la vérité, il y a peu de choses qui me soient impossibles, quand je m’en veux mêler. J’ai sans doute [2] reçu du Ciel un génie assez beau pour toutes les fabriques [3] de ces gentillesses d’esprit, de ces galanteries ingénieuses à qui le vulgaire ignorant donne le nom de fourberies ; et je puis dire sans vanité, qu’on n’a guère vu d’homme qui fût plus habile ouvrier de ressorts et d’intrigues ; qui ait acquis plus de gloire que moi dans ce noble métier : mais, ma foi, le mérite est trop maltraité aujourd’hui, et j’ai renoncé à toutes choses depuis certain chagrin d’une affaire qui m’arriva."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Comment ? Quelle affaire, Scapin ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Une aventure où je me brouillai avec la justice."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "La justice !"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Oui, nous eûmes un petit démêlé ensemble."
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "Toi, et la justice ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Oui. Elle en usa fort mal avec moi, et je me dépitai de telle sorte contre l’ingratitude du siècle, que je résolus de ne plus rien faire. Baste [i] . Ne laissez pas de me conter votre aventure."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Tu sais, Scapin, qu’il y a deux mois que le seigneur Géronte, et mon père, s’embarquèrent ensemble pour un voyage qui regarde certain commerce où leurs intérêts sont mêlés."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Je sais cela."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Et que Léandre et moi nous fûmes laissés par nos pères ; moi sous la conduite de Silvestre ; et Léandre sous ta direction."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Oui, je me suis fort bien acquitté de ma charge."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Quelque temps après, Léandre fit rencontre d’une jeune Égyptienne [i] dont il devint amoureux."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Je sais cela encore."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Comme nous sommes grands amis, il me fit aussitôt confidence de son amour, et me mena voir cette fille, que je trouvai belle à la vérité, mais non pas tant qu’il voulait que je la trouvasse. Il ne m’entretenait que d’elle chaque jour ; m’exagérait à tous moments sa beauté, et sa grâce ; me louait son esprit, et me parlait avec transport des charmes de son entretien, dont il me rapportait jusqu’aux moindres paroles, qu’il s’efforçait toujours de me faire trouver les plus spirituelles du monde. Il me querellait quelquefois de n’être pas assez sensible aux choses qu’il me venait dire, et me blâmait sans cesse de l’indifférence où j’étais pour les feux de l’amour."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Je ne vois pas encore où ceci veut aller."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Un jour que je l’accompagnais pour aller chez les gens qui gardent l’objet de ses vœux, nous entendîmes dans une petite maison d’une rue écartée, quelques plaintes mêlées de beaucoup de sanglots. Nous demandons ce que c’est. Une femme nous dit en soupirant, que nous pouvions voir là quelque chose de pitoyable en des personnes étrangères ; et qu’à moins que d’être insensibles, nous en serions touchés."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Où est-ce que cela nous mène ?"
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "La curiosité me fit presser Léandre de voir ce que c’était. Nous entrons dans une salle, où nous voyons une vieille femme mourante, assistée d’une servante qui faisait des regrets, et d’une jeune fille toute fondante en larmes, la plus belle, et la plus touchante qu’on puisse jamais voir."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Ah, ah."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Une autre aurait paru effroyable en l’état où elle était ; car elle n’avait pour habillement qu’une méchante petite jupe, avec des brassières de nuit qui étaient de simple futaine [4]  ; et sa coiffure était une cornette jaune, retroussée au haut de sa tête, qui laissait tomber en désordre ses cheveux sur ses épaules ; et cependant faite comme cela, elle brillait de mille attraits, et ce n’était qu’agréments et que charmes, que toute sa personne."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Je sens venir les choses."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Si tu l’avais vue, Scapin, en l’état que je dis, tu l’aurais trouvée admirable."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Oh je n’en doute point ; et sans l’avoir vue, je vois bien qu’elle était tout à fait charmante."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Ses larmes n’étaient point de ces larmes désagréables, qui défigurent un visage ; elle avait à pleurer, une grâce touchante ; et sa douleur était la plus belle du monde."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Je vois tout cela."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Elle faisait fondre chacun en larmes, en se jetant amoureusement sur le corps de cette mourante, qu’elle appelait sa chère mère ; et il n’y avait personne qui n’eût l’âme percée, de voir un si bon naturel."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "En effet, cela est touchant ; et je vois bien que ce bon naturel-là vous la fit aimer."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Ah ! Scapin, un barbare l’aurait aimée."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Assurément. Le moyen de s’en empêcher ?"
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Après quelques paroles, dont je tâchai d’adoucir la douleur de cette charmante affligée, nous sortîmes de là ; et demandant à Léandre ce qu’il lui semblait de cette personne, il me répondit froidement qu’il la trouvait assez jolie. Je fus piqué de la froideur avec laquelle il m’en parlait, et je ne voulus point lui découvrir l’effet que ses beautés avaient fait sur mon âme."
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "Si vous n’abrégez ce récit, nous en voilà pour jusqu’à demain. Laissez-le-moi finir en deux mots. Son cœur prend feu dès ce moment. Il ne saurait plus vivre, qu’il n’aille consoler son aimable affligée. Ses fréquentes visites sont rejetées de la servante, devenue la gouvernante par le trépas de la mère ; voilà mon homme au désespoir. Il presse, supplie, conjure ; point d’affaire. On lui dit que la fille, quoique sans bien, et sans appui, est de famille honnête ; et qu’à moins que de l’épouser, on ne peut souffrir ses poursuites. Voilà son amour augmenté par les difficultés. Il consulte dans sa tête, agite, raisonne, balance, prend sa résolution ; le voilà marié avec elle depuis trois jours."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "J’entends."
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "Maintenant mets avec cela le retour imprévu du père, qu’on n’attendait que dans deux mois ; la découverte que l’oncle a faite du secret de notre mariage, et l’autre mariage qu’on veut faire de lui [5] avec la fille que le seigneur Géronte a eue d’une seconde femme qu’on dit qu’il a épousée à Tarente."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Et par-dessus tout cela, mets encore l’indigence où se trouve cette aimable personne, et l’impuissance où je me vois d’avoir de quoi la secourir."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Est-ce là tout ? Vous voilà bien embarrassés tous deux pour une bagatelle. C’est bien là de quoi se tant alarmer. N’as-tu point de honte, toi, de demeurer court à si peu de chose ? Que diable, te voilà grand et gros comme père et mère, et tu ne saurais trouver dans ta tête, forger dans ton esprit quelque ruse galante, quelque honnête petit stratagème, pour ajuster vos affaires ? Fi. Peste soit du butor. Je voudrais bien que l’on m’eût donné autrefois nos vieillards à duper ; je les aurais joués tous deux par-dessous la jambe ; et je n’étais pas plus grand que cela, que je me signalais déjà par cent tours d’adresse jolis."
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "J’avoue que le Ciel ne m’a pas donné tes talents, et que je n’ai pas l’esprit, comme toi, de me brouiller avec la justice."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Voici mon aimable Hyacinte.\n "
         }
       ]
     },
     {
       "act": "I",
-      "part": 3,
+      "scene": 3,
       "dialogue": [
         {
-          "actor": "HYACINTE",
+          "character": "HYACINTE",
           "text": "Ah, Octave, est-il vrai ce que Silvestre vient de dire à Nérine ? que votre père est de retour, et qu’il veut vous marier ?"
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Oui, belle Hyacinte, et ces nouvelles m’ont donné une atteinte cruelle. Mais que vois-je ? vous pleurez ! Pourquoi ces larmes ? Me soupçonnez-vous, dites-moi, de quelque infidélité, et n’êtes-vous pas assurée de l’amour que j’ai pour vous ?"
         },
         {
-          "actor": "HYACINTE",
+          "character": "HYACINTE",
           "text": "Oui, Octave, je suis sûre que vous m’aimez ; mais je ne le suis pas que vous m’aimiez toujours."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Eh peut-on vous aimer, qu’on ne vous aime toute sa vie ?"
         },
         {
-          "actor": "HYACINTE",
+          "character": "HYACINTE",
           "text": "J’ai ouï dire, Octave, que votre sexe aime moins longtemps que le nôtre, et que les ardeurs que les hommes font voir, sont des feux qui s’éteignent aussi facilement qu’ils naissent."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Ah ! ma chère Hyacinte, mon cœur n’est donc pas fait comme celui des autres hommes, et je sens bien pour moi que je vous aimerai jusqu’au tombeau."
         },
         {
-          "actor": "HYACINTE",
+          "character": "HYACINTE",
           "text": "Je veux croire que vous sentez ce que vous dites, et je ne doute point que vos paroles ne soient sincères ; mais je crains un pouvoir qui combattra dans votre cœur les tendres sentiments que vous pouvez avoir pour moi. Vous dépendez d’un père, qui veut vous marier à une autre personne ; et je suis sûre que je mourrai, si ce malheur m’arrive."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Non, belle Hyacinte, il n’y a point de père qui puisse me contraindre à vous manquer de foi, et je me résoudrai à quitter mon pays, et le jour même [6] , s’il est besoin, plutôt qu’à vous quitter. J’ai déjà pris, sans l’avoir vue, une aversion effroyable pour celle que l’on me destine ; et sans être cruel, je souhaiterais que la mer l’écartât d’ici pour jamais. Ne pleurez donc point, je vous prie, mon aimable Hyacinte, car vos larmes me tuent, et je ne les puis voir sans me sentir percer le cœur."
         },
         {
-          "actor": "HYACINTE",
+          "character": "HYACINTE",
           "text": "Puisque vous le voulez, je veux bien essuyer mes pleurs, et j’attendrai d’un œil constant ce qu’il plaira au Ciel de résoudre de moi."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Le Ciel nous sera favorable."
         },
         {
-          "actor": "HYACINTE",
+          "character": "HYACINTE",
           "text": "Il ne saurait m’être contraire, si vous m’êtes fidèle."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Je le serai assurément."
         },
         {
-          "actor": "HYACINTE",
+          "character": "HYACINTE",
           "text": "Je serai donc heureuse."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Elle n’est point tant sotte, ma foi, et je la trouve assez passable."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Voici un homme qui pourrait bien, s’il le voulait, nous être dans tous nos besoins, d’un secours merveilleux."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "J’ai fait de grands serments de ne me mêler plus du monde ; mais si vous m’en priez bien fort tous deux, peut-être..."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Ah, s’il ne tient qu’à te prier bien fort pour obtenir ton aide, je te conjure de tout mon cœur de prendre la conduite de notre barque."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Et vous, ne me dites-vous rien ?"
         },
         {
-          "actor": "HYACINTE",
+          "character": "HYACINTE",
           "text": "Je vous conjure, à son exemple, par tout ce qui vous est le plus cher au monde, de vouloir servir notre amour."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Il faut se laisser vaincre, et avoir de l’humanité. Allez, je veux m’employer pour vous."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Crois que..."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Chut. Allez-vous-en [7] , vous, et soyez en repos. Et vous, préparez-vous à soutenir avec fermeté l’abord de votre père."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Je t’avoue que cet abord me fait trembler par avance, et j’ai une timidité naturelle que je ne saurais vaincre."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Il faut pourtant paraître ferme au premier choc, de peur que, sur votre faiblesse, il ne prenne le pied de vous mener comme un enfant [8] . Là, tâchez de vous composer par étude [9] . Un peu de hardiesse, et songez à répondre résolûment sur tout ce qu’il pourra vous dire."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Je ferai du mieux que je pourrai."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Çà, essayons un peu, pour vous accoutumer. Répétons un peu votre rôle, et voyons si vous ferez bien. Allons. La mine résolue, la tête haute, les regards assurés."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Comme cela ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Encore un peu davantage."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Ainsi ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Bon. Imaginez-vous que je suis votre père qui arrive, et répondez-moi fermement comme si c’était à lui-même. \"Comment, pendard, vaurien, infâme, fils indigne d’un père comme moi, oses-tu bien paraître devant mes yeux après tes bons déportements, après le lâche tour que tu m’as joué pendant mon absence ? Est-ce là le fruit de mes soins, maraud ? est-ce là le fruit de mes soins ? le respect qui m’est dû ? le respect que tu me conserves ?\" Allons donc. \"Tu as l’insolence, fripon, de t’engager sans le consentement de ton père, de contracter un mariage clandestin ? Réponds-moi, coquin, réponds-moi. Voyons un peu tes belles raisons.\" Oh ! que diable ! vous demeurez interdit !"
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "C’est que je m’imagine que c’est mon père que j’entends."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Eh oui. C’est par cette raison qu’il ne faut pas être comme un innocent."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Je m’en vais prendre plus de résolution, et je répondrai fermement."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Assurément ?"
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Assurément."
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "Voilà votre père qui vient."
         },
         {
-          "actor": "OCTAVE",
+          "character": "OCTAVE",
           "text": "Ô Ciel ! je suis perdu [10] ."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Holà, Octave, demeurez. Octave. Le voilà enfui. Quelle pauvre espèce d’homme ! Ne laissons pas d’attendre le vieillard."
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "Que lui dirai-je ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Laisse-moi dire, moi, et ne fais que me suivre.\n "
         }
       ]
     },
     {
       "act": "I",
-      "part": 4,
+      "scene": 4,
       "dialogue": [
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "A-t-on jamais ouï parler d’une action pareille à celle-là ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Il a déjà appris l’affaire, et elle lui tient si fort en tête, que tout seul il en parle haut."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Voilà une témérité bien grande !"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Écoutons-le un peu."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Je voudrais bien savoir ce qu’ils me pourront dire sur ce beau mariage."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Nous y avons songé."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Tâcheront-ils de me nier la chose ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Non, nous n’y pensons pas."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Ou s’ils entreprendront de l’excuser ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Celui-là [i] se pourra faire."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Prétendront-ils m’amuser par des contes en l’air ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Peut-être."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Tous leurs discours seront inutiles."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Nous allons voir."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Ils ne m’en donneront point à garder [11] ."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Ne jurons de rien."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Je saurai mettre mon pendard de fils en lieu de sûreté."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Nous y pourvoirons."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Et pour le coquin de Silvestre, je le rouerai de coups."
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "J’étais bien étonné s’il m’oubliait."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Ah, ah, vous voilà donc, sage gouverneur de famille, beau directeur de jeunes gens."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Monsieur, je suis ravi de vous voir de retour."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Bonjour, Scapin [12] , vous avez suivi mes ordres vraiment d’une belle manière, et mon fils s’est comporté fort sagement pendant mon absence."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Vous vous portez bien, à ce que je vois ?"
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Assez bien. (À Silvestre.) Tu ne dis mot, coquin, tu ne dis mot."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Votre voyage a-t-il été bon ?"
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Mon Dieu, fort bon. Laisse-moi un peu quereller en repos."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Vous voulez quereller ?"
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Oui, je veux quereller."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Et qui, Monsieur ?"
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Ce maraud-là."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Pourquoi ?"
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Tu n’as pas ouï parler de ce qui s’est passé dans mon absence ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "J’ai bien ouï parler de quelque petite chose."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Comment quelque petite chose ! Une action de cette nature ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Vous avez quelque raison."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Une hardiesse pareille à celle-là ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Cela est vrai."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Un fils qui se marie sans le consentement de son père ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Oui, il y a quelque chose à dire à cela. Mais je serais d’avis que vous ne fissiez point de bruit."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Je ne suis pas de cet avis, moi, et je veux faire du bruit tout mon soûl. Quoi, tu ne trouves pas que j’aie tous les sujets du monde d’être en colère ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Si fait, j’y ai d’abord été, moi, lorsque j’ai su la chose, et je me suis intéressé pour vous, jusqu’à quereller votre fils. Demandez-lui un peu quelles belles réprimandes je lui ai faites, et comme je l’ai chapitré sur le peu de respect qu’il gardait à un père, dont il devrait baiser les pas. On ne peut pas lui mieux parler, quand ce serait vous-même. Mais quoi, je me suis rendu à la raison, et j’ai considéré que dans le fond, il n’a pas tant de tort qu’on pourrait croire."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Que me viens-tu conter ? Il n’a pas tant de tort de s’aller marier de but en blanc avec une inconnue ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Que voulez-vous, il y a été poussé par sa destinée."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Ah, ah, voici une raison la plus belle du monde. On n’a plus qu’à commettre tous les crimes imaginables, tromper, voler, assassiner, et dire pour excuse, qu’on y a été poussé par sa destinée."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Mon Dieu, vous prenez mes paroles trop en philosophe. Je veux dire qu’il s’est trouvé fatalement engagé dans cette affaire."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Et pourquoi s’y engageait-il ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Voulez-vous qu’il soit aussi sage que vous ? Les jeunes gens sont jeunes, et n’ont pas toute la prudence qu’il leur faudrait, pour ne rien faire que de raisonnable ; témoin notre Léandre, qui malgré toutes mes leçons, malgré toutes mes remontrances, est allé faire de son côté pis encore que votre fils. Je voudrais bien savoir si vous-même n’avez pas été jeune, et n’avez pas dans votre temps fait des fredaines comme les autres. J’ai ouï dire, moi, que vous avez été autrefois un compagnon [13] parmi les femmes, que vous faisiez de votre drôle avec les plus galantes de ce temps-là ; et que vous n’en approchiez point, que vous ne poussassiez à bout."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Cela est vrai. J’en demeure d’accord ; mais je m’en suis toujours tenu à la galanterie, et je n’ai point été jusqu’à faire ce qu’il a fait."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Que vouliez-vous qu’il fît ? Il voit une jeune personne qui lui veut du bien (car il tient de vous, d’être aimé de toutes les femmes). Il la trouve charmante. Il lui rend des visites ; lui conte des douceurs, soupire galamment, fait le passionné. Elle se rend à sa poursuite. Il pousse sa fortune. Le voilà surpris avec elle par ses parents, qui la force à la main le contraignent de l’épouser."
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "L’habile fourbe que voilà !"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Eussiez-vous voulu qu’il se fût laissé tuer ? Il vaut mieux encore être marié, qu’être mort."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "On ne m’a pas dit que l’affaire se soit ainsi passée."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Demandez-lui plutôt. Il ne vous dira pas le contraire."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "C’est par force qu’il a été marié ?"
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "Oui, Monsieur."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Voudrais-je vous mentir ?"
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Il devait donc aller tout aussitôt protester de violence chez un notaire."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "C’est ce qu’il n’a pas voulu faire."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Cela m’aurait donné plus de facilité à rompre ce mariage."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Rompre ce mariage !"
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Oui."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Vous ne le romprez point."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Je ne le romprai point ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Non."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Quoi, je n’aurai pas pour moi les droits de père, et la raison de la violence qu’on a faite à mon fils [14]  ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "C’est une chose dont il ne demeurera pas d’accord."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Il n’en demeurera pas d’accord ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Non."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Mon fils ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Votre fils. Voulez-vous qu’il confesse qu’il ait été capable de crainte, et que ce soit par force qu’on lui ait fait faire les choses ? Il n’a garde d’aller avouer cela. Ce serait se faire tort, et se montrer indigne d’un père comme vous."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Je me moque de cela."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Il faut, pour son honneur, et pour le vôtre, qu’il dise dans le monde, que c’est de bon gré qu’il l’a épousée."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Et je veux moi, pour mon honneur et pour le sien, qu’il dise le contraire."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Non, je suis sûr qu’il ne le fera pas."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Je l’y forcerai bien."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Il ne le fera pas, vous dis-je [15] ."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Il le fera, ou je le déshériterai."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Vous ?"
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Moi."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Bon."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Comment, bon ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Vous ne le déshériterez point."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Je ne le déshériterai point ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Non."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Non ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Non."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Hoy. Voici qui est plaisant. Je ne déshériterai pas mon fils."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Non, vous dis-je."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Qui m’en empêchera ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Vous-même."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Moi ?"
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Oui. Vous n’aurez pas ce cœur-là."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Je l’aurai."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Vous vous moquez."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Je ne me moque point."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "La tendresse paternelle fera son office."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Elle ne fera rien."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Oui, oui."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Je vous dis que cela sera."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Bagatelles."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Il ne faut point dire bagatelles."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Mon Dieu, je vous connais, vous êtes bon naturellement."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Je ne suis point bon, et je suis méchant quand je veux. Finissons ce discours qui m’échauffe la bile. Va-t’en, pendard, va-t’en me chercher mon fripon, tandis que j’irai rejoindre le seigneur Géronte, pour lui conter ma disgrâce."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Monsieur, si je vous puis être utile en quelque chose, vous n’avez qu’à me commander."
         },
         {
-          "actor": "ARGANTE",
+          "character": "ARGANTE",
           "text": "Je vous remercie. Ah pourquoi faut-il qu’il soit fils unique ! et que n’ai-je à cette heure la fille que le Ciel m’a ôtée, pour la faire mon héritière !\n "
         }
       ]
     },
     {
       "act": "I",
-      "part": 5,
+      "scene": 5,
       "dialogue": [
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "J’avoue que tu es un grand homme, et voilà l’affaire en bon train ; mais l’argent d’autre part nous presse [16] pour notre subsistance, et nous avons de tous côtés des gens qui aboient après nous."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Laisse-moi faire, la machine est trouvée. Je cherche seulement dans ma tête un homme qui nous soit affidé, pour jouer un personnage dont j’ai besoin. Attends. Tiens-toi un peu. Enfonce ton bonnet en méchant garçon. Campe-toi sur un pied. Mets la main au côté. Fais les yeux furibonds. Marche un peu en roi de théâtre. Voilà qui est bien. Suis-moi. J’ai des secrets pour déguiser ton visage et ta voix."
         },
         {
-          "actor": "SILVESTRE",
+          "character": "SILVESTRE",
           "text": "Je te conjure au moins de ne m’aller point brouiller avec la justice."
         },
         {
-          "actor": "SCAPIN",
+          "character": "SCAPIN",
           "text": "Va, va ; nous partagerons les périls en frères ; et trois ans de galère de plus, ou de moins, ne sont pas pour arrêter un noble cœur."
         }
       ]
