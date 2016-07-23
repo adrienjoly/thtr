@@ -4,6 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
+    "fetch-emoji": "node fetch-emoji.js >emoji.csv",
     "convert": "for f in $(find ./plays -name '*.txt'); do node parse.js $f >${f%.txt}.json; done",
     "start": "node server.js",
     "test": "curl http://localhost:3000/api/play/fourberies/act/1"
@@ -11,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "request": "^2.74.0"
   }
 }
