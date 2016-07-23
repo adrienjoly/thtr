@@ -2,10 +2,15 @@
   "name": "thtr",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "convert": "node parse.js plays/fourberies/acte1.txt >plays/fourberies/acte1.json",
+    "start": "node server.js",
+    "test": "curl http://localhost:3000/api/play/fourberies/act/1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
