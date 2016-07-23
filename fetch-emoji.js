@@ -8,7 +8,7 @@ var URL = 'http://facebook-emoticons.fr.downloadastro.com/tools/';
 const processName = name => name
   .toLowerCase()
   .replace(/[Tt].te d[e\']/, '') //  tête de...
-  .replace(/^(une?|l[ea]) /, '')
+  .replace(/^(une?|les|l[ea]) /, '')
   .replace(/(qui|avec) .+$/, '') // [nom] qui ...
   .replace(/^([^ ]+) \w+ant([ $]).*/, '$1') // adverbes
   .replace(/^(gros|petit)$/, '') // non descriptive emojis
