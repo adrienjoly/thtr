@@ -24,9 +24,22 @@ console.log('context:', context);
 // following parts
 parts = parts.map(p => p.split('\n').slice(1).join('\n')); // ignore part number from each part's text
 
-parts = parts.map(p => p
-  .split(ACTOR_SPEECH)
-  .filter((a, i) => i % 2)
-);
+// parse dialogue
+parts = parts.map((part, index) => {
+  var all = part.split(ACTOR_SPEECH); // alternance of actor and actor's speech
+  var actorList = all.shift();
+  var actors = all.filter((a, i) => (i + 1) % 2);
+  var speech = all.filter((a, i) => i % 2);
+  return {
+    act: 1,
+    part: index + 1,
+    dialogue: actors.map((a, i) => {
+      return {
+        actor: a,
+        text: speech[i]
+      };
+    })
+  };
+});
 
-console.log('parts:', parts);
+console.log('parts:', JSON.stringify(parts, null, '  '));
