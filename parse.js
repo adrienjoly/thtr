@@ -2,7 +2,7 @@
 
 var fs = require('fs');
 
-const ACTOR_PRESENTATION = /^[^a-z0-9\.]{3,}.+\.$/;
+const ACTOR_NAME = /^[^a-z0-9\.\,]{3,}/;
 const ACTOR_SPEECH = /\n([^a-z0-9\.]{3,}[^\.]+)\.\- /;
 
 function parseText(text) {
@@ -16,7 +16,13 @@ function parseText(text) {
   var [ text, act ] = parts.shift().split('ACTE ');
   var intro = text.split('ACTEURS :')[1] || text.split(/Acte [^\n]*\n\n/)[1] || text;
   intro.split('\n').forEach(l => {
-    (ACTOR_PRESENTATION.test(l) ? characters : context).push(l);
+    var char = ACTOR_NAME.exec(l);
+    if (char) {
+      var [ name, ...desc ] = l.split(', ');
+      characters.push([ name, desc.join(', ') ].join(desc.length ? ', ' : ''));
+    } else {
+      context.push(l);
+    }
   });
 
   // following parts
