@@ -3,6 +3,7 @@ const request = require('request')
 const EMOJI_DEF = /data-c="([^"]+)"\>([^\<]+)/g;
 
 const processName = name => name
+  .toLowerCase()
   .replace(/[Tt].te d[e\']/, '') //  tête de...
   .replace(/^(une?|l[ea]) /, '')
   .replace(/(qui|avec) .+$/, '') // [nom] qui ...
