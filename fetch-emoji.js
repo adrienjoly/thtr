@@ -18,11 +18,13 @@ const processName = name => name
   .split(' ')[0] // first word only
 
 request(URL, (error, response, body) => {
+  let names = {}
   let m
   while (m = EMOJI_DEF.exec(body)) {
     [match, emoji, name] = m
     let processedName = processName(name)
-    if (processedName.length) {
+    if (processedName.length && !names[processedName]) {
+      names[processedName] = true
       console.log([ emoji, processedName ].join(', '))
     }
   }
