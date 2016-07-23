@@ -13,6 +13,7 @@ const processName = name => name
   .replace(/^([^ ]+) \w+ant([ $]).*/, '$1') // adverbes
   .replace(/^(gros|petit)$/, '') // non descriptive emojis
   .replace(/^\s*visage\s*/, '')
+  .replace(/.*cadran de l\'horloge.*/, '')
   .trim()
 
 request(URL, (error, response, body) => {
