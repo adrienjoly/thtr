@@ -14,7 +14,9 @@ function parseText(text) {
   var characters = [];
   var context = [];
   var [ text, act ] = parts.shift().split('ACTE ');
-  var intro = text.split(/Acte [^\n]*\n\n/)[1] || text;
+  var headerParts = text.split(/Acte [^\n]*\n\n/);
+  var title = headerParts[0].replace(/[\n\s]{2,}/g, '').split('\n').pop();
+  var intro = headerParts[1] || text;
   intro.split('\n').forEach(l => {
     var char = ACTOR_NAME.exec(l);
     if (char) {
@@ -56,6 +58,7 @@ function parseText(text) {
   });
 
   return {
+    title: title,
     characters: characters,
     context: context,
     scenes: parts
