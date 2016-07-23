@@ -1,11 +1,9 @@
 // text parser from http://www.toutmoliere.net/acte-1,405363.html
 
+var fs = require('fs');
+
 const ACTOR_PRESENTATION = /^[^a-z0-9\.]{3,}.+\.$/;
 const ACTOR_SPEECH = /\n([^a-z0-9\.]{3,}[^\.]+)\.\- /;
-
-var readFromFile = function (filepath) {
-  return require('fs').readFileSync(filepath).toString();
-};
 
 function parseText(text) {
   var parts = text
@@ -13,9 +11,13 @@ function parseText(text) {
     .split(/SC.NE /g);
 
   // part 0 = actors & context
-  var intro = parts.shift().split('ACTEURS :')[1].split('ACTE ')[0];
-  var actors = intro.split('\n').filter(l => ACTOR_PRESENTATION.test(l));
-  var context = intro.split('\n').filter(l => !ACTOR_PRESENTATION.test(l));
+  var actors = [];
+  var context = [];
+  var [ text, act ] = parts.shift().split('ACTE ');
+  var intro = text.split('ACTEURS :')[1] || text.split(/Acte [^\n]*\n\n/)[1] || text;
+  intro.split('\n').forEach(l => {
+    (ACTOR_PRESENTATION.test(l) ? actors : context).push(l);
+  });
 
   // following parts
   parts = parts.map(p => p.split('\n').slice(1).join('\n')); // ignore part number from each part's text
@@ -27,7 +29,7 @@ function parseText(text) {
     var actors = all.filter((a, i) => (i + 1) % 2);
     var speech = all.filter((a, i) => i % 2);
     return {
-      act: 1,
+      act: act.split(',')[0],
       part: index + 1,
       dialogue: actors.map((a, i) => {
         return {
@@ -45,9 +47,9 @@ function parseText(text) {
   };
 }
 
-
-
-//var text = readFromFile('lbg-acte1.txt');
-var parsed = parseText(readFromFile('fourberies-acte1.txt'));
-console.log(JSON.stringify(parsed, null, '  '));
-
+if (process.argv.length < 3) {
+  console.warn('syntax: node parse.js <acte.txt>');
+} else {
+  var parsed = parseText(fs.readFileSync(process.argv[2]).toString());
+  console.log(JSON.stringify(parsed, null, '  '));  
+}

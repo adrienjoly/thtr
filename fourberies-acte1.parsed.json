@@ -19,7 +19,7 @@
   ],
   "parts": [
     {
-      "act": 1,
+      "act": "I",
       "part": 1,
       "dialogue": [
         {
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "act": 1,
+      "act": "I",
       "part": 2,
       "dialogue": [
         {
@@ -335,7 +335,7 @@
       ]
     },
     {
-      "act": 1,
+      "act": "I",
       "part": 3,
       "dialogue": [
         {
@@ -501,7 +501,7 @@
       ]
     },
     {
-      "act": 1,
+      "act": "I",
       "part": 4,
       "dialogue": [
         {
@@ -931,7 +931,7 @@
       ]
     },
     {
-      "act": 1,
+      "act": "I",
       "part": 5,
       "dialogue": [
         {
