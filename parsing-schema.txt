@@ -1,0 +1,15 @@
+Acte (\n)
+
+ACTEURS :
+NOM, role.
+AUTRES, ACTEURS, SECONDAIRES.
+
+Contexte
+
+ACTE ([^,]), (SCENE .*)
+
+ACTEURS, PRESENTS.
+ACTEUR?(, posture?)\. - (Replique.)
+
+SCENE (.*)
+
