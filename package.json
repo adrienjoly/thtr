@@ -6,6 +6,7 @@
   "scripts": {
     "fetch-emoji": "node fetch-emoji.js >emoji.csv",
     "convert": "for f in $(find ./plays -name '*.txt'); do node parse.js $f >${f%.txt}.json; done",
+    "apply-emoji": "for f in $(find ./plays -name '*.json'); do node apply-emoji.js $f; done",
     "start": "node server.js",
     "test": "curl http://localhost:3000/api/play/fourberies/act/1"
   },
