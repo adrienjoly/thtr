@@ -15,6 +15,7 @@ const processName = name => name
   .replace(/^\s*visage\s*/, '')
   .replace(/.*cadran de l\'horloge.*/, '')
   .trim()
+  .split(' ')[0] // first word only
 
 request(URL, (error, response, body) => {
   let m
