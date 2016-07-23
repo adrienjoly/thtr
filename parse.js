@@ -18,11 +18,16 @@ function parseText(text) {
   intro.split('\n').forEach(l => {
     var char = ACTOR_NAME.exec(l);
     if (char) {
-      var [ name, ...desc ] = l.split(', ');
-      characters.push({
-        name: name,
-        desc: desc.join(', ')
-      });
+      let charParts = l.split(', ');
+      let [ name, ...desc ] = charParts;
+      if (desc.length && ACTOR_NAME.test(desc[0])) {
+        context.push('Autres personnages présents: ' + l);
+      } else {
+        characters.push({
+          name: name,
+          desc: desc.join(', ')
+        });
+      }
     } else {
       context.push(l);
     }
