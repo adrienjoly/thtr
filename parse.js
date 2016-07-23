@@ -14,10 +14,11 @@ function parseText(text) {
   var characters = [];
   var context = [];
   var [ text, act ] = parts.shift().split('ACTE ');
-  var intro = text.split('ACTEURS :')[1] || text.split(/Acte [^\n]*\n\n/)[1] || text;
+  var intro = text.split(/Acte [^\n]*\n\n/)[1] || text;
   intro.split('\n').forEach(l => {
     var char = ACTOR_NAME.exec(l);
     if (char) {
+      if (l === 'ACTEURS :') return;
       let charParts = l.split(', ');
       let [ name, ...desc ] = charParts;
       if (desc.length && ACTOR_NAME.test(desc[0])) {
