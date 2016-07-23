@@ -3,7 +3,8 @@ const request = require('request')
 const EMOJI_DEF = /data-c="([^"]+)"\>([^\<]+)/g;
 
 const processName = name => name
-  .replace(/[Tt].te d[e\']/, '')
+  .replace(/[Tt].te d[e\']/, '') //  tête de...
+  .replace(/^(une?|l[ea]) /, '')
   .trim()
 
 request('http://facebook-emoticons.fr.downloadastro.com/tools/', (error, response, body) => {
