@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>thtr party - Tchate avec Scapin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Et si Molière avait écrit ses pièces de théâtre à l'ère du SMS ?">
+    <meta name="keywords" content="app, ios, theatre">
+
+    <meta property="og:image" content="http://thtr.party/asset/logo.png">
+    <meta property="og:site_name" content="thtr party">
+    <meta property="og:description" content="Et si Molière avait écrit ses pièces de théâtre à l'ère du SMS ?">
+    <meta property="og:title" content="thtr party - Tchate avec Scapin">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://thtr.party/">
+
+    <meta name="twitter:creator" content="@adrienjoly">
+    <meta name="twitter:url" content="http://thtr.party">
+    <meta name="twitter:title" content="thtr party - Tchate avec Scapin">
+    <meta name="twitter:description" content="Et si Molière avait écrit ses pièces de théâtre à l'ère du SMS ?">
+    <meta name="twitter:image:src" content="http://thtr.party/asset/logo.png">
+    <meta name="twitter:domain" content="thtrparty">
+
+    <meta name="twitter:card" content="app">
+    <meta name="twitter:site" content="@thtrparty">
+    <meta name="twitter:text:title" content="thtr party - Tchate avec Scapin">
+    <meta name="twitter:description" content="Et si Molière avait écrit ses pièces de théâtre à l'ère du SMS ?">
+    <meta name="twitter:app:name:iphone" content="thtr party">
+    <meta name="twitter:app:id:iphone" content="TODO">
+
+    <meta name="twitter:app:name:ipad" content="thtr party">
+    <meta name="twitter:app:id:ipad" content="TODO">
+
+    <link rel="shortcut icon" href="http://thtr.party/assets/logo.png">
+    <link rel="apple-touch-icon" href="http://thtr.party/assets/logo.png" sizes="120x120">
+
+    <link rel="stylesheet" href="/assets/style.css">
+</head>
+<body class="animated fadeIn">
+  <div class="container cf">
+    <div class="col col-1-2 left">
+      <div class="content animated fadeIn delayed">
+        <img src="/assets/logo.png" class="logo" alt="logo">
+        <h2>Tchat avec Scapin, Cléonte, Jourdin &amp; co</h2>
+        <p>Et si Molière avait écrit ses pièces de théâtre à l'ère du SMS ?</p>
+        <a href="https://appsto.re/nl/TODO">
+            <img src="/assets/appstore@2x.png" class="appstore" width="188" height="60">
+        </a>
+      </div>
+      <div class="footer">
+        <a class="twitter" href="http://twitter.com/thtrparty">Twitter</a>
+        <a class="support" href="http://facebook.com/thtrparty">Facebook</a>
+      </div>
+    </div>
+    <div class="col col-1-2 right">
+      <div class="content animated fadeIn delayed">
+        <div class="video">
+			<video class="video--app" id="myVideo" autoplay="" muted="" preload="auto">
+				<source src="/assets/video.mp4" type="video/mp4">
+			</video>
+		</div>
+      </div>
+      <div class="footer">
+        <span class="align-center">
+          © 2016 @odesmoulin @jrmgxagmt @adrienjoly
+        </span>
+      </div>
+    </div>
+  </div>
+
+    <script async="" src="http://www.google-analytics.com/analytics.js"></script>
+    <script type="text/javascript">
+        setTimeout(function(){
+            document.getElementById("myVideo").play();
+        }, 1500);
+
+        document.getElementById('myVideo').addEventListener('ended',myHandler,false);
+        function myHandler(e) {
+            setTimeout(function(){
+                document.getElementById('myVideo').play();
+            }, 3000);
+        }
+    </script>
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'TODO', 'auto');
+    ga('send', 'pageview');
+
+    </script>
+</body>
+</html>

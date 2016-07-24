@@ -11,9 +11,8 @@ const readActFile = param => fs.readFileSync(makeActFileName(param)).toString()
 const getActJson = param => JSON.parse(readActFile(param))
 const getPlayJson = play => JSON.parse(fs.readFileSync(PATH_PLAYS + play + '.json').toString())
 
-app.get('/', (req, res) =>
-  res.send('Hey, how are you today?'))
- 
+app.use(express.static('public'))
+
 app.get('/play/:play/:file', renderFile) // for illustration
  
 app.get('/play/:play/avatars/:char', renderFile)
