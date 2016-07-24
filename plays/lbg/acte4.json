@@ -1,0 +1,1466 @@
+{
+  "title": "Le Bourgeois gentilhomme",
+  "characters": [],
+  "context": [
+    " "
+  ],
+  "scenes": [
+    {
+      "act": "IV",
+      "scene": 1,
+      "dialogue": [
+        {
+          "character": "DORIMÈNE",
+          "text": "Je ne réponds à ce compliment, qu’en mangeant comme je fais.",
+          "textWithEmoji": "Je ne réponds à ce compliment, qu’en mangeant comme je fais.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Ah que voilà de belles mains !",
+          "textWithEmoji": "Ah que voilà de belles mains 👐 !",
+          "emojiWords": {
+            "mains": "👐"
+          }
+        },
+        {
+          "character": "DORIMÈNE",
+          "text": "Les mains sont médiocres, Monsieur Jourdain; mais vous voulez parler du diamant qui est fort beau.",
+          "textWithEmoji": "Les mains 👐 sont médiocres, Monsieur Jourdain; mais vous voulez parler du diamant qui est fort beau.",
+          "emojiWords": {
+            "mains": "👐"
+          }
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Moi, Madame !",
+          "textWithEmoji": "Moi, Madame !",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": " Dieu me garde d’en vouloir parler; ce ne serait pas agir en galant homme, et le diamant est fort peu de chose.",
+          "textWithEmoji": " Dieu me garde 💂 d’en vouloir parler; ce ne serait pas agir en galant homme 👲, et le diamant est fort peu de chose.",
+          "emojiWords": {
+            "garde": "💂",
+            "homme": "👲"
+          }
+        },
+        {
+          "character": "DORIMÈNE",
+          "text": "Vous êtes bien dégoûté.",
+          "textWithEmoji": "Vous êtes bien dégoûté.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Vous avez trop de bonté...",
+          "textWithEmoji": "Vous avez trop de bonté...",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORANTE",
+          "text": "Allons, qu’on donne du vin à Monsieur Jourdain, et à ces Messieurs qui nous feront la grâce de nous chanter un air à boire.",
+          "textWithEmoji": "Allons, qu’on donne du vin à Monsieur Jourdain, et à ces Messieurs qui nous feront la grâce de nous chanter un air à boire.",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORIMÈNE",
+          "text": "C’est merveilleusement assaisonner la bonne chère, que d’y mêler la musique, et je me vois ici admirablement régalée.",
+          "textWithEmoji": "C’est merveilleusement assaisonner la bonne chère, que d’y mêler la musique, et je me vois ici admirablement régalée.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Madame, ce n’est pas...",
+          "textWithEmoji": "Madame, ce n’est pas...",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORANTE",
+          "text": "Monsieur Jourdain, prêtons silence à ces Messieurs; ce qu’ils nous diront, vaudra mieux que tout ce que nous pourrions dire.",
+          "textWithEmoji": "Monsieur Jourdain, prêtons silence à ces Messieurs; ce qu’ils nous diront, vaudra mieux que tout ce que nous pourrions dire.",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORANTE",
+          "text": " Les musiciens et la musicienne prennent des verres, chantent deux chansons à boire, et sont soutenus de toute la symphonie.",
+          "textWithEmoji": " Les musiciens et la musicienne prennent des verres, chantent deux 👬 chansons à boire, et sont soutenus de toute la symphonie.",
+          "emojiWords": {
+            "deux": "👬"
+          }
+        },
+        {
+          "character": "DORANTE",
+          "text": " PREMIÈRE CHANSON À BOIRE Un petit doigt, Philis, pour commencer le tour.",
+          "textWithEmoji": " PREMIÈRE CHANSON À BOIRE Un petit 🔼 doigt, Philis, pour commencer le tour 🗼.",
+          "emojiWords": {
+            "petit": "🔼",
+            "tour": "🗼"
+          }
+        },
+        {
+          "character": "DORANTE",
+          "text": " Ah !",
+          "textWithEmoji": " Ah !",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORANTE",
+          "text": " qu’un verre en vos mains a d’agréables charmes !",
+          "textWithEmoji": " qu’un verre 🍸 en vos mains 👐 a d’agréables charmes !",
+          "emojiWords": {
+            "verre": "🍸",
+            "mains": "👐"
+          }
+        },
+        {
+          "character": "DORANTE",
+          "text": " Vous, et le vin, vous vous prêtez des armes, Et je sens pour tous deux redoubler mon amour : Entre lui, vous et moi, jurons, jurons, ma belle, Une ardeur éternelle.",
+          "textWithEmoji": " Vous, et le vin, vous vous prêtez des armes, Et je sens pour tous deux 👬 redoubler mon amour : Entre lui, vous et moi, jurons, jurons, ma belle, Une ardeur éternelle.",
+          "emojiWords": {
+            "deux": "👬"
+          }
+        },
+        {
+          "character": "DORANTE",
+          "text": " Qu’en mouillant votre bouche il en reçoit d’attraits, Et que l’on voit par lui votre bouche embellie !",
+          "textWithEmoji": " Qu’en mouillant votre bouche 👄 il en reçoit d’attraits, Et que l’on voit par lui votre bouche 👄 embellie !",
+          "emojiWords": {
+            "bouche": "👄"
+          }
+        },
+        {
+          "character": "DORANTE",
+          "text": " Ah !",
+          "textWithEmoji": " Ah !",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORANTE",
+          "text": " l’un de l’autre ils me donnent envie, Et de vous et de lui je m’enivre à longs traits : Entre lui, vous et moi, jurons, jurons, ma belle, Une ardeur éternelle.",
+          "textWithEmoji": " l’un de l’autre ils me donnent envie, Et de vous et de lui je m’enivre à longs traits : Entre lui, vous et moi, jurons, jurons, ma belle, Une ardeur éternelle.",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORANTE",
+          "text": " SECONDE CHANSON À BOIRE Buvons, chers amis, buvons : Le temps qui fuit nous y convie; Profitons de la vie Autant que nous pouvons : Quand on a passé l’onde noire, Adieu le bon vin, nos amours; Dépêchons-nous de boire, On ne boit pas toujours.",
+          "textWithEmoji": " SECONDE CHANSON À BOIRE Buvons, chers amis, buvons : Le temps qui fuit nous y convie; Profitons de la vie Autant que nous pouvons : Quand on a passé l’onde noire, Adieu le bon vin, nos amours; Dépêchons-nous de boire, On ne boit pas toujours.",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORANTE",
+          "text": " Laissons raisonner les sots Sur le vrai bonheur de la vie; Notre philosophie Le met parmi les pots : Les biens, le savoir et la gloire, N’ôtent point les soucis fâcheux; Et ce n’est qu’à bien boire Que l’on peut être heureux.",
+          "textWithEmoji": " Laissons raisonner les sots Sur le vrai bonheur de la vie; Notre philosophie Le met parmi les pots : Les biens, le savoir et la gloire, N’ôtent point ‼ les soucis fâcheux; Et ce n’est qu’à bien boire Que l’on peut être heureux.",
+          "emojiWords": {
+            "point": "‼"
+          }
+        },
+        {
+          "character": "DORANTE",
+          "text": " Sus, sus du vin partout, versez, garçons versez, Versez, versez toujours, tant qu’on vous dise assez.",
+          "textWithEmoji": " Sus, sus du vin partout, versez, garçons versez, Versez, versez toujours, tant qu’on vous dise assez.",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORIMÈNE",
+          "text": "Je ne crois pas qu’on puisse mieux chanter, et cela est tout à fait beau.",
+          "textWithEmoji": "Je ne crois pas qu’on puisse mieux chanter, et cela est tout à fait beau.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Je vois encore ici, Madame, quelque chose de plus beau.",
+          "textWithEmoji": "Je vois encore ici, Madame, quelque chose de plus beau.",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORIMÈNE",
+          "text": "Ouais.",
+          "textWithEmoji": "Ouais.",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORIMÈNE",
+          "text": " Monsieur Jourdain est galant plus que je ne pensais.",
+          "textWithEmoji": " Monsieur Jourdain est galant plus que je ne pensais.",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORANTE",
+          "text": "Comment, Madame, pour qui prenez-vous Monsieur Jourdain ?",
+          "textWithEmoji": "Comment, Madame, pour qui prenez-vous Monsieur Jourdain ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Je voudrais bien qu’elle me prît pour ce que je dirais.",
+          "textWithEmoji": "Je voudrais bien qu’elle me prît pour ce que je dirais.",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORIMÈNE",
+          "text": "Encore !",
+          "textWithEmoji": "Encore !",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORANTE",
+          "text": "Vous ne le connaissez pas.",
+          "textWithEmoji": "Vous ne le connaissez pas.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Elle me connaîtra quand il lui plaira.",
+          "textWithEmoji": "Elle me connaîtra quand il lui plaira.",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORIMÈNE",
+          "text": "Oh je le quitte.",
+          "textWithEmoji": "Oh je le quitte.",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORANTE",
+          "text": "Il est homme qui a toujours la riposte en main.",
+          "textWithEmoji": "Il est homme 👲 qui a toujours la riposte en main ✋.",
+          "emojiWords": {
+            "homme": "👲",
+            "main": "✋"
+          }
+        },
+        {
+          "character": "DORANTE",
+          "text": " Mais vous ne voyez pas que Monsieur Jourdain, Madame, mange tous les morceaux que vous touchez.",
+          "textWithEmoji": " Mais vous ne voyez pas que Monsieur Jourdain, Madame, mange tous les morceaux que vous touchez.",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORIMÈNE",
+          "text": "Monsieur Jourdain est un homme qui me ravit.",
+          "textWithEmoji": "Monsieur Jourdain est un homme 👲 qui me ravit.",
+          "emojiWords": {
+            "homme": "👲"
+          }
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Si je pouvais ravir votre cœur, je serais...",
+          "textWithEmoji": "Si je pouvais ravir votre cœur 💛, je serais...",
+          "emojiWords": {
+            "cœur": "💛"
+          }
+        }
+      ]
+    },
+    {
+      "act": "IV",
+      "scene": 2,
+      "dialogue": [
+        {
+          "character": "MADAME JOURDAIN",
+          "text": "Ah, ah, je trouve ici bonne compagnie, et je vois bien qu’on ne m’y attendait pas.",
+          "textWithEmoji": "Ah, ah, je trouve ici bonne compagnie, et je vois bien qu’on ne m’y attendait pas.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MADAME JOURDAIN",
+          "text": " C’est donc pour cette belle affaire-ci, Monsieur mon mari, que vous avez eu tant d’empressement à m’envoyer dîner chez ma sœur ?",
+          "textWithEmoji": " C’est donc pour cette belle affaire-ci, Monsieur mon mari, que vous avez eu tant d’empressement à m’envoyer dîner chez ma sœur ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "MADAME JOURDAIN",
+          "text": " Je viens de voir un théâtre là-bas, et je vois ici un banquet à faire noces.",
+          "textWithEmoji": " Je viens de voir un théâtre là-bas, et je vois ici un banquet à faire noces.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MADAME JOURDAIN",
+          "text": " Voilà comme vous dépensez votre bien, et c’est ainsi que vous festinez les dames en mon absence, et que vous leur donnez la musique et la comédie, tandis que vous m’envoyez promener ?",
+          "textWithEmoji": " Voilà comme vous dépensez votre bien, et c’est ainsi que vous festinez les dames en mon absence, et que vous leur donnez la musique et la comédie, tandis que vous m’envoyez promener ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORANTE",
+          "text": "Que voulez-vous dire, Madame Jourdain ?",
+          "textWithEmoji": "Que voulez-vous dire, Madame Jourdain ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORANTE",
+          "text": " et quelles fantaisies sont les vôtres, de vous aller mettre en tête que votre mari dépense son bien, et que c’est lui qui donne ce régale à Madame ?",
+          "textWithEmoji": " et quelles fantaisies sont les vôtres, de vous aller mettre en tête que votre mari dépense son bien, et que c’est lui qui donne ce régale à Madame ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORANTE",
+          "text": " Apprenez que c’est moi, je vous prie; qu’il ne fait seulement que me prêter sa maison, et que vous devriez un peu mieux regarder aux choses que vous dites.",
+          "textWithEmoji": " Apprenez que c’est moi, je vous prie; qu’il ne fait seulement que me prêter sa maison 🏡, et que vous devriez un peu mieux regarder aux choses que vous dites.",
+          "emojiWords": {
+            "maison": "🏡"
+          }
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Oui, impertinente, c’est Monsieur le Comte qui donne tout ceci à Madame, qui est une personne de qualité.",
+          "textWithEmoji": "Oui, impertinente, c’est Monsieur le Comte qui donne tout ceci à Madame, qui est une personne 👱 de qualité.",
+          "emojiWords": {
+            "personne": "👱"
+          }
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": " Il me fait l’honneur de prendre ma maison, et de vouloir que je sois avec lui.",
+          "textWithEmoji": " Il me fait l’honneur de prendre ma maison 🏡, et de vouloir que je sois avec lui.",
+          "emojiWords": {
+            "maison": "🏡"
+          }
+        },
+        {
+          "character": "MADAME JOURDAIN",
+          "text": "Ce sont des chansons que cela; je sais ce que je sais.",
+          "textWithEmoji": "Ce sont des chansons que cela; je sais ce que je sais.",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORANTE",
+          "text": "Prenez, Madame Jourdain, prenez de meilleures lunettes.",
+          "textWithEmoji": "Prenez, Madame Jourdain, prenez de meilleures lunettes 👓.",
+          "emojiWords": {
+            "lunettes": "👓"
+          }
+        },
+        {
+          "character": "MADAME JOURDAIN",
+          "text": "Je n’ai que faire de lunettes, Monsieur, et je vois assez clair; il y a longtemps que je sens les choses, et je ne suis pas une bête.",
+          "textWithEmoji": "Je n’ai que faire de lunettes 👓, Monsieur, et je vois assez clair; il y a longtemps que je sens les choses, et je ne suis pas une bête.",
+          "emojiWords": {
+            "lunettes": "👓"
+          }
+        },
+        {
+          "character": "MADAME JOURDAIN",
+          "text": " Cela est fort vilain à vous, pour un grand seigneur, de prêter la main comme vous faites aux sottises de mon mari.",
+          "textWithEmoji": " Cela est fort vilain à vous, pour un grand 🏬 seigneur, de prêter la main ✋ comme vous faites aux sottises de mon mari.",
+          "emojiWords": {
+            "grand": "🏬",
+            "main": "✋"
+          }
+        },
+        {
+          "character": "MADAME JOURDAIN",
+          "text": " Et vous, Madame, pour une grande Dame, cela n’est ni beau, ni honnête à vous, de mettre de la dissension dans un ménage, et de souffrir que mon mari soit amoureux de vous.",
+          "textWithEmoji": " Et vous, Madame, pour une grande Dame, cela n’est ni beau, ni honnête à vous, de mettre de la dissension dans un ménage, et de souffrir que mon mari soit amoureux de vous.",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORIMÈNE",
+          "text": "Que veut donc dire tout ceci ?",
+          "textWithEmoji": "Que veut donc dire tout ceci ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORIMÈNE",
+          "text": " Allez, Dorante, vous vous moquez, de m’exposer aux sottes visions de cette extravagante.",
+          "textWithEmoji": " Allez, Dorante, vous vous moquez, de m’exposer aux sottes visions de cette extravagante.",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORANTE",
+          "text": "Madame, holà Madame, où courez-vous ?",
+          "textWithEmoji": "Madame, holà Madame, où courez-vous ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Madame.",
+          "textWithEmoji": "Madame.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": " Monsieur le Comte, faites-lui excuses, et tâchez de la ramener.",
+          "textWithEmoji": " Monsieur le Comte, faites-lui excuses, et tâchez de la ramener.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": " Ah, impertinente que vous êtes, voilà de vos beaux faits; vous me venez faire des affronts devant tout le monde, et vous chassez de chez moi des personnes de qualité.",
+          "textWithEmoji": " Ah, impertinente que vous êtes, voilà de vos beaux faits; vous me venez faire des affronts devant tout le monde, et vous chassez de chez moi des personnes de qualité.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MADAME JOURDAIN",
+          "text": "Je me moque de leur qualité.",
+          "textWithEmoji": "Je me moque de leur qualité.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Je ne sais qui me tient, maudite, que je ne vous fende la tête avec les pièces du repas que vous êtes venue troubler.",
+          "textWithEmoji": "Je ne sais qui me tient, maudite, que je ne vous fende la tête avec les pièces du repas que vous êtes venue troubler.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": " On ôte la table.",
+          "textWithEmoji": " On ôte la table.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MADAME JOURDAIN, sortant",
+          "text": "Je me moque de cela.",
+          "textWithEmoji": "Je me moque de cela.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MADAME JOURDAIN, sortant",
+          "text": " Ce sont mes droits que je défends, et j’aurai pour moi toutes les femmes.",
+          "textWithEmoji": " Ce sont mes droits que je défends, et j’aurai pour moi toutes les femmes.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Vous faites bien d’éviter ma colère.",
+          "textWithEmoji": "Vous faites bien d’éviter ma colère.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": " Elle est arrivée là bien malheureusement.",
+          "textWithEmoji": " Elle est arrivée là bien malheureusement.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": " J’étais en humeur de dire de jolies choses, et jamais je ne m’étais senti tant d’esprit.",
+          "textWithEmoji": " J’étais en humeur de dire de jolies choses, et jamais je ne m’étais senti tant d’esprit.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": " Qu’est-ce que c’est que cela ?",
+          "textWithEmoji": " Qu’est-ce que c’est que cela ?",
+          "emojiWords": {}
+        }
+      ]
+    },
+    {
+      "act": "IV",
+      "scene": 3,
+      "dialogue": [
+        {
+          "character": "COVIELLE",
+          "text": "Monsieur, je ne sais pas si j’ai l’honneur d’être connu de vous.",
+          "textWithEmoji": "Monsieur, je ne sais pas si j’ai l’honneur d’être connu de vous.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Non, Monsieur.",
+          "textWithEmoji": "Non, Monsieur.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Je vous ai vu que vous n’étiez pas plus grand que cela.",
+          "textWithEmoji": "Je vous ai vu que vous n’étiez pas plus grand 🏬 que cela.",
+          "emojiWords": {
+            "grand": "🏬"
+          }
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Moi !",
+          "textWithEmoji": "Moi !",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Oui, vous étiez le plus bel enfant du monde, et toutes les dames vous prenaient dans leurs bras pour vous baiser.",
+          "textWithEmoji": "Oui, vous étiez le plus bel enfant du monde, et toutes les dames vous prenaient dans leurs bras pour vous baiser 💏.",
+          "emojiWords": {
+            "baiser": "💏"
+          }
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Pour me baiser !",
+          "textWithEmoji": "Pour me baiser 💏 !",
+          "emojiWords": {
+            "baiser": "💏"
+          }
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Oui.",
+          "textWithEmoji": "Oui.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " J’étais grand ami de feu Monsieur votre père.",
+          "textWithEmoji": " J’étais grand 🏬 ami de feu 🔥 Monsieur votre père 🎅.",
+          "emojiWords": {
+            "grand": "🏬",
+            "feu": "🔥",
+            "père": "🎅"
+          }
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "De feu Monsieur mon père !",
+          "textWithEmoji": "De feu 🔥 Monsieur mon père 🎅 !",
+          "emojiWords": {
+            "feu": "🔥",
+            "père": "🎅"
+          }
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Oui.",
+          "textWithEmoji": "Oui.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " C’était un fort honnête gentilhomme.",
+          "textWithEmoji": " C’était un fort honnête gentilhomme.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Comment dites-vous ?",
+          "textWithEmoji": "Comment dites-vous ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Je dis que c’était un fort honnête gentilhomme.",
+          "textWithEmoji": "Je dis que c’était un fort honnête gentilhomme.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Mon père !",
+          "textWithEmoji": "Mon père 🎅 !",
+          "emojiWords": {
+            "père": "🎅"
+          }
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Oui.",
+          "textWithEmoji": "Oui.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Vous l’avez fort connu ?",
+          "textWithEmoji": "Vous l’avez fort connu ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Assurément.",
+          "textWithEmoji": "Assurément.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Et vous l’avez connu pour gentilhomme ?",
+          "textWithEmoji": "Et vous l’avez connu pour gentilhomme ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Sans doute.",
+          "textWithEmoji": "Sans doute.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Je ne sais donc pas comment le monde est fait.",
+          "textWithEmoji": "Je ne sais donc pas comment le monde est fait.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Comment ?",
+          "textWithEmoji": "Comment ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Il y a de sottes gens qui me veulent dire qu’il a été marchand.",
+          "textWithEmoji": "Il y a de sottes gens qui me veulent dire qu’il a été marchand.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Lui marchand !",
+          "textWithEmoji": "Lui marchand !",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " C’est pure médisance, il ne l’a jamais été.",
+          "textWithEmoji": " C’est pure médisance, il ne l’a jamais été.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Tout ce qu’il faisait, c’est qu’il était fort obligeant, fort officieux; et comme il se connaissait fort bien en étoffes, il en allait choisir de tous les côtés, les faisait apporter chez lui, et en donnait à ses amis pour de l’argent.",
+          "textWithEmoji": " Tout ce qu’il faisait, c’est qu’il était fort obligeant, fort officieux; et comme il se connaissait fort bien en étoffes, il en allait choisir de tous les côtés, les faisait apporter chez lui, et en donnait à ses amis pour de l’argent.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Je suis ravi de vous connaître, afin que vous rendiez ce témoignage-là que mon père était gentilhomme.",
+          "textWithEmoji": "Je suis ravi de vous connaître, afin que vous rendiez ce témoignage-là que mon père 🎅 était gentilhomme.",
+          "emojiWords": {
+            "père": "🎅"
+          }
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Je le soutiendrai devant tout le monde.",
+          "textWithEmoji": "Je le soutiendrai devant tout le monde.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Vous m’obligerez.",
+          "textWithEmoji": "Vous m’obligerez.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": " Quel sujet vous amène ?",
+          "textWithEmoji": " Quel sujet vous amène ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Depuis avoir connu feu Monsieur votre père honnête gentilhomme, comme je vous ai dit, j’ai voyagé par tout le monde.",
+          "textWithEmoji": "Depuis avoir connu feu 🔥 Monsieur votre père 🎅 honnête gentilhomme, comme je vous ai dit, j’ai voyagé par tout le monde.",
+          "emojiWords": {
+            "feu": "🔥",
+            "père": "🎅"
+          }
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Par tout le monde !",
+          "textWithEmoji": "Par tout le monde !",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Oui.",
+          "textWithEmoji": "Oui.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Je pense qu’il y a bien loin en ce pays-là.",
+          "textWithEmoji": "Je pense qu’il y a bien loin en ce pays-là.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Assurément.",
+          "textWithEmoji": "Assurément.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Je ne suis revenu de tous mes longs voyages que depuis quatre jours; et par l’intérêt que je prends à tout ce qui vous touche, je viens vous annoncer la meilleure nouvelle du monde.",
+          "textWithEmoji": " Je ne suis revenu de tous mes longs voyages que depuis quatre jours; et par l’intérêt que je prends à tout ce qui vous touche 🔟, je viens vous annoncer la meilleure nouvelle du monde.",
+          "emojiWords": {
+            "touche": "🔟"
+          }
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Quelle ?",
+          "textWithEmoji": "Quelle ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Vous savez que le fils du Grand Turc est ici ?",
+          "textWithEmoji": "Vous savez que le fils du Grand Turc est ici ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Moi ?",
+          "textWithEmoji": "Moi ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": " Non.",
+          "textWithEmoji": " Non.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Comment !",
+          "textWithEmoji": "Comment !",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Il a un train tout à fait magnifique; tout le monde le va voir, et il a été reçu en ce pays comme un seigneur d’importance.",
+          "textWithEmoji": " Il a un train 🚄 tout à fait magnifique; tout le monde le va voir, et il a été reçu en ce pays comme un seigneur d’importance.",
+          "emojiWords": {
+            "train": "🚄"
+          }
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Par ma foi, je ne savais pas cela.",
+          "textWithEmoji": "Par ma foi, je ne savais pas cela.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Ce qu’il y a d’avantageux pour vous, c’est qu’il est amoureux de votre fille.",
+          "textWithEmoji": "Ce qu’il y a d’avantageux pour vous, c’est qu’il est amoureux de votre fille 👧.",
+          "emojiWords": {
+            "fille": "👧"
+          }
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Le fils du Grand Turc ?",
+          "textWithEmoji": "Le fils du Grand Turc ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Oui; et il veut être votre gendre.",
+          "textWithEmoji": "Oui; et il veut être votre gendre.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Mon gendre, le fils du Grand Turc !",
+          "textWithEmoji": "Mon gendre, le fils du Grand Turc !",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Le fils du Grand Turc votre gendre.",
+          "textWithEmoji": "Le fils du Grand Turc votre gendre.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Comme je le fus voir, et que j’entends parfaitement sa langue, il s’entretint avec moi; et après quelques autres discours, il me dit.",
+          "textWithEmoji": " Comme je le fus voir, et que j’entends parfaitement sa langue 👅, il s’entretint avec moi; et après quelques autres discours, il me dit.",
+          "emojiWords": {
+            "langue": "👅"
+          }
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Acciam croc soler ouch alla moustaph gidelum amanahem varahini oussere carbulath, c’est-à-dire; \"N’as-tu point vu une jeune belle personne, qui est la fille de Monsieur Jourdain, gentilhomme parisien ?",
+          "textWithEmoji": " Acciam croc soler ouch alla moustaph gidelum amanahem varahini oussere carbulath, c’est-à-dire; \"N’as-tu point ‼ vu une jeune belle personne 👱, qui est la fille 👧 de Monsieur Jourdain, gentilhomme parisien ?",
+          "emojiWords": {
+            "point": "‼",
+            "personne": "👱",
+            "fille": "👧"
+          }
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Le fils du Grand Turc dit cela de moi ?",
+          "textWithEmoji": "Le fils du Grand Turc dit cela de moi ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Oui.",
+          "textWithEmoji": "Oui.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Comme je lui eus répondu que je vous connaissais particulièrement, et que j’avais vu votre fille : \"Ah, me dit-il, marababa sahem\"; c’est-à-dire, \"Ah que je suis amoureux d’elle !",
+          "textWithEmoji": " Comme je lui eus répondu que je vous connaissais particulièrement, et que j’avais vu votre fille 👧 : \"Ah, me dit-il, marababa sahem\"; c’est-à-dire, \"Ah que je suis amoureux d’elle !",
+          "emojiWords": {
+            "fille": "👧"
+          }
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Marababa sahem veut dire \"Ah que je suis amoureux d’elle\" ?",
+          "textWithEmoji": "Marababa sahem veut dire \"Ah que je suis amoureux d’elle\" ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Oui.",
+          "textWithEmoji": "Oui.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Par ma foi, vous faites bien de me le dire, car pour moi je n’aurais jamais cru que marababa sahem eût voulu dire, \"Ah que je suis amoureux d’elle !",
+          "textWithEmoji": "Par ma foi, vous faites bien de me le dire, car pour moi je n’aurais jamais cru que marababa sahem eût voulu dire, \"Ah que je suis amoureux d’elle !",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "\" Voilà une langue admirable, que ce turc !",
+          "textWithEmoji": "\" Voilà une langue 👅 admirable, que ce turc !",
+          "emojiWords": {
+            "langue": "👅"
+          }
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Plus admirable qu’on ne peut croire.",
+          "textWithEmoji": "Plus admirable qu’on ne peut croire.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Savez-vous bien ce que veut dire cacaracamouchen ?",
+          "textWithEmoji": " Savez-vous bien ce que veut dire cacaracamouchen ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Cacaracamouchen ?",
+          "textWithEmoji": "Cacaracamouchen ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": " Non.",
+          "textWithEmoji": " Non.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "C’est-à-dire, \"Ma chère âme.",
+          "textWithEmoji": "C’est-à-dire, \"Ma chère âme.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Cacaracamouchen veut dire, \"ma chère âme\" ?",
+          "textWithEmoji": "Cacaracamouchen veut dire, \"ma chère âme\" ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Oui.",
+          "textWithEmoji": "Oui.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Voilà qui est merveilleux !",
+          "textWithEmoji": "Voilà qui est merveilleux !",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": " Cacaracamouchen, \"Ma chère âme.",
+          "textWithEmoji": " Cacaracamouchen, \"Ma chère âme.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "\" Dirait-on jamais cela ?",
+          "textWithEmoji": "\" Dirait-on jamais cela ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": " Voilà qui me confond.",
+          "textWithEmoji": " Voilà qui me confond.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Enfin, pour achever mon ambassade, il vient vous demander votre fille en mariage; et pour avoir un beau-père qui soit digne de lui, il veut vous faire mamamouchi, qui est une certaine grande dignité de son pays.",
+          "textWithEmoji": "Enfin, pour achever mon ambassade, il vient vous demander votre fille 👧 en mariage 💒; et pour avoir un beau-père qui soit digne de lui, il veut vous faire mamamouchi, qui est une certaine grande dignité de son pays.",
+          "emojiWords": {
+            "fille": "👧",
+            "mariage": "💒"
+          }
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Mamamouchi ?",
+          "textWithEmoji": "Mamamouchi ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Oui, Mamamouchi : c’est-à-dire en notre langue, paladin.",
+          "textWithEmoji": "Oui, Mamamouchi : c’est-à-dire en notre langue 👅, paladin.",
+          "emojiWords": {
+            "langue": "👅"
+          }
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Paladin, ce sont de ces anciens...",
+          "textWithEmoji": " Paladin, ce sont de ces anciens...",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Paladin enfin.",
+          "textWithEmoji": " Paladin enfin.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Il n’y a rien de plus noble que cela dans le monde; et vous irez de pair avec les plus grands seigneurs de la terre.",
+          "textWithEmoji": " Il n’y a rien de plus noble que cela dans le monde; et vous irez de pair avec les plus grands seigneurs de la terre.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Le fils du Grand Turc m’honore beaucoup, et je vous prie de me mener chez lui, pour lui en faire mes remerciements.",
+          "textWithEmoji": "Le fils du Grand Turc m’honore beaucoup, et je vous prie de me mener chez lui, pour lui en faire mes remerciements.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Comment ?",
+          "textWithEmoji": "Comment ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " le voilà qui va venir ici.",
+          "textWithEmoji": " le voilà qui va venir ici.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Il va venir ici ?",
+          "textWithEmoji": "Il va venir ici ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Oui; et il amène toutes choses pour la cérémonie de votre dignité.",
+          "textWithEmoji": "Oui; et il amène toutes choses pour la cérémonie 🎑 de votre dignité.",
+          "emojiWords": {
+            "cérémonie": "🎑"
+          }
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Voilà qui est bien prompt.",
+          "textWithEmoji": "Voilà qui est bien prompt.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Son amour ne peut souffrir aucun retardement.",
+          "textWithEmoji": "Son amour ne peut souffrir aucun retardement.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Tout ce qui m’embarrasse ici, c’est que ma fille est une opiniâtre, qui s’est allée mettre dans la tête un certain Cléonte, et elle jure de n’épouser personne que celui-là.",
+          "textWithEmoji": "Tout ce qui m’embarrasse ici, c’est que ma fille 👧 est une opiniâtre, qui s’est allée mettre dans la tête un certain Cléonte, et elle jure de n’épouser personne 👱 que celui-là.",
+          "emojiWords": {
+            "fille": "👧",
+            "personne": "👱"
+          }
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Elle changera de sentiment, quand elle verra le fils du Grand Turc; et puis il se rencontre ici une aventure merveilleuse, c’est que le fils du Grand Turc ressemble à ce Cléonte, à peu de chose près.",
+          "textWithEmoji": "Elle changera de sentiment, quand elle verra le fils du Grand Turc; et puis il se rencontre ici une aventure merveilleuse, c’est que le fils du Grand Turc ressemble à ce Cléonte, à peu de chose près.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Je viens de le voir, on me l’a montré; et l’amour qu’elle a pour l’un, pourra passer aisément à l’autre, et...",
+          "textWithEmoji": " Je viens de le voir, on me l’a montré; et l’amour qu’elle a pour l’un, pourra passer aisément à l’autre, et...",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Je l’entends venir; le voilà.",
+          "textWithEmoji": " Je l’entends venir; le voilà.",
+          "emojiWords": {}
+        }
+      ]
+    },
+    {
+      "act": "IV",
+      "scene": 4,
+      "dialogue": [
+        {
+          "character": "CLÉONTE",
+          "text": "Ambousahim oqui boraf, Iordina salamalequi.",
+          "textWithEmoji": "Ambousahim oqui boraf, Iordina salamalequi.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "C’est-à-dire : \"Monsieur Jourdain, votre cœur soit toute l’année comme un rosier fleuri.",
+          "textWithEmoji": "C’est-à-dire : \"Monsieur Jourdain, votre cœur 💛 soit toute l’année comme un rosier fleuri.",
+          "emojiWords": {
+            "cœur": "💛"
+          }
+        },
+        {
+          "character": "COVIELLE",
+          "text": "\" Ce sont façons de parler obligeantes de ces pays-là.",
+          "textWithEmoji": "\" Ce sont façons de parler obligeantes de ces pays-là.",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Je suis très humble serviteur de Son Altesse Turque.",
+          "textWithEmoji": "Je suis très humble serviteur de Son Altesse Turque.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Carigar camboto oustin moraf.",
+          "textWithEmoji": "Carigar camboto oustin moraf.",
+          "emojiWords": {}
+        },
+        {
+          "character": "CLÉONTE",
+          "text": "Oustin yoc catamalequi basum base alla moran.",
+          "textWithEmoji": "Oustin yoc catamalequi basum base alla moran.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Il dit \"que le Ciel vous donne la force des lions, et la prudence des serpents\".",
+          "textWithEmoji": "Il dit \"que le Ciel vous donne la force des lions, et la prudence des serpents\".",
+          "emojiWords": {}
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Son Altesse Turque m’honore trop, et je lui souhaite toutes sortes de prospérités.",
+          "textWithEmoji": "Son Altesse Turque m’honore trop, et je lui souhaite toutes sortes de prospérités.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Ossa binamen sadoc babally oracaf ouram.",
+          "textWithEmoji": "Ossa binamen sadoc babally oracaf ouram.",
+          "emojiWords": {}
+        },
+        {
+          "character": "CLÉONTE",
+          "text": "Bel-men.",
+          "textWithEmoji": "Bel-men.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Il dit que vous alliez vite avec lui vous préparer pour la cérémonie, afin de voir ensuite votre fille, et de conclure le mariage.",
+          "textWithEmoji": "Il dit que vous alliez vite avec lui vous préparer pour la cérémonie 🎑, afin de voir ensuite votre fille 👧, et de conclure le mariage 💒.",
+          "emojiWords": {
+            "cérémonie": "🎑",
+            "fille": "👧",
+            "mariage": "💒"
+          }
+        },
+        {
+          "character": "MONSIEUR JOURDAIN",
+          "text": "Tant de choses en deux mots ?",
+          "textWithEmoji": "Tant de choses en deux 👬 mots ?",
+          "emojiWords": {
+            "deux": "👬"
+          }
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Oui, la langue turque est comme cela, elle dit beaucoup en peu de paroles.",
+          "textWithEmoji": "Oui, la langue 👅 turque est comme cela, elle dit beaucoup en peu de paroles.",
+          "emojiWords": {
+            "langue": "👅"
+          }
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Allez vite où il souhaite.",
+          "textWithEmoji": " Allez vite où il souhaite.",
+          "emojiWords": {}
+        }
+      ]
+    },
+    {
+      "act": "IV",
+      "scene": 5,
+      "dialogue": [
+        {
+          "character": "COVIELLE",
+          "text": "Ha, ha, ha.",
+          "textWithEmoji": "Ha, ha, ha.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Ma foi, cela est tout à fait drôle.",
+          "textWithEmoji": " Ma foi, cela est tout à fait drôle.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Quelle dupe !",
+          "textWithEmoji": " Quelle dupe !",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Quand il aurait appris son rôle par cœur, il ne pourrait pas le mieux jouer.",
+          "textWithEmoji": " Quand il aurait appris son rôle par cœur 💛, il ne pourrait pas le mieux jouer.",
+          "emojiWords": {
+            "cœur": "💛"
+          }
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Ah, ah.",
+          "textWithEmoji": " Ah, ah.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Je vous prie, Monsieur, de nous vouloir aider céans dans une affaire qui s’y passe.",
+          "textWithEmoji": " Je vous prie, Monsieur, de nous vouloir aider céans dans une affaire qui s’y passe.",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORANTE",
+          "text": "Ah, ah, Covielle, qui t’aurait reconnu ?",
+          "textWithEmoji": "Ah, ah, Covielle, qui t’aurait reconnu ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORANTE",
+          "text": " Comme te voilà ajusté !",
+          "textWithEmoji": " Comme te voilà ajusté !",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Vous voyez.",
+          "textWithEmoji": "Vous voyez.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Ah, ah.",
+          "textWithEmoji": " Ah, ah.",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORANTE",
+          "text": "De quoi ris-tu ?",
+          "textWithEmoji": "De quoi ris-tu ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "D’une chose, Monsieur, qui la mérite bien.",
+          "textWithEmoji": "D’une chose, Monsieur, qui la mérite bien.",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORANTE",
+          "text": "Comment ?",
+          "textWithEmoji": "Comment ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Je vous le donnerais en bien des fois, Monsieur, à deviner, le stratagème dont nous nous servons auprès de Monsieur Jourdain, pour porter son esprit à donner sa fille à mon maître.",
+          "textWithEmoji": "Je vous le donnerais en bien des fois, Monsieur, à deviner, le stratagème dont nous nous servons auprès de Monsieur Jourdain, pour porter son esprit à donner sa fille 👧 à mon maître.",
+          "emojiWords": {
+            "fille": "👧"
+          }
+        },
+        {
+          "character": "DORANTE",
+          "text": "Je ne devine point le stratagème, mais je devine qu’il ne manquera pas de faire son effet, puisque tu l’entreprends.",
+          "textWithEmoji": "Je ne devine point ‼ le stratagème, mais je devine qu’il ne manquera pas de faire son effet, puisque tu l’entreprends.",
+          "emojiWords": {
+            "point": "‼"
+          }
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Je sais, Monsieur, que la bête vous est connue.",
+          "textWithEmoji": "Je sais, Monsieur, que la bête vous est connue.",
+          "emojiWords": {}
+        },
+        {
+          "character": "DORANTE",
+          "text": "Apprends-moi ce que c’est.",
+          "textWithEmoji": "Apprends-moi ce que c’est.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": "Prenez la peine de vous tirer un peu plus loin, pour faire place à ce que j’aperçois venir.",
+          "textWithEmoji": "Prenez la peine de vous tirer un peu plus loin, pour faire place à ce que j’aperçois venir.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Vous pourrez voir une partie de l’histoire, tandis que je vous conterai le reste.",
+          "textWithEmoji": " Vous pourrez voir une partie de l’histoire, tandis que je vous conterai le reste.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " La cérémonie turque pour ennoblir le Bourgeois, se fait en dance et en musique, et compose le quatrième intermède.",
+          "textWithEmoji": " La cérémonie 🎑 turque pour ennoblir le Bourgeois, se fait en dance et en musique, et compose le quatrième intermède.",
+          "emojiWords": {
+            "cérémonie": "🎑"
+          }
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Le Mufti, quatre Dervis, six turcs dansant, six turcs musiciens, et autres joueurs d’instruments à la turque, sont les acteurs de cette cérémonie.",
+          "textWithEmoji": " Le Mufti, quatre Dervis, six turcs dansant, six turcs musiciens, et autres joueurs d’instruments à la turque, sont les acteurs de cette cérémonie 🎑.",
+          "emojiWords": {
+            "cérémonie": "🎑"
+          }
+        },
+        {
+          "character": "COVIELLE",
+          "text": " LE MUFTI Se ti sabir, Ti respondir Se non sabir Tazir, tazir.",
+          "textWithEmoji": " LE MUFTI Se ti sabir, Ti respondir Se non sabir Tazir, tazir.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Mi star Mufti Ti qui star ti Non intendir Tazir, tazir.",
+          "textWithEmoji": " Mi star Mufti Ti qui star ti Non intendir Tazir, tazir.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Le Mufti demande en même langue aux Turcs assistants, de quelle religion est le Bourgeois, et ils l’assurent qu’il est mahométan.",
+          "textWithEmoji": " Le Mufti demande en même langue 👅 aux Turcs assistants, de quelle religion est le Bourgeois, et ils l’assurent qu’il est mahométan.",
+          "emojiWords": {
+            "langue": "👅"
+          }
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Le Mufti invoque Mahomet en langue franque, et chante les paroles qui suivent.",
+          "textWithEmoji": " Le Mufti invoque Mahomet en langue 👅 franque, et chante les paroles qui suivent.",
+          "emojiWords": {
+            "langue": "👅"
+          }
+        },
+        {
+          "character": "COVIELLE",
+          "text": " LE MUFTI Mahameta per Giourdina Mi pregar sera e mattina Voler far un Paladina De Giourdina, de Giourdina.",
+          "textWithEmoji": " LE MUFTI Mahameta per Giourdina Mi pregar sera e mattina Voler far un Paladina De Giourdina, de Giourdina.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Dar turbanta, é edar scarcina Con galera e brigantina Per deffender Palestina.",
+          "textWithEmoji": " Dar turbanta, é edar scarcina Con galera e brigantina Per deffender Palestina.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Mahameta, etc.",
+          "textWithEmoji": " Mahameta, etc.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Le Mufti demande aux Turcs si le Bourgeois sera ferme dans la religion mahométane, et leur chante ces paroles.",
+          "textWithEmoji": " Le Mufti demande aux Turcs si le Bourgeois sera ferme dans la religion mahométane, et leur chante ces paroles.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " LE MUFTI Star bon Turca Giourdina.",
+          "textWithEmoji": " LE MUFTI Star bon Turca Giourdina.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " LES TURCS Hi valla.",
+          "textWithEmoji": " LES TURCS Hi valla.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " LE MUFTI danse et chante ces mots.",
+          "textWithEmoji": " LE MUFTI danse et chante ces mots.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Hu la ba ba la chou ba la ba ba la da.",
+          "textWithEmoji": " Hu la ba ba la chou ba la ba ba la da.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Les Turcs répondent les mêmes vers.",
+          "textWithEmoji": " Les Turcs répondent les mêmes vers.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Le Mufti propose de donner le turban au Bourgeois, et chante les paroles qui suivent.",
+          "textWithEmoji": " Le Mufti propose de donner le turban au Bourgeois, et chante les paroles qui suivent.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " LE MUFTI s’adressant au Bourgeois.",
+          "textWithEmoji": " LE MUFTI s’adressant au Bourgeois.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Ti non star furba.",
+          "textWithEmoji": " Ti non star furba.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " LES TURCS No, no, no.",
+          "textWithEmoji": " LES TURCS No, no, no.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " LE MUFTI Non star forfanta ?",
+          "textWithEmoji": " LE MUFTI Non star forfanta ?",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " LES TURCS No, no, no.",
+          "textWithEmoji": " LES TURCS No, no, no.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " LE MUFTI aux Turcs.",
+          "textWithEmoji": " LE MUFTI aux Turcs.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Donar turbanta.",
+          "textWithEmoji": " Donar turbanta.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Donar turbanta.",
+          "textWithEmoji": " Donar turbanta.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Les Turcs répètent tout ce qu’a dit le Mufti pour donner le turban au Bourgeois.",
+          "textWithEmoji": " Les Turcs répètent tout ce qu’a dit le Mufti pour donner le turban au Bourgeois.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Le Mufti et les Dervis se coiffent avec des turbans de cérémonies, et l’on présente au Mufti l’Alcoran, qui fait une seconde invocation avec tout le reste des turcs assistants; après son invocation il donne au Bourgeois l’épée, et chante ces paroles.",
+          "textWithEmoji": " Le Mufti et les Dervis se coiffent avec des turbans de cérémonies, et l’on présente au Mufti l’Alcoran, qui fait une seconde invocation avec tout le reste des turcs assistants; après son invocation il donne au Bourgeois l’épée, et chante ces paroles.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " LE MUFTI Ti star nobile, non star fabola.",
+          "textWithEmoji": " LE MUFTI Ti star nobile, non star fabola.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Pigliar schiabola.",
+          "textWithEmoji": " Pigliar schiabola.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Puis il se retire.",
+          "textWithEmoji": " Puis il se retire.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Les Turcs répètent les mêmes vers, mettant tous le sabre à la main, et six d’entre eux dansent autour du Bourgeois, auquel ils feignent de donner plusieurs coups de sabre.",
+          "textWithEmoji": " Les Turcs répètent les mêmes vers, mettant tous le sabre à la main ✋, et six d’entre eux dansent autour du Bourgeois, auquel ils feignent de donner plusieurs 🎶 coups de sabre.",
+          "emojiWords": {
+            "main": "✋",
+            "plusieurs": "🎶"
+          }
+        },
+        {
+          "character": "COVIELLE",
+          "text": " LE MUFTI commande aux Turcs de bâtonner le Bourgeois, et chante les paroles qui suivent.",
+          "textWithEmoji": " LE MUFTI commande aux Turcs de bâtonner le Bourgeois, et chante les paroles qui suivent.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Dara, dara, bastonara, bastonara.",
+          "textWithEmoji": " Dara, dara, bastonara, bastonara.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Les Turcs répètent les mêmes vers, et lui donnent plusieurs coups de bâton en cadence.",
+          "textWithEmoji": " Les Turcs répètent les mêmes vers, et lui donnent plusieurs 🎶 coups de bâton en cadence.",
+          "emojiWords": {
+            "plusieurs": "🎶"
+          }
+        },
+        {
+          "character": "COVIELLE",
+          "text": " LE MUFTI Non tener honta Questa star l’ultima affronta.",
+          "textWithEmoji": " LE MUFTI Non tener honta Questa star l’ultima affronta.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Les Turcs répètent les mêmes vers.",
+          "textWithEmoji": " Les Turcs répètent les mêmes vers.",
+          "emojiWords": {}
+        },
+        {
+          "character": "COVIELLE",
+          "text": " Le Mufti recommence une invocation et se retire après la cérémonie avec tous les Turcs, en dansant et chantant avec plusieurs instruments à la turque.",
+          "textWithEmoji": " Le Mufti recommence une invocation et se retire après la cérémonie 🎑 avec tous les Turcs, en dansant et chantant avec plusieurs 🎶 instruments à la turque.",
+          "emojiWords": {
+            "cérémonie": "🎑",
+            "plusieurs": "🎶"
+          }
+        }
+      ]
+    }
+  ]
+}

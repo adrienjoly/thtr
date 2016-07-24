@@ -69,6 +69,7 @@
     "title": "Le Bourgeois gentilhomme",
     "characters": [
       {
+        "selectable": true,
         "name": "MONSIEUR JOURDAIN",
         "desc": "bourgeois."
       },
