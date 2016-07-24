@@ -9,14 +9,17 @@ const emoji = (() => {
   return emoji
 })()
 
-const createWordRegExp = word => new RegExp('[ ^](' + word + ')[ $]', 'g')
+const SEPAR = '\\,\\;\\.'
+const RE_SEPAR = new RegExp('[' + SEPAR + ']')
+const createWordRegExp = word => new RegExp('([ ^])(' + word + ')([ ' + SEPAR + '$])', 'g')
 
 const emojiRegExp = createWordRegExp(Object.keys(emoji).join('|'))
 
 function findEmojiWords(text) {
   const emojiSet = {}
   ;(text.match(emojiRegExp) || []).forEach(word => {
-    emojiSet[word.trim()] = emoji[word.trim()]
+    word = word.replace(RE_SEPAR, '').trim()
+    emojiSet[word] = emoji[word]
   })
   return emojiSet
 }
@@ -25,8 +28,9 @@ function integrateEmoji(text) {
   let final = text.substr()
   let emojiWords = findEmojiWords(text)
   Object.keys(emojiWords).forEach(word => {
-    final = final.replace(new RegExp('(' + word + ')', 'g'), '$1 ' + emojiWords[word])
+    final = final.replace(createWordRegExp(word), '$1$2 ' + emojiWords[word] + '$3')
   })
+  // TODO: final = final.replace(emojiRegExp, (a, word) => console.log(arguments)/*'$1$2 ' + emojiWords[word] + '$3'*/)
   return final
 }
 

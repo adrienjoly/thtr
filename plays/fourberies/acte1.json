@@ -159,8 +159,10 @@
         {
           "character": "SILVESTRE",
           "text": "Par une lettre.",
-          "textWithEmoji": "Par une lettre.",
-          "emojiWords": {}
+          "textWithEmoji": "Par une lettre 💌.",
+          "emojiWords": {
+            "lettre": "💌"
+          }
         },
         {
           "character": "OCTAVE",
@@ -177,9 +179,10 @@
         {
           "character": "OCTAVE",
           "text": "Ah parle, si tu veux, et ne te fais point de la sorte, arracher les mots de la bouche.",
-          "textWithEmoji": "Ah parle, si tu veux, et ne te fais point ‼ de la sorte, arracher les mots de la bouche.",
+          "textWithEmoji": "Ah parle, si tu veux, et ne te fais point ‼ de la sorte, arracher les mots de la bouche 👄.",
           "emojiWords": {
-            "point": "‼"
+            "point": "‼",
+            "bouche": "👄"
           }
         },
         {
@@ -371,8 +374,9 @@
         {
           "character": "SCAPIN",
           "text": "Non; mais il ne tiendra qu’à vous que je la sache bientôt; et je suis homme consolatif, homme à m’intéresser aux affaires des jeunes gens.",
-          "textWithEmoji": "Non; mais il ne tiendra qu’à vous que je la sache bientôt; et je suis homme 👲 consolatif, homme 👲 à m’intéresser aux affaires des jeunes gens.",
+          "textWithEmoji": "Non; mais il ne tiendra qu’à vous que je la sache bientôt 🔜; et je suis homme 👲 consolatif, homme 👲 à m’intéresser aux affaires des jeunes gens.",
           "emojiWords": {
+            "bientôt": "🔜",
             "homme": "👲"
           }
         },
@@ -385,8 +389,10 @@
         {
           "character": "OCTAVE",
           "text": " Scapin, si tu pouvais trouver quelque invention, forger quelque machine, pour me tirer de la peine où je suis, je croirais t’être redevable de plus que de la vie.",
-          "textWithEmoji": " Scapin, si tu pouvais trouver quelque invention, forger quelque machine, pour me tirer de la peine où je suis, je croirais t’être redevable de plus que de la vie.",
-          "emojiWords": {}
+          "textWithEmoji": " Scapin, si tu pouvais trouver quelque invention, forger quelque machine 🎰, pour me tirer de la peine où je suis, je croirais t’être redevable de plus que de la vie.",
+          "emojiWords": {
+            "machine": "🎰"
+          }
         },
         {
           "character": "SCAPIN",
@@ -467,9 +473,10 @@
         {
           "character": "OCTAVE",
           "text": "Tu sais, Scapin, qu’il y a deux mois que le seigneur Géronte, et mon père, s’embarquèrent ensemble pour un voyage qui regarde certain commerce où leurs intérêts sont mêlés.",
-          "textWithEmoji": "Tu sais, Scapin, qu’il y a deux 👬 mois que le seigneur Géronte, et mon père, s’embarquèrent ensemble pour un voyage qui regarde certain commerce où leurs intérêts sont mêlés.",
+          "textWithEmoji": "Tu sais, Scapin, qu’il y a deux 👬 mois que le seigneur Géronte, et mon père 🎅, s’embarquèrent ensemble pour un voyage qui regarde certain commerce où leurs intérêts sont mêlés.",
           "emojiWords": {
-            "deux": "👬"
+            "deux": "👬",
+            "père": "🎅"
           }
         },
         {
@@ -505,8 +512,10 @@
         {
           "character": "OCTAVE",
           "text": "Comme nous sommes grands amis, il me fit aussitôt confidence de son amour, et me mena voir cette fille, que je trouvai belle à la vérité, mais non pas tant qu’il voulait que je la trouvasse.",
-          "textWithEmoji": "Comme nous sommes grands amis, il me fit aussitôt confidence de son amour, et me mena voir cette fille, que je trouvai belle à la vérité, mais non pas tant qu’il voulait que je la trouvasse.",
-          "emojiWords": {}
+          "textWithEmoji": "Comme nous sommes grands amis, il me fit aussitôt confidence de son amour, et me mena voir cette fille 👧, que je trouvai belle à la vérité, mais non pas tant qu’il voulait que je la trouvasse.",
+          "emojiWords": {
+            "fille": "👧"
+          }
         },
         {
           "character": "OCTAVE",
@@ -580,9 +589,10 @@
         {
           "character": "OCTAVE",
           "text": "Une autre aurait paru effroyable en l’état où elle était; car elle n’avait pour habillement qu’une méchante petite jupe, avec des brassières de nuit qui étaient de simple futaine; et sa coiffure était une cornette jaune, retroussée au haut de sa tête, qui laissait tomber en désordre ses cheveux sur ses épaules; et cependant faite comme cela, elle brillait de mille attraits, et ce n’était qu’agréments et que charmes, que toute sa personne.",
-          "textWithEmoji": "Une autre aurait paru effroyable en l’état où elle était; car elle n’avait pour habillement qu’une méchante petite jupe, avec des brassières de nuit 🌃 qui étaient de simple futaine; et sa coiffure était une cornette jaune, retroussée au haut de sa tête, qui laissait tomber en désordre ses cheveux sur ses épaules; et cependant faite comme cela, elle brillait de mille attraits, et ce n’était qu’agréments et que charmes, que toute sa personne.",
+          "textWithEmoji": "Une autre aurait paru effroyable en l’état où elle était; car elle n’avait pour habillement qu’une méchante petite jupe, avec des brassières de nuit 🌃 qui étaient de simple futaine; et sa coiffure était une cornette jaune, retroussée au haut de sa tête, qui laissait tomber en désordre ses cheveux sur ses épaules; et cependant faite comme cela, elle brillait de mille attraits, et ce n’était qu’agréments et que charmes, que toute sa personne 👱.",
           "emojiWords": {
-            "nuit": "🌃"
+            "nuit": "🌃",
+            "personne": "👱"
           }
         },
         {
@@ -600,8 +610,10 @@
         {
           "character": "SCAPIN",
           "text": "Oh je n’en doute point; et sans l’avoir vue, je vois bien qu’elle était tout à fait charmante.",
-          "textWithEmoji": "Oh je n’en doute point; et sans l’avoir vue, je vois bien qu’elle était tout à fait charmante.",
-          "emojiWords": {}
+          "textWithEmoji": "Oh je n’en doute point ‼; et sans l’avoir vue, je vois bien qu’elle était tout à fait charmante.",
+          "emojiWords": {
+            "point": "‼"
+          }
         },
         {
           "character": "OCTAVE",
@@ -658,8 +670,10 @@
         {
           "character": "OCTAVE",
           "text": "Après quelques paroles, dont je tâchai d’adoucir la douleur de cette charmante affligée, nous sortîmes de là; et demandant à Léandre ce qu’il lui semblait de cette personne, il me répondit froidement qu’il la trouvait assez jolie.",
-          "textWithEmoji": "Après quelques paroles, dont je tâchai d’adoucir la douleur de cette charmante affligée, nous sortîmes de là; et demandant à Léandre ce qu’il lui semblait de cette personne, il me répondit froidement qu’il la trouvait assez jolie.",
-          "emojiWords": {}
+          "textWithEmoji": "Après quelques paroles, dont je tâchai d’adoucir la douleur de cette charmante affligée, nous sortîmes de là; et demandant à Léandre ce qu’il lui semblait de cette personne 👱, il me répondit froidement qu’il la trouvait assez jolie.",
+          "emojiWords": {
+            "personne": "👱"
+          }
         },
         {
           "character": "OCTAVE",
@@ -717,8 +731,9 @@
         {
           "character": "SILVESTRE",
           "text": " On lui dit que la fille, quoique sans bien, et sans appui, est de famille honnête; et qu’à moins que de l’épouser, on ne peut souffrir ses poursuites.",
-          "textWithEmoji": " On lui dit que la fille, quoique sans bien, et sans appui, est de famille 👪 honnête; et qu’à moins que de l’épouser, on ne peut souffrir ses poursuites.",
+          "textWithEmoji": " On lui dit que la fille 👧, quoique sans bien, et sans appui, est de famille 👪 honnête; et qu’à moins que de l’épouser, on ne peut souffrir ses poursuites.",
           "emojiWords": {
+            "fille": "👧",
             "famille": "👪"
           }
         },
@@ -731,8 +746,10 @@
         {
           "character": "SILVESTRE",
           "text": " Il consulte dans sa tête, agite, raisonne, balance, prend sa résolution; le voilà marié avec elle depuis trois jours.",
-          "textWithEmoji": " Il consulte dans sa tête, agite, raisonne, balance, prend sa résolution; le voilà marié avec elle depuis trois jours.",
-          "emojiWords": {}
+          "textWithEmoji": " Il consulte dans sa tête, agite, raisonne, balance ♎, prend sa résolution; le voilà marié avec elle depuis trois jours.",
+          "emojiWords": {
+            "balance": "♎"
+          }
         },
         {
           "character": "SCAPIN",
@@ -743,8 +760,9 @@
         {
           "character": "SILVESTRE",
           "text": "Maintenant mets avec cela le retour imprévu du père, qu’on n’attendait que dans deux mois; la découverte que l’oncle a faite du secret de notre mariage, et l’autre mariage qu’on veut faire de lui avec la fille que le seigneur Géronte a eue d’une seconde femme qu’on dit qu’il a épousée à Tarente.",
-          "textWithEmoji": "Maintenant mets avec cela le retour imprévu du père, qu’on n’attendait que dans deux 👬 mois; la découverte que l’oncle a faite du secret de notre mariage 💒, et l’autre mariage 💒 qu’on veut faire de lui avec la fille 👧 que le seigneur Géronte a eue d’une seconde femme 👩 qu’on dit qu’il a épousée à Tarente.",
+          "textWithEmoji": "Maintenant mets avec cela le retour imprévu du père 🎅, qu’on n’attendait que dans deux 👬 mois; la découverte que l’oncle a faite du secret de notre mariage 💒, et l’autre mariage 💒 qu’on veut faire de lui avec la fille 👧 que le seigneur Géronte a eue d’une seconde femme 👩 qu’on dit qu’il a épousée à Tarente.",
           "emojiWords": {
+            "père": "🎅",
             "deux": "👬",
             "mariage": "💒",
             "fille": "👧",
@@ -754,8 +772,10 @@
         {
           "character": "OCTAVE",
           "text": "Et par-dessus tout cela, mets encore l’indigence où se trouve cette aimable personne, et l’impuissance où je me vois d’avoir de quoi la secourir.",
-          "textWithEmoji": "Et par-dessus tout cela, mets encore l’indigence où se trouve cette aimable personne, et l’impuissance où je me vois d’avoir de quoi la secourir.",
-          "emojiWords": {}
+          "textWithEmoji": "Et par-dessus tout cela, mets encore l’indigence où se trouve cette aimable personne 👱, et l’impuissance où je me vois d’avoir de quoi la secourir.",
+          "emojiWords": {
+            "personne": "👱"
+          }
         },
         {
           "character": "SCAPIN",
@@ -924,8 +944,11 @@
         {
           "character": "HYACINTE",
           "text": " Vous dépendez d’un père, qui veut vous marier à une autre personne; et je suis sûre que je mourrai, si ce malheur m’arrive.",
-          "textWithEmoji": " Vous dépendez d’un père, qui veut vous marier à une autre personne; et je suis sûre que je mourrai, si ce malheur m’arrive.",
-          "emojiWords": {}
+          "textWithEmoji": " Vous dépendez d’un père 🎅, qui veut vous marier à une autre personne 👱; et je suis sûre que je mourrai, si ce malheur m’arrive.",
+          "emojiWords": {
+            "père": "🎅",
+            "personne": "👱"
+          }
         },
         {
           "character": "OCTAVE",
@@ -945,8 +968,11 @@
         {
           "character": "OCTAVE",
           "text": " Ne pleurez donc point, je vous prie, mon aimable Hyacinte, car vos larmes me tuent, et je ne les puis voir sans me sentir percer le cœur.",
-          "textWithEmoji": " Ne pleurez donc point, je vous prie, mon aimable Hyacinte, car vos larmes me tuent, et je ne les puis voir sans me sentir percer le cœur.",
-          "emojiWords": {}
+          "textWithEmoji": " Ne pleurez donc point ‼, je vous prie, mon aimable Hyacinte, car vos larmes me tuent, et je ne les puis voir sans me sentir percer le cœur 💛.",
+          "emojiWords": {
+            "point": "‼",
+            "cœur": "💛"
+          }
         },
         {
           "character": "HYACINTE",
@@ -997,8 +1023,10 @@
         {
           "character": "SCAPIN",
           "text": "J’ai fait de grands serments de ne me mêler plus du monde; mais si vous m’en priez bien fort tous deux, peut-être...",
-          "textWithEmoji": "J’ai fait de grands serments de ne me mêler plus du monde; mais si vous m’en priez bien fort tous deux, peut-être...",
-          "emojiWords": {}
+          "textWithEmoji": "J’ai fait de grands serments de ne me mêler plus du monde; mais si vous m’en priez bien fort tous deux 👬, peut-être...",
+          "emojiWords": {
+            "deux": "👬"
+          }
         },
         {
           "character": "OCTAVE",
@@ -1053,8 +1081,10 @@
         {
           "character": "SCAPIN",
           "text": " Et vous, préparez-vous à soutenir avec fermeté l’abord de votre père.",
-          "textWithEmoji": " Et vous, préparez-vous à soutenir avec fermeté l’abord de votre père.",
-          "emojiWords": {}
+          "textWithEmoji": " Et vous, préparez-vous à soutenir avec fermeté l’abord de votre père 🎅.",
+          "emojiWords": {
+            "père": "🎅"
+          }
         },
         {
           "character": "OCTAVE",
@@ -1187,8 +1217,9 @@
         {
           "character": "SCAPIN",
           "text": " \"Tu as l’insolence, fripon, de t’engager sans le consentement de ton père, de contracter un mariage clandestin ?",
-          "textWithEmoji": " \"Tu as l’insolence, fripon, de t’engager sans le consentement de ton père, de contracter un mariage 💒 clandestin ?",
+          "textWithEmoji": " \"Tu as l’insolence, fripon, de t’engager sans le consentement de ton père 🎅, de contracter un mariage 💒 clandestin ?",
           "emojiWords": {
+            "père": "🎅",
             "mariage": "💒"
           }
         },
@@ -1357,8 +1388,10 @@
         {
           "character": "ARGANTE",
           "text": "Je voudrais bien savoir ce qu’ils me pourront dire sur ce beau mariage.",
-          "textWithEmoji": "Je voudrais bien savoir ce qu’ils me pourront dire sur ce beau mariage.",
-          "emojiWords": {}
+          "textWithEmoji": "Je voudrais bien savoir ce qu’ils me pourront dire sur ce beau mariage 💒.",
+          "emojiWords": {
+            "mariage": "💒"
+          }
         },
         {
           "character": "SCAPIN",
@@ -1457,8 +1490,10 @@
         {
           "character": "ARGANTE",
           "text": "Ah, ah, vous voilà donc, sage gouverneur de famille, beau directeur de jeunes gens.",
-          "textWithEmoji": "Ah, ah, vous voilà donc, sage gouverneur de famille, beau directeur de jeunes gens.",
-          "emojiWords": {}
+          "textWithEmoji": "Ah, ah, vous voilà donc, sage gouverneur de famille 👪, beau directeur de jeunes gens.",
+          "emojiWords": {
+            "famille": "👪"
+          }
         },
         {
           "character": "SCAPIN",
@@ -1629,8 +1664,9 @@
         {
           "character": "SCAPIN",
           "text": " Demandez-lui un peu quelles belles réprimandes je lui ai faites, et comme je l’ai chapitré sur le peu de respect qu’il gardait à un père, dont il devrait baiser les pas.",
-          "textWithEmoji": " Demandez-lui un peu quelles belles réprimandes je lui ai faites, et comme je l’ai chapitré sur le peu de respect qu’il gardait à un père, dont il devrait baiser 💏 les pas.",
+          "textWithEmoji": " Demandez-lui un peu quelles belles réprimandes je lui ai faites, et comme je l’ai chapitré sur le peu de respect qu’il gardait à un père 🎅, dont il devrait baiser 💏 les pas.",
           "emojiWords": {
+            "père": "🎅",
             "baiser": "💏"
           }
         },
@@ -1717,8 +1753,10 @@
         {
           "character": "SCAPIN",
           "text": " J’ai ouï dire, moi, que vous avez été autrefois un compagnon parmi les femmes, que vous faisiez de votre drôle avec les plus galantes de ce temps-là; et que vous n’en approchiez point, que vous ne poussassiez à bout.",
-          "textWithEmoji": " J’ai ouï dire, moi, que vous avez été autrefois un compagnon parmi les femmes, que vous faisiez de votre drôle avec les plus galantes de ce temps-là; et que vous n’en approchiez point, que vous ne poussassiez à bout.",
-          "emojiWords": {}
+          "textWithEmoji": " J’ai ouï dire, moi, que vous avez été autrefois un compagnon parmi les femmes, que vous faisiez de votre drôle avec les plus galantes de ce temps-là; et que vous n’en approchiez point ‼, que vous ne poussassiez à bout.",
+          "emojiWords": {
+            "point": "‼"
+          }
         },
         {
           "character": "ARGANTE",
@@ -1849,8 +1887,10 @@
         {
           "character": "ARGANTE",
           "text": "Cela m’aurait donné plus de facilité à rompre ce mariage.",
-          "textWithEmoji": "Cela m’aurait donné plus de facilité à rompre ce mariage.",
-          "emojiWords": {}
+          "textWithEmoji": "Cela m’aurait donné plus de facilité à rompre ce mariage 💒.",
+          "emojiWords": {
+            "mariage": "💒"
+          }
         },
         {
           "character": "SCAPIN",
@@ -1869,8 +1909,10 @@
         {
           "character": "SCAPIN",
           "text": "Vous ne le romprez point.",
-          "textWithEmoji": "Vous ne le romprez point.",
-          "emojiWords": {}
+          "textWithEmoji": "Vous ne le romprez point ‼.",
+          "emojiWords": {
+            "point": "‼"
+          }
         },
         {
           "character": "ARGANTE",
@@ -1889,8 +1931,10 @@
         {
           "character": "ARGANTE",
           "text": "Quoi, je n’aurai pas pour moi les droits de père, et la raison de la violence qu’on a faite à mon fils ?",
-          "textWithEmoji": "Quoi, je n’aurai pas pour moi les droits de père, et la raison de la violence qu’on a faite à mon fils ?",
-          "emojiWords": {}
+          "textWithEmoji": "Quoi, je n’aurai pas pour moi les droits de père 🎅, et la raison de la violence qu’on a faite à mon fils ?",
+          "emojiWords": {
+            "père": "🎅"
+          }
         },
         {
           "character": "SCAPIN",
@@ -2013,8 +2057,10 @@
         {
           "character": "SCAPIN",
           "text": "Vous ne le déshériterez point.",
-          "textWithEmoji": "Vous ne le déshériterez point.",
-          "emojiWords": {}
+          "textWithEmoji": "Vous ne le déshériterez point ‼.",
+          "emojiWords": {
+            "point": "‼"
+          }
         },
         {
           "character": "ARGANTE",
@@ -2111,8 +2157,10 @@
         {
           "character": "ARGANTE",
           "text": "Je ne me moque point.",
-          "textWithEmoji": "Je ne me moque point.",
-          "emojiWords": {}
+          "textWithEmoji": "Je ne me moque point ‼.",
+          "emojiWords": {
+            "point": "‼"
+          }
         },
         {
           "character": "SCAPIN",
@@ -2213,9 +2261,10 @@
         {
           "character": "SILVESTRE",
           "text": "J’avoue que tu es un grand homme, et voilà l’affaire en bon train; mais l’argent d’autre part nous presse pour notre subsistance, et nous avons de tous côtés des gens qui aboient après nous.",
-          "textWithEmoji": "J’avoue que tu es un grand 🏬 homme, et voilà l’affaire en bon train; mais l’argent d’autre part 🍕 nous presse pour notre subsistance, et nous avons de tous côtés des gens qui aboient après nous.",
+          "textWithEmoji": "J’avoue que tu es un grand 🏬 homme, et voilà l’affaire en bon train 🚄; mais l’argent d’autre part 🍕 nous presse pour notre subsistance, et nous avons de tous côtés des gens qui aboient après nous.",
           "emojiWords": {
             "grand": "🏬",
+            "train": "🚄",
             "part": "🍕"
           }
         },
@@ -2250,8 +2299,10 @@
         {
           "character": "SCAPIN",
           "text": " Enfonce ton bonnet en méchant garçon.",
-          "textWithEmoji": " Enfonce ton bonnet en méchant garçon.",
-          "emojiWords": {}
+          "textWithEmoji": " Enfonce ton bonnet en méchant garçon 👦.",
+          "emojiWords": {
+            "garçon": "👦"
+          }
         },
         {
           "character": "SCAPIN",
@@ -2310,8 +2361,10 @@
         {
           "character": "SCAPIN",
           "text": "Va, va; nous partagerons les périls en frères; et trois ans de galère de plus, ou de moins, ne sont pas pour arrêter un noble cœur.",
-          "textWithEmoji": "Va, va; nous partagerons les périls en frères; et trois ans de galère de plus, ou de moins, ne sont pas pour arrêter un noble cœur.",
-          "emojiWords": {}
+          "textWithEmoji": "Va, va; nous partagerons les périls en frères; et trois ans de galère de plus, ou de moins, ne sont pas pour arrêter un noble cœur 💛.",
+          "emojiWords": {
+            "cœur": "💛"
+          }
         }
       ]
     }

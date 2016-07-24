@@ -163,9 +163,10 @@
         {
           "character": "MAÎTRE DE MUSIQUE",
           "text": " Nous avons trouvé ici un homme comme il nous le faut à tous deux.",
-          "textWithEmoji": " Nous avons trouvé ici un homme 👲 comme il nous le faut à tous deux.",
+          "textWithEmoji": " Nous avons trouvé ici un homme 👲 comme il nous le faut à tous deux 👬.",
           "emojiWords": {
-            "homme": "👲"
+            "homme": "👲",
+            "deux": "👬"
           }
         },
         {
@@ -203,16 +204,19 @@
         {
           "character": "MAÎTRE À DANSER",
           "text": " Les applaudissements me touchent; et je tiens que dans tous les beaux arts, c’est un supplice assez fâcheux, que de se produire à des sots; que d’essuyer sur des compositions, la barbarie d’un stupide.",
-          "textWithEmoji": " Les applaudissements 👏 me touchent; et je tiens que dans tous les beaux arts, c’est un supplice assez fâcheux, que de se produire à des sots; que d’essuyer sur des compositions, la barbarie d’un stupide.",
+          "textWithEmoji": " Les applaudissements 👏 me touchent; et je tiens que dans tous les beaux arts 🎭, c’est un supplice assez fâcheux, que de se produire à des sots; que d’essuyer sur des compositions, la barbarie d’un stupide.",
           "emojiWords": {
-            "applaudissements": "👏"
+            "applaudissements": "👏",
+            "arts": "🎭"
           }
         },
         {
           "character": "MAÎTRE À DANSER",
           "text": " Il y a plaisir, ne m’en parlez point, à travailler pour des personnes qui soient capables de sentir les délicatesses d’un art; qui sachent faire un doux accueil aux beautés d’un ouvrage; et par de chatouillantes approbations, vous régaler de votre travail.",
-          "textWithEmoji": " Il y a plaisir, ne m’en parlez point, à travailler pour des personnes qui soient capables de sentir les délicatesses d’un art; qui sachent faire un doux accueil aux beautés d’un ouvrage; et par de chatouillantes approbations, vous régaler de votre travail.",
-          "emojiWords": {}
+          "textWithEmoji": " Il y a plaisir, ne m’en parlez point ‼, à travailler pour des personnes qui soient capables de sentir les délicatesses d’un art; qui sachent faire un doux accueil aux beautés d’un ouvrage; et par de chatouillantes approbations, vous régaler de votre travail.",
+          "emojiWords": {
+            "point": "‼"
+          }
         },
         {
           "character": "MAÎTRE À DANSER",
@@ -243,10 +247,11 @@
         {
           "character": "MAÎTRE DE MUSIQUE",
           "text": " Des louanges toutes pures, ne mettent point un homme à son aise : il y faut mêler du solide; et la meilleure façon de louer, c’est de louer avec les mains.",
-          "textWithEmoji": " Des louanges toutes pures, ne mettent point ‼ un homme 👲 à son aise : il y faut mêler du solide; et la meilleure façon de louer, c’est de louer avec les mains.",
+          "textWithEmoji": " Des louanges toutes pures, ne mettent point ‼ un homme 👲 à son aise : il y faut mêler du solide; et la meilleure façon de louer, c’est de louer avec les mains 👐.",
           "emojiWords": {
             "point": "‼",
-            "homme": "👲"
+            "homme": "👲",
+            "mains": "👐"
           }
         },
         {
@@ -416,8 +421,10 @@
         {
           "character": "MAÎTRE DE MUSIQUE",
           "text": "Nous n’en doutons point.",
-          "textWithEmoji": "Nous n’en doutons point.",
-          "emojiWords": {}
+          "textWithEmoji": "Nous n’en doutons point ‼.",
+          "emojiWords": {
+            "point": "‼"
+          }
         },
         {
           "character": "MONSIEUR JOURDAIN",
@@ -498,8 +505,11 @@
         {
           "character": "MAÎTRE À DANSER",
           "text": " Il entr’ouvre sa robe, et fait voir un haut-de-chausses étroit de velours rouge, et une camisole de velours vert, dont il est vêtu.",
-          "textWithEmoji": " Il entr’ouvre sa robe, et fait voir un haut-de-chausses étroit de velours rouge, et une camisole de velours vert, dont il est vêtu.",
-          "emojiWords": {}
+          "textWithEmoji": " Il entr’ouvre sa robe 👗, et fait voir un haut-de-chausses étroit de velours rouge 💄, et une camisole de velours vert, dont il est vêtu.",
+          "emojiWords": {
+            "robe": "👗",
+            "rouge": "💄"
+          }
         },
         {
           "character": "MAÎTRE À DANSER",
@@ -542,8 +552,10 @@
         {
           "character": "MONSIEUR JOURDAIN",
           "text": "Tenez ma robe.",
-          "textWithEmoji": "Tenez ma robe.",
-          "emojiWords": {}
+          "textWithEmoji": "Tenez ma robe 👗.",
+          "emojiWords": {
+            "robe": "👗"
+          }
         },
         {
           "character": "MONSIEUR JOURDAIN",
@@ -616,8 +628,10 @@
         {
           "character": "MONSIEUR JOURDAIN",
           "text": " Attendez, je crois que je serai mieux sans robe...",
-          "textWithEmoji": " Attendez, je crois que je serai mieux sans robe...",
-          "emojiWords": {}
+          "textWithEmoji": " Attendez, je crois que je serai mieux sans robe 👗...",
+          "emojiWords": {
+            "robe": "👗"
+          }
         },
         {
           "character": "MONSIEUR JOURDAIN",
@@ -811,8 +825,10 @@
         {
           "character": "MONSIEUR JOURDAIN",
           "text": " Mais je ne sais quel temps je pourrai prendre; car outre le Maître d’armes qui me montre, j’ai arrêté [i] encore un Maître de philosophie qui doit commencer ce matin.",
-          "textWithEmoji": " Mais je ne sais quel temps je pourrai prendre; car outre le Maître d’armes qui me montre, j’ai arrêté [i] encore un Maître de philosophie qui doit commencer ce matin.",
-          "emojiWords": {}
+          "textWithEmoji": " Mais je ne sais quel temps je pourrai prendre; car outre le Maître d’armes qui me montre ⌚, j’ai arrêté [i] encore un Maître de philosophie qui doit commencer ce matin.",
+          "emojiWords": {
+            "montre": "⌚"
+          }
         },
         {
           "character": "MAÎTRE DE MUSIQUE",
@@ -903,9 +919,10 @@
         {
           "character": "MAÎTRE À DANSER",
           "text": "Lorsqu’un homme a commis un manquement dans sa conduite, soit aux affaires de sa famille, ou au gouvernement d’un État, ou au commandement d’une armée, ne dit-on pas toujours : \"Un tel a fait un mauvais pas dans une telle affaire \" ?",
-          "textWithEmoji": "Lorsqu’un homme 👲 a commis un manquement dans sa conduite, soit aux affaires de sa famille, ou au gouvernement d’un État, ou au commandement d’une armée, ne dit-on pas toujours : \"Un tel a fait un mauvais pas dans une telle affaire \" ?",
+          "textWithEmoji": "Lorsqu’un homme 👲 a commis un manquement dans sa conduite, soit aux affaires de sa famille 👪, ou au gouvernement d’un État, ou au commandement d’une armée, ne dit-on pas toujours : \"Un tel a fait un mauvais pas dans une telle affaire \" ?",
           "emojiWords": {
-            "homme": "👲"
+            "homme": "👲",
+            "famille": "👪"
           }
         },
         {
@@ -923,8 +940,10 @@
         {
           "character": "MONSIEUR JOURDAIN",
           "text": "Cela est vrai, vous avez raison tous deux.",
-          "textWithEmoji": "Cela est vrai, vous avez raison tous deux.",
-          "emojiWords": {}
+          "textWithEmoji": "Cela est vrai, vous avez raison tous deux 👬.",
+          "emojiWords": {
+            "deux": "👬"
+          }
         },
         {
           "character": "MAÎTRE À DANSER",
@@ -1017,8 +1036,10 @@
         {
           "character": "MONSIEUR JOURDAIN",
           "text": " DIALOGUE EN MUSIQUE UNE MUSICIENNE ET DEUX MUSICIENS Un cœur, dans l’amoureux empire, De mille soins est toujours agité : On dit qu’avec plaisir on languit, on soupire; Mais, quoi qu’on puisse dire, Il n’est rien de si doux que notre liberté.",
-          "textWithEmoji": " DIALOGUE EN MUSIQUE UNE MUSICIENNE ET DEUX MUSICIENS Un cœur, dans l’amoureux empire, De mille soins est toujours agité : On dit qu’avec plaisir on languit, on soupire; Mais, quoi qu’on puisse dire, Il n’est rien de si doux que notre liberté.",
-          "emojiWords": {}
+          "textWithEmoji": " DIALOGUE EN MUSIQUE UNE MUSICIENNE ET DEUX MUSICIENS Un cœur 💛, dans l’amoureux empire, De mille soins est toujours agité : On dit qu’avec plaisir on languit, on soupire; Mais, quoi qu’on puisse dire, Il n’est rien de si doux que notre liberté.",
+          "emojiWords": {
+            "cœur": "💛"
+          }
         },
         {
           "character": "MONSIEUR JOURDAIN",
@@ -1107,8 +1128,10 @@
         {
           "character": "MONSIEUR JOURDAIN",
           "text": " MUSICIENNE Pour défendre notre gloire, Je te veux offrir mon cœur.",
-          "textWithEmoji": " MUSICIENNE Pour défendre notre gloire, Je te veux offrir mon cœur.",
-          "emojiWords": {}
+          "textWithEmoji": " MUSICIENNE Pour défendre notre gloire, Je te veux offrir mon cœur 💛.",
+          "emojiWords": {
+            "cœur": "💛"
+          }
         },
         {
           "character": "MONSIEUR JOURDAIN",
