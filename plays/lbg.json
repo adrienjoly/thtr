@@ -5,63 +5,78 @@
     {
       "selectable": true,
       "name": "MONSIEUR JOURDAIN",
-      "desc": "bourgeois."
+      "desc": "bourgeois.",
+      "avatarFile": "/play/lbg/avatars/monsieur-jourdain.png"
     },
     {
       "name": "MADAME JOURDAIN",
-      "desc": "sa femme."
+      "desc": "sa femme.",
+      "avatarFile": "/play/lbg/avatars/madame-jourdain.png"
     },
     {
       "name": "LUCILE",
-      "desc": "fille de M. Jourdain."
+      "desc": "fille de M. Jourdain.",
+      "avatarFile": "/play/lbg/avatars/lucile.png"
     },
     {
       "name": "NICOLE",
-      "desc": "servante."
+      "desc": "servante.",
+      "avatarFile": "/play/lbg/avatars/nicole.png"
     },
     {
       "name": "CLÉONTE",
-      "desc": "amoureux de Lucile."
+      "desc": "amoureux de Lucile.",
+      "avatarFile": "/play/lbg/avatars/cleonte.png"
     },
     {
       "name": "COVIELLE",
-      "desc": "valet de Cléonte."
+      "desc": "valet de Cléonte.",
+      "avatarFile": "/play/lbg/avatars/covielle.png"
     },
     {
       "name": "DORANTE",
-      "desc": "comte, amant de Dorimène."
+      "desc": "comte, amant de Dorimène.",
+      "avatarFile": "/play/lbg/avatars/dorante.png"
     },
     {
       "name": "DORIMÈNE",
-      "desc": "marquise."
+      "desc": "marquise.",
+      "avatarFile": "/play/lbg/avatars/dorimene.png"
     },
     {
       "name": "MAÎTRE DE MUSIQUE.",
-      "desc": ""
+      "desc": "",
+      "avatarFile": "/play/lbg/avatars/maitre-de-musique.png"
     },
     {
       "name": "ÉLÈVE DU MAÎTRE DE MUSIQUE.",
-      "desc": ""
+      "desc": "",
+      "avatarFile": "/play/lbg/avatars/eleve-du-maitre-de-musique.png"
     },
     {
       "name": "MAÎTRE À DANSER.",
-      "desc": ""
+      "desc": "",
+      "avatarFile": "/play/lbg/avatars/maitre-a-danser.png"
     },
     {
       "name": "MAÎTRE D’ARMES.",
-      "desc": ""
+      "desc": "",
+      "avatarFile": "/play/lbg/avatars/maitre-d'armes.png"
     },
     {
       "name": "MAÎTRE DE PHILOSOPHIE.",
-      "desc": ""
+      "desc": "",
+      "avatarFile": "/play/lbg/avatars/maitre-de-philosophie.png"
     },
     {
       "name": "MAÎTRE TAILLEUR.",
-      "desc": ""
+      "desc": "",
+      "avatarFile": "/play/lbg/avatars/maitre-tailleur.png"
     },
     {
       "name": "GARÇON TAILLEUR.",
-      "desc": ""
+      "desc": "",
+      "avatarFile": "/play/lbg/avatars/garcon-tailleur.png"
     },
     {
       "name": "DEUX LAQUAIS.",
