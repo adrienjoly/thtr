@@ -10,6 +10,10 @@ const appendEmojiWords = dialogue => dialogue.map(item => Object.assign(item, {
   emojiWords: EmojiApplier.findEmojiWords(item.text)
 }))
 
+const appendIntegratedEmoji = dialogue => dialogue.map(item => Object.assign(item, {
+  textWithEmoji: EmojiApplier.integrateEmoji(item.text)
+}))
+
 function subDivideIntoSentences(dialogue) {
   var sentences = []
   dialogue.forEach(item => {
@@ -72,7 +76,7 @@ function parseText(text) {
     return {
       act: act.split(',')[0],
       scene: index + 1,
-      dialogue: appendEmojiWords(subDivideIntoSentences(dialogue))
+      dialogue: appendEmojiWords(appendIntegratedEmoji(subDivideIntoSentences(dialogue)))
     };
   });
 
