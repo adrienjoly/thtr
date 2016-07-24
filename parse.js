@@ -3,8 +3,16 @@
 var fs = require('fs');
 var EmojiApplier = require('./EmojiApplier')
 
+const SENTIMENT_LEX_FR = JSON.parse(fs.readFileSync('./node_modules/sentiment-french/build/AFINN.json').toString())
+
 const ACTOR_NAME = /^[^a-z0-9\.\,]{3,}/;
 const ACTOR_SPEECH = /\n([^a-z0-9\.]{3,}[^\.]+)\.\- /;
+
+const getSentimentFromFrenchText = text => require('sentiment-french')(text, SENTIMENT_LEX_FR)
+
+const appendSentiment = dialogue => dialogue.map(item => Object.assign(item, {
+  sentiment: getSentimentFromFrenchText(item.text)
+}))
 
 const appendEmojiWords = dialogue => dialogue.map(item => Object.assign(item, {
   emojiWords: EmojiApplier.findEmojiWords(item.text)
@@ -76,7 +84,8 @@ function parseText(text) {
     return {
       act: act.split(',')[0],
       scene: index + 1,
-      dialogue: appendEmojiWords(appendIntegratedEmoji(subDivideIntoSentences(dialogue)))
+      dialogue: appendEmojiWords(appendIntegratedEmoji(/*appendSentiment*/(subDivideIntoSentences(dialogue))))
+      // TODO: use fonctional composition, instead of using map() in every fct
     };
   });
 

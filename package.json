@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "express": "^4.14.0",
-    "request": "^2.74.0"
+    "request": "^2.74.0",
+    "sentiment-french": "^1.0.2"
   }
 }
