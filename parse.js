@@ -10,17 +10,30 @@ const ACTOR_SPEECH = /\n([^a-z0-9\.]{3,}[^\.]+)\.\- /;
 
 const getSentimentFromFrenchText = text => require('sentiment-french')(text, SENTIMENT_LEX_FR)
 
-const appendSentiment = dialogue => dialogue.map(item => Object.assign(item, {
+const appendSentiment = item => Object.assign(item, {
   sentiment: getSentimentFromFrenchText(item.text)
-}))
+})
 
-const appendEmojiWords = dialogue => dialogue.map(item => Object.assign(item, {
+const appendEmojiWords = item => Object.assign(item, {
   emojiWords: EmojiApplier.findEmojiWords(item.text)
-}))
+})
 
-const appendIntegratedEmoji = dialogue => dialogue.map(item => Object.assign(item, {
+const appendIntegratedEmoji = item => Object.assign(item, {
   textWithEmoji: EmojiApplier.integrateEmoji(item.text)
-}))
+})
+
+const compose = function() {
+  const fcts = arguments
+  return param => {
+    let v = param
+    for (let i = 0; i < fcts.length; ++i) {
+      v = fcts[i](v)
+    }
+    return v
+  }
+}
+
+const dialogueProcessors = compose(appendIntegratedEmoji, appendEmojiWords /*, appendSentiment*/)
 
 function subDivideIntoSentences(dialogue) {
   var sentences = []
@@ -75,17 +88,16 @@ function parseText(text) {
     var characterList = all.shift();
     var characters = all.filter((a, i) => (i + 1) % 2);
     var speech = all.filter((a, i) => i % 2);
-    var dialogue = characters.map((a, i) => {
+    var dialogue = subDivideIntoSentences(characters.map((a, i) => {
       return {
         character: a,
         text: speech[i]
       };
-    })
+    }))
     return {
       act: act.split(',')[0],
       scene: index + 1,
-      dialogue: appendEmojiWords(appendIntegratedEmoji(/*appendSentiment*/(subDivideIntoSentences(dialogue))))
-      // TODO: use fonctional composition, instead of using map() in every fct
+      dialogue: dialogue.map(dialogueProcessors) 
     };
   });
 
