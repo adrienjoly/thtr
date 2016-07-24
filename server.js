@@ -8,10 +8,7 @@ const PATH_PLAYS = './plays/'
 const makeActFileName = ({ play, act }) => PATH_PLAYS + play + '/acte' + act + '.json'
 const readActFile = param => fs.readFileSync(makeActFileName(param)).toString()
 const getActJson = param => JSON.parse(readActFile(param))
-const getPlayJson = play => {
-  var { title, characters } = JSON.parse(readActFile({ play: play, act: 1 }))
-  return { title, characters }
-}
+const getPlayJson = play => JSON.parse(fs.readFileSync(PATH_PLAYS + play + '.json').toString())
 
 app.get('/', (req, res) =>
   res.send('Hey, how are you today?'))
