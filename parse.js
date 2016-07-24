@@ -1,18 +1,10 @@
-// text parser from http://www.toutmoliere.net/acte-1,405363.html
+// converts txt transcripts from www.toutmoliere.net into json files
 
 var fs = require('fs');
 var EmojiApplier = require('./EmojiApplier')
 
-const SENTIMENT_LEX_FR = JSON.parse(fs.readFileSync('./node_modules/sentiment-french/build/AFINN.json').toString())
-
 const ACTOR_NAME = /^[^a-z0-9\.\,]{3,}/;
 const ACTOR_SPEECH = /\n([^a-z0-9\.]{3,}[^\.]+)\.\- /;
-
-const getSentimentFromFrenchText = text => require('sentiment-french')(text, SENTIMENT_LEX_FR)
-
-const appendSentiment = item => Object.assign(item, {
-  sentiment: getSentimentFromFrenchText(item.text)
-})
 
 const appendEmojiWords = item => Object.assign(item, {
   emojiWords: EmojiApplier.findEmojiWords(item.text)
@@ -41,7 +33,7 @@ const compose = function() {
   }
 }
 
-const dialogueProcessors = compose(removeReferences, appendIntegratedEmoji, appendEmojiWords /*, appendSentiment*/)
+const dialogueProcessors = compose(removeReferences, appendIntegratedEmoji, appendEmojiWords)
 
 function subDivideIntoSentences(dialogue) {
   var sentences = []
