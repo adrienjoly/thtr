@@ -19,7 +19,7 @@ app.get('/api/file/:file', (req, res) =>
 app.get('/api/plays', (req, res) => {
   fs.readdir(PATH_PLAYS, (err, plays) =>
     res.json(plays.filter(id => id.indexOf('.json') != -1).map(id =>
-      Object.assign({ id: id }, getPlayJson(id.replace('.json', '')))
+      Object.assign({ id: id.replace('.json', '') }, getPlayJson(id.replace('.json', '')))
     ))
   )
 })
