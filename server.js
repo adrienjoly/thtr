@@ -18,8 +18,8 @@ app.get('/api/file/:file', (req, res) =>
  
 app.get('/api/plays', (req, res) => {
   fs.readdir(PATH_PLAYS, (err, plays) =>
-    res.json(plays.filter(id => id !== '.DS_Store').map(id => // excludes .DS_Store from list of plays
-      Object.assign({ id: id }, getPlayJson(id))
+    res.json(plays.filter(id => id.indexOf('.json') != -1).map(id =>
+      Object.assign({ id: id }, getPlayJson(id.replace('.json', '')))
     ))
   )
 })
