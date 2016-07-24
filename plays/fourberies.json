@@ -12,7 +12,8 @@
     },
     {
       "name": "OCTAVE",
-      "desc": "fils d’Argante, et amant de Hyacinte."
+      "desc": "fils d’Argante, et amant de Hyacinte.",
+      "avatarFile": "/play/fourberies/avatars/octave.png"
     },
     {
       "name": "LÉANDRE",
@@ -28,11 +29,13 @@
     },
     {
       "name": "SCAPIN",
-      "desc": "valet de Léandre, et fourbe."
+      "desc": "valet de Léandre, et fourbe.",
+      "avatarFile": "/play/fourberies/avatars/scapin.png"
     },
     {
       "name": "SILVESTRE",
-      "desc": "valet d’Octave."
+      "desc": "valet d’Octave.",
+      "avatarFile": "/play/fourberies/avatars/silvestre.png"
     },
     {
       "name": "NÉRINE",

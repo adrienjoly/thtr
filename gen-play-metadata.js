@@ -1,12 +1,23 @@
 const fs = require('fs')
 
 const PATH_PLAYS = './plays/'
+const URL_PLAYS = '/play/'
 
 const readPlay = id => JSON.parse(fs.readFileSync(PATH_PLAYS + id + '/acte1.json').toString())
 
 const genPlayMetadata = id => {
   var { title, characters } = readPlay(id)
-  return { id: id, title, characters }
+  const appendAvatar = char => {
+    const avatarFile = id + '/avatars/' + char.name.toLowerCase() + '.png'
+    return !fs.existsSync(PATH_PLAYS + avatarFile) ? char : Object.assign(char, {
+      avatarFile: URL_PLAYS + avatarFile
+    })
+  }
+  return {
+    id: id,
+    title,
+    characters: characters.map(appendAvatar)
+  }
 }
 
 fs.readdir(PATH_PLAYS, (err, plays) =>
