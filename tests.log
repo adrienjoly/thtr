@@ -13,6 +13,7 @@
         "desc": "père de Léandre et de Hyacinte."
       },
       {
+        "selectable": true,
         "name": "OCTAVE",
         "desc": "fils d’Argante, et amant de Hyacinte.",
         "avatarFile": "/play/fourberies/avatars/octave.png"
@@ -30,11 +31,13 @@
         "desc": "fille de Géronte, et amante d’Octave."
       },
       {
+        "selectable": true,
         "name": "SCAPIN",
         "desc": "valet de Léandre, et fourbe.",
         "avatarFile": "/play/fourberies/avatars/scapin.png"
       },
       {
+        "selectable": true,
         "name": "SILVESTRE",
         "desc": "valet d’Octave.",
         "avatarFile": "/play/fourberies/avatars/silvestre.png"
