@@ -1,7 +1,13 @@
 {
   "name": "thtr",
   "version": "1.0.0",
-  "description": "",
+  "description": "cool weekend project with olivier desmoulin & jerome gangneux about theatre",
+  "author": "Adrien Joly",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrienjoly/thtr.git"
+  },
   "main": "server.js",
   "scripts": {
     "fetch-emoji": "node fetch-emoji.js >emoji.csv",
@@ -10,8 +16,6 @@
     "start": "node server.js",
     "test": "curl http://localhost:3000/api/play/fourberies/act/1"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "express": "^4.14.0",
     "request": "^2.74.0"
