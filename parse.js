@@ -5,6 +5,19 @@ var fs = require('fs');
 const ACTOR_NAME = /^[^a-z0-9\.\,]{3,}/;
 const ACTOR_SPEECH = /\n([^a-z0-9\.]{3,}[^\.]+)\.\- /;
 
+function subDivideIntoSentences(dialogue) {
+  var sentences = []
+  dialogue.forEach(item => {
+    item.text//.split(/[\?\!]/)
+      .match(/[^\.!\?]+[\.!\?]+/g)
+      .forEach(sentence => sentences.push({
+        character: item.character,
+        text: sentence
+      }))
+  })
+  return sentences
+}
+
 function parseText(text) {
   var parts = text
     .split('\n[1]')[0] // delete references at end of file
@@ -54,7 +67,7 @@ function parseText(text) {
     return {
       act: act.split(',')[0],
       scene: index + 1,
-      dialogue: dialogue
+      dialogue: subDivideIntoSentences(dialogue)
     };
   });
 

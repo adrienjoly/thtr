@@ -57,7 +57,15 @@
       "dialogue": [
         {
           "character": "OCTAVE",
-          "text": "Ah fâcheuses nouvelles pour un cœur amoureux ! Dures extrémités où je me vois réduit ! Tu viens, Silvestre, d’apprendre au port, que mon père revient ?"
+          "text": "Ah fâcheuses nouvelles pour un cœur amoureux !"
+        },
+        {
+          "character": "OCTAVE",
+          "text": " Dures extrémités où je me vois réduit !"
+        },
+        {
+          "character": "OCTAVE",
+          "text": " Tu viens, Silvestre, d’apprendre au port, que mon père revient ?"
         },
         {
           "character": "SILVESTRE",
@@ -125,7 +133,11 @@
         },
         {
           "character": "SILVESTRE",
-          "text": "Qu’ai-je à parler davantage ! Vous n’oubliez aucune circonstance, et vous dites les choses tout justement comme elles sont."
+          "text": "Qu’ai-je à parler davantage !"
+        },
+        {
+          "character": "SILVESTRE",
+          "text": " Vous n’oubliez aucune circonstance, et vous dites les choses tout justement comme elles sont."
         },
         {
           "character": "OCTAVE",
@@ -149,11 +161,19 @@
         },
         {
           "character": "SILVESTRE",
-          "text": "Les réprimandes ne sont rien ; et plût au Ciel que j’en fusse quitte à ce prix ! Mais j’ai bien la mine, pour moi, de payer plus cher vos folies, et je vois se former de loin un nuage de coups de bâton qui crèvera sur mes épaules."
+          "text": "Les réprimandes ne sont rien ; et plût au Ciel que j’en fusse quitte à ce prix !"
+        },
+        {
+          "character": "SILVESTRE",
+          "text": " Mais j’ai bien la mine, pour moi, de payer plus cher vos folies, et je vois se former de loin un nuage de coups de bâton qui crèvera sur mes épaules."
         },
         {
           "character": "OCTAVE",
-          "text": "Ô Ciel ! par où sortir de l’embarras où je me trouve ?"
+          "text": "Ô Ciel !"
+        },
+        {
+          "character": "OCTAVE",
+          "text": " par où sortir de l’embarras où je me trouve ?"
         },
         {
           "character": "SILVESTRE",
@@ -169,7 +189,15 @@
         },
         {
           "character": "OCTAVE",
-          "text": "Que dois-je faire ? Quelle résolution prendre ? À quel remède recourir ?\n "
+          "text": "Que dois-je faire ?"
+        },
+        {
+          "character": "OCTAVE",
+          "text": " Quelle résolution prendre ?"
+        },
+        {
+          "character": "OCTAVE",
+          "text": " À quel remède recourir ?"
         }
       ]
     },
@@ -179,7 +207,19 @@
       "dialogue": [
         {
           "character": "SCAPIN",
-          "text": "Qu’est-ce, Seigneur Octave, qu’avez-vous ? Qu’y a-t-il ? Quel désordre est-ce là ? Je vous vois tout troublé."
+          "text": "Qu’est-ce, Seigneur Octave, qu’avez-vous ?"
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Qu’y a-t-il ?"
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Quel désordre est-ce là ?"
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Je vous vois tout troublé."
         },
         {
           "character": "OCTAVE",
@@ -207,7 +247,11 @@
         },
         {
           "character": "OCTAVE",
-          "text": "Hélas ! tu ne sais pas la cause de mon inquiétude."
+          "text": "Hélas !"
+        },
+        {
+          "character": "OCTAVE",
+          "text": " tu ne sais pas la cause de mon inquiétude."
         },
         {
           "character": "SCAPIN",
@@ -215,15 +259,27 @@
         },
         {
           "character": "OCTAVE",
-          "text": "Ah ! Scapin, si tu pouvais trouver quelque invention, forger quelque machine, pour me tirer de la peine où je suis, je croirais t’être redevable de plus que de la vie."
-        },
-        {
-          "character": "SCAPIN",
-          "text": "À vous dire la vérité, il y a peu de choses qui me soient impossibles, quand je m’en veux mêler. J’ai sans doute [2] reçu du Ciel un génie assez beau pour toutes les fabriques [3] de ces gentillesses d’esprit, de ces galanteries ingénieuses à qui le vulgaire ignorant donne le nom de fourberies ; et je puis dire sans vanité, qu’on n’a guère vu d’homme qui fût plus habile ouvrier de ressorts et d’intrigues ; qui ait acquis plus de gloire que moi dans ce noble métier : mais, ma foi, le mérite est trop maltraité aujourd’hui, et j’ai renoncé à toutes choses depuis certain chagrin d’une affaire qui m’arriva."
+          "text": "Ah !"
         },
         {
           "character": "OCTAVE",
-          "text": "Comment ? Quelle affaire, Scapin ?"
+          "text": " Scapin, si tu pouvais trouver quelque invention, forger quelque machine, pour me tirer de la peine où je suis, je croirais t’être redevable de plus que de la vie."
+        },
+        {
+          "character": "SCAPIN",
+          "text": "À vous dire la vérité, il y a peu de choses qui me soient impossibles, quand je m’en veux mêler."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " J’ai sans doute [2] reçu du Ciel un génie assez beau pour toutes les fabriques [3] de ces gentillesses d’esprit, de ces galanteries ingénieuses à qui le vulgaire ignorant donne le nom de fourberies ; et je puis dire sans vanité, qu’on n’a guère vu d’homme qui fût plus habile ouvrier de ressorts et d’intrigues ; qui ait acquis plus de gloire que moi dans ce noble métier : mais, ma foi, le mérite est trop maltraité aujourd’hui, et j’ai renoncé à toutes choses depuis certain chagrin d’une affaire qui m’arriva."
+        },
+        {
+          "character": "OCTAVE",
+          "text": "Comment ?"
+        },
+        {
+          "character": "OCTAVE",
+          "text": " Quelle affaire, Scapin ?"
         },
         {
           "character": "SCAPIN",
@@ -243,7 +299,19 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Oui. Elle en usa fort mal avec moi, et je me dépitai de telle sorte contre l’ingratitude du siècle, que je résolus de ne plus rien faire. Baste [i] . Ne laissez pas de me conter votre aventure."
+          "text": "Oui."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Elle en usa fort mal avec moi, et je me dépitai de telle sorte contre l’ingratitude du siècle, que je résolus de ne plus rien faire."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Baste [i] ."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Ne laissez pas de me conter votre aventure."
         },
         {
           "character": "OCTAVE",
@@ -271,7 +339,15 @@
         },
         {
           "character": "OCTAVE",
-          "text": "Comme nous sommes grands amis, il me fit aussitôt confidence de son amour, et me mena voir cette fille, que je trouvai belle à la vérité, mais non pas tant qu’il voulait que je la trouvasse. Il ne m’entretenait que d’elle chaque jour ; m’exagérait à tous moments sa beauté, et sa grâce ; me louait son esprit, et me parlait avec transport des charmes de son entretien, dont il me rapportait jusqu’aux moindres paroles, qu’il s’efforçait toujours de me faire trouver les plus spirituelles du monde. Il me querellait quelquefois de n’être pas assez sensible aux choses qu’il me venait dire, et me blâmait sans cesse de l’indifférence où j’étais pour les feux de l’amour."
+          "text": "Comme nous sommes grands amis, il me fit aussitôt confidence de son amour, et me mena voir cette fille, que je trouvai belle à la vérité, mais non pas tant qu’il voulait que je la trouvasse."
+        },
+        {
+          "character": "OCTAVE",
+          "text": " Il ne m’entretenait que d’elle chaque jour ; m’exagérait à tous moments sa beauté, et sa grâce ; me louait son esprit, et me parlait avec transport des charmes de son entretien, dont il me rapportait jusqu’aux moindres paroles, qu’il s’efforçait toujours de me faire trouver les plus spirituelles du monde."
+        },
+        {
+          "character": "OCTAVE",
+          "text": " Il me querellait quelquefois de n’être pas assez sensible aux choses qu’il me venait dire, et me blâmait sans cesse de l’indifférence où j’étais pour les feux de l’amour."
         },
         {
           "character": "SCAPIN",
@@ -279,7 +355,15 @@
         },
         {
           "character": "OCTAVE",
-          "text": "Un jour que je l’accompagnais pour aller chez les gens qui gardent l’objet de ses vœux, nous entendîmes dans une petite maison d’une rue écartée, quelques plaintes mêlées de beaucoup de sanglots. Nous demandons ce que c’est. Une femme nous dit en soupirant, que nous pouvions voir là quelque chose de pitoyable en des personnes étrangères ; et qu’à moins que d’être insensibles, nous en serions touchés."
+          "text": "Un jour que je l’accompagnais pour aller chez les gens qui gardent l’objet de ses vœux, nous entendîmes dans une petite maison d’une rue écartée, quelques plaintes mêlées de beaucoup de sanglots."
+        },
+        {
+          "character": "OCTAVE",
+          "text": " Nous demandons ce que c’est."
+        },
+        {
+          "character": "OCTAVE",
+          "text": " Une femme nous dit en soupirant, que nous pouvions voir là quelque chose de pitoyable en des personnes étrangères ; et qu’à moins que d’être insensibles, nous en serions touchés."
         },
         {
           "character": "SCAPIN",
@@ -287,7 +371,11 @@
         },
         {
           "character": "OCTAVE",
-          "text": "La curiosité me fit presser Léandre de voir ce que c’était. Nous entrons dans une salle, où nous voyons une vieille femme mourante, assistée d’une servante qui faisait des regrets, et d’une jeune fille toute fondante en larmes, la plus belle, et la plus touchante qu’on puisse jamais voir."
+          "text": "La curiosité me fit presser Léandre de voir ce que c’était."
+        },
+        {
+          "character": "OCTAVE",
+          "text": " Nous entrons dans une salle, où nous voyons une vieille femme mourante, assistée d’une servante qui faisait des regrets, et d’une jeune fille toute fondante en larmes, la plus belle, et la plus touchante qu’on puisse jamais voir."
         },
         {
           "character": "SCAPIN",
@@ -327,19 +415,63 @@
         },
         {
           "character": "OCTAVE",
-          "text": "Ah ! Scapin, un barbare l’aurait aimée."
-        },
-        {
-          "character": "SCAPIN",
-          "text": "Assurément. Le moyen de s’en empêcher ?"
+          "text": "Ah !"
         },
         {
           "character": "OCTAVE",
-          "text": "Après quelques paroles, dont je tâchai d’adoucir la douleur de cette charmante affligée, nous sortîmes de là ; et demandant à Léandre ce qu’il lui semblait de cette personne, il me répondit froidement qu’il la trouvait assez jolie. Je fus piqué de la froideur avec laquelle il m’en parlait, et je ne voulus point lui découvrir l’effet que ses beautés avaient fait sur mon âme."
+          "text": " Scapin, un barbare l’aurait aimée."
+        },
+        {
+          "character": "SCAPIN",
+          "text": "Assurément."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Le moyen de s’en empêcher ?"
+        },
+        {
+          "character": "OCTAVE",
+          "text": "Après quelques paroles, dont je tâchai d’adoucir la douleur de cette charmante affligée, nous sortîmes de là ; et demandant à Léandre ce qu’il lui semblait de cette personne, il me répondit froidement qu’il la trouvait assez jolie."
+        },
+        {
+          "character": "OCTAVE",
+          "text": " Je fus piqué de la froideur avec laquelle il m’en parlait, et je ne voulus point lui découvrir l’effet que ses beautés avaient fait sur mon âme."
         },
         {
           "character": "SILVESTRE",
-          "text": "Si vous n’abrégez ce récit, nous en voilà pour jusqu’à demain. Laissez-le-moi finir en deux mots. Son cœur prend feu dès ce moment. Il ne saurait plus vivre, qu’il n’aille consoler son aimable affligée. Ses fréquentes visites sont rejetées de la servante, devenue la gouvernante par le trépas de la mère ; voilà mon homme au désespoir. Il presse, supplie, conjure ; point d’affaire. On lui dit que la fille, quoique sans bien, et sans appui, est de famille honnête ; et qu’à moins que de l’épouser, on ne peut souffrir ses poursuites. Voilà son amour augmenté par les difficultés. Il consulte dans sa tête, agite, raisonne, balance, prend sa résolution ; le voilà marié avec elle depuis trois jours."
+          "text": "Si vous n’abrégez ce récit, nous en voilà pour jusqu’à demain."
+        },
+        {
+          "character": "SILVESTRE",
+          "text": " Laissez-le-moi finir en deux mots."
+        },
+        {
+          "character": "SILVESTRE",
+          "text": " Son cœur prend feu dès ce moment."
+        },
+        {
+          "character": "SILVESTRE",
+          "text": " Il ne saurait plus vivre, qu’il n’aille consoler son aimable affligée."
+        },
+        {
+          "character": "SILVESTRE",
+          "text": " Ses fréquentes visites sont rejetées de la servante, devenue la gouvernante par le trépas de la mère ; voilà mon homme au désespoir."
+        },
+        {
+          "character": "SILVESTRE",
+          "text": " Il presse, supplie, conjure ; point d’affaire."
+        },
+        {
+          "character": "SILVESTRE",
+          "text": " On lui dit que la fille, quoique sans bien, et sans appui, est de famille honnête ; et qu’à moins que de l’épouser, on ne peut souffrir ses poursuites."
+        },
+        {
+          "character": "SILVESTRE",
+          "text": " Voilà son amour augmenté par les difficultés."
+        },
+        {
+          "character": "SILVESTRE",
+          "text": " Il consulte dans sa tête, agite, raisonne, balance, prend sa résolution ; le voilà marié avec elle depuis trois jours."
         },
         {
           "character": "SCAPIN",
@@ -355,7 +487,35 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Est-ce là tout ? Vous voilà bien embarrassés tous deux pour une bagatelle. C’est bien là de quoi se tant alarmer. N’as-tu point de honte, toi, de demeurer court à si peu de chose ? Que diable, te voilà grand et gros comme père et mère, et tu ne saurais trouver dans ta tête, forger dans ton esprit quelque ruse galante, quelque honnête petit stratagème, pour ajuster vos affaires ? Fi. Peste soit du butor. Je voudrais bien que l’on m’eût donné autrefois nos vieillards à duper ; je les aurais joués tous deux par-dessous la jambe ; et je n’étais pas plus grand que cela, que je me signalais déjà par cent tours d’adresse jolis."
+          "text": "Est-ce là tout ?"
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Vous voilà bien embarrassés tous deux pour une bagatelle."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " C’est bien là de quoi se tant alarmer."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " N’as-tu point de honte, toi, de demeurer court à si peu de chose ?"
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Que diable, te voilà grand et gros comme père et mère, et tu ne saurais trouver dans ta tête, forger dans ton esprit quelque ruse galante, quelque honnête petit stratagème, pour ajuster vos affaires ?"
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Fi."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Peste soit du butor."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Je voudrais bien que l’on m’eût donné autrefois nos vieillards à duper ; je les aurais joués tous deux par-dessous la jambe ; et je n’étais pas plus grand que cela, que je me signalais déjà par cent tours d’adresse jolis."
         },
         {
           "character": "SILVESTRE",
@@ -363,7 +523,7 @@
         },
         {
           "character": "OCTAVE",
-          "text": "Voici mon aimable Hyacinte.\n "
+          "text": "Voici mon aimable Hyacinte."
         }
       ]
     },
@@ -373,11 +533,31 @@
       "dialogue": [
         {
           "character": "HYACINTE",
-          "text": "Ah, Octave, est-il vrai ce que Silvestre vient de dire à Nérine ? que votre père est de retour, et qu’il veut vous marier ?"
+          "text": "Ah, Octave, est-il vrai ce que Silvestre vient de dire à Nérine ?"
+        },
+        {
+          "character": "HYACINTE",
+          "text": " que votre père est de retour, et qu’il veut vous marier ?"
         },
         {
           "character": "OCTAVE",
-          "text": "Oui, belle Hyacinte, et ces nouvelles m’ont donné une atteinte cruelle. Mais que vois-je ? vous pleurez ! Pourquoi ces larmes ? Me soupçonnez-vous, dites-moi, de quelque infidélité, et n’êtes-vous pas assurée de l’amour que j’ai pour vous ?"
+          "text": "Oui, belle Hyacinte, et ces nouvelles m’ont donné une atteinte cruelle."
+        },
+        {
+          "character": "OCTAVE",
+          "text": " Mais que vois-je ?"
+        },
+        {
+          "character": "OCTAVE",
+          "text": " vous pleurez !"
+        },
+        {
+          "character": "OCTAVE",
+          "text": " Pourquoi ces larmes ?"
+        },
+        {
+          "character": "OCTAVE",
+          "text": " Me soupçonnez-vous, dites-moi, de quelque infidélité, et n’êtes-vous pas assurée de l’amour que j’ai pour vous ?"
         },
         {
           "character": "HYACINTE",
@@ -393,15 +573,31 @@
         },
         {
           "character": "OCTAVE",
-          "text": "Ah ! ma chère Hyacinte, mon cœur n’est donc pas fait comme celui des autres hommes, et je sens bien pour moi que je vous aimerai jusqu’au tombeau."
-        },
-        {
-          "character": "HYACINTE",
-          "text": "Je veux croire que vous sentez ce que vous dites, et je ne doute point que vos paroles ne soient sincères ; mais je crains un pouvoir qui combattra dans votre cœur les tendres sentiments que vous pouvez avoir pour moi. Vous dépendez d’un père, qui veut vous marier à une autre personne ; et je suis sûre que je mourrai, si ce malheur m’arrive."
+          "text": "Ah !"
         },
         {
           "character": "OCTAVE",
-          "text": "Non, belle Hyacinte, il n’y a point de père qui puisse me contraindre à vous manquer de foi, et je me résoudrai à quitter mon pays, et le jour même [6] , s’il est besoin, plutôt qu’à vous quitter. J’ai déjà pris, sans l’avoir vue, une aversion effroyable pour celle que l’on me destine ; et sans être cruel, je souhaiterais que la mer l’écartât d’ici pour jamais. Ne pleurez donc point, je vous prie, mon aimable Hyacinte, car vos larmes me tuent, et je ne les puis voir sans me sentir percer le cœur."
+          "text": " ma chère Hyacinte, mon cœur n’est donc pas fait comme celui des autres hommes, et je sens bien pour moi que je vous aimerai jusqu’au tombeau."
+        },
+        {
+          "character": "HYACINTE",
+          "text": "Je veux croire que vous sentez ce que vous dites, et je ne doute point que vos paroles ne soient sincères ; mais je crains un pouvoir qui combattra dans votre cœur les tendres sentiments que vous pouvez avoir pour moi."
+        },
+        {
+          "character": "HYACINTE",
+          "text": " Vous dépendez d’un père, qui veut vous marier à une autre personne ; et je suis sûre que je mourrai, si ce malheur m’arrive."
+        },
+        {
+          "character": "OCTAVE",
+          "text": "Non, belle Hyacinte, il n’y a point de père qui puisse me contraindre à vous manquer de foi, et je me résoudrai à quitter mon pays, et le jour même [6] , s’il est besoin, plutôt qu’à vous quitter."
+        },
+        {
+          "character": "OCTAVE",
+          "text": " J’ai déjà pris, sans l’avoir vue, une aversion effroyable pour celle que l’on me destine ; et sans être cruel, je souhaiterais que la mer l’écartât d’ici pour jamais."
+        },
+        {
+          "character": "OCTAVE",
+          "text": " Ne pleurez donc point, je vous prie, mon aimable Hyacinte, car vos larmes me tuent, et je ne les puis voir sans me sentir percer le cœur."
         },
         {
           "character": "HYACINTE",
@@ -449,7 +645,11 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Il faut se laisser vaincre, et avoir de l’humanité. Allez, je veux m’employer pour vous."
+          "text": "Il faut se laisser vaincre, et avoir de l’humanité."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Allez, je veux m’employer pour vous."
         },
         {
           "character": "OCTAVE",
@@ -457,7 +657,15 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Chut. Allez-vous-en [7] , vous, et soyez en repos. Et vous, préparez-vous à soutenir avec fermeté l’abord de votre père."
+          "text": "Chut."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Allez-vous-en [7] , vous, et soyez en repos."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Et vous, préparez-vous à soutenir avec fermeté l’abord de votre père."
         },
         {
           "character": "OCTAVE",
@@ -465,7 +673,15 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Il faut pourtant paraître ferme au premier choc, de peur que, sur votre faiblesse, il ne prenne le pied de vous mener comme un enfant [8] . Là, tâchez de vous composer par étude [9] . Un peu de hardiesse, et songez à répondre résolûment sur tout ce qu’il pourra vous dire."
+          "text": "Il faut pourtant paraître ferme au premier choc, de peur que, sur votre faiblesse, il ne prenne le pied de vous mener comme un enfant [8] ."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Là, tâchez de vous composer par étude [9] ."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Un peu de hardiesse, et songez à répondre résolûment sur tout ce qu’il pourra vous dire."
         },
         {
           "character": "OCTAVE",
@@ -473,7 +689,19 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Çà, essayons un peu, pour vous accoutumer. Répétons un peu votre rôle, et voyons si vous ferez bien. Allons. La mine résolue, la tête haute, les regards assurés."
+          "text": "Çà, essayons un peu, pour vous accoutumer."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Répétons un peu votre rôle, et voyons si vous ferez bien."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Allons."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " La mine résolue, la tête haute, les regards assurés."
         },
         {
           "character": "OCTAVE",
@@ -489,7 +717,59 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Bon. Imaginez-vous que je suis votre père qui arrive, et répondez-moi fermement comme si c’était à lui-même. \"Comment, pendard, vaurien, infâme, fils indigne d’un père comme moi, oses-tu bien paraître devant mes yeux après tes bons déportements, après le lâche tour que tu m’as joué pendant mon absence ? Est-ce là le fruit de mes soins, maraud ? est-ce là le fruit de mes soins ? le respect qui m’est dû ? le respect que tu me conserves ?\" Allons donc. \"Tu as l’insolence, fripon, de t’engager sans le consentement de ton père, de contracter un mariage clandestin ? Réponds-moi, coquin, réponds-moi. Voyons un peu tes belles raisons.\" Oh ! que diable ! vous demeurez interdit !"
+          "text": "Bon."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Imaginez-vous que je suis votre père qui arrive, et répondez-moi fermement comme si c’était à lui-même."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " \"Comment, pendard, vaurien, infâme, fils indigne d’un père comme moi, oses-tu bien paraître devant mes yeux après tes bons déportements, après le lâche tour que tu m’as joué pendant mon absence ?"
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Est-ce là le fruit de mes soins, maraud ?"
+        },
+        {
+          "character": "SCAPIN",
+          "text": " est-ce là le fruit de mes soins ?"
+        },
+        {
+          "character": "SCAPIN",
+          "text": " le respect qui m’est dû ?"
+        },
+        {
+          "character": "SCAPIN",
+          "text": " le respect que tu me conserves ?"
+        },
+        {
+          "character": "SCAPIN",
+          "text": "\" Allons donc."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " \"Tu as l’insolence, fripon, de t’engager sans le consentement de ton père, de contracter un mariage clandestin ?"
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Réponds-moi, coquin, réponds-moi."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Voyons un peu tes belles raisons."
+        },
+        {
+          "character": "SCAPIN",
+          "text": "\" Oh !"
+        },
+        {
+          "character": "SCAPIN",
+          "text": " que diable !"
+        },
+        {
+          "character": "SCAPIN",
+          "text": " vous demeurez interdit !"
         },
         {
           "character": "OCTAVE",
@@ -497,7 +777,11 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Eh oui. C’est par cette raison qu’il ne faut pas être comme un innocent."
+          "text": "Eh oui."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " C’est par cette raison qu’il ne faut pas être comme un innocent."
         },
         {
           "character": "OCTAVE",
@@ -517,11 +801,31 @@
         },
         {
           "character": "OCTAVE",
-          "text": "Ô Ciel ! je suis perdu [10] ."
+          "text": "Ô Ciel !"
+        },
+        {
+          "character": "OCTAVE",
+          "text": " je suis perdu [10] ."
         },
         {
           "character": "SCAPIN",
-          "text": "Holà, Octave, demeurez. Octave. Le voilà enfui. Quelle pauvre espèce d’homme ! Ne laissons pas d’attendre le vieillard."
+          "text": "Holà, Octave, demeurez."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Octave."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Le voilà enfui."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Quelle pauvre espèce d’homme !"
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Ne laissons pas d’attendre le vieillard."
         },
         {
           "character": "SILVESTRE",
@@ -529,7 +833,7 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Laisse-moi dire, moi, et ne fais que me suivre.\n "
+          "text": "Laisse-moi dire, moi, et ne fais que me suivre."
         }
       ]
     },
@@ -635,7 +939,15 @@
         },
         {
           "character": "ARGANTE",
-          "text": "Assez bien. (À Silvestre.) Tu ne dis mot, coquin, tu ne dis mot."
+          "text": "Assez bien."
+        },
+        {
+          "character": "ARGANTE",
+          "text": " (À Silvestre."
+        },
+        {
+          "character": "ARGANTE",
+          "text": ") Tu ne dis mot, coquin, tu ne dis mot."
         },
         {
           "character": "SCAPIN",
@@ -643,7 +955,11 @@
         },
         {
           "character": "ARGANTE",
-          "text": "Mon Dieu, fort bon. Laisse-moi un peu quereller en repos."
+          "text": "Mon Dieu, fort bon."
+        },
+        {
+          "character": "ARGANTE",
+          "text": " Laisse-moi un peu quereller en repos."
         },
         {
           "character": "SCAPIN",
@@ -675,7 +991,11 @@
         },
         {
           "character": "ARGANTE",
-          "text": "Comment quelque petite chose ! Une action de cette nature ?"
+          "text": "Comment quelque petite chose !"
+        },
+        {
+          "character": "ARGANTE",
+          "text": " Une action de cette nature ?"
         },
         {
           "character": "SCAPIN",
@@ -695,19 +1015,43 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Oui, il y a quelque chose à dire à cela. Mais je serais d’avis que vous ne fissiez point de bruit."
-        },
-        {
-          "character": "ARGANTE",
-          "text": "Je ne suis pas de cet avis, moi, et je veux faire du bruit tout mon soûl. Quoi, tu ne trouves pas que j’aie tous les sujets du monde d’être en colère ?"
+          "text": "Oui, il y a quelque chose à dire à cela."
         },
         {
           "character": "SCAPIN",
-          "text": "Si fait, j’y ai d’abord été, moi, lorsque j’ai su la chose, et je me suis intéressé pour vous, jusqu’à quereller votre fils. Demandez-lui un peu quelles belles réprimandes je lui ai faites, et comme je l’ai chapitré sur le peu de respect qu’il gardait à un père, dont il devrait baiser les pas. On ne peut pas lui mieux parler, quand ce serait vous-même. Mais quoi, je me suis rendu à la raison, et j’ai considéré que dans le fond, il n’a pas tant de tort qu’on pourrait croire."
+          "text": " Mais je serais d’avis que vous ne fissiez point de bruit."
         },
         {
           "character": "ARGANTE",
-          "text": "Que me viens-tu conter ? Il n’a pas tant de tort de s’aller marier de but en blanc avec une inconnue ?"
+          "text": "Je ne suis pas de cet avis, moi, et je veux faire du bruit tout mon soûl."
+        },
+        {
+          "character": "ARGANTE",
+          "text": " Quoi, tu ne trouves pas que j’aie tous les sujets du monde d’être en colère ?"
+        },
+        {
+          "character": "SCAPIN",
+          "text": "Si fait, j’y ai d’abord été, moi, lorsque j’ai su la chose, et je me suis intéressé pour vous, jusqu’à quereller votre fils."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Demandez-lui un peu quelles belles réprimandes je lui ai faites, et comme je l’ai chapitré sur le peu de respect qu’il gardait à un père, dont il devrait baiser les pas."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " On ne peut pas lui mieux parler, quand ce serait vous-même."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Mais quoi, je me suis rendu à la raison, et j’ai considéré que dans le fond, il n’a pas tant de tort qu’on pourrait croire."
+        },
+        {
+          "character": "ARGANTE",
+          "text": "Que me viens-tu conter ?"
+        },
+        {
+          "character": "ARGANTE",
+          "text": " Il n’a pas tant de tort de s’aller marier de but en blanc avec une inconnue ?"
         },
         {
           "character": "SCAPIN",
@@ -715,11 +1059,19 @@
         },
         {
           "character": "ARGANTE",
-          "text": "Ah, ah, voici une raison la plus belle du monde. On n’a plus qu’à commettre tous les crimes imaginables, tromper, voler, assassiner, et dire pour excuse, qu’on y a été poussé par sa destinée."
+          "text": "Ah, ah, voici une raison la plus belle du monde."
+        },
+        {
+          "character": "ARGANTE",
+          "text": " On n’a plus qu’à commettre tous les crimes imaginables, tromper, voler, assassiner, et dire pour excuse, qu’on y a été poussé par sa destinée."
         },
         {
           "character": "SCAPIN",
-          "text": "Mon Dieu, vous prenez mes paroles trop en philosophe. Je veux dire qu’il s’est trouvé fatalement engagé dans cette affaire."
+          "text": "Mon Dieu, vous prenez mes paroles trop en philosophe."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Je veux dire qu’il s’est trouvé fatalement engagé dans cette affaire."
         },
         {
           "character": "ARGANTE",
@@ -727,15 +1079,55 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Voulez-vous qu’il soit aussi sage que vous ? Les jeunes gens sont jeunes, et n’ont pas toute la prudence qu’il leur faudrait, pour ne rien faire que de raisonnable ; témoin notre Léandre, qui malgré toutes mes leçons, malgré toutes mes remontrances, est allé faire de son côté pis encore que votre fils. Je voudrais bien savoir si vous-même n’avez pas été jeune, et n’avez pas dans votre temps fait des fredaines comme les autres. J’ai ouï dire, moi, que vous avez été autrefois un compagnon [13] parmi les femmes, que vous faisiez de votre drôle avec les plus galantes de ce temps-là ; et que vous n’en approchiez point, que vous ne poussassiez à bout."
-        },
-        {
-          "character": "ARGANTE",
-          "text": "Cela est vrai. J’en demeure d’accord ; mais je m’en suis toujours tenu à la galanterie, et je n’ai point été jusqu’à faire ce qu’il a fait."
+          "text": "Voulez-vous qu’il soit aussi sage que vous ?"
         },
         {
           "character": "SCAPIN",
-          "text": "Que vouliez-vous qu’il fît ? Il voit une jeune personne qui lui veut du bien (car il tient de vous, d’être aimé de toutes les femmes). Il la trouve charmante. Il lui rend des visites ; lui conte des douceurs, soupire galamment, fait le passionné. Elle se rend à sa poursuite. Il pousse sa fortune. Le voilà surpris avec elle par ses parents, qui la force à la main le contraignent de l’épouser."
+          "text": " Les jeunes gens sont jeunes, et n’ont pas toute la prudence qu’il leur faudrait, pour ne rien faire que de raisonnable ; témoin notre Léandre, qui malgré toutes mes leçons, malgré toutes mes remontrances, est allé faire de son côté pis encore que votre fils."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Je voudrais bien savoir si vous-même n’avez pas été jeune, et n’avez pas dans votre temps fait des fredaines comme les autres."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " J’ai ouï dire, moi, que vous avez été autrefois un compagnon [13] parmi les femmes, que vous faisiez de votre drôle avec les plus galantes de ce temps-là ; et que vous n’en approchiez point, que vous ne poussassiez à bout."
+        },
+        {
+          "character": "ARGANTE",
+          "text": "Cela est vrai."
+        },
+        {
+          "character": "ARGANTE",
+          "text": " J’en demeure d’accord ; mais je m’en suis toujours tenu à la galanterie, et je n’ai point été jusqu’à faire ce qu’il a fait."
+        },
+        {
+          "character": "SCAPIN",
+          "text": "Que vouliez-vous qu’il fît ?"
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Il voit une jeune personne qui lui veut du bien (car il tient de vous, d’être aimé de toutes les femmes)."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Il la trouve charmante."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Il lui rend des visites ; lui conte des douceurs, soupire galamment, fait le passionné."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Elle se rend à sa poursuite."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Il pousse sa fortune."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Le voilà surpris avec elle par ses parents, qui la force à la main le contraignent de l’épouser."
         },
         {
           "character": "SILVESTRE",
@@ -743,7 +1135,11 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Eussiez-vous voulu qu’il se fût laissé tuer ? Il vaut mieux encore être marié, qu’être mort."
+          "text": "Eussiez-vous voulu qu’il se fût laissé tuer ?"
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Il vaut mieux encore être marié, qu’être mort."
         },
         {
           "character": "ARGANTE",
@@ -751,7 +1147,11 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Demandez-lui plutôt. Il ne vous dira pas le contraire."
+          "text": "Demandez-lui plutôt."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Il ne vous dira pas le contraire."
         },
         {
           "character": "ARGANTE",
@@ -819,7 +1219,19 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Votre fils. Voulez-vous qu’il confesse qu’il ait été capable de crainte, et que ce soit par force qu’on lui ait fait faire les choses ? Il n’a garde d’aller avouer cela. Ce serait se faire tort, et se montrer indigne d’un père comme vous."
+          "text": "Votre fils."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Voulez-vous qu’il confesse qu’il ait été capable de crainte, et que ce soit par force qu’on lui ait fait faire les choses ?"
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Il n’a garde d’aller avouer cela."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Ce serait se faire tort, et se montrer indigne d’un père comme vous."
         },
         {
           "character": "ARGANTE",
@@ -887,7 +1299,15 @@
         },
         {
           "character": "ARGANTE",
-          "text": "Hoy. Voici qui est plaisant. Je ne déshériterai pas mon fils."
+          "text": "Hoy."
+        },
+        {
+          "character": "ARGANTE",
+          "text": " Voici qui est plaisant."
+        },
+        {
+          "character": "ARGANTE",
+          "text": " Je ne déshériterai pas mon fils."
         },
         {
           "character": "SCAPIN",
@@ -907,7 +1327,11 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Oui. Vous n’aurez pas ce cœur-là."
+          "text": "Oui."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Vous n’aurez pas ce cœur-là."
         },
         {
           "character": "ARGANTE",
@@ -951,7 +1375,15 @@
         },
         {
           "character": "ARGANTE",
-          "text": "Je ne suis point bon, et je suis méchant quand je veux. Finissons ce discours qui m’échauffe la bile. Va-t’en, pendard, va-t’en me chercher mon fripon, tandis que j’irai rejoindre le seigneur Géronte, pour lui conter ma disgrâce."
+          "text": "Je ne suis point bon, et je suis méchant quand je veux."
+        },
+        {
+          "character": "ARGANTE",
+          "text": " Finissons ce discours qui m’échauffe la bile."
+        },
+        {
+          "character": "ARGANTE",
+          "text": " Va-t’en, pendard, va-t’en me chercher mon fripon, tandis que j’irai rejoindre le seigneur Géronte, pour lui conter ma disgrâce."
         },
         {
           "character": "SCAPIN",
@@ -959,7 +1391,15 @@
         },
         {
           "character": "ARGANTE",
-          "text": "Je vous remercie. Ah pourquoi faut-il qu’il soit fils unique ! et que n’ai-je à cette heure la fille que le Ciel m’a ôtée, pour la faire mon héritière !\n "
+          "text": "Je vous remercie."
+        },
+        {
+          "character": "ARGANTE",
+          "text": " Ah pourquoi faut-il qu’il soit fils unique !"
+        },
+        {
+          "character": "ARGANTE",
+          "text": " et que n’ai-je à cette heure la fille que le Ciel m’a ôtée, pour la faire mon héritière !"
         }
       ]
     },
@@ -973,7 +1413,51 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Laisse-moi faire, la machine est trouvée. Je cherche seulement dans ma tête un homme qui nous soit affidé, pour jouer un personnage dont j’ai besoin. Attends. Tiens-toi un peu. Enfonce ton bonnet en méchant garçon. Campe-toi sur un pied. Mets la main au côté. Fais les yeux furibonds. Marche un peu en roi de théâtre. Voilà qui est bien. Suis-moi. J’ai des secrets pour déguiser ton visage et ta voix."
+          "text": "Laisse-moi faire, la machine est trouvée."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Je cherche seulement dans ma tête un homme qui nous soit affidé, pour jouer un personnage dont j’ai besoin."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Attends."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Tiens-toi un peu."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Enfonce ton bonnet en méchant garçon."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Campe-toi sur un pied."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Mets la main au côté."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Fais les yeux furibonds."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Marche un peu en roi de théâtre."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Voilà qui est bien."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " Suis-moi."
+        },
+        {
+          "character": "SCAPIN",
+          "text": " J’ai des secrets pour déguiser ton visage et ta voix."
         },
         {
           "character": "SILVESTRE",
