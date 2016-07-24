@@ -9,6 +9,17 @@ const emoji = (() => {
   return emoji
 })()
 
+const emojiRegExp = new RegExp('[ ^](' + Object.keys(emoji).join('|') + ')[ $]', 'g')
+
+function findEmojiWords(text) {
+  const emojiSet = {}
+  ;(text.match(emojiRegExp) || []).forEach(word => {
+    emojiSet[word.trim()] = emoji[word.trim()]
+  })
+  return emojiSet
+}
+
 module.exports = {
+  findEmojiWords: findEmojiWords,
   emoji: emoji
 }
