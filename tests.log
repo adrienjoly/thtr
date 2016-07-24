@@ -7,11 +7,13 @@
     "characters": [
       {
         "name": "ARGANTE",
-        "desc": "père d’Octave et de Zerbinette."
+        "desc": "père d’Octave et de Zerbinette.",
+        "avatarFile": "/play/fourberies/avatars/argante.png"
       },
       {
         "name": "GÉRONTE",
-        "desc": "père de Léandre et de Hyacinte."
+        "desc": "père de Léandre et de Hyacinte.",
+        "avatarFile": "/play/fourberies/avatars/geronte.png"
       },
       {
         "selectable": true,
@@ -21,15 +23,18 @@
       },
       {
         "name": "LÉANDRE",
-        "desc": "fils de Géronte, et amant de Zerbinette."
+        "desc": "fils de Géronte, et amant de Zerbinette.",
+        "avatarFile": "/play/fourberies/avatars/leandre.png"
       },
       {
         "name": "ZERBINETTE",
-        "desc": "crue Égyptienne, et reconnue fille d’Argante, et amante de Léandre."
+        "desc": "crue Égyptienne, et reconnue fille d’Argante, et amante de Léandre.",
+        "avatarFile": "/play/fourberies/avatars/zerbinette.png"
       },
       {
         "name": "HYACINTE",
-        "desc": "fille de Géronte, et amante d’Octave."
+        "desc": "fille de Géronte, et amante d’Octave.",
+        "avatarFile": "/play/fourberies/avatars/hyacinte.png"
       },
       {
         "selectable": true,
@@ -45,11 +50,13 @@
       },
       {
         "name": "NÉRINE",
-        "desc": "nourrice de Hyacinte."
+        "desc": "nourrice de Hyacinte.",
+        "avatarFile": "/play/fourberies/avatars/nerine.png"
       },
       {
         "name": "CARLE",
-        "desc": "fourbe."
+        "desc": "fourbe.",
+        "avatarFile": "/play/fourberies/avatars/carle.png"
       },
       {
         "name": "DEUX PORTEURS.",

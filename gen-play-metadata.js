@@ -3,12 +3,19 @@ const fs = require('fs')
 const PATH_PLAYS = './plays/'
 const URL_PLAYS = '/play/'
 
+const removeAccents = str => !str ? '' : str
+  .replace(/[àâä]/gi, "a")
+  .replace(/[éèêë]/gi, "e")
+  .replace(/[îï]/gi, "i")
+  .replace(/[ôö]/gi, "o")
+  .replace(/[ùûü]/gi, "u")
+
 const readPlay = id => JSON.parse(fs.readFileSync(PATH_PLAYS + id + '/acte1.json').toString())
 
 const genPlayMetadata = id => {
   var { title, characters } = readPlay(id)
   const appendAvatar = char => {
-    const avatarFile = id + '/avatars/' + char.name.toLowerCase() + '.png'
+    const avatarFile = id + '/avatars/' + removeAccents(char.name.toLowerCase()) + '.png'
     return !fs.existsSync(PATH_PLAYS + avatarFile) ? char : Object.assign(char, {
       avatarFile: URL_PLAYS + avatarFile
     })
