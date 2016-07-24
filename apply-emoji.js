@@ -1,13 +1,5 @@
 var fs = require('fs')
-
-const emoji = (() => {
-  let emoji = {};
-  fs.readFileSync('./emoji.csv').toString().split('\n').forEach(line => {
-    [ char, word ] = line.split(', ')
-    emoji[word] = char
-  })
-  return emoji
-})()
+var emoji = require('./EmojiApplier').emoji
 
 const processJson = json => {
   json.scenes = json.scenes.map(scene => {
