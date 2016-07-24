@@ -67,6 +67,7 @@
   {
     "id": "lbg",
     "title": "Le Bourgeois gentilhomme",
+    "illustrationFile": "/play/lbg/illustration.png",
     "characters": [
       {
         "selectable": true,
