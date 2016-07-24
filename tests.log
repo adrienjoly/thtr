@@ -3,6 +3,7 @@
   {
     "id": "fourberies",
     "title": "Les Fourberies de Scapin",
+    "illustrationFile": "/play/fourberies/illustration.png",
     "characters": [
       {
         "name": "ARGANTE",

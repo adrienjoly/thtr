@@ -13,9 +13,11 @@ const genPlayMetadata = id => {
       avatarFile: URL_PLAYS + avatarFile
     })
   }
+  const illustrationFile = id + '/illustration.png'
   return {
     id: id,
     title,
+    illustrationFile: !fs.existsSync(PATH_PLAYS + illustrationFile) ? undefined : URL_PLAYS + illustrationFile,
     characters: characters.map(appendAvatar)
   }
 }
