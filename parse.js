@@ -45,15 +45,16 @@ function parseText(text) {
     var characterList = all.shift();
     var characters = all.filter((a, i) => (i + 1) % 2);
     var speech = all.filter((a, i) => i % 2);
+    var dialogue = characters.map((a, i) => {
+      return {
+        character: a,
+        text: speech[i]
+      };
+    })
     return {
       act: act.split(',')[0],
       scene: index + 1,
-      dialogue: characters.map((a, i) => {
-        return {
-          character: a,
-          text: speech[i]
-        };
-      })
+      dialogue: dialogue
     };
   });
 
