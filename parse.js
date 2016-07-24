@@ -1,9 +1,14 @@
 // text parser from http://www.toutmoliere.net/acte-1,405363.html
 
 var fs = require('fs');
+var EmojiApplier = require('./EmojiApplier')
 
 const ACTOR_NAME = /^[^a-z0-9\.\,]{3,}/;
 const ACTOR_SPEECH = /\n([^a-z0-9\.]{3,}[^\.]+)\.\- /;
+
+const appendEmojiWords = dialogue => dialogue.map(item => Object.assign(item, {
+  emojiWords: EmojiApplier.findEmojiWords(item.text)
+}))
 
 function subDivideIntoSentences(dialogue) {
   var sentences = []
@@ -67,7 +72,7 @@ function parseText(text) {
     return {
       act: act.split(',')[0],
       scene: index + 1,
-      dialogue: subDivideIntoSentences(dialogue)
+      dialogue: appendEmojiWords(subDivideIntoSentences(dialogue))
     };
   });
 
