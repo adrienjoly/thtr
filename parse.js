@@ -22,6 +22,14 @@ const appendIntegratedEmoji = item => Object.assign(item, {
   textWithEmoji: EmojiApplier.integrateEmoji(item.text)
 })
 
+const removeReferences = item => {
+  item.text = item.text
+    .replace(/\s?\[\d+\]\s?/g, ' ')  // remove [x] references
+    .replace(/\s+/g, ' ')            // remove redundant whitespace
+    .replace(/\s+([\,\;\.])/g, '$1') // remove spaces before punctuation
+  return item
+}
+
 const compose = function() {
   const fcts = arguments
   return param => {
@@ -33,7 +41,7 @@ const compose = function() {
   }
 }
 
-const dialogueProcessors = compose(appendIntegratedEmoji, appendEmojiWords /*, appendSentiment*/)
+const dialogueProcessors = compose(removeReferences, appendIntegratedEmoji, appendEmojiWords /*, appendSentiment*/)
 
 function subDivideIntoSentences(dialogue) {
   var sentences = []

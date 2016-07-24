@@ -357,8 +357,8 @@
         },
         {
           "character": "SILVESTRE",
-          "text": "Les réprimandes ne sont rien ; et plût au Ciel que j’en fusse quitte à ce prix !",
-          "textWithEmoji": "Les réprimandes ne sont rien ; et plût au Ciel que j’en fusse quitte à ce prix !",
+          "text": "Les réprimandes ne sont rien; et plût au Ciel que j’en fusse quitte à ce prix !",
+          "textWithEmoji": "Les réprimandes ne sont rien; et plût au Ciel que j’en fusse quitte à ce prix !",
           "emojiWords": {}
         },
         {
@@ -449,8 +449,8 @@
         },
         {
           "character": "OCTAVE",
-          "text": "Ah, mon pauvre Scapin, je suis perdu, je suis désespéré ; je suis le plus infortuné de tous les hommes.",
-          "textWithEmoji": "Ah, mon pauvre Scapin, je suis perdu, je suis désespéré ; je suis le plus infortuné de tous les hommes.",
+          "text": "Ah, mon pauvre Scapin, je suis perdu, je suis désespéré; je suis le plus infortuné de tous les hommes.",
+          "textWithEmoji": "Ah, mon pauvre Scapin, je suis perdu, je suis désespéré; je suis le plus infortuné de tous les hommes.",
           "emojiWords": {}
         },
         {
@@ -499,10 +499,9 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Non ; mais il ne tiendra qu’à vous que je la sache bientôt ; et je suis homme consolatif [1] , homme à m’intéresser aux affaires des jeunes gens.",
-          "textWithEmoji": "Non ; mais il ne tiendra qu’à vous que je la sache bientôt 🔜 ; et je suis homme 👲 consolatif [1] , homme 👲 à m’intéresser aux affaires des jeunes gens.",
+          "text": "Non; mais il ne tiendra qu’à vous que je la sache bientôt; et je suis homme consolatif, homme à m’intéresser aux affaires des jeunes gens.",
+          "textWithEmoji": "Non; mais il ne tiendra qu’à vous que je la sache bientôt; et je suis homme 👲 consolatif, homme 👲 à m’intéresser aux affaires des jeunes gens.",
           "emojiWords": {
-            "bientôt": "🔜",
             "homme": "👲"
           }
         },
@@ -526,8 +525,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": " J’ai sans doute [2] reçu du Ciel un génie assez beau pour toutes les fabriques [3] de ces gentillesses d’esprit, de ces galanteries ingénieuses à qui le vulgaire ignorant donne le nom de fourberies ; et je puis dire sans vanité, qu’on n’a guère vu d’homme qui fût plus habile ouvrier de ressorts et d’intrigues ; qui ait acquis plus de gloire que moi dans ce noble métier : mais, ma foi, le mérite est trop maltraité aujourd’hui, et j’ai renoncé à toutes choses depuis certain chagrin d’une affaire qui m’arriva.",
-          "textWithEmoji": " J’ai sans doute [2] reçu du Ciel un génie assez beau pour toutes les fabriques [3] de ces gentillesses d’esprit, de ces galanteries ingénieuses à qui le vulgaire ignorant donne le nom de fourberies ; et je puis dire sans vanité, qu’on n’a guère vu d’homme qui fût plus habile ouvrier 👷 de ressorts et d’intrigues ; qui ait acquis plus de gloire que moi dans ce noble métier : mais, ma foi, le mérite est trop maltraité aujourd’hui, et j’ai renoncé à toutes choses depuis certain chagrin d’une affaire qui m’arriva.",
+          "text": " J’ai sans doute reçu du Ciel un génie assez beau pour toutes les fabriques de ces gentillesses d’esprit, de ces galanteries ingénieuses à qui le vulgaire ignorant donne le nom de fourberies; et je puis dire sans vanité, qu’on n’a guère vu d’homme qui fût plus habile ouvrier de ressorts et d’intrigues; qui ait acquis plus de gloire que moi dans ce noble métier : mais, ma foi, le mérite est trop maltraité aujourd’hui, et j’ai renoncé à toutes choses depuis certain chagrin d’une affaire qui m’arriva.",
+          "textWithEmoji": " J’ai sans doute reçu du Ciel un génie assez beau pour toutes les fabriques de ces gentillesses d’esprit, de ces galanteries ingénieuses à qui le vulgaire ignorant donne le nom de fourberies; et je puis dire sans vanité, qu’on n’a guère vu d’homme qui fût plus habile ouvrier 👷 de ressorts et d’intrigues; qui ait acquis plus de gloire que moi dans ce noble métier : mais, ma foi, le mérite est trop maltraité aujourd’hui, et j’ai renoncé à toutes choses depuis certain chagrin d’une affaire qui m’arriva.",
           "emojiWords": {
             "ouvrier": "👷"
           }
@@ -584,8 +583,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": " Baste [i] .",
-          "textWithEmoji": " Baste [i] .",
+          "text": " Baste [i].",
+          "textWithEmoji": " Baste [i].",
           "emojiWords": {}
         },
         {
@@ -610,8 +609,8 @@
         },
         {
           "character": "OCTAVE",
-          "text": "Et que Léandre et moi nous fûmes laissés par nos pères ; moi sous la conduite de Silvestre ; et Léandre sous ta direction.",
-          "textWithEmoji": "Et que Léandre et moi nous fûmes laissés par nos pères ; moi sous la conduite de Silvestre ; et Léandre sous ta direction.",
+          "text": "Et que Léandre et moi nous fûmes laissés par nos pères; moi sous la conduite de Silvestre; et Léandre sous ta direction.",
+          "textWithEmoji": "Et que Léandre et moi nous fûmes laissés par nos pères; moi sous la conduite de Silvestre; et Léandre sous ta direction.",
           "emojiWords": {}
         },
         {
@@ -640,8 +639,8 @@
         },
         {
           "character": "OCTAVE",
-          "text": " Il ne m’entretenait que d’elle chaque jour ; m’exagérait à tous moments sa beauté, et sa grâce ; me louait son esprit, et me parlait avec transport des charmes de son entretien, dont il me rapportait jusqu’aux moindres paroles, qu’il s’efforçait toujours de me faire trouver les plus spirituelles du monde.",
-          "textWithEmoji": " Il ne m’entretenait que d’elle chaque jour ; m’exagérait à tous moments sa beauté, et sa grâce ; me louait son esprit, et me parlait avec transport des charmes de son entretien, dont il me rapportait jusqu’aux moindres paroles, qu’il s’efforçait toujours de me faire trouver les plus spirituelles du monde.",
+          "text": " Il ne m’entretenait que d’elle chaque jour; m’exagérait à tous moments sa beauté, et sa grâce; me louait son esprit, et me parlait avec transport des charmes de son entretien, dont il me rapportait jusqu’aux moindres paroles, qu’il s’efforçait toujours de me faire trouver les plus spirituelles du monde.",
+          "textWithEmoji": " Il ne m’entretenait que d’elle chaque jour; m’exagérait à tous moments sa beauté, et sa grâce; me louait son esprit, et me parlait avec transport des charmes de son entretien, dont il me rapportait jusqu’aux moindres paroles, qu’il s’efforçait toujours de me faire trouver les plus spirituelles du monde.",
           "emojiWords": {}
         },
         {
@@ -674,8 +673,8 @@
         },
         {
           "character": "OCTAVE",
-          "text": " Une femme nous dit en soupirant, que nous pouvions voir là quelque chose de pitoyable en des personnes étrangères ; et qu’à moins que d’être insensibles, nous en serions touchés.",
-          "textWithEmoji": " Une femme 👩 nous dit en soupirant, que nous pouvions voir là quelque chose de pitoyable en des personnes étrangères ; et qu’à moins que d’être insensibles, nous en serions touchés.",
+          "text": " Une femme nous dit en soupirant, que nous pouvions voir là quelque chose de pitoyable en des personnes étrangères; et qu’à moins que d’être insensibles, nous en serions touchés.",
+          "textWithEmoji": " Une femme 👩 nous dit en soupirant, que nous pouvions voir là quelque chose de pitoyable en des personnes étrangères; et qu’à moins que d’être insensibles, nous en serions touchés.",
           "emojiWords": {
             "femme": "👩"
           }
@@ -709,8 +708,8 @@
         },
         {
           "character": "OCTAVE",
-          "text": "Une autre aurait paru effroyable en l’état où elle était ; car elle n’avait pour habillement qu’une méchante petite jupe, avec des brassières de nuit qui étaient de simple futaine [4]  ; et sa coiffure était une cornette jaune, retroussée au haut de sa tête, qui laissait tomber en désordre ses cheveux sur ses épaules ; et cependant faite comme cela, elle brillait de mille attraits, et ce n’était qu’agréments et que charmes, que toute sa personne.",
-          "textWithEmoji": "Une autre aurait paru effroyable en l’état où elle était ; car elle n’avait pour habillement qu’une méchante petite jupe, avec des brassières de nuit 🌃 qui étaient de simple futaine [4]  ; et sa coiffure était une cornette jaune, retroussée au haut de sa tête, qui laissait tomber en désordre ses cheveux sur ses épaules ; et cependant faite comme cela, elle brillait de mille attraits, et ce n’était qu’agréments et que charmes, que toute sa personne.",
+          "text": "Une autre aurait paru effroyable en l’état où elle était; car elle n’avait pour habillement qu’une méchante petite jupe, avec des brassières de nuit qui étaient de simple futaine; et sa coiffure était une cornette jaune, retroussée au haut de sa tête, qui laissait tomber en désordre ses cheveux sur ses épaules; et cependant faite comme cela, elle brillait de mille attraits, et ce n’était qu’agréments et que charmes, que toute sa personne.",
+          "textWithEmoji": "Une autre aurait paru effroyable en l’état où elle était; car elle n’avait pour habillement qu’une méchante petite jupe, avec des brassières de nuit 🌃 qui étaient de simple futaine; et sa coiffure était une cornette jaune, retroussée au haut de sa tête, qui laissait tomber en désordre ses cheveux sur ses épaules; et cependant faite comme cela, elle brillait de mille attraits, et ce n’était qu’agréments et que charmes, que toute sa personne.",
           "emojiWords": {
             "nuit": "🌃"
           }
@@ -729,16 +728,14 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Oh je n’en doute point ; et sans l’avoir vue, je vois bien qu’elle était tout à fait charmante.",
-          "textWithEmoji": "Oh je n’en doute point ‼ ; et sans l’avoir vue, je vois bien qu’elle était tout à fait charmante.",
-          "emojiWords": {
-            "point": "‼"
-          }
+          "text": "Oh je n’en doute point; et sans l’avoir vue, je vois bien qu’elle était tout à fait charmante.",
+          "textWithEmoji": "Oh je n’en doute point; et sans l’avoir vue, je vois bien qu’elle était tout à fait charmante.",
+          "emojiWords": {}
         },
         {
           "character": "OCTAVE",
-          "text": "Ses larmes n’étaient point de ces larmes désagréables, qui défigurent un visage ; elle avait à pleurer, une grâce touchante ; et sa douleur était la plus belle du monde.",
-          "textWithEmoji": "Ses larmes n’étaient point ‼ de ces larmes désagréables, qui défigurent un visage ; elle avait à pleurer, une grâce touchante ; et sa douleur était la plus belle du monde.",
+          "text": "Ses larmes n’étaient point de ces larmes désagréables, qui défigurent un visage; elle avait à pleurer, une grâce touchante; et sa douleur était la plus belle du monde.",
+          "textWithEmoji": "Ses larmes n’étaient point ‼ de ces larmes désagréables, qui défigurent un visage; elle avait à pleurer, une grâce touchante; et sa douleur était la plus belle du monde.",
           "emojiWords": {
             "point": "‼"
           }
@@ -751,16 +748,16 @@
         },
         {
           "character": "OCTAVE",
-          "text": "Elle faisait fondre chacun en larmes, en se jetant amoureusement sur le corps de cette mourante, qu’elle appelait sa chère mère ; et il n’y avait personne qui n’eût l’âme percée, de voir un si bon naturel.",
-          "textWithEmoji": "Elle faisait fondre chacun en larmes, en se jetant amoureusement sur le corps de cette mourante, qu’elle appelait sa chère mère ; et il n’y avait personne 👱 qui n’eût l’âme percée, de voir un si bon naturel.",
+          "text": "Elle faisait fondre chacun en larmes, en se jetant amoureusement sur le corps de cette mourante, qu’elle appelait sa chère mère; et il n’y avait personne qui n’eût l’âme percée, de voir un si bon naturel.",
+          "textWithEmoji": "Elle faisait fondre chacun en larmes, en se jetant amoureusement sur le corps de cette mourante, qu’elle appelait sa chère mère; et il n’y avait personne 👱 qui n’eût l’âme percée, de voir un si bon naturel.",
           "emojiWords": {
             "personne": "👱"
           }
         },
         {
           "character": "SCAPIN",
-          "text": "En effet, cela est touchant ; et je vois bien que ce bon naturel-là vous la fit aimer.",
-          "textWithEmoji": "En effet, cela est touchant ; et je vois bien que ce bon naturel-là vous la fit aimer.",
+          "text": "En effet, cela est touchant; et je vois bien que ce bon naturel-là vous la fit aimer.",
+          "textWithEmoji": "En effet, cela est touchant; et je vois bien que ce bon naturel-là vous la fit aimer.",
           "emojiWords": {}
         },
         {
@@ -789,8 +786,8 @@
         },
         {
           "character": "OCTAVE",
-          "text": "Après quelques paroles, dont je tâchai d’adoucir la douleur de cette charmante affligée, nous sortîmes de là ; et demandant à Léandre ce qu’il lui semblait de cette personne, il me répondit froidement qu’il la trouvait assez jolie.",
-          "textWithEmoji": "Après quelques paroles, dont je tâchai d’adoucir la douleur de cette charmante affligée, nous sortîmes de là ; et demandant à Léandre ce qu’il lui semblait de cette personne, il me répondit froidement qu’il la trouvait assez jolie.",
+          "text": "Après quelques paroles, dont je tâchai d’adoucir la douleur de cette charmante affligée, nous sortîmes de là; et demandant à Léandre ce qu’il lui semblait de cette personne, il me répondit froidement qu’il la trouvait assez jolie.",
+          "textWithEmoji": "Après quelques paroles, dont je tâchai d’adoucir la douleur de cette charmante affligée, nous sortîmes de là; et demandant à Léandre ce qu’il lui semblait de cette personne, il me répondit froidement qu’il la trouvait assez jolie.",
           "emojiWords": {}
         },
         {
@@ -832,24 +829,24 @@
         },
         {
           "character": "SILVESTRE",
-          "text": " Ses fréquentes visites sont rejetées de la servante, devenue la gouvernante par le trépas de la mère ; voilà mon homme au désespoir.",
-          "textWithEmoji": " Ses fréquentes visites sont rejetées de la servante, devenue la gouvernante par le trépas de la mère ; voilà mon homme 👲 au désespoir.",
+          "text": " Ses fréquentes visites sont rejetées de la servante, devenue la gouvernante par le trépas de la mère; voilà mon homme au désespoir.",
+          "textWithEmoji": " Ses fréquentes visites sont rejetées de la servante, devenue la gouvernante par le trépas de la mère; voilà mon homme 👲 au désespoir.",
           "emojiWords": {
             "homme": "👲"
           }
         },
         {
           "character": "SILVESTRE",
-          "text": " Il presse, supplie, conjure ; point d’affaire.",
-          "textWithEmoji": " Il presse, supplie, conjure ; point ‼ d’affaire.",
+          "text": " Il presse, supplie, conjure; point d’affaire.",
+          "textWithEmoji": " Il presse, supplie, conjure; point ‼ d’affaire.",
           "emojiWords": {
             "point": "‼"
           }
         },
         {
           "character": "SILVESTRE",
-          "text": " On lui dit que la fille, quoique sans bien, et sans appui, est de famille honnête ; et qu’à moins que de l’épouser, on ne peut souffrir ses poursuites.",
-          "textWithEmoji": " On lui dit que la fille, quoique sans bien, et sans appui, est de famille 👪 honnête ; et qu’à moins que de l’épouser, on ne peut souffrir ses poursuites.",
+          "text": " On lui dit que la fille, quoique sans bien, et sans appui, est de famille honnête; et qu’à moins que de l’épouser, on ne peut souffrir ses poursuites.",
+          "textWithEmoji": " On lui dit que la fille, quoique sans bien, et sans appui, est de famille 👪 honnête; et qu’à moins que de l’épouser, on ne peut souffrir ses poursuites.",
           "emojiWords": {
             "famille": "👪"
           }
@@ -862,8 +859,8 @@
         },
         {
           "character": "SILVESTRE",
-          "text": " Il consulte dans sa tête, agite, raisonne, balance, prend sa résolution ; le voilà marié avec elle depuis trois jours.",
-          "textWithEmoji": " Il consulte dans sa tête, agite, raisonne, balance, prend sa résolution ; le voilà marié avec elle depuis trois jours.",
+          "text": " Il consulte dans sa tête, agite, raisonne, balance, prend sa résolution; le voilà marié avec elle depuis trois jours.",
+          "textWithEmoji": " Il consulte dans sa tête, agite, raisonne, balance, prend sa résolution; le voilà marié avec elle depuis trois jours.",
           "emojiWords": {}
         },
         {
@@ -874,8 +871,8 @@
         },
         {
           "character": "SILVESTRE",
-          "text": "Maintenant mets avec cela le retour imprévu du père, qu’on n’attendait que dans deux mois ; la découverte que l’oncle a faite du secret de notre mariage, et l’autre mariage qu’on veut faire de lui [5] avec la fille que le seigneur Géronte a eue d’une seconde femme qu’on dit qu’il a épousée à Tarente.",
-          "textWithEmoji": "Maintenant mets avec cela le retour imprévu du père, qu’on n’attendait que dans deux 👬 mois ; la découverte que l’oncle a faite du secret de notre mariage 💒, et l’autre mariage 💒 qu’on veut faire de lui [5] avec la fille 👧 que le seigneur Géronte a eue d’une seconde femme 👩 qu’on dit qu’il a épousée à Tarente.",
+          "text": "Maintenant mets avec cela le retour imprévu du père, qu’on n’attendait que dans deux mois; la découverte que l’oncle a faite du secret de notre mariage, et l’autre mariage qu’on veut faire de lui avec la fille que le seigneur Géronte a eue d’une seconde femme qu’on dit qu’il a épousée à Tarente.",
+          "textWithEmoji": "Maintenant mets avec cela le retour imprévu du père, qu’on n’attendait que dans deux 👬 mois; la découverte que l’oncle a faite du secret de notre mariage 💒, et l’autre mariage 💒 qu’on veut faire de lui avec la fille 👧 que le seigneur Géronte a eue d’une seconde femme 👩 qu’on dit qu’il a épousée à Tarente.",
           "emojiWords": {
             "deux": "👬",
             "mariage": "💒",
@@ -941,8 +938,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": " Je voudrais bien que l’on m’eût donné autrefois nos vieillards à duper ; je les aurais joués tous deux par-dessous la jambe ; et je n’étais pas plus grand que cela, que je me signalais déjà par cent tours d’adresse jolis.",
-          "textWithEmoji": " Je voudrais bien que l’on m’eût donné autrefois nos vieillards à duper ; je les aurais joués tous deux 👬 par-dessous la jambe ; et je n’étais pas plus grand 🏬 que cela, que je me signalais déjà par cent tours d’adresse jolis.",
+          "text": " Je voudrais bien que l’on m’eût donné autrefois nos vieillards à duper; je les aurais joués tous deux par-dessous la jambe; et je n’étais pas plus grand que cela, que je me signalais déjà par cent tours d’adresse jolis.",
+          "textWithEmoji": " Je voudrais bien que l’on m’eût donné autrefois nos vieillards à duper; je les aurais joués tous deux 👬 par-dessous la jambe; et je n’étais pas plus grand 🏬 que cela, que je me signalais déjà par cent tours d’adresse jolis.",
           "emojiWords": {
             "deux": "👬",
             "grand": "🏬"
@@ -1012,8 +1009,8 @@
         },
         {
           "character": "HYACINTE",
-          "text": "Oui, Octave, je suis sûre que vous m’aimez ; mais je ne le suis pas que vous m’aimiez toujours.",
-          "textWithEmoji": "Oui, Octave, je suis sûre que vous m’aimez ; mais je ne le suis pas que vous m’aimiez toujours.",
+          "text": "Oui, Octave, je suis sûre que vous m’aimez; mais je ne le suis pas que vous m’aimiez toujours.",
+          "textWithEmoji": "Oui, Octave, je suis sûre que vous m’aimez; mais je ne le suis pas que vous m’aimiez toujours.",
           "emojiWords": {}
         },
         {
@@ -1046,8 +1043,8 @@
         },
         {
           "character": "HYACINTE",
-          "text": "Je veux croire que vous sentez ce que vous dites, et je ne doute point que vos paroles ne soient sincères ; mais je crains un pouvoir qui combattra dans votre cœur les tendres sentiments que vous pouvez avoir pour moi.",
-          "textWithEmoji": "Je veux croire que vous sentez ce que vous dites, et je ne doute point ‼ que vos paroles ne soient sincères ; mais je crains un pouvoir qui combattra dans votre cœur 💛 les tendres sentiments que vous pouvez avoir pour moi.",
+          "text": "Je veux croire que vous sentez ce que vous dites, et je ne doute point que vos paroles ne soient sincères; mais je crains un pouvoir qui combattra dans votre cœur les tendres sentiments que vous pouvez avoir pour moi.",
+          "textWithEmoji": "Je veux croire que vous sentez ce que vous dites, et je ne doute point ‼ que vos paroles ne soient sincères; mais je crains un pouvoir qui combattra dans votre cœur 💛 les tendres sentiments que vous pouvez avoir pour moi.",
           "emojiWords": {
             "point": "‼",
             "cœur": "💛"
@@ -1055,16 +1052,14 @@
         },
         {
           "character": "HYACINTE",
-          "text": " Vous dépendez d’un père, qui veut vous marier à une autre personne ; et je suis sûre que je mourrai, si ce malheur m’arrive.",
-          "textWithEmoji": " Vous dépendez d’un père, qui veut vous marier à une autre personne 👱 ; et je suis sûre que je mourrai, si ce malheur m’arrive.",
-          "emojiWords": {
-            "personne": "👱"
-          }
+          "text": " Vous dépendez d’un père, qui veut vous marier à une autre personne; et je suis sûre que je mourrai, si ce malheur m’arrive.",
+          "textWithEmoji": " Vous dépendez d’un père, qui veut vous marier à une autre personne; et je suis sûre que je mourrai, si ce malheur m’arrive.",
+          "emojiWords": {}
         },
         {
           "character": "OCTAVE",
-          "text": "Non, belle Hyacinte, il n’y a point de père qui puisse me contraindre à vous manquer de foi, et je me résoudrai à quitter mon pays, et le jour même [6] , s’il est besoin, plutôt qu’à vous quitter.",
-          "textWithEmoji": "Non, belle Hyacinte, il n’y a point ‼ de père 🎅 qui puisse me contraindre à vous manquer de foi, et je me résoudrai à quitter mon pays, et le jour même [6] , s’il est besoin, plutôt qu’à vous quitter.",
+          "text": "Non, belle Hyacinte, il n’y a point de père qui puisse me contraindre à vous manquer de foi, et je me résoudrai à quitter mon pays, et le jour même, s’il est besoin, plutôt qu’à vous quitter.",
+          "textWithEmoji": "Non, belle Hyacinte, il n’y a point ‼ de père 🎅 qui puisse me contraindre à vous manquer de foi, et je me résoudrai à quitter mon pays, et le jour même, s’il est besoin, plutôt qu’à vous quitter.",
           "emojiWords": {
             "point": "‼",
             "père": "🎅"
@@ -1072,8 +1067,8 @@
         },
         {
           "character": "OCTAVE",
-          "text": " J’ai déjà pris, sans l’avoir vue, une aversion effroyable pour celle que l’on me destine ; et sans être cruel, je souhaiterais que la mer l’écartât d’ici pour jamais.",
-          "textWithEmoji": " J’ai déjà pris, sans l’avoir vue, une aversion effroyable pour celle que l’on me destine ; et sans être cruel, je souhaiterais que la mer l’écartât d’ici pour jamais.",
+          "text": " J’ai déjà pris, sans l’avoir vue, une aversion effroyable pour celle que l’on me destine; et sans être cruel, je souhaiterais que la mer l’écartât d’ici pour jamais.",
+          "textWithEmoji": " J’ai déjà pris, sans l’avoir vue, une aversion effroyable pour celle que l’on me destine; et sans être cruel, je souhaiterais que la mer l’écartât d’ici pour jamais.",
           "emojiWords": {}
         },
         {
@@ -1130,8 +1125,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": "J’ai fait de grands serments de ne me mêler plus du monde ; mais si vous m’en priez bien fort tous deux, peut-être...",
-          "textWithEmoji": "J’ai fait de grands serments de ne me mêler plus du monde ; mais si vous m’en priez bien fort tous deux, peut-être...",
+          "text": "J’ai fait de grands serments de ne me mêler plus du monde; mais si vous m’en priez bien fort tous deux, peut-être...",
+          "textWithEmoji": "J’ai fait de grands serments de ne me mêler plus du monde; mais si vous m’en priez bien fort tous deux, peut-être...",
           "emojiWords": {}
         },
         {
@@ -1180,8 +1175,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": " Allez-vous-en [7] , vous, et soyez en repos.",
-          "textWithEmoji": " Allez-vous-en [7] , vous, et soyez en repos.",
+          "text": " Allez-vous-en, vous, et soyez en repos.",
+          "textWithEmoji": " Allez-vous-en, vous, et soyez en repos.",
           "emojiWords": {}
         },
         {
@@ -1198,16 +1193,16 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Il faut pourtant paraître ferme au premier choc, de peur que, sur votre faiblesse, il ne prenne le pied de vous mener comme un enfant [8] .",
-          "textWithEmoji": "Il faut pourtant paraître ferme au premier 🌛 choc, de peur que, sur votre faiblesse, il ne prenne le pied de vous mener comme un enfant [8] .",
+          "text": "Il faut pourtant paraître ferme au premier choc, de peur que, sur votre faiblesse, il ne prenne le pied de vous mener comme un enfant.",
+          "textWithEmoji": "Il faut pourtant paraître ferme au premier 🌛 choc, de peur que, sur votre faiblesse, il ne prenne le pied de vous mener comme un enfant.",
           "emojiWords": {
             "premier": "🌛"
           }
         },
         {
           "character": "SCAPIN",
-          "text": " Là, tâchez de vous composer par étude [9] .",
-          "textWithEmoji": " Là, tâchez de vous composer par étude [9] .",
+          "text": " Là, tâchez de vous composer par étude.",
+          "textWithEmoji": " Là, tâchez de vous composer par étude.",
           "emojiWords": {}
         },
         {
@@ -1412,8 +1407,8 @@
         },
         {
           "character": "OCTAVE",
-          "text": " je suis perdu [10] .",
-          "textWithEmoji": " je suis perdu [10] .",
+          "text": " je suis perdu.",
+          "textWithEmoji": " je suis perdu.",
           "emojiWords": {}
         },
         {
@@ -1550,8 +1545,8 @@
         },
         {
           "character": "ARGANTE",
-          "text": "Ils ne m’en donneront point à garder [11] .",
-          "textWithEmoji": "Ils ne m’en donneront point ‼ à garder [11] .",
+          "text": "Ils ne m’en donneront point à garder.",
+          "textWithEmoji": "Ils ne m’en donneront point ‼ à garder.",
           "emojiWords": {
             "point": "‼"
           }
@@ -1602,8 +1597,8 @@
         },
         {
           "character": "ARGANTE",
-          "text": "Bonjour, Scapin [12] , vous avez suivi mes ordres vraiment d’une belle manière, et mon fils s’est comporté fort sagement pendant mon absence.",
-          "textWithEmoji": "Bonjour, Scapin [12] , vous avez suivi mes ordres vraiment d’une belle manière, et mon fils s’est comporté fort sagement pendant mon absence.",
+          "text": "Bonjour, Scapin, vous avez suivi mes ordres vraiment d’une belle manière, et mon fils s’est comporté fort sagement pendant mon absence.",
+          "textWithEmoji": "Bonjour, Scapin, vous avez suivi mes ordres vraiment d’une belle manière, et mon fils s’est comporté fort sagement pendant mon absence.",
           "emojiWords": {}
         },
         {
@@ -1838,8 +1833,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": " Les jeunes gens sont jeunes, et n’ont pas toute la prudence qu’il leur faudrait, pour ne rien faire que de raisonnable ; témoin notre Léandre, qui malgré toutes mes leçons, malgré toutes mes remontrances, est allé faire de son côté pis encore que votre fils.",
-          "textWithEmoji": " Les jeunes gens sont jeunes, et n’ont pas toute la prudence qu’il leur faudrait, pour ne rien faire que de raisonnable ; témoin notre Léandre, qui malgré toutes mes leçons, malgré toutes mes remontrances, est allé faire de son côté pis encore que votre fils.",
+          "text": " Les jeunes gens sont jeunes, et n’ont pas toute la prudence qu’il leur faudrait, pour ne rien faire que de raisonnable; témoin notre Léandre, qui malgré toutes mes leçons, malgré toutes mes remontrances, est allé faire de son côté pis encore que votre fils.",
+          "textWithEmoji": " Les jeunes gens sont jeunes, et n’ont pas toute la prudence qu’il leur faudrait, pour ne rien faire que de raisonnable; témoin notre Léandre, qui malgré toutes mes leçons, malgré toutes mes remontrances, est allé faire de son côté pis encore que votre fils.",
           "emojiWords": {}
         },
         {
@@ -1850,8 +1845,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": " J’ai ouï dire, moi, que vous avez été autrefois un compagnon [13] parmi les femmes, que vous faisiez de votre drôle avec les plus galantes de ce temps-là ; et que vous n’en approchiez point, que vous ne poussassiez à bout.",
-          "textWithEmoji": " J’ai ouï dire, moi, que vous avez été autrefois un compagnon [13] parmi les femmes, que vous faisiez de votre drôle avec les plus galantes de ce temps-là ; et que vous n’en approchiez point, que vous ne poussassiez à bout.",
+          "text": " J’ai ouï dire, moi, que vous avez été autrefois un compagnon parmi les femmes, que vous faisiez de votre drôle avec les plus galantes de ce temps-là; et que vous n’en approchiez point, que vous ne poussassiez à bout.",
+          "textWithEmoji": " J’ai ouï dire, moi, que vous avez été autrefois un compagnon parmi les femmes, que vous faisiez de votre drôle avec les plus galantes de ce temps-là; et que vous n’en approchiez point, que vous ne poussassiez à bout.",
           "emojiWords": {}
         },
         {
@@ -1862,8 +1857,8 @@
         },
         {
           "character": "ARGANTE",
-          "text": " J’en demeure d’accord ; mais je m’en suis toujours tenu à la galanterie, et je n’ai point été jusqu’à faire ce qu’il a fait.",
-          "textWithEmoji": " J’en demeure d’accord ; mais je m’en suis toujours tenu à la galanterie, et je n’ai point ‼ été jusqu’à faire ce qu’il a fait.",
+          "text": " J’en demeure d’accord; mais je m’en suis toujours tenu à la galanterie, et je n’ai point été jusqu’à faire ce qu’il a fait.",
+          "textWithEmoji": " J’en demeure d’accord; mais je m’en suis toujours tenu à la galanterie, et je n’ai point ‼ été jusqu’à faire ce qu’il a fait.",
           "emojiWords": {
             "point": "‼"
           }
@@ -1890,8 +1885,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": " Il lui rend des visites ; lui conte des douceurs, soupire galamment, fait le passionné.",
-          "textWithEmoji": " Il lui rend des visites ; lui conte des douceurs, soupire galamment, fait le passionné.",
+          "text": " Il lui rend des visites; lui conte des douceurs, soupire galamment, fait le passionné.",
+          "textWithEmoji": " Il lui rend des visites; lui conte des douceurs, soupire galamment, fait le passionné.",
           "emojiWords": {}
         },
         {
@@ -2022,8 +2017,8 @@
         },
         {
           "character": "ARGANTE",
-          "text": "Quoi, je n’aurai pas pour moi les droits de père, et la raison de la violence qu’on a faite à mon fils [14]  ?",
-          "textWithEmoji": "Quoi, je n’aurai pas pour moi les droits de père, et la raison de la violence qu’on a faite à mon fils [14]  ?",
+          "text": "Quoi, je n’aurai pas pour moi les droits de père, et la raison de la violence qu’on a faite à mon fils ?",
+          "textWithEmoji": "Quoi, je n’aurai pas pour moi les droits de père, et la raison de la violence qu’on a faite à mon fils ?",
           "emojiWords": {}
         },
         {
@@ -2110,8 +2105,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Il ne le fera pas, vous dis-je [15] .",
-          "textWithEmoji": "Il ne le fera pas, vous dis-je [15] .",
+          "text": "Il ne le fera pas, vous dis-je.",
+          "textWithEmoji": "Il ne le fera pas, vous dis-je.",
           "emojiWords": {}
         },
         {
@@ -2346,11 +2341,10 @@
       "dialogue": [
         {
           "character": "SILVESTRE",
-          "text": "J’avoue que tu es un grand homme, et voilà l’affaire en bon train ; mais l’argent d’autre part nous presse [16] pour notre subsistance, et nous avons de tous côtés des gens qui aboient après nous.",
-          "textWithEmoji": "J’avoue que tu es un grand 🏬 homme, et voilà l’affaire en bon train 🚄 ; mais l’argent d’autre part 🍕 nous presse [16] pour notre subsistance, et nous avons de tous côtés des gens qui aboient après nous.",
+          "text": "J’avoue que tu es un grand homme, et voilà l’affaire en bon train; mais l’argent d’autre part nous presse pour notre subsistance, et nous avons de tous côtés des gens qui aboient après nous.",
+          "textWithEmoji": "J’avoue que tu es un grand 🏬 homme, et voilà l’affaire en bon train; mais l’argent d’autre part 🍕 nous presse pour notre subsistance, et nous avons de tous côtés des gens qui aboient après nous.",
           "emojiWords": {
             "grand": "🏬",
-            "train": "🚄",
             "part": "🍕"
           }
         },
@@ -2444,8 +2438,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Va, va ; nous partagerons les périls en frères ; et trois ans de galère de plus, ou de moins, ne sont pas pour arrêter un noble cœur.",
-          "textWithEmoji": "Va, va ; nous partagerons les périls en frères ; et trois ans de galère de plus, ou de moins, ne sont pas pour arrêter un noble cœur.",
+          "text": "Va, va; nous partagerons les périls en frères; et trois ans de galère de plus, ou de moins, ne sont pas pour arrêter un noble cœur.",
+          "textWithEmoji": "Va, va; nous partagerons les périls en frères; et trois ans de galère de plus, ou de moins, ne sont pas pour arrêter un noble cœur.",
           "emojiWords": {}
         }
       ]

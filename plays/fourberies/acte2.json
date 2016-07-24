@@ -11,24 +11,24 @@
       "dialogue": [
         {
           "character": "GÉRONTE",
-          "text": "Oui, sans doute [1] , par le temps qu’il fait, nous aurons ici nos gens aujourd’hui ; et un matelot qui vient de Tarente, m’a assuré qu’il avait vu mon homme qui était près de s’embarquer.",
-          "textWithEmoji": "Oui, sans doute [1] , par le temps qu’il fait, nous aurons ici nos gens aujourd’hui ; et un matelot qui vient de Tarente, m’a assuré qu’il avait vu mon homme 👲 qui était près de s’embarquer.",
+          "text": "Oui, sans doute, par le temps qu’il fait, nous aurons ici nos gens aujourd’hui; et un matelot qui vient de Tarente, m’a assuré qu’il avait vu mon homme qui était près de s’embarquer.",
+          "textWithEmoji": "Oui, sans doute, par le temps qu’il fait, nous aurons ici nos gens aujourd’hui; et un matelot qui vient de Tarente, m’a assuré qu’il avait vu mon homme 👲 qui était près de s’embarquer.",
           "emojiWords": {
             "homme": "👲"
           }
         },
         {
           "character": "GÉRONTE",
-          "text": " Mais l’arrivée de ma fille trouvera les choses mal disposées à ce que nous nous proposions ; et ce que vous venez de m’apprendre de votre fils, rompt étrangement les mesures que nous avions prises ensemble.",
-          "textWithEmoji": " Mais l’arrivée de ma fille 👧 trouvera les choses mal disposées à ce que nous nous proposions ; et ce que vous venez de m’apprendre de votre fils, rompt étrangement les mesures que nous avions prises ensemble.",
+          "text": " Mais l’arrivée de ma fille trouvera les choses mal disposées à ce que nous nous proposions; et ce que vous venez de m’apprendre de votre fils, rompt étrangement les mesures que nous avions prises ensemble.",
+          "textWithEmoji": " Mais l’arrivée de ma fille 👧 trouvera les choses mal disposées à ce que nous nous proposions; et ce que vous venez de m’apprendre de votre fils, rompt étrangement les mesures que nous avions prises ensemble.",
           "emojiWords": {
             "fille": "👧"
           }
         },
         {
           "character": "ARGANTE",
-          "text": "Ne vous mettez pas en peine ; je vous réponds de renverser tout cet obstacle, et j’y vais travailler de ce pas.",
-          "textWithEmoji": "Ne vous mettez pas en peine ; je vous réponds de renverser tout cet obstacle, et j’y vais travailler de ce pas.",
+          "text": "Ne vous mettez pas en peine; je vous réponds de renverser tout cet obstacle, et j’y vais travailler de ce pas.",
+          "textWithEmoji": "Ne vous mettez pas en peine; je vous réponds de renverser tout cet obstacle, et j’y vais travailler de ce pas.",
           "emojiWords": {}
         },
         {
@@ -45,8 +45,8 @@
         },
         {
           "character": "ARGANTE",
-          "text": "Sans doute [2] .",
-          "textWithEmoji": "Sans doute [2] .",
+          "text": "Sans doute.",
+          "textWithEmoji": "Sans doute.",
           "emojiWords": {}
         },
         {
@@ -107,14 +107,14 @@
         },
         {
           "character": "GÉRONTE",
-          "text": "Sans doute [3] , et je serais bien fâché qu’il m’eût rien fait approchant de cela.",
-          "textWithEmoji": "Sans doute [3] , et je serais bien fâché qu’il m’eût rien fait approchant de cela.",
+          "text": "Sans doute, et je serais bien fâché qu’il m’eût rien fait approchant de cela.",
+          "textWithEmoji": "Sans doute, et je serais bien fâché qu’il m’eût rien fait approchant de cela.",
           "emojiWords": {}
         },
         {
           "character": "ARGANTE",
-          "text": "Et si ce fils que vous avez, en brave père, si bien morigéné, avait fait pis encore que le mien ; eh ?",
-          "textWithEmoji": "Et si ce fils que vous avez, en brave père, si bien morigéné, avait fait pis encore que le mien ; eh ?",
+          "text": "Et si ce fils que vous avez, en brave père, si bien morigéné, avait fait pis encore que le mien; eh ?",
+          "textWithEmoji": "Et si ce fils que vous avez, en brave père, si bien morigéné, avait fait pis encore que le mien; eh ?",
           "emojiWords": {}
         },
         {
@@ -137,8 +137,8 @@
         },
         {
           "character": "ARGANTE",
-          "text": "Cela veut dire, Seigneur Géronte, qu’il ne faut pas être si prompt à condamner la conduite des autres ; et que ceux qui veulent gloser, doivent bien regarder chez eux, s’il n’y a rien qui cloche.",
-          "textWithEmoji": "Cela veut dire, Seigneur Géronte, qu’il ne faut pas être si prompt à condamner la conduite des autres ; et que ceux qui veulent gloser, doivent bien regarder chez eux, s’il n’y a rien qui cloche.",
+          "text": "Cela veut dire, Seigneur Géronte, qu’il ne faut pas être si prompt à condamner la conduite des autres; et que ceux qui veulent gloser, doivent bien regarder chez eux, s’il n’y a rien qui cloche.",
+          "textWithEmoji": "Cela veut dire, Seigneur Géronte, qu’il ne faut pas être si prompt à condamner la conduite des autres; et que ceux qui veulent gloser, doivent bien regarder chez eux, s’il n’y a rien qui cloche.",
           "emojiWords": {}
         },
         {
@@ -175,14 +175,14 @@
         },
         {
           "character": "ARGANTE",
-          "text": "Votre Scapin, dans mon dépit [4] , ne m’a dit la chose qu’en gros ; et vous pourrez de lui, ou de quelque autre, être instruit du détail.",
-          "textWithEmoji": "Votre Scapin, dans mon dépit [4] , ne m’a dit la chose qu’en gros ; et vous pourrez de lui, ou de quelque autre, être instruit du détail.",
+          "text": "Votre Scapin, dans mon dépit, ne m’a dit la chose qu’en gros; et vous pourrez de lui, ou de quelque autre, être instruit du détail.",
+          "textWithEmoji": "Votre Scapin, dans mon dépit, ne m’a dit la chose qu’en gros; et vous pourrez de lui, ou de quelque autre, être instruit du détail.",
           "emojiWords": {}
         },
         {
           "character": "ARGANTE",
-          "text": " Pour moi, je vais vite consulter un avocat, et aviser des biais que j’ai à prendre [5] .",
-          "textWithEmoji": " Pour moi, je vais vite consulter un avocat, et aviser des biais que j’ai à prendre [5] .",
+          "text": " Pour moi, je vais vite consulter un avocat, et aviser des biais que j’ai à prendre.",
+          "textWithEmoji": " Pour moi, je vais vite consulter un avocat, et aviser des biais que j’ai à prendre.",
           "emojiWords": {}
         },
         {
@@ -211,8 +211,8 @@
         },
         {
           "character": "GÉRONTE",
-          "text": " Pour moi, je ne vois pas ce que l’on peut faire de pis ; et je trouve que se marier sans le consentement de son père, est une action qui passe tout ce qu’on peut s’imaginer.",
-          "textWithEmoji": " Pour moi, je ne vois pas ce que l’on peut faire de pis ; et je trouve que se marier sans le consentement de son père, est une action qui passe tout ce qu’on peut s’imaginer.",
+          "text": " Pour moi, je ne vois pas ce que l’on peut faire de pis; et je trouve que se marier sans le consentement de son père, est une action qui passe tout ce qu’on peut s’imaginer.",
+          "textWithEmoji": " Pour moi, je ne vois pas ce que l’on peut faire de pis; et je trouve que se marier sans le consentement de son père, est une action qui passe tout ce qu’on peut s’imaginer.",
           "emojiWords": {}
         },
         {
@@ -359,8 +359,8 @@
         },
         {
           "character": "GÉRONTE",
-          "text": "Vous êtes bien résolu [6] .",
-          "textWithEmoji": "Vous êtes bien résolu [6] .",
+          "text": "Vous êtes bien résolu.",
+          "textWithEmoji": "Vous êtes bien résolu.",
           "emojiWords": {}
         },
         {
@@ -575,14 +575,14 @@
         },
         {
           "character": "LÉANDRE",
-          "text": "Non, Octave, je veux qu’il me confesse lui-même tout à l’heure [7] la perfidie qu’il m’a faite.",
-          "textWithEmoji": "Non, Octave, je veux qu’il me confesse lui-même tout à l’heure [7] la perfidie qu’il m’a faite.",
+          "text": "Non, Octave, je veux qu’il me confesse lui-même tout à l’heure la perfidie qu’il m’a faite.",
+          "textWithEmoji": "Non, Octave, je veux qu’il me confesse lui-même tout à l’heure la perfidie qu’il m’a faite.",
           "emojiWords": {}
         },
         {
           "character": "LÉANDRE",
-          "text": " Oui, coquin, je sais le trait que tu m’as joué, on vient de me l’apprendre ; et tu ne croyais pas peut-être que l’on me dût révéler ce secret : mais je veux en avoir la confession de ta propre bouche, ou je vais te passer cette épée au travers du corps.",
-          "textWithEmoji": " Oui, coquin, je sais le trait que tu m’as joué, on vient de me l’apprendre ; et tu ne croyais pas peut-être que l’on me dût révéler ce secret : mais je veux en avoir la confession de ta propre bouche, ou je vais te passer cette épée au travers du corps.",
+          "text": " Oui, coquin, je sais le trait que tu m’as joué, on vient de me l’apprendre; et tu ne croyais pas peut-être que l’on me dût révéler ce secret : mais je veux en avoir la confession de ta propre bouche, ou je vais te passer cette épée au travers du corps.",
+          "textWithEmoji": " Oui, coquin, je sais le trait que tu m’as joué, on vient de me l’apprendre; et tu ne croyais pas peut-être que l’on me dût révéler ce secret : mais je veux en avoir la confession de ta propre bouche, ou je vais te passer cette épée au travers du corps.",
           "emojiWords": {}
         },
         {
@@ -611,8 +611,8 @@
         },
         {
           "character": "LÉANDRE",
-          "text": "Oui, coquin ; et ta conscience ne te dit que trop ce que c’est.",
-          "textWithEmoji": "Oui, coquin ; et ta conscience ne te dit que trop ce que c’est.",
+          "text": "Oui, coquin; et ta conscience ne te dit que trop ce que c’est.",
+          "textWithEmoji": "Oui, coquin; et ta conscience ne te dit que trop ce que c’est.",
           "emojiWords": {}
         },
         {
@@ -635,8 +635,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Hé bien Monsieur, puisque vous le voulez, je vous confesse que j’ai bu avec mes amis ce petit quartaut [8] de vin d’Espagne dont on vous fit présent il y a quelques jours ; et que c’est moi qui fis une fente au tonneau, et répandis de l’eau autour, pour faire croire que le vin s’était échappé.",
-          "textWithEmoji": "Hé bien Monsieur, puisque vous le voulez, je vous confesse que j’ai bu avec mes amis ce petit 🔼 quartaut [8] de vin d’Espagne dont on vous fit présent il y a quelques jours ; et que c’est moi qui fis une fente au tonneau, et répandis de l’eau autour, pour faire croire que le vin s’était échappé.",
+          "text": "Hé bien Monsieur, puisque vous le voulez, je vous confesse que j’ai bu avec mes amis ce petit quartaut de vin d’Espagne dont on vous fit présent il y a quelques jours; et que c’est moi qui fis une fente au tonneau, et répandis de l’eau autour, pour faire croire que le vin s’était échappé.",
+          "textWithEmoji": "Hé bien Monsieur, puisque vous le voulez, je vous confesse que j’ai bu avec mes amis ce petit 🔼 quartaut de vin d’Espagne dont on vous fit présent il y a quelques jours; et que c’est moi qui fis une fente au tonneau, et répandis de l’eau autour, pour faire croire que le vin s’était échappé.",
           "emojiWords": {
             "petit": "🔼"
           }
@@ -657,8 +657,8 @@
         },
         {
           "character": "LÉANDRE",
-          "text": "Je suis bien aise d’apprendre cela ; mais ce n’est pas l’affaire dont il est question maintenant.",
-          "textWithEmoji": "Je suis bien aise d’apprendre cela ; mais ce n’est pas l’affaire dont il est question maintenant.",
+          "text": "Je suis bien aise d’apprendre cela; mais ce n’est pas l’affaire dont il est question maintenant.",
+          "textWithEmoji": "Je suis bien aise d’apprendre cela; mais ce n’est pas l’affaire dont il est question maintenant.",
           "emojiWords": {}
         },
         {
@@ -913,8 +913,8 @@
         },
         {
           "character": "CARLE",
-          "text": "Vos Égyptiens sont sur le point de vous enlever Zerbinette ; et elle-même, les larmes aux yeux, m’a chargé de venir promptement vous dire, que si dans deux heures vous ne songez à leur porter l’argent qu’ils vous ont demandé pour elle, vous l’allez perdre pour jamais.",
-          "textWithEmoji": "Vos Égyptiens sont sur le point ‼ de vous enlever Zerbinette ; et elle-même, les larmes aux yeux, m’a chargé de venir promptement vous dire, que si dans deux 👬 heures vous ne songez à leur porter l’argent qu’ils vous ont demandé pour elle, vous l’allez perdre pour jamais.",
+          "text": "Vos Égyptiens sont sur le point de vous enlever Zerbinette; et elle-même, les larmes aux yeux, m’a chargé de venir promptement vous dire, que si dans deux heures vous ne songez à leur porter l’argent qu’ils vous ont demandé pour elle, vous l’allez perdre pour jamais.",
+          "textWithEmoji": "Vos Égyptiens sont sur le point ‼ de vous enlever Zerbinette; et elle-même, les larmes aux yeux, m’a chargé de venir promptement vous dire, que si dans deux 👬 heures vous ne songez à leur porter l’argent qu’ils vous ont demandé pour elle, vous l’allez perdre pour jamais.",
           "emojiWords": {
             "point": "‼",
             "deux": "👬"
@@ -1010,8 +1010,8 @@
         },
         {
           "character": "LÉANDRE",
-          "text": "Tu m’es trop précieux ; et je te prie de vouloir employer pour moi ce génie admirable, qui vient à bout de toute chose.",
-          "textWithEmoji": "Tu m’es trop précieux ; et je te prie de vouloir employer pour moi ce génie admirable, qui vient à bout de toute chose.",
+          "text": "Tu m’es trop précieux; et je te prie de vouloir employer pour moi ce génie admirable, qui vient à bout de toute chose.",
+          "textWithEmoji": "Tu m’es trop précieux; et je te prie de vouloir employer pour moi ce génie admirable, qui vient à bout de toute chose.",
           "emojiWords": {}
         },
         {
@@ -1034,8 +1034,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Le moyen, après une avanie [9] de la sorte ?",
-          "textWithEmoji": "Le moyen, après une avanie [9] de la sorte ?",
+          "text": "Le moyen, après une avanie de la sorte ?",
+          "textWithEmoji": "Le moyen, après une avanie de la sorte ?",
           "emojiWords": {}
         },
         {
@@ -1100,10 +1100,9 @@
         },
         {
           "character": "LÉANDRE",
-          "text": "Je t’en demande pardon de tout mon cœur ; et s’il ne tient qu’à me jeter à tes genoux, tu m’y vois, Scapin, pour te conjurer encore une fois de ne me point abandonner.",
-          "textWithEmoji": "Je t’en demande pardon de tout mon cœur 💛 ; et s’il ne tient qu’à me jeter à tes genoux, tu m’y vois, Scapin, pour te conjurer encore une fois de ne me point ‼ abandonner.",
+          "text": "Je t’en demande pardon de tout mon cœur; et s’il ne tient qu’à me jeter à tes genoux, tu m’y vois, Scapin, pour te conjurer encore une fois de ne me point abandonner.",
+          "textWithEmoji": "Je t’en demande pardon de tout mon cœur; et s’il ne tient qu’à me jeter à tes genoux, tu m’y vois, Scapin, pour te conjurer encore une fois de ne me point ‼ abandonner.",
           "emojiWords": {
-            "cœur": "💛",
             "point": "‼"
           }
         },
@@ -1191,8 +1190,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": " Pour ce qui est du vôtre, la machine est déjà toute trouvée : et quant au vôtre, bien qu’avare au dernier degré, il y faudra moins de façon encore ; car vous savez que pour l’esprit, il n’en a pas grâces à Dieu grande provision, et je le livre [10] pour une espèce d’homme à qui l’on fera toujours croire tout ce que l’on voudra.",
-          "textWithEmoji": " Pour ce qui est du vôtre, la machine 🎰 est déjà toute trouvée : et quant au vôtre, bien qu’avare au dernier degré, il y faudra moins de façon encore ; car vous savez que pour l’esprit, il n’en a pas grâces à Dieu grande provision, et je le livre 📕 [10] pour une espèce d’homme à qui l’on fera toujours croire tout ce que l’on voudra.",
+          "text": " Pour ce qui est du vôtre, la machine est déjà toute trouvée : et quant au vôtre, bien qu’avare au dernier degré, il y faudra moins de façon encore; car vous savez que pour l’esprit, il n’en a pas grâces à Dieu grande provision, et je le livre pour une espèce d’homme à qui l’on fera toujours croire tout ce que l’on voudra.",
+          "textWithEmoji": " Pour ce qui est du vôtre, la machine 🎰 est déjà toute trouvée : et quant au vôtre, bien qu’avare au dernier degré, il y faudra moins de façon encore; car vous savez que pour l’esprit, il n’en a pas grâces à Dieu grande provision, et je le livre 📕 pour une espèce d’homme à qui l’on fera toujours croire tout ce que l’on voudra.",
           "emojiWords": {
             "machine": "🎰",
             "livre": "📕"
@@ -1200,8 +1199,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": " Cela ne vous offense point, il ne tombe entre lui et vous aucun soupçon de ressemblance ; et vous savez assez l’opinion de tout le monde, qui veut qu’il ne soit votre père que pour la forme.",
-          "textWithEmoji": " Cela ne vous offense point, il ne tombe entre lui et vous aucun soupçon de ressemblance ; et vous savez assez l’opinion de tout le monde, qui veut qu’il ne soit votre père 🎅 que pour la forme.",
+          "text": " Cela ne vous offense point, il ne tombe entre lui et vous aucun soupçon de ressemblance; et vous savez assez l’opinion de tout le monde, qui veut qu’il ne soit votre père que pour la forme.",
+          "textWithEmoji": " Cela ne vous offense point, il ne tombe entre lui et vous aucun soupçon de ressemblance; et vous savez assez l’opinion de tout le monde, qui veut qu’il ne soit votre père 🎅 que pour la forme.",
           "emojiWords": {
             "père": "🎅"
           }
@@ -1214,8 +1213,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Bon, bon ; on fait bien scrupule de cela, vous moquez-vous ?",
-          "textWithEmoji": "Bon, bon ; on fait bien scrupule de cela, vous moquez-vous ?",
+          "text": "Bon, bon; on fait bien scrupule de cela, vous moquez-vous ?",
+          "textWithEmoji": "Bon, bon; on fait bien scrupule de cela, vous moquez-vous ?",
           "emojiWords": {}
         },
         {
@@ -1258,8 +1257,8 @@
         },
         {
           "character": "ARGANTE",
-          "text": "Avoir si peu de conduite et de considération [11]  !",
-          "textWithEmoji": "Avoir si peu de conduite et de considération [11]  !",
+          "text": "Avoir si peu de conduite et de considération !",
+          "textWithEmoji": "Avoir si peu de conduite et de considération !",
           "emojiWords": {}
         },
         {
@@ -1270,8 +1269,8 @@
         },
         {
           "character": "ARGANTE",
-          "text": " Ah, ah, jeunesse impertinente [12] .",
-          "textWithEmoji": " Ah, ah, jeunesse impertinente [12] .",
+          "text": " Ah, ah, jeunesse impertinente.",
+          "textWithEmoji": " Ah, ah, jeunesse impertinente.",
           "emojiWords": {}
         },
         {
@@ -1306,8 +1305,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": " Il est bon de s’y tenir sans cesse préparé ; et j’ai ouï dire il y a longtemps une parole d’un ancien que j’ai toujours retenue.",
-          "textWithEmoji": " Il est bon de s’y tenir sans cesse préparé ; et j’ai ouï dire il y a longtemps une parole d’un ancien que j’ai toujours retenue.",
+          "text": " Il est bon de s’y tenir sans cesse préparé; et j’ai ouï dire il y a longtemps une parole d’un ancien que j’ai toujours retenue.",
+          "textWithEmoji": " Il est bon de s’y tenir sans cesse préparé; et j’ai ouï dire il y a longtemps une parole d’un ancien que j’ai toujours retenue.",
           "emojiWords": {}
         },
         {
@@ -1318,8 +1317,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Que pour peu qu’un père de famille ait été absent de chez lui, il doit promener son esprit sur tous les fâcheux accidents que son retour peut rencontrer ; se figurer sa maison brûlée, son argent dérobé, sa femme morte, son fils estropié, sa fille subornée ; et ce qu’il trouve qui ne lui est point arrivé, l’imputer à bonne fortune.",
-          "textWithEmoji": "Que pour peu qu’un père 🎅 de famille 👪 ait été absent de chez lui, il doit promener son esprit sur tous les fâcheux accidents que son retour peut rencontrer ; se figurer sa maison 🏡 brûlée, son argent 💸 dérobé, sa femme 👩 morte, son fils estropié, sa fille 👧 subornée ; et ce qu’il trouve qui ne lui est point ‼ arrivé, l’imputer à bonne fortune.",
+          "text": "Que pour peu qu’un père de famille ait été absent de chez lui, il doit promener son esprit sur tous les fâcheux accidents que son retour peut rencontrer; se figurer sa maison brûlée, son argent dérobé, sa femme morte, son fils estropié, sa fille subornée; et ce qu’il trouve qui ne lui est point arrivé, l’imputer à bonne fortune.",
+          "textWithEmoji": "Que pour peu qu’un père 🎅 de famille 👪 ait été absent de chez lui, il doit promener son esprit sur tous les fâcheux accidents que son retour peut rencontrer; se figurer sa maison 🏡 brûlée, son argent 💸 dérobé, sa femme 👩 morte, son fils estropié, sa fille 👧 subornée; et ce qu’il trouve qui ne lui est point ‼ arrivé, l’imputer à bonne fortune.",
           "emojiWords": {
             "père": "🎅",
             "famille": "👪",
@@ -1332,14 +1331,14 @@
         },
         {
           "character": "SCAPIN",
-          "text": " Pour moi, j’ai pratiqué toujours cette leçon dans ma petite philosophie ; et je ne suis jamais revenu au logis, que je ne me sois tenu prêt à la colère de mes maîtres, aux réprimandes, aux injures, aux coups de pied au cul, aux bastonnades, aux étrivières ; et ce qui a manqué à m’arriver, j’en ai rendu grâce à mon bon destin.",
-          "textWithEmoji": " Pour moi, j’ai pratiqué toujours cette leçon dans ma petite philosophie ; et je ne suis jamais revenu au logis, que je ne me sois tenu prêt à la colère de mes maîtres, aux réprimandes, aux injures, aux coups de pied au cul, aux bastonnades, aux étrivières ; et ce qui a manqué à m’arriver, j’en ai rendu grâce à mon bon destin.",
+          "text": " Pour moi, j’ai pratiqué toujours cette leçon dans ma petite philosophie; et je ne suis jamais revenu au logis, que je ne me sois tenu prêt à la colère de mes maîtres, aux réprimandes, aux injures, aux coups de pied au cul, aux bastonnades, aux étrivières; et ce qui a manqué à m’arriver, j’en ai rendu grâce à mon bon destin.",
+          "textWithEmoji": " Pour moi, j’ai pratiqué toujours cette leçon dans ma petite philosophie; et je ne suis jamais revenu au logis, que je ne me sois tenu prêt à la colère de mes maîtres, aux réprimandes, aux injures, aux coups de pied au cul, aux bastonnades, aux étrivières; et ce qui a manqué à m’arriver, j’en ai rendu grâce à mon bon destin.",
           "emojiWords": {}
         },
         {
           "character": "ARGANTE",
-          "text": "Voilà qui est bien ; mais ce mariage impertinent qui trouble celui que nous voulons faire, est une chose que je ne puis souffrir, et je viens de consulter des avocats pour le faire casser.",
-          "textWithEmoji": "Voilà qui est bien ; mais ce mariage 💒 impertinent qui trouble celui que nous voulons faire, est une chose que je ne puis souffrir, et je viens de consulter des avocats pour le faire casser.",
+          "text": "Voilà qui est bien; mais ce mariage impertinent qui trouble celui que nous voulons faire, est une chose que je ne puis souffrir, et je viens de consulter des avocats pour le faire casser.",
+          "textWithEmoji": "Voilà qui est bien; mais ce mariage 💒 impertinent qui trouble celui que nous voulons faire, est une chose que je ne puis souffrir, et je viens de consulter des avocats pour le faire casser.",
           "emojiWords": {
             "mariage": "💒"
           }
@@ -1378,8 +1377,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": " La compassion que m’a donnée tantôt votre chagrin, m’a obligé à chercher dans ma tête quelque moyen pour vous tirer d’inquiétude : car je ne saurais voir d’honnêtes pères chagrinés par leurs enfants, que cela ne m’émeuve ; et de tout temps je me suis senti pour votre personne une inclination particulière.",
-          "textWithEmoji": " La compassion que m’a donnée tantôt votre chagrin, m’a obligé à chercher dans ma tête quelque moyen pour vous tirer d’inquiétude : car je ne saurais voir d’honnêtes pères chagrinés par leurs enfants, que cela ne m’émeuve ; et de tout temps je me suis senti pour votre personne 👱 une inclination particulière.",
+          "text": " La compassion que m’a donnée tantôt votre chagrin, m’a obligé à chercher dans ma tête quelque moyen pour vous tirer d’inquiétude : car je ne saurais voir d’honnêtes pères chagrinés par leurs enfants, que cela ne m’émeuve; et de tout temps je me suis senti pour votre personne une inclination particulière.",
+          "textWithEmoji": " La compassion que m’a donnée tantôt votre chagrin, m’a obligé à chercher dans ma tête quelque moyen pour vous tirer d’inquiétude : car je ne saurais voir d’honnêtes pères chagrinés par leurs enfants, que cela ne m’émeuve; et de tout temps je me suis senti pour votre personne 👱 une inclination particulière.",
           "emojiWords": {
             "personne": "👱"
           }
@@ -1400,24 +1399,22 @@
         },
         {
           "character": "SCAPIN",
-          "text": " C’est un de ces braves de profession [13] , de ces gens qui sont tous coups d’épée ; qui ne parlent que d’échiner, et ne font non plus de conscience de tuer un homme, que d’avaler un verre de vin.",
-          "textWithEmoji": " C’est un de ces braves de profession [13] , de ces gens qui sont tous coups d’épée ; qui ne parlent que d’échiner, et ne font non plus de conscience de tuer un homme, que d’avaler un verre 🍸 de vin.",
+          "text": " C’est un de ces braves de profession, de ces gens qui sont tous coups d’épée; qui ne parlent que d’échiner, et ne font non plus de conscience de tuer un homme, que d’avaler un verre de vin.",
+          "textWithEmoji": " C’est un de ces braves de profession, de ces gens qui sont tous coups d’épée; qui ne parlent que d’échiner, et ne font non plus de conscience de tuer un homme, que d’avaler un verre 🍸 de vin.",
           "emojiWords": {
             "verre": "🍸"
           }
         },
         {
           "character": "SCAPIN",
-          "text": " Je l’ai mis sur ce mariage ; lui ai fait voir quelle facilité offrait la raison de la violence, pour le faire casser ; vos prérogatives du nom de père, et l’appui que vous donnerait auprès de la justice et votre droit, et votre argent, et vos amis.",
-          "textWithEmoji": " Je l’ai mis sur ce mariage 💒 ; lui ai fait voir quelle facilité offrait la raison de la violence, pour le faire casser ; vos prérogatives du nom de père, et l’appui que vous donnerait auprès de la justice et votre droit, et votre argent, et vos amis.",
-          "emojiWords": {
-            "mariage": "💒"
-          }
+          "text": " Je l’ai mis sur ce mariage; lui ai fait voir quelle facilité offrait la raison de la violence, pour le faire casser; vos prérogatives du nom de père, et l’appui que vous donnerait auprès de la justice et votre droit, et votre argent, et vos amis.",
+          "textWithEmoji": " Je l’ai mis sur ce mariage; lui ai fait voir quelle facilité offrait la raison de la violence, pour le faire casser; vos prérogatives du nom de père, et l’appui que vous donnerait auprès de la justice et votre droit, et votre argent, et vos amis.",
+          "emojiWords": {}
         },
         {
           "character": "SCAPIN",
-          "text": " Enfin je l’ai tant tourné de tous les côtés, qu’il a prêté l’oreille aux propositions que je lui ai faites d’ajuster l’affaire pour quelque somme ; et il donnera son consentement à rompre le mariage, pourvu que vous lui donniez de l’argent.",
-          "textWithEmoji": " Enfin je l’ai tant tourné de tous les côtés, qu’il a prêté l’oreille aux propositions que je lui ai faites d’ajuster l’affaire pour quelque somme ; et il donnera son consentement à rompre le mariage, pourvu que vous lui donniez de l’argent.",
+          "text": " Enfin je l’ai tant tourné de tous les côtés, qu’il a prêté l’oreille aux propositions que je lui ai faites d’ajuster l’affaire pour quelque somme; et il donnera son consentement à rompre le mariage, pourvu que vous lui donniez de l’argent.",
+          "textWithEmoji": " Enfin je l’ai tant tourné de tous les côtés, qu’il a prêté l’oreille aux propositions que je lui ai faites d’ajuster l’affaire pour quelque somme; et il donnera son consentement à rompre le mariage, pourvu que vous lui donniez de l’argent.",
           "emojiWords": {}
         },
         {
@@ -1498,14 +1495,14 @@
         },
         {
           "character": "SCAPIN",
-          "text": " Je suis après à m’équiper [14]  ; et le besoin que j’ai de quelque argent, me fait consentir malgré moi à ce qu’on me propose.",
-          "textWithEmoji": " Je suis après à m’équiper [14]  ; et le besoin que j’ai de quelque argent, me fait consentir malgré moi à ce qu’on me propose.",
+          "text": " Je suis après à m’équiper; et le besoin que j’ai de quelque argent, me fait consentir malgré moi à ce qu’on me propose.",
+          "textWithEmoji": " Je suis après à m’équiper; et le besoin que j’ai de quelque argent, me fait consentir malgré moi à ce qu’on me propose.",
           "emojiWords": {}
         },
         {
           "character": "SCAPIN",
-          "text": " Il me faut un cheval de service, et je n’en saurais avoir un qui soit tant soit peu raisonnable [15] , à moins de soixante pistoles.",
-          "textWithEmoji": " Il me faut un cheval 🐴 de service, et je n’en saurais avoir un qui soit tant soit peu raisonnable [15] , à moins de soixante pistoles.",
+          "text": " Il me faut un cheval de service, et je n’en saurais avoir un qui soit tant soit peu raisonnable, à moins de soixante pistoles.",
+          "textWithEmoji": " Il me faut un cheval 🐴 de service, et je n’en saurais avoir un qui soit tant soit peu raisonnable, à moins de soixante pistoles.",
           "emojiWords": {
             "cheval": "🐴"
           }
@@ -1518,8 +1515,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": "\"Il faudra le harnais, et les pistolets ; et cela ira bien à vingt pistoles encore.",
-          "textWithEmoji": "\"Il faudra le harnais, et les pistolets ; et cela ira bien à vingt pistoles encore.",
+          "text": "\"Il faudra le harnais, et les pistolets; et cela ira bien à vingt pistoles encore.",
+          "textWithEmoji": "\"Il faudra le harnais, et les pistolets; et cela ira bien à vingt pistoles encore.",
           "emojiWords": {}
         },
         {
@@ -1536,14 +1533,14 @@
         },
         {
           "character": "ARGANTE",
-          "text": "C’est beaucoup ; mais soit, je consens à cela.",
-          "textWithEmoji": "C’est beaucoup ; mais soit, je consens à cela.",
+          "text": "C’est beaucoup; mais soit, je consens à cela.",
+          "textWithEmoji": "C’est beaucoup; mais soit, je consens à cela.",
           "emojiWords": {}
         },
         {
           "character": "SCAPIN",
-          "text": "\"Il me faut aussi un cheval pour monter mon valet, qui coûtera bien trente pistoles [16] \".",
-          "textWithEmoji": "\"Il me faut aussi un cheval 🐴 pour monter mon valet, qui coûtera bien trente pistoles [16] \".",
+          "text": "\"Il me faut aussi un cheval pour monter mon valet, qui coûtera bien trente pistoles \".",
+          "textWithEmoji": "\"Il me faut aussi un cheval 🐴 pour monter mon valet, qui coûtera bien trente pistoles \".",
           "emojiWords": {
             "cheval": "🐴"
           }
@@ -1556,8 +1553,8 @@
         },
         {
           "character": "ARGANTE",
-          "text": " Qu’il se promène ; il n’aura rien du tout.",
-          "textWithEmoji": " Qu’il se promène ; il n’aura rien du tout.",
+          "text": " Qu’il se promène; il n’aura rien du tout.",
+          "textWithEmoji": " Qu’il se promène; il n’aura rien du tout.",
           "emojiWords": {}
         },
         {
@@ -1615,8 +1612,8 @@
         },
         {
           "character": "ARGANTE",
-          "text": "Oh qu’il aille au diable avec son mulet ; c’en est trop, et nous irons devant les juges.",
-          "textWithEmoji": "Oh qu’il aille au diable avec son mulet ; c’en est trop, et nous irons devant les juges.",
+          "text": "Oh qu’il aille au diable avec son mulet; c’en est trop, et nous irons devant les juges.",
+          "textWithEmoji": "Oh qu’il aille au diable avec son mulet; c’en est trop, et nous irons devant les juges.",
           "emojiWords": {}
         },
         {
@@ -1673,8 +1670,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": " Voyez combien d’appels et de degrés de juridiction ; combien de procédures embarrassantes ; combien d’animaux ravissants [i] par les griffes desquels il vous faudra passer, sergents, procureurs, avocats, greffiers, substituts, rapporteurs, juges, et leurs clercs.",
-          "textWithEmoji": " Voyez combien d’appels et de degrés de juridiction ; combien de procédures embarrassantes ; combien d’animaux ravissants [i] par les griffes desquels il vous faudra passer, sergents, procureurs, avocats, greffiers, substituts, rapporteurs, juges, et leurs clercs.",
+          "text": " Voyez combien d’appels et de degrés de juridiction; combien de procédures embarrassantes; combien d’animaux ravissants [i] par les griffes desquels il vous faudra passer, sergents, procureurs, avocats, greffiers, substituts, rapporteurs, juges, et leurs clercs.",
+          "textWithEmoji": " Voyez combien d’appels et de degrés de juridiction; combien de procédures embarrassantes; combien d’animaux ravissants [i] par les griffes desquels il vous faudra passer, sergents, procureurs, avocats, greffiers, substituts, rapporteurs, juges, et leurs clercs.",
           "emojiWords": {}
         },
         {
@@ -1705,8 +1702,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": " Le greffier délivrera par contumace [17] des sentences et arrêts contre vous.",
-          "textWithEmoji": " Le greffier délivrera par contumace [17] des sentences et arrêts contre vous.",
+          "text": " Le greffier délivrera par contumace des sentences et arrêts contre vous.",
+          "textWithEmoji": " Le greffier délivrera par contumace des sentences et arrêts contre vous.",
           "emojiWords": {}
         },
         {
@@ -1729,8 +1726,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": " C’est être damné dès ce monde, que d’avoir à plaider ; et la seule pensée d’un procès serait capable de me faire fuir jusqu’aux Indes.",
-          "textWithEmoji": " C’est être damné dès ce monde, que d’avoir à plaider ; et la seule pensée d’un procès serait capable de me faire fuir jusqu’aux Indes.",
+          "text": " C’est être damné dès ce monde, que d’avoir à plaider; et la seule pensée d’un procès serait capable de me faire fuir jusqu’aux Indes.",
+          "textWithEmoji": " C’est être damné dès ce monde, que d’avoir à plaider; et la seule pensée d’un procès serait capable de me faire fuir jusqu’aux Indes.",
           "emojiWords": {}
         },
         {
@@ -1799,8 +1796,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": " Il vous en faudra pour l’exploit ; il vous en faudra pour le contrôle.",
-          "textWithEmoji": " Il vous en faudra pour l’exploit ; il vous en faudra pour le contrôle.",
+          "text": " Il vous en faudra pour l’exploit; il vous en faudra pour le contrôle.",
+          "textWithEmoji": " Il vous en faudra pour l’exploit; il vous en faudra pour le contrôle.",
           "emojiWords": {}
         },
         {
@@ -1811,20 +1808,20 @@
         },
         {
           "character": "SCAPIN",
-          "text": " Il vous en faudra pour les consultations et plaidoiries des avocats ; pour le droit de retirer le sac, et pour les grosses d’écritures.",
-          "textWithEmoji": " Il vous en faudra pour les consultations et plaidoiries des avocats ; pour le droit de retirer le sac, et pour les grosses d’écritures.",
+          "text": " Il vous en faudra pour les consultations et plaidoiries des avocats; pour le droit de retirer le sac, et pour les grosses d’écritures.",
+          "textWithEmoji": " Il vous en faudra pour les consultations et plaidoiries des avocats; pour le droit de retirer le sac, et pour les grosses d’écritures.",
           "emojiWords": {}
         },
         {
           "character": "SCAPIN",
-          "text": " Il vous en faudra pour le rapport des substituts ; pour les épices de conclusion ; pour l’enregistrement du greffier, façon d’appointement, sentences et arrêts, contrôles, signatures, et expéditions de leurs clercs, sans parler de tous les présents qu’il vous faudra faire.",
-          "textWithEmoji": " Il vous en faudra pour le rapport des substituts ; pour les épices de conclusion ; pour l’enregistrement du greffier, façon d’appointement, sentences et arrêts, contrôles, signatures, et expéditions de leurs clercs, sans parler de tous les présents qu’il vous faudra faire.",
+          "text": " Il vous en faudra pour le rapport des substituts; pour les épices de conclusion; pour l’enregistrement du greffier, façon d’appointement, sentences et arrêts, contrôles, signatures, et expéditions de leurs clercs, sans parler de tous les présents qu’il vous faudra faire.",
+          "textWithEmoji": " Il vous en faudra pour le rapport des substituts; pour les épices de conclusion; pour l’enregistrement du greffier, façon d’appointement, sentences et arrêts, contrôles, signatures, et expéditions de leurs clercs, sans parler de tous les présents qu’il vous faudra faire.",
           "emojiWords": {}
         },
         {
           "character": "SCAPIN",
-          "text": " Donnez cet argent-là à cet homme-ci, vous voilà hors d’affaire [18] .",
-          "textWithEmoji": " Donnez cet argent-là à cet homme-ci, vous voilà hors d’affaire [18] .",
+          "text": " Donnez cet argent-là à cet homme-ci, vous voilà hors d’affaire.",
+          "textWithEmoji": " Donnez cet argent-là à cet homme-ci, vous voilà hors d’affaire.",
           "emojiWords": {}
         },
         {
@@ -1843,8 +1840,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": " J’ai fait un petit calcul en moi-même de tous les frais de la justice ; et j’ai trouvé qu’en donnant deux cents pistoles à votre homme, vous en aurez de reste pour le moins cent cinquante, sans compter les soins, les pas, et les chagrins que vous épargnerez.",
-          "textWithEmoji": " J’ai fait un petit 🔼 calcul en moi-même de tous les frais de la justice ; et j’ai trouvé qu’en donnant deux 👬 cents pistoles à votre homme, vous en aurez de reste pour le moins cent cinquante, sans compter les soins, les pas, et les chagrins que vous épargnerez.",
+          "text": " J’ai fait un petit calcul en moi-même de tous les frais de la justice; et j’ai trouvé qu’en donnant deux cents pistoles à votre homme, vous en aurez de reste pour le moins cent cinquante, sans compter les soins, les pas, et les chagrins que vous épargnerez.",
+          "textWithEmoji": " J’ai fait un petit 🔼 calcul en moi-même de tous les frais de la justice; et j’ai trouvé qu’en donnant deux 👬 cents pistoles à votre homme, vous en aurez de reste pour le moins cent cinquante, sans compter les soins, les pas, et les chagrins que vous épargnerez.",
           "emojiWords": {
             "petit": "🔼",
             "deux": "👬"
@@ -1864,8 +1861,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Vous ferez ce qu’il vous plaira ; mais si j’étais que de vous, je fuirais les procès.",
-          "textWithEmoji": "Vous ferez ce qu’il vous plaira ; mais si j’étais que de vous, je fuirais les procès.",
+          "text": "Vous ferez ce qu’il vous plaira; mais si j’étais que de vous, je fuirais les procès.",
+          "textWithEmoji": "Vous ferez ce qu’il vous plaira; mais si j’étais que de vous, je fuirais les procès.",
           "emojiWords": {}
         },
         {
@@ -1912,8 +1909,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Je ne sais pas s’il a cette pensée ; mais il ne veut point consentir aux deux cents pistoles que vous voulez, et il dit que c’est trop.",
-          "textWithEmoji": "Je ne sais pas s’il a cette pensée ; mais il ne veut point ‼ consentir aux deux 👬 cents pistoles que vous voulez, et il dit que c’est trop.",
+          "text": "Je ne sais pas s’il a cette pensée; mais il ne veut point consentir aux deux cents pistoles que vous voulez, et il dit que c’est trop.",
+          "textWithEmoji": "Je ne sais pas s’il a cette pensée; mais il ne veut point ‼ consentir aux deux 👬 cents pistoles que vous voulez, et il dit que c’est trop.",
           "emojiWords": {
             "point": "‼",
             "deux": "👬"
@@ -1921,14 +1918,14 @@
         },
         {
           "character": "SILVESTRE",
-          "text": "Par la mort, par la tête, par la ventre [i] , si je le trouve, je le veux échiner, dussé-je être roué tout vif.",
-          "textWithEmoji": "Par la mort, par la tête, par la ventre [i] , si je le trouve, je le veux échiner, dussé-je être roué tout vif.",
+          "text": "Par la mort, par la tête, par la ventre [i], si je le trouve, je le veux échiner, dussé-je être roué tout vif.",
+          "textWithEmoji": "Par la mort, par la tête, par la ventre [i], si je le trouve, je le veux échiner, dussé-je être roué tout vif.",
           "emojiWords": {}
         },
         {
           "character": "SILVESTRE",
-          "text": "\nArgante, pour n’être point vu, se tient en tremblant couvert de Scapin.",
-          "textWithEmoji": "\nArgante, pour n’être point ‼ vu, se tient en tremblant couvert de Scapin.",
+          "text": " Argante, pour n’être point vu, se tient en tremblant couvert de Scapin.",
+          "textWithEmoji": " Argante, pour n’être point ‼ vu, se tient en tremblant couvert de Scapin.",
           "emojiWords": {
             "point": "‼"
           }
@@ -1955,8 +1952,8 @@
         },
         {
           "character": "SILVESTRE",
-          "text": " Par la sang, par la tête, s’il était là, je lui donnerais tout à l’heure [20] de l’épée dans le ventre.",
-          "textWithEmoji": " Par la sang, par la tête, s’il était là, je lui donnerais tout à l’heure [20] de l’épée dans le ventre.",
+          "text": " Par la sang, par la tête, s’il était là, je lui donnerais tout à l’heure de l’épée dans le ventre.",
+          "textWithEmoji": " Par la sang, par la tête, s’il était là, je lui donnerais tout à l’heure de l’épée dans le ventre.",
           "emojiWords": {}
         },
         {
@@ -2005,8 +2002,8 @@
         },
         {
           "character": "SILVESTRE",
-          "text": " Vous êtes ennemi, Monsieur, de ce faquin d’Argante ; eh ?",
-          "textWithEmoji": " Vous êtes ennemi, Monsieur, de ce faquin d’Argante ; eh ?",
+          "text": " Vous êtes ennemi, Monsieur, de ce faquin d’Argante; eh ?",
+          "textWithEmoji": " Vous êtes ennemi, Monsieur, de ce faquin d’Argante; eh ?",
           "emojiWords": {}
         },
         {
@@ -2055,8 +2052,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Il se tiendra sur ses gardes assurément ; et il a des parents, des amis, et des domestiques, dont il se fera un secours contre votre ressentiment.",
-          "textWithEmoji": "Il se tiendra sur ses gardes assurément ; et il a des parents, des amis, et des domestiques, dont il se fera un secours contre votre ressentiment.",
+          "text": "Il se tiendra sur ses gardes assurément; et il a des parents, des amis, et des domestiques, dont il se fera un secours contre votre ressentiment.",
+          "textWithEmoji": "Il se tiendra sur ses gardes assurément; et il a des parents, des amis, et des domestiques, dont il se fera un secours contre votre ressentiment.",
           "emojiWords": {}
         },
         {
@@ -2147,8 +2144,8 @@
         },
         {
           "character": "SILVESTRE",
-          "text": " Ah coquins, ah canaille, vous en voulez par là ; je vous en ferai tâter votre soûl.",
-          "textWithEmoji": " Ah coquins, ah canaille, vous en voulez par là ; je vous en ferai tâter votre soûl.",
+          "text": " Ah coquins, ah canaille, vous en voulez par là; je vous en ferai tâter votre soûl.",
+          "textWithEmoji": " Ah coquins, ah canaille, vous en voulez par là; je vous en ferai tâter votre soûl.",
           "emojiWords": {}
         },
         {
@@ -2221,8 +2218,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": " Oh sus, je vous souhaite une bonne fortune [21] .",
-          "textWithEmoji": " Oh sus, je vous souhaite une bonne fortune [21] .",
+          "text": " Oh sus, je vous souhaite une bonne fortune.",
+          "textWithEmoji": " Oh sus, je vous souhaite une bonne fortune.",
           "emojiWords": {}
         },
         {
@@ -2265,14 +2262,14 @@
         },
         {
           "character": "SCAPIN",
-          "text": " Il ne faut pas pour votre honneur, que vous paraissiez là, après avoir passé ici pour autre que ce que vous êtes ; et de plus, je craindrais qu’en vous faisant connaître, il n’allât s’aviser de vous demander davantage.",
-          "textWithEmoji": " Il ne faut pas pour votre honneur, que vous paraissiez là, après avoir passé ici pour autre que ce que vous êtes ; et de plus, je craindrais qu’en vous faisant connaître, il n’allât s’aviser de vous demander davantage.",
+          "text": " Il ne faut pas pour votre honneur, que vous paraissiez là, après avoir passé ici pour autre que ce que vous êtes; et de plus, je craindrais qu’en vous faisant connaître, il n’allât s’aviser de vous demander davantage.",
+          "textWithEmoji": " Il ne faut pas pour votre honneur, que vous paraissiez là, après avoir passé ici pour autre que ce que vous êtes; et de plus, je craindrais qu’en vous faisant connaître, il n’allât s’aviser de vous demander davantage.",
           "emojiWords": {}
         },
         {
           "character": "ARGANTE",
-          "text": "Oui ; mais j’aurais été bien aise de voir comme je donne mon argent.",
-          "textWithEmoji": "Oui ; mais j’aurais été bien aise de voir comme je donne mon argent.",
+          "text": "Oui; mais j’aurais été bien aise de voir comme je donne mon argent.",
+          "textWithEmoji": "Oui; mais j’aurais été bien aise de voir comme je donne mon argent.",
           "emojiWords": {}
         },
         {
@@ -2289,11 +2286,9 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Parbleu, Monsieur, je suis un fourbe, ou je suis honnête homme ; c’est l’un des deux.",
-          "textWithEmoji": "Parbleu, Monsieur, je suis un fourbe, ou je suis honnête homme 👲 ; c’est l’un des deux.",
-          "emojiWords": {
-            "homme": "👲"
-          }
+          "text": "Parbleu, Monsieur, je suis un fourbe, ou je suis honnête homme; c’est l’un des deux.",
+          "textWithEmoji": "Parbleu, Monsieur, je suis un fourbe, ou je suis honnête homme; c’est l’un des deux.",
+          "emojiWords": {}
         },
         {
           "character": "SCAPIN",
@@ -2552,8 +2547,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Je l’ai trouvé tantôt, tout triste, de je ne sais quoi que vous lui avez dit, où vous m’avez mêlé assez mal à propos ; et cherchant à divertir [23] cette tristesse, nous nous sommes allés promener sur le port.",
-          "textWithEmoji": "Je l’ai trouvé tantôt, tout triste, de je ne sais quoi que vous lui avez dit, où vous m’avez mêlé assez mal à propos ; et cherchant à divertir [23] cette tristesse, nous nous sommes allés promener sur le port.",
+          "text": "Je l’ai trouvé tantôt, tout triste, de je ne sais quoi que vous lui avez dit, où vous m’avez mêlé assez mal à propos; et cherchant à divertir cette tristesse, nous nous sommes allés promener sur le port.",
+          "textWithEmoji": "Je l’ai trouvé tantôt, tout triste, de je ne sais quoi que vous lui avez dit, où vous m’avez mêlé assez mal à propos; et cherchant à divertir cette tristesse, nous nous sommes allés promener sur le port.",
           "emojiWords": {}
         },
         {
@@ -2573,8 +2568,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": " Nous y avons passé ; il nous a fait mille civilités, nous a donné la collation, où nous avons mangé des fruits les plus excellents qui se puissent voir, et bu du vin que nous avons trouvé le meilleur du monde.",
-          "textWithEmoji": " Nous y avons passé ; il nous a fait mille civilités, nous a donné la collation, où nous avons mangé des fruits les plus excellents qui se puissent voir, et bu du vin que nous avons trouvé le meilleur du monde.",
+          "text": " Nous y avons passé; il nous a fait mille civilités, nous a donné la collation, où nous avons mangé des fruits les plus excellents qui se puissent voir, et bu du vin que nous avons trouvé le meilleur du monde.",
+          "textWithEmoji": " Nous y avons passé; il nous a fait mille civilités, nous a donné la collation, où nous avons mangé des fruits les plus excellents qui se puissent voir, et bu du vin que nous avons trouvé le meilleur du monde.",
           "emojiWords": {}
         },
         {
@@ -2591,8 +2586,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": " Pendant que nous mangions, il a fait mettre la galère en mer, et se voyant éloigné du port, il m’a fait mettre dans un esquif, et m’envoie vous dire que si vous ne lui envoyez par moi tout à l’heure [24] cinq cents écus, il va vous emmener votre fils en Alger.",
-          "textWithEmoji": " Pendant que nous mangions, il a fait mettre la galère en mer, et se voyant éloigné du port, il m’a fait mettre dans un esquif, et m’envoie vous dire que si vous ne lui envoyez par moi tout à l’heure [24] cinq cents écus, il va vous emmener votre fils en Alger.",
+          "text": " Pendant que nous mangions, il a fait mettre la galère en mer, et se voyant éloigné du port, il m’a fait mettre dans un esquif, et m’envoie vous dire que si vous ne lui envoyez par moi tout à l’heure cinq cents écus, il va vous emmener votre fils en Alger.",
+          "textWithEmoji": " Pendant que nous mangions, il a fait mettre la galère en mer, et se voyant éloigné du port, il m’a fait mettre dans un esquif, et m’envoie vous dire que si vous ne lui envoyez par moi tout à l’heure cinq cents écus, il va vous emmener votre fils en Alger.",
           "emojiWords": {}
         },
         {
@@ -2603,8 +2598,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Oui, Monsieur ; et de plus, il ne m’a donné pour cela que deux heures.",
-          "textWithEmoji": "Oui, Monsieur ; et de plus, il ne m’a donné pour cela que deux 👬 heures.",
+          "text": "Oui, Monsieur; et de plus, il ne m’a donné pour cela que deux heures.",
+          "textWithEmoji": "Oui, Monsieur; et de plus, il ne m’a donné pour cela que deux 👬 heures.",
           "emojiWords": {
             "deux": "👬"
           }
@@ -2782,8 +2777,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Il est vrai ; mais quoi !",
-          "textWithEmoji": "Il est vrai ; mais quoi !",
+          "text": "Il est vrai; mais quoi !",
+          "textWithEmoji": "Il est vrai; mais quoi !",
           "emojiWords": {}
         },
         {
@@ -2848,8 +2843,8 @@
         },
         {
           "character": "SCAPIN, en lui rendant la clef",
-          "text": " Je n’aurais pas cent francs de tout ce que vous dites ; et de plus, vous savez le peu de temps qu’on m’a donné.",
-          "textWithEmoji": " Je n’aurais pas cent francs de tout ce que vous dites ; et de plus, vous savez le peu de temps qu’on m’a donné.",
+          "text": " Je n’aurais pas cent francs de tout ce que vous dites; et de plus, vous savez le peu de temps qu’on m’a donné.",
+          "textWithEmoji": " Je n’aurais pas cent francs de tout ce que vous dites; et de plus, vous savez le peu de temps qu’on m’a donné.",
           "emojiWords": {}
         },
         {
@@ -2884,8 +2879,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": " Mais le Ciel me sera témoin que j’ai fait pour toi tout ce que j’ai pu ; et que si tu manques à être racheté, il n’en faut accuser que le peu d’amitié d’un père.",
-          "textWithEmoji": " Mais le Ciel me sera témoin que j’ai fait pour toi tout ce que j’ai pu ; et que si tu manques à être racheté, il n’en faut accuser que le peu d’amitié d’un père.",
+          "text": " Mais le Ciel me sera témoin que j’ai fait pour toi tout ce que j’ai pu; et que si tu manques à être racheté, il n’en faut accuser que le peu d’amitié d’un père.",
+          "textWithEmoji": " Mais le Ciel me sera témoin que j’ai fait pour toi tout ce que j’ai pu; et que si tu manques à être racheté, il n’en faut accuser que le peu d’amitié d’un père.",
           "emojiWords": {}
         },
         {
@@ -2976,8 +2971,8 @@
         },
         {
           "character": "GÉRONTE",
-          "text": "(Il lui présente sa bourse, qu’il ne laisse pourtant pas aller ; et dans ses transports il fait aller son bras de côté et d’autre, et Scapin le sien pour avoir la bourse.",
-          "textWithEmoji": "(Il lui présente sa bourse, qu’il ne laisse pourtant pas aller ; et dans ses transports il fait aller son bras de côté et d’autre, et Scapin le sien pour avoir la bourse.",
+          "text": "(Il lui présente sa bourse, qu’il ne laisse pourtant pas aller; et dans ses transports il fait aller son bras de côté et d’autre, et Scapin le sien pour avoir la bourse.",
+          "textWithEmoji": "(Il lui présente sa bourse, qu’il ne laisse pourtant pas aller; et dans ses transports il fait aller son bras de côté et d’autre, et Scapin le sien pour avoir la bourse.",
           "emojiWords": {}
         },
         {
@@ -3050,8 +3045,8 @@
         },
         {
           "character": "GÉRONTE",
-          "text": "Que je ne les lui donne ni à la mort, ni à la vie [25] .",
-          "textWithEmoji": "Que je ne les lui donne ni à la mort, ni à la vie [25] .",
+          "text": "Que je ne les lui donne ni à la mort, ni à la vie.",
+          "textWithEmoji": "Que je ne les lui donne ni à la mort, ni à la vie.",
           "emojiWords": {}
         },
         {
@@ -3142,8 +3137,8 @@
         },
         {
           "character": "SCAPIN",
-          "text": "Il ne peut digérer les cinq cents écus que je lui arrache ; mais il n’est pas quitte envers moi, et je veux qu’il me paye en une autre monnaie, l’imposture qu’il m’a faite auprès de son fils.",
-          "textWithEmoji": "Il ne peut digérer les cinq cents écus que je lui arrache ; mais il n’est pas quitte envers moi, et je veux qu’il me paye en une autre monnaie, l’imposture qu’il m’a faite auprès de son fils.",
+          "text": "Il ne peut digérer les cinq cents écus que je lui arrache; mais il n’est pas quitte envers moi, et je veux qu’il me paye en une autre monnaie, l’imposture qu’il m’a faite auprès de son fils.",
+          "textWithEmoji": "Il ne peut digérer les cinq cents écus que je lui arrache; mais il n’est pas quitte envers moi, et je veux qu’il me paye en une autre monnaie, l’imposture qu’il m’a faite auprès de son fils.",
           "emojiWords": {}
         }
       ]
@@ -3186,8 +3181,8 @@
         },
         {
           "character": "LÉANDRE veut s’en aller",
-          "text": "Il faut donc que j’aille mourir ; et je n’ai que faire de vivre, si Zerbinette m’est ôtée.",
-          "textWithEmoji": "Il faut donc que j’aille mourir ; et je n’ai que faire de vivre, si Zerbinette m’est ôtée.",
+          "text": "Il faut donc que j’aille mourir; et je n’ai que faire de vivre, si Zerbinette m’est ôtée.",
+          "textWithEmoji": "Il faut donc que j’aille mourir; et je n’ai que faire de vivre, si Zerbinette m’est ôtée.",
           "emojiWords": {}
         },
         {

@@ -182,14 +182,14 @@
         },
         {
           "character": "MAÎTRE À DANSER",
-          "text": "Non pas entièrement ; et je voudrais pour lui, qu’il se connût mieux qu’il ne fait aux choses que nous lui donnons.",
-          "textWithEmoji": "Non pas entièrement ; et je voudrais pour lui, qu’il se connût mieux qu’il ne fait aux choses que nous lui donnons.",
+          "text": "Non pas entièrement; et je voudrais pour lui, qu’il se connût mieux qu’il ne fait aux choses que nous lui donnons.",
+          "textWithEmoji": "Non pas entièrement; et je voudrais pour lui, qu’il se connût mieux qu’il ne fait aux choses que nous lui donnons.",
           "emojiWords": {}
         },
         {
           "character": "MAÎTRE DE MUSIQUE",
-          "text": "Il est vrai qu’il les connaît mal, mais il les paye bien ; et c’est de quoi maintenant nos arts ont plus besoin, que de toute autre chose.",
-          "textWithEmoji": "Il est vrai qu’il les connaît mal, mais il les paye bien ; et c’est de quoi maintenant nos arts 🎭 ont plus besoin, que de toute autre chose.",
+          "text": "Il est vrai qu’il les connaît mal, mais il les paye bien; et c’est de quoi maintenant nos arts ont plus besoin, que de toute autre chose.",
+          "textWithEmoji": "Il est vrai qu’il les connaît mal, mais il les paye bien; et c’est de quoi maintenant nos arts 🎭 ont plus besoin, que de toute autre chose.",
           "emojiWords": {
             "arts": "🎭"
           }
@@ -202,28 +202,28 @@
         },
         {
           "character": "MAÎTRE À DANSER",
-          "text": " Les applaudissements me touchent ; et je tiens que dans tous les beaux arts, c’est un supplice assez fâcheux, que de se produire à des sots ; que d’essuyer sur des compositions, la barbarie d’un stupide.",
-          "textWithEmoji": " Les applaudissements 👏 me touchent ; et je tiens que dans tous les beaux arts, c’est un supplice assez fâcheux, que de se produire à des sots ; que d’essuyer sur des compositions, la barbarie d’un stupide.",
+          "text": " Les applaudissements me touchent; et je tiens que dans tous les beaux arts, c’est un supplice assez fâcheux, que de se produire à des sots; que d’essuyer sur des compositions, la barbarie d’un stupide.",
+          "textWithEmoji": " Les applaudissements 👏 me touchent; et je tiens que dans tous les beaux arts, c’est un supplice assez fâcheux, que de se produire à des sots; que d’essuyer sur des compositions, la barbarie d’un stupide.",
           "emojiWords": {
             "applaudissements": "👏"
           }
         },
         {
           "character": "MAÎTRE À DANSER",
-          "text": " Il y a plaisir, ne m’en parlez point, à travailler pour des personnes qui soient capables de sentir les délicatesses d’un art ; qui sachent faire un doux accueil aux beautés d’un ouvrage ; et par de chatouillantes approbations, vous régaler [1] de votre travail.",
-          "textWithEmoji": " Il y a plaisir, ne m’en parlez point, à travailler pour des personnes qui soient capables de sentir les délicatesses d’un art ; qui sachent faire un doux accueil aux beautés d’un ouvrage ; et par de chatouillantes approbations, vous régaler [1] de votre travail.",
+          "text": " Il y a plaisir, ne m’en parlez point, à travailler pour des personnes qui soient capables de sentir les délicatesses d’un art; qui sachent faire un doux accueil aux beautés d’un ouvrage; et par de chatouillantes approbations, vous régaler de votre travail.",
+          "textWithEmoji": " Il y a plaisir, ne m’en parlez point, à travailler pour des personnes qui soient capables de sentir les délicatesses d’un art; qui sachent faire un doux accueil aux beautés d’un ouvrage; et par de chatouillantes approbations, vous régaler de votre travail.",
           "emojiWords": {}
         },
         {
           "character": "MAÎTRE À DANSER",
-          "text": " Oui, la récompense la plus agréable qu’on puisse recevoir des choses que l’on fait, c’est de les voir connues ; de les voir caressées d’un applaudissement qui vous honore.",
-          "textWithEmoji": " Oui, la récompense la plus agréable qu’on puisse recevoir des choses que l’on fait, c’est de les voir connues ; de les voir caressées d’un applaudissement qui vous honore.",
+          "text": " Oui, la récompense la plus agréable qu’on puisse recevoir des choses que l’on fait, c’est de les voir connues; de les voir caressées d’un applaudissement qui vous honore.",
+          "textWithEmoji": " Oui, la récompense la plus agréable qu’on puisse recevoir des choses que l’on fait, c’est de les voir connues; de les voir caressées d’un applaudissement qui vous honore.",
           "emojiWords": {}
         },
         {
           "character": "MAÎTRE À DANSER",
-          "text": " Il n’y a rien, à mon avis, qui nous paye mieux que cela de toutes nos fatigues ; et ce sont des douceurs exquises, que des louanges éclairées.",
-          "textWithEmoji": " Il n’y a rien, à mon avis, qui nous paye mieux que cela de toutes nos fatigues ; et ce sont des douceurs exquises, que des louanges éclairées.",
+          "text": " Il n’y a rien, à mon avis, qui nous paye mieux que cela de toutes nos fatigues; et ce sont des douceurs exquises, que des louanges éclairées.",
+          "textWithEmoji": " Il n’y a rien, à mon avis, qui nous paye mieux que cela de toutes nos fatigues; et ce sont des douceurs exquises, que des louanges éclairées.",
           "emojiWords": {}
         },
         {
@@ -234,26 +234,25 @@
         },
         {
           "character": "MAÎTRE DE MUSIQUE",
-          "text": " Il n’y a rien assurément qui chatouille davantage que les applaudissements que vous dites ; mais cet encens ne fait pas vivre.",
-          "textWithEmoji": " Il n’y a rien assurément qui chatouille davantage que les applaudissements 👏 que vous dites ; mais cet encens ne fait pas vivre.",
+          "text": " Il n’y a rien assurément qui chatouille davantage que les applaudissements que vous dites; mais cet encens ne fait pas vivre.",
+          "textWithEmoji": " Il n’y a rien assurément qui chatouille davantage que les applaudissements 👏 que vous dites; mais cet encens ne fait pas vivre.",
           "emojiWords": {
             "applaudissements": "👏"
           }
         },
         {
           "character": "MAÎTRE DE MUSIQUE",
-          "text": " Des louanges toutes pures, ne mettent point un homme à son aise : il y faut mêler du solide ; et la meilleure façon de louer, c’est de louer avec les mains [2] .",
-          "textWithEmoji": " Des louanges toutes pures, ne mettent point ‼ un homme 👲 à son aise : il y faut mêler du solide ; et la meilleure façon de louer, c’est de louer avec les mains 👐 [2] .",
+          "text": " Des louanges toutes pures, ne mettent point un homme à son aise : il y faut mêler du solide; et la meilleure façon de louer, c’est de louer avec les mains.",
+          "textWithEmoji": " Des louanges toutes pures, ne mettent point ‼ un homme 👲 à son aise : il y faut mêler du solide; et la meilleure façon de louer, c’est de louer avec les mains.",
           "emojiWords": {
             "point": "‼",
-            "homme": "👲",
-            "mains": "👐"
+            "homme": "👲"
           }
         },
         {
           "character": "MAÎTRE DE MUSIQUE",
-          "text": " C’est un homme à la vérité dont les lumières sont petites, qui parle à tort et à travers de toutes choses, et n’applaudit qu’à contre-sens ; mais son argent redresse les jugements de son esprit.",
-          "textWithEmoji": " C’est un homme 👲 à la vérité dont les lumières sont petites, qui parle à tort et à travers de toutes choses, et n’applaudit qu’à contre-sens ; mais son argent 💸 redresse les jugements de son esprit.",
+          "text": " C’est un homme à la vérité dont les lumières sont petites, qui parle à tort et à travers de toutes choses, et n’applaudit qu’à contre-sens; mais son argent redresse les jugements de son esprit.",
+          "textWithEmoji": " C’est un homme 👲 à la vérité dont les lumières sont petites, qui parle à tort et à travers de toutes choses, et n’applaudit qu’à contre-sens; mais son argent 💸 redresse les jugements de son esprit.",
           "emojiWords": {
             "homme": "👲",
             "argent": "💸"
@@ -267,16 +266,16 @@
         },
         {
           "character": "MAÎTRE DE MUSIQUE",
-          "text": " Ses louanges sont monnayées ; et ce bourgeois ignorant, nous vaut mieux, comme vous voyez, que le grand seigneur éclairé qui nous a introduits ici.",
-          "textWithEmoji": " Ses louanges sont monnayées ; et ce bourgeois ignorant, nous vaut mieux, comme vous voyez, que le grand 🏬 seigneur éclairé qui nous a introduits ici.",
+          "text": " Ses louanges sont monnayées; et ce bourgeois ignorant, nous vaut mieux, comme vous voyez, que le grand seigneur éclairé qui nous a introduits ici.",
+          "textWithEmoji": " Ses louanges sont monnayées; et ce bourgeois ignorant, nous vaut mieux, comme vous voyez, que le grand 🏬 seigneur éclairé qui nous a introduits ici.",
           "emojiWords": {
             "grand": "🏬"
           }
         },
         {
           "character": "MAÎTRE À DANSER",
-          "text": "Il y a quelque chose de vrai dans ce que vous dites ; mais je trouve que vous appuyez un peu trop sur l’argent ; et l’intérêt est quelque chose de si bas, qu’il ne faut jamais qu’un honnête homme montre pour lui de l’attachement.",
-          "textWithEmoji": "Il y a quelque chose de vrai dans ce que vous dites ; mais je trouve que vous appuyez un peu trop sur l’argent ; et l’intérêt est quelque chose de si bas, qu’il ne faut jamais qu’un honnête homme 👲 montre pour lui de l’attachement.",
+          "text": "Il y a quelque chose de vrai dans ce que vous dites; mais je trouve que vous appuyez un peu trop sur l’argent; et l’intérêt est quelque chose de si bas, qu’il ne faut jamais qu’un honnête homme montre pour lui de l’attachement.",
+          "textWithEmoji": "Il y a quelque chose de vrai dans ce que vous dites; mais je trouve que vous appuyez un peu trop sur l’argent; et l’intérêt est quelque chose de si bas, qu’il ne faut jamais qu’un honnête homme 👲 montre pour lui de l’attachement.",
           "emojiWords": {
             "homme": "👲"
           }
@@ -291,8 +290,8 @@
         },
         {
           "character": "MAÎTRE À DANSER",
-          "text": "Assurément ; mais je n’en fais pas tout mon bonheur, et je voudrais qu’avec son bien, il eût encore quelque bon goût des choses.",
-          "textWithEmoji": "Assurément ; mais je n’en fais pas tout mon bonheur, et je voudrais qu’avec son bien, il eût encore quelque bon goût des choses.",
+          "text": "Assurément; mais je n’en fais pas tout mon bonheur, et je voudrais qu’avec son bien, il eût encore quelque bon goût des choses.",
+          "textWithEmoji": "Assurément; mais je n’en fais pas tout mon bonheur, et je voudrais qu’avec son bien, il eût encore quelque bon goût des choses.",
           "emojiWords": {}
         },
         {
@@ -305,8 +304,8 @@
         },
         {
           "character": "MAÎTRE DE MUSIQUE",
-          "text": " Mais en tout cas il nous donne moyen de nous faire connaître dans le monde ; et il payera pour les autres, ce que les autres loueront pour lui.",
-          "textWithEmoji": " Mais en tout cas il nous donne moyen de nous faire connaître dans le monde ; et il payera pour les autres, ce que les autres loueront pour lui.",
+          "text": " Mais en tout cas il nous donne moyen de nous faire connaître dans le monde; et il payera pour les autres, ce que les autres loueront pour lui.",
+          "textWithEmoji": " Mais en tout cas il nous donne moyen de nous faire connaître dans le monde; et il payera pour les autres, ce que les autres loueront pour lui.",
           "emojiWords": {}
         },
         {
@@ -383,8 +382,8 @@
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "Je vous ai fait un peu attendre, mais c’est que je me fais habiller aujourd’hui comme les gens de qualité ; et mon tailleur m’a envoyé des bas de soie [3] que j’ai pensé ne mettre jamais.",
-          "textWithEmoji": "Je vous ai fait un peu attendre, mais c’est que je me fais habiller aujourd’hui comme les gens de qualité ; et mon tailleur m’a envoyé des bas de soie [3] que j’ai pensé ne mettre jamais.",
+          "text": "Je vous ai fait un peu attendre, mais c’est que je me fais habiller aujourd’hui comme les gens de qualité; et mon tailleur m’a envoyé des bas de soie que j’ai pensé ne mettre jamais.",
+          "textWithEmoji": "Je vous ai fait un peu attendre, mais c’est que je me fais habiller aujourd’hui comme les gens de qualité; et mon tailleur m’a envoyé des bas de soie que j’ai pensé ne mettre jamais.",
           "emojiWords": {}
         },
         {
@@ -422,8 +421,8 @@
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "Je me suis fait faire cette indienne-ci [4] .",
-          "textWithEmoji": "Je me suis fait faire cette indienne-ci [4] .",
+          "text": "Je me suis fait faire cette indienne-ci.",
+          "textWithEmoji": "Je me suis fait faire cette indienne-ci.",
           "emojiWords": {}
         },
         {
@@ -492,8 +491,8 @@
         },
         {
           "character": "MAÎTRE À DANSER",
-          "text": "\nMONSIEUR JOURDAIN.",
-          "textWithEmoji": "\nMONSIEUR JOURDAIN.",
+          "text": " MONSIEUR JOURDAIN.",
+          "textWithEmoji": " MONSIEUR JOURDAIN.",
           "emojiWords": {}
         },
         {
@@ -584,8 +583,8 @@
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "Oui ; mais il ne fallait pas faire faire cela par un écolier ; et vous n’étiez pas trop bon vous-même pour cette besogne-là.",
-          "textWithEmoji": "Oui ; mais il ne fallait pas faire faire cela par un écolier ; et vous n’étiez pas trop bon vous-même pour cette besogne-là.",
+          "text": "Oui; mais il ne fallait pas faire faire cela par un écolier; et vous n’étiez pas trop bon vous-même pour cette besogne-là.",
+          "textWithEmoji": "Oui; mais il ne fallait pas faire faire cela par un écolier; et vous n’étiez pas trop bon vous-même pour cette besogne-là.",
           "emojiWords": {}
         },
         {
@@ -628,14 +627,14 @@
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "\nMUSICIEN, chantant [5] .",
-          "textWithEmoji": "\nMUSICIEN, chantant [5] .",
+          "text": " MUSICIEN, chantant.",
+          "textWithEmoji": " MUSICIEN, chantant.",
           "emojiWords": {}
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "-\nJe languis nuit et jour, et mon mal est extrême,\nDepuis qu’à vos rigueurs vos beaux yeux m’ont soumis :\nSi vous traitez ainsi, belle Iris, qui vous aime,\nHélas !",
-          "textWithEmoji": "-\nJe languis nuit 🌃 et jour, et mon mal est extrême,\nDepuis qu’à vos rigueurs vos beaux yeux 👀 m’ont soumis :\nSi vous traitez ainsi, belle Iris, qui vous aime,\nHélas !",
+          "text": "- Je languis nuit et jour, et mon mal est extrême, Depuis qu’à vos rigueurs vos beaux yeux m’ont soumis : Si vous traitez ainsi, belle Iris, qui vous aime, Hélas !",
+          "textWithEmoji": "- Je languis nuit 🌃 et jour, et mon mal est extrême, Depuis qu’à vos rigueurs vos beaux yeux 👀 m’ont soumis : Si vous traitez ainsi, belle Iris, qui vous aime, Hélas !",
           "emojiWords": {
             "nuit": "🌃",
             "yeux": "👀"
@@ -649,8 +648,8 @@
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "Cette chanson me semble un peu lugubre, elle endort, et je voudrais [6] que vous la pussiez un peu ragaillardir par-ci, par-là.",
-          "textWithEmoji": "Cette chanson me semble un peu lugubre, elle endort, et je voudrais [6] que vous la pussiez un peu ragaillardir par-ci, par-là.",
+          "text": "Cette chanson me semble un peu lugubre, elle endort, et je voudrais que vous la pussiez un peu ragaillardir par-ci, par-là.",
+          "textWithEmoji": "Cette chanson me semble un peu lugubre, elle endort, et je voudrais que vous la pussiez un peu ragaillardir par-ci, par-là.",
           "emojiWords": {}
         },
         {
@@ -719,14 +718,14 @@
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "\nMonsieur Jourdain chante.",
-          "textWithEmoji": "\nMonsieur Jourdain chante.",
+          "text": " Monsieur Jourdain chante.",
+          "textWithEmoji": " Monsieur Jourdain chante.",
           "emojiWords": {}
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "\nJe croyais Janneton\nAussi douce que belle ;\nJe croyais Janneton\nPlus douce qu’un mouton :\nHélas !",
-          "textWithEmoji": "\nJe croyais Janneton\nAussi douce que belle ;\nJe croyais Janneton\nPlus douce qu’un mouton 🐑 :\nHélas !",
+          "text": " Je croyais Janneton Aussi douce que belle; Je croyais Janneton Plus douce qu’un mouton : Hélas !",
+          "textWithEmoji": " Je croyais Janneton Aussi douce que belle; Je croyais Janneton Plus douce qu’un mouton 🐑 : Hélas !",
           "emojiWords": {
             "mouton": "🐑"
           }
@@ -739,16 +738,16 @@
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "\nElle est cent fois, mille fois plus cruelle,\nQue n’est le tigre aux bois.",
-          "textWithEmoji": "\nElle est cent fois, mille fois plus cruelle,\nQue n’est le tigre 🐯 aux bois.",
+          "text": " Elle est cent fois, mille fois plus cruelle, Que n’est le tigre aux bois.",
+          "textWithEmoji": " Elle est cent fois, mille fois plus cruelle, Que n’est le tigre 🐯 aux bois.",
           "emojiWords": {
             "tigre": "🐯"
           }
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "\nN’est-il pas joli [7]  ?",
-          "textWithEmoji": "\nN’est-il pas joli [7]  ?",
+          "text": " N’est-il pas joli ?",
+          "textWithEmoji": " N’est-il pas joli ?",
           "emojiWords": {}
         },
         {
@@ -811,14 +810,14 @@
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": " Mais je ne sais quel temps je pourrai prendre ; car outre le Maître d’armes qui me montre, j’ai arrêté [i] encore un Maître de philosophie qui doit commencer ce matin.",
-          "textWithEmoji": " Mais je ne sais quel temps je pourrai prendre ; car outre le Maître d’armes qui me montre, j’ai arrêté [i] encore un Maître de philosophie qui doit commencer ce matin.",
+          "text": " Mais je ne sais quel temps je pourrai prendre; car outre le Maître d’armes qui me montre, j’ai arrêté [i] encore un Maître de philosophie qui doit commencer ce matin.",
+          "textWithEmoji": " Mais je ne sais quel temps je pourrai prendre; car outre le Maître d’armes qui me montre, j’ai arrêté [i] encore un Maître de philosophie qui doit commencer ce matin.",
           "emojiWords": {}
         },
         {
           "character": "MAÎTRE DE MUSIQUE",
-          "text": "La philosophie est quelque chose ; mais la musique, Monsieur, la musique...",
-          "textWithEmoji": "La philosophie est quelque chose ; mais la musique, Monsieur, la musique...",
+          "text": "La philosophie est quelque chose; mais la musique, Monsieur, la musique...",
+          "textWithEmoji": "La philosophie est quelque chose; mais la musique, Monsieur, la musique...",
           "emojiWords": {}
         },
         {
@@ -867,8 +866,8 @@
         },
         {
           "character": "MAÎTRE À DANSER",
-          "text": "Tous les malheurs des hommes, tous les revers funestes dont les histoires sont remplies, les bévues des politiques, et les manquements [8] des grands capitaines, tout cela n’est venu que faute de savoir danser.",
-          "textWithEmoji": "Tous les malheurs des hommes, tous les revers funestes dont les histoires sont remplies, les bévues des politiques, et les manquements [8] des grands capitaines, tout cela n’est venu que faute de savoir danser.",
+          "text": "Tous les malheurs des hommes, tous les revers funestes dont les histoires sont remplies, les bévues des politiques, et les manquements des grands capitaines, tout cela n’est venu que faute de savoir danser.",
+          "textWithEmoji": "Tous les malheurs des hommes, tous les revers funestes dont les histoires sont remplies, les bévues des politiques, et les manquements des grands capitaines, tout cela n’est venu que faute de savoir danser.",
           "emojiWords": {}
         },
         {
@@ -903,8 +902,8 @@
         },
         {
           "character": "MAÎTRE À DANSER",
-          "text": "Lorsqu’un homme a commis un manquement dans sa conduite, soit aux affaires de sa famille, ou au gouvernement d’un État, ou au commandement d’une armée, ne dit-on pas toujours : \"Un tel a fait un mauvais pas dans une telle affaire [9] \" ?",
-          "textWithEmoji": "Lorsqu’un homme 👲 a commis un manquement dans sa conduite, soit aux affaires de sa famille, ou au gouvernement d’un État, ou au commandement d’une armée, ne dit-on pas toujours : \"Un tel a fait un mauvais pas dans une telle affaire [9] \" ?",
+          "text": "Lorsqu’un homme a commis un manquement dans sa conduite, soit aux affaires de sa famille, ou au gouvernement d’un État, ou au commandement d’une armée, ne dit-on pas toujours : \"Un tel a fait un mauvais pas dans une telle affaire \" ?",
+          "textWithEmoji": "Lorsqu’un homme 👲 a commis un manquement dans sa conduite, soit aux affaires de sa famille, ou au gouvernement d’un État, ou au commandement d’une armée, ne dit-on pas toujours : \"Un tel a fait un mauvais pas dans une telle affaire \" ?",
           "emojiWords": {
             "homme": "👲"
           }
@@ -999,8 +998,8 @@
         },
         {
           "character": "MAÎTRE À DANSER",
-          "text": " Le chant a été de tout temps affecté aux bergers ; et il n’est guère naturel en dialogue, que des princes, ou des bourgeois chantent leurs passions.",
-          "textWithEmoji": " Le chant a été de tout temps affecté aux bergers ; et il n’est guère naturel en dialogue, que des princes, ou des bourgeois chantent leurs passions.",
+          "text": " Le chant a été de tout temps affecté aux bergers; et il n’est guère naturel en dialogue, que des princes, ou des bourgeois chantent leurs passions.",
+          "textWithEmoji": " Le chant a été de tout temps affecté aux bergers; et il n’est guère naturel en dialogue, que des princes, ou des bourgeois chantent leurs passions.",
           "emojiWords": {}
         },
         {
@@ -1017,68 +1016,68 @@
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "\nDIALOGUE EN MUSIQUE\nUNE MUSICIENNE ET DEUX MUSICIENS [10]\nUn cœur, dans l’amoureux empire,\nDe mille soins est toujours agité :\nOn dit qu’avec plaisir on languit, on soupire ;\nMais, quoi qu’on puisse dire,\nIl n’est rien de si doux que notre liberté.",
-          "textWithEmoji": "\nDIALOGUE EN MUSIQUE\nUNE MUSICIENNE ET DEUX MUSICIENS [10]\nUn cœur, dans l’amoureux empire,\nDe mille soins est toujours agité :\nOn dit qu’avec plaisir on languit, on soupire ;\nMais, quoi qu’on puisse dire,\nIl n’est rien de si doux que notre liberté.",
+          "text": " DIALOGUE EN MUSIQUE UNE MUSICIENNE ET DEUX MUSICIENS Un cœur, dans l’amoureux empire, De mille soins est toujours agité : On dit qu’avec plaisir on languit, on soupire; Mais, quoi qu’on puisse dire, Il n’est rien de si doux que notre liberté.",
+          "textWithEmoji": " DIALOGUE EN MUSIQUE UNE MUSICIENNE ET DEUX MUSICIENS Un cœur, dans l’amoureux empire, De mille soins est toujours agité : On dit qu’avec plaisir on languit, on soupire; Mais, quoi qu’on puisse dire, Il n’est rien de si doux que notre liberté.",
           "emojiWords": {}
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "\nPREMIER MUSICIEN\nIl n’est rien de si doux que les tendres ardeurs\nQui font vivre deux cœurs\nDans une même envie :\nOn ne peut être heureux sans amoureux désirs ;\nÔtez l’amour de la vie,\nVous en ôtez les plaisirs.",
-          "textWithEmoji": "\nPREMIER MUSICIEN\nIl n’est rien de si doux que les tendres ardeurs\nQui font vivre deux 👬 cœurs\nDans une même envie :\nOn ne peut être heureux sans amoureux désirs ;\nÔtez l’amour de la vie,\nVous en ôtez les plaisirs.",
+          "text": " PREMIER MUSICIEN Il n’est rien de si doux que les tendres ardeurs Qui font vivre deux cœurs Dans une même envie : On ne peut être heureux sans amoureux désirs; Ôtez l’amour de la vie, Vous en ôtez les plaisirs.",
+          "textWithEmoji": " PREMIER MUSICIEN Il n’est rien de si doux que les tendres ardeurs Qui font vivre deux 👬 cœurs Dans une même envie : On ne peut être heureux sans amoureux désirs; Ôtez l’amour de la vie, Vous en ôtez les plaisirs.",
           "emojiWords": {
             "deux": "👬"
           }
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "\nSECOND MUSICIEN\nIl serait doux d’entrer sous l’amoureuse loi,\nSi l’on trouvait en amour de la foi :\nMais hélas, ô rigueur cruelle,\nOn ne voit point de bergère fidèle ;\nEt ce sexe inconstant, trop indigne du jour,\nDoit faire pour jamais renoncer à l’amour.",
-          "textWithEmoji": "\nSECOND MUSICIEN\nIl serait doux d’entrer sous l’amoureuse loi,\nSi l’on trouvait en amour de la foi :\nMais hélas, ô rigueur cruelle,\nOn ne voit point ‼ de bergère fidèle ;\nEt ce sexe inconstant, trop indigne du jour,\nDoit faire pour jamais renoncer à l’amour.",
+          "text": " SECOND MUSICIEN Il serait doux d’entrer sous l’amoureuse loi, Si l’on trouvait en amour de la foi : Mais hélas, ô rigueur cruelle, On ne voit point de bergère fidèle; Et ce sexe inconstant, trop indigne du jour, Doit faire pour jamais renoncer à l’amour.",
+          "textWithEmoji": " SECOND MUSICIEN Il serait doux d’entrer sous l’amoureuse loi, Si l’on trouvait en amour de la foi : Mais hélas, ô rigueur cruelle, On ne voit point ‼ de bergère fidèle; Et ce sexe inconstant, trop indigne du jour, Doit faire pour jamais renoncer à l’amour.",
           "emojiWords": {
             "point": "‼"
           }
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "\nPREMIER MUSICIEN\nAimable ardeur !",
-          "textWithEmoji": "\nPREMIER MUSICIEN\nAimable ardeur !",
+          "text": " PREMIER MUSICIEN Aimable ardeur !",
+          "textWithEmoji": " PREMIER MUSICIEN Aimable ardeur !",
           "emojiWords": {}
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "\nMUSICIENNE\nFranchise [11] heureuse !",
-          "textWithEmoji": "\nMUSICIENNE\nFranchise [11] heureuse !",
+          "text": " MUSICIENNE Franchise heureuse !",
+          "textWithEmoji": " MUSICIENNE Franchise heureuse !",
           "emojiWords": {}
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "\nSECOND MUSICIEN\nSexe trompeur !",
-          "textWithEmoji": "\nSECOND MUSICIEN\nSexe trompeur !",
+          "text": " SECOND MUSICIEN Sexe trompeur !",
+          "textWithEmoji": " SECOND MUSICIEN Sexe trompeur !",
           "emojiWords": {}
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "\nPREMIER MUSICIEN\nQue tu m’es précieuse !",
-          "textWithEmoji": "\nPREMIER MUSICIEN\nQue tu m’es précieuse !",
+          "text": " PREMIER MUSICIEN Que tu m’es précieuse !",
+          "textWithEmoji": " PREMIER MUSICIEN Que tu m’es précieuse !",
           "emojiWords": {}
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "\nMUSICIENNE\nQue tu plais à mon cœur !",
-          "textWithEmoji": "\nMUSICIENNE\nQue tu plais à mon cœur 💛 !",
+          "text": " MUSICIENNE Que tu plais à mon cœur !",
+          "textWithEmoji": " MUSICIENNE Que tu plais à mon cœur 💛 !",
           "emojiWords": {
             "cœur": "💛"
           }
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "\nSECOND MUSICIEN\nQue tu me fais d’horreur !",
-          "textWithEmoji": "\nSECOND MUSICIEN\nQue tu me fais d’horreur !",
+          "text": " SECOND MUSICIEN Que tu me fais d’horreur !",
+          "textWithEmoji": " SECOND MUSICIEN Que tu me fais d’horreur !",
           "emojiWords": {}
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "\nPREMIER MUSICIEN\nAh !",
-          "textWithEmoji": "\nPREMIER MUSICIEN\nAh !",
+          "text": " PREMIER MUSICIEN Ah !",
+          "textWithEmoji": " PREMIER MUSICIEN Ah !",
           "emojiWords": {}
         },
         {
@@ -1089,14 +1088,14 @@
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "\nMUSICIENNE\nOn peut, on peut te montrer\nUne bergère fidèle.",
-          "textWithEmoji": "\nMUSICIENNE\nOn peut, on peut te montrer\nUne bergère fidèle.",
+          "text": " MUSICIENNE On peut, on peut te montrer Une bergère fidèle.",
+          "textWithEmoji": " MUSICIENNE On peut, on peut te montrer Une bergère fidèle.",
           "emojiWords": {}
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "\nSECOND MUSICIEN\nHélas !",
-          "textWithEmoji": "\nSECOND MUSICIEN\nHélas !",
+          "text": " SECOND MUSICIEN Hélas !",
+          "textWithEmoji": " SECOND MUSICIEN Hélas !",
           "emojiWords": {}
         },
         {
@@ -1107,30 +1106,30 @@
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "\nMUSICIENNE\nPour défendre notre gloire,\nJe te veux offrir mon cœur.",
-          "textWithEmoji": "\nMUSICIENNE\nPour défendre notre gloire,\nJe te veux offrir mon cœur.",
+          "text": " MUSICIENNE Pour défendre notre gloire, Je te veux offrir mon cœur.",
+          "textWithEmoji": " MUSICIENNE Pour défendre notre gloire, Je te veux offrir mon cœur.",
           "emojiWords": {}
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "\nSECOND MUSICIEN\nMais, bergère, puis-je croire\nQu’il ne sera point trompeur ?",
-          "textWithEmoji": "\nSECOND MUSICIEN\nMais, bergère, puis-je croire\nQu’il ne sera point ‼ trompeur ?",
+          "text": " SECOND MUSICIEN Mais, bergère, puis-je croire Qu’il ne sera point trompeur ?",
+          "textWithEmoji": " SECOND MUSICIEN Mais, bergère, puis-je croire Qu’il ne sera point ‼ trompeur ?",
           "emojiWords": {
             "point": "‼"
           }
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "\nMUSICIENNE\nVoyons par expérience\nQui des deux aimera mieux.",
-          "textWithEmoji": "\nMUSICIENNE\nVoyons par expérience\nQui des deux 👬 aimera mieux.",
+          "text": " MUSICIENNE Voyons par expérience Qui des deux aimera mieux.",
+          "textWithEmoji": " MUSICIENNE Voyons par expérience Qui des deux 👬 aimera mieux.",
           "emojiWords": {
             "deux": "👬"
           }
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "\nSECOND MUSICIEN\nQui manquera de constance,\nLe puissent perdre les Dieux.",
-          "textWithEmoji": "\nSECOND MUSICIEN\nQui manquera de constance,\nLe puissent perdre les Dieux.",
+          "text": " SECOND MUSICIEN Qui manquera de constance, Le puissent perdre les Dieux.",
+          "textWithEmoji": " SECOND MUSICIEN Qui manquera de constance, Le puissent perdre les Dieux.",
           "emojiWords": {}
         },
         {
@@ -1147,8 +1146,8 @@
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": "Je trouve cela bien troussé, et il y a là dedans de petits dictons [12] assez jolis.",
-          "textWithEmoji": "Je trouve cela bien troussé, et il y a là dedans de petits dictons [12] assez jolis.",
+          "text": "Je trouve cela bien troussé, et il y a là dedans de petits dictons assez jolis.",
+          "textWithEmoji": "Je trouve cela bien troussé, et il y a là dedans de petits dictons assez jolis.",
           "emojiWords": {}
         },
         {
@@ -1179,8 +1178,8 @@
         },
         {
           "character": "MAÎTRE À DANSER",
-          "text": "\nQuatre danseurs exécutent tous les mouvements différents, et toutes les sortes de pas que le Maître à Danser leur commande ; et cette danse fait le premier intermède.",
-          "textWithEmoji": "\nQuatre danseurs exécutent tous les mouvements différents, et toutes les sortes de pas que le Maître à Danser leur commande ; et cette danse fait le premier 🌛 intermède.",
+          "text": " Quatre danseurs exécutent tous les mouvements différents, et toutes les sortes de pas que le Maître à Danser leur commande; et cette danse fait le premier intermède.",
+          "textWithEmoji": " Quatre danseurs exécutent tous les mouvements différents, et toutes les sortes de pas que le Maître à Danser leur commande; et cette danse fait le premier 🌛 intermède.",
           "emojiWords": {
             "premier": "🌛"
           }
