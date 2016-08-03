@@ -79,9 +79,6 @@ function parseText(text) {
     }
   });
 
-  // following parts
-  parts = parts.map(p => p.split('\n').slice(1).join('\n')); // ignore part number from each part's text
-
   // parse dialogue
   parts = parts.map((part, index) => {
     var all = part.split(ACTOR_SPEECH); // alternance of character and character's speech
