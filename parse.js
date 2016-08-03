@@ -4,7 +4,7 @@ var fs = require('fs');
 var EmojiApplier = require('./EmojiApplier')
 
 const ACTOR_NAME = /^[^a-z0-9\.\,]{3,}/;
-const ACTOR_SPEECH = /\n([^a-z0-9\.]{3,}[^\.]+)\.\- /;
+const ACTOR_SPEECH = /\n([A-ZÉÈÊÎ’\' ]{3,}[^\.\n]+)(?:\n|\.\- )/; // TODO: add more accentuated chars.
 
 const appendEmojiWords = item => Object.assign(item, {
   emojiWords: EmojiApplier.findEmojiWords(item.text)
@@ -38,8 +38,7 @@ const dialogueProcessors = compose(removeReferences, appendIntegratedEmoji, appe
 function subDivideIntoSentences(dialogue) {
   var sentences = []
   dialogue.forEach(item => {
-    item.text//.split(/[\?\!]/)
-      .match(/[^\.!\?]+[\.!\?]+/g)
+    (item.text.match(/[^\.!\?]+[\.!\?]+/g) || [])
       .forEach(sentence => sentences.push({
         character: item.character,
         text: sentence
@@ -79,13 +78,15 @@ function parseText(text) {
     }
   });
 
+
   // parse dialogue
   parts = parts.map((part, index) => {
+    part = part.replace(/\nDIALOGUE EN MUSIQUE\n/g, '\n');
     var all = part.split(ACTOR_SPEECH); // alternance of character and character's speech
     var characterList = all.shift();
     var characters = all.filter((a, i) => (i + 1) % 2);
     var speech = all.filter((a, i) => i % 2);
-    var dialogue = subDivideIntoSentences(characters.map((a, i) => {
+    var dialogue = subDivideIntoSentences(characters.filter(a => !!a).map((a, i) => {
       return {
         character: a,
         text: speech[i]

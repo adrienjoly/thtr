@@ -1210,9 +1210,9 @@
           }
         },
         {
-          "character": "COVIELLE",
-          "text": " PREMIÈRE ENTRÉE Un homme vient donner les livres du ballet, qui d’abord est fatigué par une multitude de gens de provinces différentes, qui crient en musique pour en avoir, et par trois Importuns qu’il trouve toujours sur ses pas.",
-          "textWithEmoji": " PREMIÈRE ENTRÉE Un homme 👲 vient donner les livres 📚 du ballet, qui d’abord est fatigué 😫 par une multitude de gens de provinces différentes, qui crient en musique pour en avoir, et par trois Importuns qu’il trouve toujours sur ses pas.",
+          "character": "PREMIÈRE ENTRÉE",
+          "text": "Un homme vient donner les livres du ballet, qui d’abord est fatigué par une multitude de gens de provinces différentes, qui crient en musique pour en avoir, et par trois Importuns qu’il trouve toujours sur ses pas.",
+          "textWithEmoji": "Un homme 👲 vient donner les livres 📚 du ballet, qui d’abord est fatigué 😫 par une multitude de gens de provinces différentes, qui crient en musique pour en avoir, et par trois Importuns qu’il trouve toujours sur ses pas.",
           "emojiWords": {
             "homme": "👲",
             "livres": "📚",
@@ -1220,29 +1220,29 @@
           }
         },
         {
-          "character": "COVIELLE",
-          "text": " DIALOGUE DES GENS qui en musique demandent des livres.",
-          "textWithEmoji": " DIALOGUE DES GENS qui en musique demandent des livres 📚.",
+          "character": "DIALOGUE DES GENS",
+          "text": "qui en musique demandent des livres.",
+          "textWithEmoji": "qui en musique demandent des livres 📚.",
           "emojiWords": {
             "livres": "📚"
           }
         },
         {
-          "character": "COVIELLE",
-          "text": " TOUS À moi, Monsieur, à moi de grâce, à moi, Monsieur, Un livre, s’il vous plaît, à votre serviteur.",
-          "textWithEmoji": " TOUS À moi, Monsieur, à moi de grâce, à moi, Monsieur, Un livre 📕, s’il vous plaît, à votre serviteur.",
+          "character": "TOUS",
+          "text": "À moi, Monsieur, à moi de grâce, à moi, Monsieur, Un livre, s’il vous plaît, à votre serviteur.",
+          "textWithEmoji": "À moi, Monsieur, à moi de grâce, à moi, Monsieur, Un livre 📕, s’il vous plaît, à votre serviteur.",
           "emojiWords": {
             "livre": "📕"
           }
         },
         {
-          "character": "COVIELLE",
-          "text": " HOMME DU BEL AIR Monsieur, distinguez-nous parmi les gens qui crient.",
-          "textWithEmoji": " HOMME DU BEL AIR Monsieur, distinguez-nous parmi les gens qui crient.",
+          "character": "HOMME DU BEL AIR",
+          "text": "Monsieur, distinguez-nous parmi les gens qui crient.",
+          "textWithEmoji": "Monsieur, distinguez-nous parmi les gens qui crient.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "HOMME DU BEL AIR",
           "text": " Quelques livres ici, les dames vous en prient.",
           "textWithEmoji": " Quelques livres 📚 ici, les dames vous en prient.",
           "emojiWords": {
@@ -1250,45 +1250,45 @@
           }
         },
         {
-          "character": "COVIELLE",
-          "text": " AUTRE HOMME DU BEL AIR Holà !",
-          "textWithEmoji": " AUTRE HOMME DU BEL AIR Holà !",
+          "character": "AUTRE HOMME DU BEL AIR",
+          "text": "Holà !",
+          "textWithEmoji": "Holà !",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "AUTRE HOMME DU BEL AIR",
           "text": " Monsieur, Monsieur, ayez la charité D’en jeter de notre côté.",
           "textWithEmoji": " Monsieur, Monsieur, ayez la charité D’en jeter de notre côté.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
-          "text": " FEMME DU BEL AIR Mon Dieu !",
-          "textWithEmoji": " FEMME DU BEL AIR Mon Dieu !",
+          "character": "FEMME DU BEL AIR",
+          "text": "Mon Dieu !",
+          "textWithEmoji": "Mon Dieu !",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "FEMME DU BEL AIR",
           "text": " qu’aux personnes bien faites, On sait peu rendre honneur céans.",
           "textWithEmoji": " qu’aux personnes bien faites, On sait peu rendre honneur céans.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
-          "text": " AUTRE FEMME DU BEL AIR Ils n’ont des livres et des bancs, Que pour Mesdames les grisettes.",
-          "textWithEmoji": " AUTRE FEMME DU BEL AIR Ils n’ont des livres 📚 et des bancs, Que pour Mesdames les grisettes.",
+          "character": "AUTRE FEMME DU BEL AIR",
+          "text": "Ils n’ont des livres et des bancs, Que pour Mesdames les grisettes.",
+          "textWithEmoji": "Ils n’ont des livres 📚 et des bancs, Que pour Mesdames les grisettes.",
           "emojiWords": {
             "livres": "📚"
           }
         },
         {
-          "character": "COVIELLE",
-          "text": " GASCON Aho !",
-          "textWithEmoji": " GASCON Aho !",
+          "character": "GASCON",
+          "text": "Aho !",
+          "textWithEmoji": "Aho !",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "GASCON",
           "text": " l’homme aux libres, qu’on m’en vaille, J’ai déjà lé poumon usé, Bous boyez qué chacun mé raille, Et jé suis escandalisé De boir és mains dé la canaille, Cé qui m’est par bous refusé.",
           "textWithEmoji": " l’homme aux libres, qu’on m’en vaille, J’ai déjà lé poumon usé, Bous boyez qué chacun mé raille, Et jé suis escandalisé De boir és mains 👐 dé la canaille, Cé qui m’est par bous refusé.",
           "emojiWords": {
@@ -1296,27 +1296,27 @@
           }
         },
         {
-          "character": "COVIELLE",
-          "text": " AUTRE GASCON Eh cadédis, Monseu, boyez qui l’on pût être; Un libret, je bous prie, au varon d’Asbarat.",
-          "textWithEmoji": " AUTRE GASCON Eh cadédis, Monseu, boyez qui l’on pût être; Un libret, je bous prie, au varon d’Asbarat.",
+          "character": "AUTRE GASCON",
+          "text": "Eh cadédis, Monseu, boyez qui l’on pût être; Un libret, je bous prie, au varon d’Asbarat.",
+          "textWithEmoji": "Eh cadédis, Monseu, boyez qui l’on pût être; Un libret, je bous prie, au varon d’Asbarat.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "AUTRE GASCON",
           "text": " Jé pense, mordy, qué lé fat N’a pas l’honnur dé mé connaître.",
           "textWithEmoji": " Jé pense, mordy, qué lé fat N’a pas l’honnur dé mé connaître.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
-          "text": " LE SUISSE Mon’-sieur le donneur de papieir, Que veul dir sti façon de fifre, Moy l’écorchair tout mon gosieir À crieir, Sans que je pouvre afoir ein lifre; Pardy, mon foi, Mon’-sieur, je pense fous l’être ifre.",
-          "textWithEmoji": " LE SUISSE Mon’-sieur le donneur de papieir, Que veul dir sti façon de fifre, Moy l’écorchair tout mon gosieir À crieir, Sans que je pouvre afoir ein lifre; Pardy, mon foi, Mon’-sieur, je pense fous l’être ifre.",
+          "character": "LE SUISSE",
+          "text": "Mon’-sieur le donneur de papieir, Que veul dir sti façon de fifre, Moy l’écorchair tout mon gosieir À crieir, Sans que je pouvre afoir ein lifre; Pardy, mon foi, Mon’-sieur, je pense fous l’être ifre.",
+          "textWithEmoji": "Mon’-sieur le donneur de papieir, Que veul dir sti façon de fifre, Moy l’écorchair tout mon gosieir À crieir, Sans que je pouvre afoir ein lifre; Pardy, mon foi, Mon’-sieur, je pense fous l’être ifre.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
-          "text": " VIEUX BOURGEOIS BABILLARD De tout ceci, franc et net, Je suis mal satisfait; Et cela sans doute est laid, Que notre fille Si bien faite et si gentille, De tant d’amoureux l’objet, N’ait pas à son souhait Un livre de ballet, Pour lire le sujet Du divertissement qu’on fait, Et que toute notre famille Si proprement s’habille, Pour être placée au sommet De la salle, où l’on met Les gens de Lantriguet : De tout ceci, franc et net Je suis mal satisfait, Et cela sans doute est laid.",
-          "textWithEmoji": " VIEUX BOURGEOIS BABILLARD De tout ceci, franc et net, Je suis mal satisfait; Et cela sans doute est laid, Que notre fille 👧 Si bien faite et si gentille, De tant d’amoureux l’objet, N’ait pas à son souhait Un livre 📕 de ballet, Pour lire le sujet Du divertissement qu’on fait, Et que toute notre famille 👪 Si proprement s’habille, Pour être placée au sommet De la salle, où l’on met Les gens de Lantriguet : De tout ceci, franc et net Je suis mal satisfait, Et cela sans doute est laid.",
+          "character": "VIEUX BOURGEOIS BABILLARD",
+          "text": "De tout ceci, franc et net, Je suis mal satisfait; Et cela sans doute est laid, Que notre fille Si bien faite et si gentille, De tant d’amoureux l’objet, N’ait pas à son souhait Un livre de ballet, Pour lire le sujet Du divertissement qu’on fait, Et que toute notre famille Si proprement s’habille, Pour être placée au sommet De la salle, où l’on met Les gens de Lantriguet : De tout ceci, franc et net Je suis mal satisfait, Et cela sans doute est laid.",
+          "textWithEmoji": "De tout ceci, franc et net, Je suis mal satisfait; Et cela sans doute est laid, Que notre fille 👧 Si bien faite et si gentille, De tant d’amoureux l’objet, N’ait pas à son souhait Un livre 📕 de ballet, Pour lire le sujet Du divertissement qu’on fait, Et que toute notre famille 👪 Si proprement s’habille, Pour être placée au sommet De la salle, où l’on met Les gens de Lantriguet : De tout ceci, franc et net Je suis mal satisfait, Et cela sans doute est laid.",
           "emojiWords": {
             "fille": "👧",
             "livre": "📕",
@@ -1324,16 +1324,16 @@
           }
         },
         {
-          "character": "COVIELLE",
-          "text": " VIEILLE BOURGEOISE BABILLARDE Il est vrai que c’est une honte, Le sang au visage me monte, Et ce jeteur de vers qui manque au capital, L’entend fort mal; C’est un brutal, Un vrai cheval, Franc animal, De faire si peu de compte D’une fille qui fait l’ornement principal Du quartier du Palais-Royal, Et que ces jours passés un comte Fut prendre la première au bal.",
-          "textWithEmoji": " VIEILLE BOURGEOISE BABILLARDE Il est vrai que c’est une honte, Le sang au visage me monte, Et ce jeteur de vers qui manque au capital, L’entend fort mal; C’est un brutal, Un vrai cheval 🐴, Franc animal, De faire si peu de compte D’une fille 👧 qui fait l’ornement principal Du quartier du Palais-Royal, Et que ces jours passés un comte Fut prendre la première au bal.",
+          "character": "VIEILLE BOURGEOISE BABILLARDE",
+          "text": "Il est vrai que c’est une honte, Le sang au visage me monte, Et ce jeteur de vers qui manque au capital, L’entend fort mal; C’est un brutal, Un vrai cheval, Franc animal, De faire si peu de compte D’une fille qui fait l’ornement principal Du quartier du Palais-Royal, Et que ces jours passés un comte Fut prendre la première au bal.",
+          "textWithEmoji": "Il est vrai que c’est une honte, Le sang au visage me monte, Et ce jeteur de vers qui manque au capital, L’entend fort mal; C’est un brutal, Un vrai cheval 🐴, Franc animal, De faire si peu de compte D’une fille 👧 qui fait l’ornement principal Du quartier du Palais-Royal, Et que ces jours passés un comte Fut prendre la première au bal.",
           "emojiWords": {
             "cheval": "🐴",
             "fille": "👧"
           }
         },
         {
-          "character": "COVIELLE",
+          "character": "VIEILLE BOURGEOISE BABILLARDE",
           "text": " Il l’entend mal, C’est un brutal, Un vrai cheval, Franc animal.",
           "textWithEmoji": " Il l’entend mal, C’est un brutal, Un vrai cheval 🐴, Franc animal.",
           "emojiWords": {
@@ -1341,269 +1341,269 @@
           }
         },
         {
-          "character": "COVIELLE",
-          "text": " HOMMES ET FEMMES DU BEL AIR Ah !",
-          "textWithEmoji": " HOMMES ET FEMMES DU BEL AIR Ah !",
+          "character": "HOMMES ET FEMMES DU BEL AIR",
+          "text": "Ah !",
+          "textWithEmoji": "Ah !",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "HOMMES ET FEMMES DU BEL AIR",
           "text": " quel bruit !",
           "textWithEmoji": " quel bruit !",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "HOMMES ET FEMMES DU BEL AIR",
           "text": " Quel fracas !",
           "textWithEmoji": " Quel fracas !",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "HOMMES ET FEMMES DU BEL AIR",
           "text": " Quel chaos !",
           "textWithEmoji": " Quel chaos !",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "HOMMES ET FEMMES DU BEL AIR",
           "text": " Quel mélange !",
           "textWithEmoji": " Quel mélange !",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "HOMMES ET FEMMES DU BEL AIR",
           "text": " Quelle confusion !",
           "textWithEmoji": " Quelle confusion !",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "HOMMES ET FEMMES DU BEL AIR",
           "text": " Quelle cohue étrange !",
           "textWithEmoji": " Quelle cohue étrange !",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "HOMMES ET FEMMES DU BEL AIR",
           "text": " Quel désordre !",
           "textWithEmoji": " Quel désordre !",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "HOMMES ET FEMMES DU BEL AIR",
           "text": " Quel embarras !",
           "textWithEmoji": " Quel embarras !",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "HOMMES ET FEMMES DU BEL AIR",
           "text": " On y sèche.",
           "textWithEmoji": " On y sèche.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "HOMMES ET FEMMES DU BEL AIR",
           "text": " L’on n’y tient pas.",
           "textWithEmoji": " L’on n’y tient pas.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "HOMMES ET FEMMES DU BEL AIR",
           "text": " GASCON Bentré jé suis à vout.",
           "textWithEmoji": " GASCON Bentré jé suis à vout.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "HOMMES ET FEMMES DU BEL AIR",
           "text": " AUTRE GASCON J’enrage, Diou mé damne.",
           "textWithEmoji": " AUTRE GASCON J’enrage, Diou mé damne.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "HOMMES ET FEMMES DU BEL AIR",
           "text": " SUISSE Ah que ly faire saif dans sty sal de cians.",
           "textWithEmoji": " SUISSE Ah que ly faire saif dans sty sal de cians.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "HOMMES ET FEMMES DU BEL AIR",
           "text": " GASCON Jé murs.",
           "textWithEmoji": " GASCON Jé murs.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "HOMMES ET FEMMES DU BEL AIR",
           "text": " AUTRE GASCON Jé perds la tramontane.",
           "textWithEmoji": " AUTRE GASCON Jé perds la tramontane.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "HOMMES ET FEMMES DU BEL AIR",
           "text": " SUISSE Mon foi !",
           "textWithEmoji": " SUISSE Mon foi !",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "HOMMES ET FEMMES DU BEL AIR",
           "text": " moi le foudrais être hors de dedans.",
           "textWithEmoji": " moi le foudrais être hors de dedans.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
-          "text": " VIEUX BOURGEOIS BABILLARD Allons, ma mie, Suivez mes pas, Je vous en prie, Et ne me quittez pas, On fait de nous trop peu de cas, Et je suis las De ce tracas : Tout ce fatras, Cet embarras Me pèse par trop sur les bras : S’il me prend jamais envie De retourner de ma vie À ballet ni comédie, Je veux bien qu’on m’estropie.",
-          "textWithEmoji": " VIEUX BOURGEOIS BABILLARD Allons, ma mie, Suivez mes pas, Je vous en prie, Et ne me quittez pas, On fait de nous trop peu de cas, Et je suis las De ce tracas : Tout ce fatras, Cet embarras Me pèse par trop sur les bras : S’il me prend jamais envie De retourner de ma vie À ballet ni comédie, Je veux bien qu’on m’estropie.",
+          "character": "VIEUX BOURGEOIS BABILLARD",
+          "text": "Allons, ma mie, Suivez mes pas, Je vous en prie, Et ne me quittez pas, On fait de nous trop peu de cas, Et je suis las De ce tracas : Tout ce fatras, Cet embarras Me pèse par trop sur les bras : S’il me prend jamais envie De retourner de ma vie À ballet ni comédie, Je veux bien qu’on m’estropie.",
+          "textWithEmoji": "Allons, ma mie, Suivez mes pas, Je vous en prie, Et ne me quittez pas, On fait de nous trop peu de cas, Et je suis las De ce tracas : Tout ce fatras, Cet embarras Me pèse par trop sur les bras : S’il me prend jamais envie De retourner de ma vie À ballet ni comédie, Je veux bien qu’on m’estropie.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "VIEUX BOURGEOIS BABILLARD",
           "text": " Allons, ma mie, Suivez mes pas, Je vous en prie, Et ne me quittez pas, On fait de nous trop peu de cas.",
           "textWithEmoji": " Allons, ma mie, Suivez mes pas, Je vous en prie, Et ne me quittez pas, On fait de nous trop peu de cas.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
-          "text": " VIEILLE BOURGEOISE BABILLARDE Allons, mon mignon, mon fils, Regagnons notre logis, Et sortons de ce taudis, Où l’on ne peut être assis; Ils seront bien ébaubis Quand ils nous verront partis.",
-          "textWithEmoji": " VIEILLE BOURGEOISE BABILLARDE Allons, mon mignon, mon fils, Regagnons notre logis, Et sortons de ce taudis, Où l’on ne peut être assis; Ils seront bien ébaubis Quand ils nous verront partis.",
+          "character": "VIEILLE BOURGEOISE BABILLARDE",
+          "text": "Allons, mon mignon, mon fils, Regagnons notre logis, Et sortons de ce taudis, Où l’on ne peut être assis; Ils seront bien ébaubis Quand ils nous verront partis.",
+          "textWithEmoji": "Allons, mon mignon, mon fils, Regagnons notre logis, Et sortons de ce taudis, Où l’on ne peut être assis; Ils seront bien ébaubis Quand ils nous verront partis.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "VIEILLE BOURGEOISE BABILLARDE",
           "text": " Trop de confusion règne dans cette salle, Et j’aimerais mieux être au milieu de la Halle; Si jamais je reviens à semblable régale, Je veux bien recevoir des soufflets plus de six.",
           "textWithEmoji": " Trop de confusion règne dans cette salle, Et j’aimerais mieux être au milieu de la Halle; Si jamais je reviens à semblable régale, Je veux bien recevoir des soufflets plus de six.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "VIEILLE BOURGEOISE BABILLARDE",
           "text": " Allons, mon mignon, mon fils, Regagnons notre logis, Et sortons de ce taudis, Où l’on ne peut être assis.",
           "textWithEmoji": " Allons, mon mignon, mon fils, Regagnons notre logis, Et sortons de ce taudis, Où l’on ne peut être assis.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
-          "text": " TOUS À moi, Monsieur, à moi de grâce, à moi, Monsieur : Un livre, s’il vous plaît, à votre serviteur.",
-          "textWithEmoji": " TOUS À moi, Monsieur, à moi de grâce, à moi, Monsieur : Un livre 📕, s’il vous plaît, à votre serviteur.",
+          "character": "TOUS",
+          "text": "À moi, Monsieur, à moi de grâce, à moi, Monsieur : Un livre, s’il vous plaît, à votre serviteur.",
+          "textWithEmoji": "À moi, Monsieur, à moi de grâce, à moi, Monsieur : Un livre 📕, s’il vous plaît, à votre serviteur.",
           "emojiWords": {
             "livre": "📕"
           }
         },
         {
-          "character": "COVIELLE",
-          "text": " SECONDE ENTRÉE Les trois Importuns dansent.",
-          "textWithEmoji": " SECONDE ENTRÉE Les trois Importuns dansent.",
+          "character": "SECONDE ENTRÉE",
+          "text": "Les trois Importuns dansent.",
+          "textWithEmoji": "Les trois Importuns dansent.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
-          "text": " TROISIÈME ENTRÉE TROIS ESPAGNOLS chantent.",
-          "textWithEmoji": " TROISIÈME ENTRÉE TROIS ESPAGNOLS chantent.",
+          "character": "TROISIÈME ENTRÉE",
+          "text": "TROIS ESPAGNOLS chantent.",
+          "textWithEmoji": "TROIS ESPAGNOLS chantent.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "TROISIÈME ENTRÉE",
           "text": " Sé que me muero de amor, Y solicito el dolor.",
           "textWithEmoji": " Sé que me muero de amor, Y solicito el dolor.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "TROISIÈME ENTRÉE",
           "text": " Aun muriendo de querer De tan buen ayre adolezco Que es mas de lo que padezco Lo que quiero padecer Y no pudiendo exceder A mi deseo el rigor.",
           "textWithEmoji": " Aun muriendo de querer De tan buen ayre adolezco Que es mas de lo que padezco Lo que quiero padecer Y no pudiendo exceder A mi deseo el rigor.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "TROISIÈME ENTRÉE",
           "text": " Sé que me muero de amor, Y solicito el dolor.",
           "textWithEmoji": " Sé que me muero de amor, Y solicito el dolor.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "TROISIÈME ENTRÉE",
           "text": " Lisonxeame la suerte Con piedad tan advertida, Que me assegura la vida En el riesgo de la muerte Vivir de su golpe fuerte Es de mi salud primor.",
           "textWithEmoji": " Lisonxeame la suerte Con piedad tan advertida, Que me assegura la vida En el riesgo de la muerte Vivir de su golpe fuerte Es de mi salud primor.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "TROISIÈME ENTRÉE",
           "text": " Sé que, etc.",
           "textWithEmoji": " Sé que, etc.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "TROISIÈME ENTRÉE",
           "text": " Six Espagnols dansent.",
           "textWithEmoji": " Six Espagnols dansent.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
-          "text": " TROIS MUSICIENS ESPAGNOLS Ay !",
-          "textWithEmoji": " TROIS MUSICIENS ESPAGNOLS Ay !",
+          "character": "TROIS MUSICIENS ESPAGNOLS",
+          "text": "Ay !",
+          "textWithEmoji": "Ay !",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "TROIS MUSICIENS ESPAGNOLS",
           "text": " que locura, con tanto rigor Quexarse de Amor Del niño bonito Que todo es dulçura Ay que locura, Ay que locura.",
           "textWithEmoji": " que locura, con tanto rigor Quexarse de Amor Del niño bonito Que todo es dulçura Ay que locura, Ay que locura.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "TROIS MUSICIENS ESPAGNOLS",
           "text": " ESPAGNOL, chantant.",
           "textWithEmoji": " ESPAGNOL, chantant.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "TROIS MUSICIENS ESPAGNOLS",
           "text": " El dolor solicita El que al dolor se da Y nadie de amor muere Sino quien no save amar.",
           "textWithEmoji": " El dolor solicita El que al dolor se da Y nadie de amor muere Sino quien no save amar.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
-          "text": " DEUX ESPAGNOLS Dulce muerte es el amor Con correspondencia ygual, Y si esta gozamos o Porque la quieres turbar ?",
-          "textWithEmoji": " DEUX ESPAGNOLS Dulce muerte es el amor Con correspondencia ygual, Y si esta gozamos o Porque la quieres turbar ?",
+          "character": "DEUX ESPAGNOLS",
+          "text": "Dulce muerte es el amor Con correspondencia ygual, Y si esta gozamos o Porque la quieres turbar ?",
+          "textWithEmoji": "Dulce muerte es el amor Con correspondencia ygual, Y si esta gozamos o Porque la quieres turbar ?",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
-          "text": " UN ESPAGNOL Alegrese enamorado Y tome mi parecer Que en esto de querer Todo es hallar el vado.",
-          "textWithEmoji": " UN ESPAGNOL Alegrese enamorado Y tome mi parecer Que en esto de querer Todo es hallar el vado.",
+          "character": "UN ESPAGNOL",
+          "text": "Alegrese enamorado Y tome mi parecer Que en esto de querer Todo es hallar el vado.",
+          "textWithEmoji": "Alegrese enamorado Y tome mi parecer Que en esto de querer Todo es hallar el vado.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "UN ESPAGNOL",
           "text": " TOUS TROIS ensemble.",
           "textWithEmoji": " TOUS TROIS ensemble.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "UN ESPAGNOL",
           "text": " Vaya, vaya de fiestas, Vaya de vayle, Alegria, alegria, alegria, Que esto de dolor es fantasia.",
           "textWithEmoji": " Vaya, vaya de fiestas, Vaya de vayle, Alegria, alegria, alegria, Que esto de dolor es fantasia.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
-          "text": " QUATRIÈME ENTRÉE ITALIENS UNE MUSICIENNE ITALIENNE fait le premier récit, dont voici les paroles : Di rigori armata il seno Contro amor mi ribella, Ma fui vinta in un baleno In mirar duo vaghi rai, Ahi che resiste puoco Cor di gelo a stral di fuoco.",
-          "textWithEmoji": " QUATRIÈME ENTRÉE ITALIENS UNE MUSICIENNE ITALIENNE fait le premier 🌛 récit, dont voici les paroles : Di rigori armata il seno Contro amor mi ribella, Ma fui vinta in un baleno In mirar duo vaghi rai, Ahi che resiste puoco Cor di gelo a stral di fuoco.",
+          "character": "UNE MUSICIENNE ITALIENNE",
+          "text": "fait le premier récit, dont voici les paroles : Di rigori armata il seno Contro amor mi ribella, Ma fui vinta in un baleno In mirar duo vaghi rai, Ahi che resiste puoco Cor di gelo a stral di fuoco.",
+          "textWithEmoji": "fait le premier 🌛 récit, dont voici les paroles : Di rigori armata il seno Contro amor mi ribella, Ma fui vinta in un baleno In mirar duo vaghi rai, Ahi che resiste puoco Cor di gelo a stral di fuoco.",
           "emojiWords": {
             "premier": "🌛"
           }
         },
         {
-          "character": "COVIELLE",
+          "character": "UNE MUSICIENNE ITALIENNE",
           "text": " Ma si caro è’l mio tormento Dolce è sí la piaga mia, Ch’il penare è’l mio contento, E’l sanarmi è tirannia.",
           "textWithEmoji": " Ma si caro è’l mio tormento Dolce è sí la piaga mia, Ch’il penare è’l mio contento, E’l sanarmi è tirannia.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "UNE MUSICIENNE ITALIENNE",
           "text": " Ahi che più giova, e piace Quanto amor è più vivace.",
           "textWithEmoji": " Ahi che più giova, e piace Quanto amor è più vivace.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "UNE MUSICIENNE ITALIENNE",
           "text": " Après l’air que la Musicienne a chanté, deux Scaramouches, deux Trivelins et un Arlequin représentent une nuit à la manière des comédiens italiens, en cadence.",
           "textWithEmoji": " Après l’air que la Musicienne a chanté, deux 👬 Scaramouches, deux 👬 Trivelins et un Arlequin représentent une nuit 🌃 à la manière des comédiens italiens, en cadence.",
           "emojiWords": {
@@ -1612,85 +1612,85 @@
           }
         },
         {
-          "character": "COVIELLE",
-          "text": " Un Musicien italien se joint à la Musicienne italienne, et chante avec elle les paroles qui suivent : LE MUSICIEN ITALIEN Bel tempo che vola Rapisce il contento, D’Amor nella scola Si coglie il momento.",
-          "textWithEmoji": " Un Musicien italien se joint à la Musicienne italienne, et chante avec elle les paroles qui suivent : LE MUSICIEN ITALIEN Bel tempo che vola Rapisce il contento, D’Amor nella scola Si coglie il momento.",
+          "character": "D’Amor nella scola",
+          "text": "Si coglie il momento.",
+          "textWithEmoji": "Si coglie il momento.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
-          "text": " LA MUSICIENNE Insin che florida Ride l’età Che pur tropp’ orrida Da noi sen và.",
-          "textWithEmoji": " LA MUSICIENNE Insin che florida Ride l’età Che pur tropp’ orrida Da noi sen và.",
+          "character": "LA MUSICIENNE",
+          "text": "Insin che florida Ride l’età Che pur tropp’ orrida Da noi sen và.",
+          "textWithEmoji": "Insin che florida Ride l’età Che pur tropp’ orrida Da noi sen và.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
-          "text": " TOUS DEUX Sù cantiamo, Sù godiamo Né bei dì di gioventù : Perduto ben non si racquista più.",
-          "textWithEmoji": " TOUS DEUX Sù cantiamo, Sù godiamo Né bei dì di gioventù : Perduto ben non si racquista più.",
+          "character": "TOUS DEUX",
+          "text": "Sù cantiamo, Sù godiamo Né bei dì di gioventù : Perduto ben non si racquista più.",
+          "textWithEmoji": "Sù cantiamo, Sù godiamo Né bei dì di gioventù : Perduto ben non si racquista più.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
-          "text": " MUSICIEN Pupilla che vaga Mill’ alme incatena, Fà dolce la piaga Felice la pena.",
-          "textWithEmoji": " MUSICIEN Pupilla che vaga Mill’ alme incatena, Fà dolce la piaga Felice la pena.",
+          "character": "MUSICIEN",
+          "text": "Pupilla che vaga Mill’ alme incatena, Fà dolce la piaga Felice la pena.",
+          "textWithEmoji": "Pupilla che vaga Mill’ alme incatena, Fà dolce la piaga Felice la pena.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
-          "text": " MUSICIENNE Ma poiche frigida Langue l’età, Più l’alma rigida Fiamme non ha.",
-          "textWithEmoji": " MUSICIENNE Ma poiche frigida Langue l’età, Più l’alma rigida Fiamme non ha.",
+          "character": "MUSICIENNE",
+          "text": "Ma poiche frigida Langue l’età, Più l’alma rigida Fiamme non ha.",
+          "textWithEmoji": "Ma poiche frigida Langue l’età, Più l’alma rigida Fiamme non ha.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
-          "text": " TOUS DEUX Sù cantiamo, etc.",
-          "textWithEmoji": " TOUS DEUX Sù cantiamo, etc.",
+          "character": "TOUS DEUX",
+          "text": "Sù cantiamo, etc.",
+          "textWithEmoji": "Sù cantiamo, etc.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "TOUS DEUX",
           "text": " Après le dialogue italien, les Scaramouches et Trivelins dansent une réjouissance.",
           "textWithEmoji": " Après le dialogue italien, les Scaramouches et Trivelins dansent une réjouissance.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
-          "text": " CINQUIÈME ENTRÉE FRANÇAIS PREMIER MENUET DEUX MUSICIENS POITEVINS dansent, et chantent les paroles qui suivent.",
-          "textWithEmoji": " CINQUIÈME ENTRÉE FRANÇAIS PREMIER MENUET DEUX MUSICIENS POITEVINS dansent, et chantent les paroles qui suivent.",
+          "character": "PREMIER MENUET",
+          "text": "DEUX MUSICIENS POITEVINS dansent, et chantent les paroles qui suivent.",
+          "textWithEmoji": "DEUX MUSICIENS POITEVINS dansent, et chantent les paroles qui suivent.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "PREMIER MENUET",
           "text": " Ah !",
           "textWithEmoji": " Ah !",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "PREMIER MENUET",
           "text": " qu’il fait beau dans ces bocages, Ah !",
           "textWithEmoji": " qu’il fait beau dans ces bocages, Ah !",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "PREMIER MENUET",
           "text": " que le Ciel donne un beau jour.",
           "textWithEmoji": " que le Ciel donne un beau jour.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
-          "text": " AUTRE MUSICIEN Le rossignol, sous ces tendres feuillages, Chante aux échos son doux retour : Ce beau séjour, Ces doux ramages, Ce beau séjour Nous invite à l’amour.",
-          "textWithEmoji": " AUTRE MUSICIEN Le rossignol, sous ces tendres feuillages, Chante aux échos son doux retour : Ce beau séjour, Ces doux ramages, Ce beau séjour Nous invite à l’amour.",
+          "character": "AUTRE MUSICIEN",
+          "text": "Le rossignol, sous ces tendres feuillages, Chante aux échos son doux retour : Ce beau séjour, Ces doux ramages, Ce beau séjour Nous invite à l’amour.",
+          "textWithEmoji": "Le rossignol, sous ces tendres feuillages, Chante aux échos son doux retour : Ce beau séjour, Ces doux ramages, Ce beau séjour Nous invite à l’amour.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
-          "text": " SECOND MENUET TOUS DEUX ensemble.",
-          "textWithEmoji": " SECOND MENUET TOUS DEUX ensemble.",
+          "character": "SECOND MENUET",
+          "text": "TOUS DEUX ensemble.",
+          "textWithEmoji": "TOUS DEUX ensemble.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "SECOND MENUET",
           "text": " Vois ma Climène, Vois sous ce chêne S’entre-baiser ces oiseaux amoureux; Ils n’ont rien dans leurs vœux Qui les gêne, De leurs doux feux Leur âme est pleine.",
           "textWithEmoji": " Vois ma Climène, Vois sous ce chêne S’entre-baiser ces oiseaux amoureux; Ils n’ont rien dans leurs vœux Qui les gêne, De leurs doux feux 🎆 Leur âme est pleine.",
           "emojiWords": {
@@ -1698,13 +1698,13 @@
           }
         },
         {
-          "character": "COVIELLE",
+          "character": "SECOND MENUET",
           "text": " Qu’ils sont heureux !",
           "textWithEmoji": " Qu’ils sont heureux !",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "SECOND MENUET",
           "text": " Nous pouvons tous deux, Si tu le veux, Être comme eux.",
           "textWithEmoji": " Nous pouvons tous deux 👬, Si tu le veux, Être comme eux.",
           "emojiWords": {
@@ -1712,7 +1712,7 @@
           }
         },
         {
-          "character": "COVIELLE",
+          "character": "SECOND MENUET",
           "text": " Six autres Français viennent après, vêtus galamment à la poitevine, trois en hommes, et trois en femmes, accompagnés de huit flûtes et de hautbois, et dansent les menuets.",
           "textWithEmoji": " Six autres Français viennent après, vêtus galamment à la poitevine, trois en hommes, et trois en femmes, accompagnés de huit ✳ flûtes et de hautbois, et dansent les menuets.",
           "emojiWords": {
@@ -1720,16 +1720,16 @@
           }
         },
         {
-          "character": "COVIELLE",
-          "text": " SIXIÈME ENTRÉE Tout cela finit par le mélange des trois nations, et les applaudissements en danse et en musique de toute l’assistance, qui chante les deux vers qui suivent : Quels spectacles charmants, quels plaisirs goûtons-nous !",
-          "textWithEmoji": " SIXIÈME ENTRÉE Tout cela finit par le mélange des trois nations, et les applaudissements 👏 en danse et en musique de toute l’assistance, qui chante les deux 👬 vers qui suivent : Quels spectacles charmants, quels plaisirs goûtons-nous !",
+          "character": "SIXIÈME ENTRÉE",
+          "text": "Tout cela finit par le mélange des trois nations, et les applaudissements en danse et en musique de toute l’assistance, qui chante les deux vers qui suivent : Quels spectacles charmants, quels plaisirs goûtons-nous !",
+          "textWithEmoji": "Tout cela finit par le mélange des trois nations, et les applaudissements 👏 en danse et en musique de toute l’assistance, qui chante les deux 👬 vers qui suivent : Quels spectacles charmants, quels plaisirs goûtons-nous !",
           "emojiWords": {
             "applaudissements": "👏",
             "deux": "👬"
           }
         },
         {
-          "character": "COVIELLE",
+          "character": "SIXIÈME ENTRÉE",
           "text": " Les Dieux mêmes, les Dieux, n’en ont point de plus doux.",
           "textWithEmoji": " Les Dieux mêmes, les Dieux, n’en ont point ‼ de plus doux.",
           "emojiWords": {

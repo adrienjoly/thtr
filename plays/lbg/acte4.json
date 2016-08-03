@@ -91,22 +91,22 @@
           }
         },
         {
-          "character": "DORANTE",
-          "text": " PREMIÈRE CHANSON À BOIRE Un petit doigt, Philis, pour commencer le tour.",
-          "textWithEmoji": " PREMIÈRE CHANSON À BOIRE Un petit 🔼 doigt, Philis, pour commencer le tour 🗼.",
+          "character": "PREMIÈRE CHANSON À BOIRE",
+          "text": "Un petit doigt, Philis, pour commencer le tour.",
+          "textWithEmoji": "Un petit 🔼 doigt, Philis, pour commencer le tour 🗼.",
           "emojiWords": {
             "petit": "🔼",
             "tour": "🗼"
           }
         },
         {
-          "character": "DORANTE",
+          "character": "PREMIÈRE CHANSON À BOIRE",
           "text": " Ah !",
           "textWithEmoji": " Ah !",
           "emojiWords": {}
         },
         {
-          "character": "DORANTE",
+          "character": "PREMIÈRE CHANSON À BOIRE",
           "text": " qu’un verre en vos mains a d’agréables charmes !",
           "textWithEmoji": " qu’un verre 🍸 en vos mains 👐 a d’agréables charmes !",
           "emojiWords": {
@@ -115,7 +115,7 @@
           }
         },
         {
-          "character": "DORANTE",
+          "character": "PREMIÈRE CHANSON À BOIRE",
           "text": " Vous, et le vin, vous vous prêtez des armes, Et je sens pour tous deux redoubler mon amour : Entre lui, vous et moi, jurons, jurons, ma belle, Une ardeur éternelle.",
           "textWithEmoji": " Vous, et le vin, vous vous prêtez des armes, Et je sens pour tous deux 👬 redoubler mon amour : Entre lui, vous et moi, jurons, jurons, ma belle, Une ardeur éternelle.",
           "emojiWords": {
@@ -123,7 +123,7 @@
           }
         },
         {
-          "character": "DORANTE",
+          "character": "PREMIÈRE CHANSON À BOIRE",
           "text": " Qu’en mouillant votre bouche il en reçoit d’attraits, Et que l’on voit par lui votre bouche embellie !",
           "textWithEmoji": " Qu’en mouillant votre bouche 👄 il en reçoit d’attraits, Et que l’on voit par lui votre bouche 👄 embellie !",
           "emojiWords": {
@@ -131,25 +131,25 @@
           }
         },
         {
-          "character": "DORANTE",
+          "character": "PREMIÈRE CHANSON À BOIRE",
           "text": " Ah !",
           "textWithEmoji": " Ah !",
           "emojiWords": {}
         },
         {
-          "character": "DORANTE",
+          "character": "PREMIÈRE CHANSON À BOIRE",
           "text": " l’un de l’autre ils me donnent envie, Et de vous et de lui je m’enivre à longs traits : Entre lui, vous et moi, jurons, jurons, ma belle, Une ardeur éternelle.",
           "textWithEmoji": " l’un de l’autre ils me donnent envie, Et de vous et de lui je m’enivre à longs traits : Entre lui, vous et moi, jurons, jurons, ma belle, Une ardeur éternelle.",
           "emojiWords": {}
         },
         {
-          "character": "DORANTE",
-          "text": " SECONDE CHANSON À BOIRE Buvons, chers amis, buvons : Le temps qui fuit nous y convie; Profitons de la vie Autant que nous pouvons : Quand on a passé l’onde noire, Adieu le bon vin, nos amours; Dépêchons-nous de boire, On ne boit pas toujours.",
-          "textWithEmoji": " SECONDE CHANSON À BOIRE Buvons, chers amis, buvons : Le temps qui fuit nous y convie; Profitons de la vie Autant que nous pouvons : Quand on a passé l’onde noire, Adieu le bon vin, nos amours; Dépêchons-nous de boire, On ne boit pas toujours.",
+          "character": "SECONDE CHANSON À BOIRE",
+          "text": "Buvons, chers amis, buvons : Le temps qui fuit nous y convie; Profitons de la vie Autant que nous pouvons : Quand on a passé l’onde noire, Adieu le bon vin, nos amours; Dépêchons-nous de boire, On ne boit pas toujours.",
+          "textWithEmoji": "Buvons, chers amis, buvons : Le temps qui fuit nous y convie; Profitons de la vie Autant que nous pouvons : Quand on a passé l’onde noire, Adieu le bon vin, nos amours; Dépêchons-nous de boire, On ne boit pas toujours.",
           "emojiWords": {}
         },
         {
-          "character": "DORANTE",
+          "character": "SECONDE CHANSON À BOIRE",
           "text": " Laissons raisonner les sots Sur le vrai bonheur de la vie; Notre philosophie Le met parmi les pots : Les biens, le savoir et la gloire, N’ôtent point les soucis fâcheux; Et ce n’est qu’à bien boire Que l’on peut être heureux.",
           "textWithEmoji": " Laissons raisonner les sots Sur le vrai bonheur de la vie; Notre philosophie Le met parmi les pots : Les biens, le savoir et la gloire, N’ôtent point ‼ les soucis fâcheux; Et ce n’est qu’à bien boire Que l’on peut être heureux.",
           "emojiWords": {
@@ -157,7 +157,7 @@
           }
         },
         {
-          "character": "DORANTE",
+          "character": "SECONDE CHANSON À BOIRE",
           "text": " Sus, sus du vin partout, versez, garçons versez, Versez, versez toujours, tant qu’on vous dise assez.",
           "textWithEmoji": " Sus, sus du vin partout, versez, garçons versez, Versez, versez toujours, tant qu’on vous dise assez.",
           "emojiWords": {}
@@ -1245,19 +1245,19 @@
           }
         },
         {
-          "character": "COVIELLE",
-          "text": " LE MUFTI Se ti sabir, Ti respondir Se non sabir Tazir, tazir.",
-          "textWithEmoji": " LE MUFTI Se ti sabir, Ti respondir Se non sabir Tazir, tazir.",
+          "character": "LE MUFTI",
+          "text": "Se ti sabir, Ti respondir Se non sabir Tazir, tazir.",
+          "textWithEmoji": "Se ti sabir, Ti respondir Se non sabir Tazir, tazir.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "LE MUFTI",
           "text": " Mi star Mufti Ti qui star ti Non intendir Tazir, tazir.",
           "textWithEmoji": " Mi star Mufti Ti qui star ti Non intendir Tazir, tazir.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "LE MUFTI",
           "text": " Le Mufti demande en même langue aux Turcs assistants, de quelle religion est le Bourgeois, et ils l’assurent qu’il est mahométan.",
           "textWithEmoji": " Le Mufti demande en même langue 👅 aux Turcs assistants, de quelle religion est le Bourgeois, et ils l’assurent qu’il est mahométan.",
           "emojiWords": {
@@ -1265,7 +1265,7 @@
           }
         },
         {
-          "character": "COVIELLE",
+          "character": "LE MUFTI",
           "text": " Le Mufti invoque Mahomet en langue franque, et chante les paroles qui suivent.",
           "textWithEmoji": " Le Mufti invoque Mahomet en langue 👅 franque, et chante les paroles qui suivent.",
           "emojiWords": {
@@ -1273,145 +1273,145 @@
           }
         },
         {
-          "character": "COVIELLE",
-          "text": " LE MUFTI Mahameta per Giourdina Mi pregar sera e mattina Voler far un Paladina De Giourdina, de Giourdina.",
-          "textWithEmoji": " LE MUFTI Mahameta per Giourdina Mi pregar sera e mattina Voler far un Paladina De Giourdina, de Giourdina.",
+          "character": "LE MUFTI",
+          "text": "Mahameta per Giourdina Mi pregar sera e mattina Voler far un Paladina De Giourdina, de Giourdina.",
+          "textWithEmoji": "Mahameta per Giourdina Mi pregar sera e mattina Voler far un Paladina De Giourdina, de Giourdina.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "LE MUFTI",
           "text": " Dar turbanta, é edar scarcina Con galera e brigantina Per deffender Palestina.",
           "textWithEmoji": " Dar turbanta, é edar scarcina Con galera e brigantina Per deffender Palestina.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "LE MUFTI",
           "text": " Mahameta, etc.",
           "textWithEmoji": " Mahameta, etc.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "LE MUFTI",
           "text": " Le Mufti demande aux Turcs si le Bourgeois sera ferme dans la religion mahométane, et leur chante ces paroles.",
           "textWithEmoji": " Le Mufti demande aux Turcs si le Bourgeois sera ferme dans la religion mahométane, et leur chante ces paroles.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
-          "text": " LE MUFTI Star bon Turca Giourdina.",
-          "textWithEmoji": " LE MUFTI Star bon Turca Giourdina.",
+          "character": "LE MUFTI",
+          "text": "Star bon Turca Giourdina.",
+          "textWithEmoji": "Star bon Turca Giourdina.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
-          "text": " LES TURCS Hi valla.",
-          "textWithEmoji": " LES TURCS Hi valla.",
+          "character": "LES TURCS",
+          "text": "Hi valla.",
+          "textWithEmoji": "Hi valla.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "LES TURCS",
           "text": " LE MUFTI danse et chante ces mots.",
           "textWithEmoji": " LE MUFTI danse et chante ces mots.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "LES TURCS",
           "text": " Hu la ba ba la chou ba la ba ba la da.",
           "textWithEmoji": " Hu la ba ba la chou ba la ba ba la da.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "LES TURCS",
           "text": " Les Turcs répondent les mêmes vers.",
           "textWithEmoji": " Les Turcs répondent les mêmes vers.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "LES TURCS",
           "text": " Le Mufti propose de donner le turban au Bourgeois, et chante les paroles qui suivent.",
           "textWithEmoji": " Le Mufti propose de donner le turban au Bourgeois, et chante les paroles qui suivent.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "LES TURCS",
           "text": " LE MUFTI s’adressant au Bourgeois.",
           "textWithEmoji": " LE MUFTI s’adressant au Bourgeois.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "LES TURCS",
           "text": " Ti non star furba.",
           "textWithEmoji": " Ti non star furba.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
-          "text": " LES TURCS No, no, no.",
-          "textWithEmoji": " LES TURCS No, no, no.",
+          "character": "LES TURCS",
+          "text": "No, no, no.",
+          "textWithEmoji": "No, no, no.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
-          "text": " LE MUFTI Non star forfanta ?",
-          "textWithEmoji": " LE MUFTI Non star forfanta ?",
+          "character": "LE MUFTI",
+          "text": "Non star forfanta ?",
+          "textWithEmoji": "Non star forfanta ?",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
-          "text": " LES TURCS No, no, no.",
-          "textWithEmoji": " LES TURCS No, no, no.",
+          "character": "LES TURCS",
+          "text": "No, no, no.",
+          "textWithEmoji": "No, no, no.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "LES TURCS",
           "text": " LE MUFTI aux Turcs.",
           "textWithEmoji": " LE MUFTI aux Turcs.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "LES TURCS",
           "text": " Donar turbanta.",
           "textWithEmoji": " Donar turbanta.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "LES TURCS",
           "text": " Donar turbanta.",
           "textWithEmoji": " Donar turbanta.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "LES TURCS",
           "text": " Les Turcs répètent tout ce qu’a dit le Mufti pour donner le turban au Bourgeois.",
           "textWithEmoji": " Les Turcs répètent tout ce qu’a dit le Mufti pour donner le turban au Bourgeois.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "LES TURCS",
           "text": " Le Mufti et les Dervis se coiffent avec des turbans de cérémonies, et l’on présente au Mufti l’Alcoran, qui fait une seconde invocation avec tout le reste des turcs assistants; après son invocation il donne au Bourgeois l’épée, et chante ces paroles.",
           "textWithEmoji": " Le Mufti et les Dervis se coiffent avec des turbans de cérémonies, et l’on présente au Mufti l’Alcoran, qui fait une seconde invocation avec tout le reste des turcs assistants; après son invocation il donne au Bourgeois l’épée, et chante ces paroles.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
-          "text": " LE MUFTI Ti star nobile, non star fabola.",
-          "textWithEmoji": " LE MUFTI Ti star nobile, non star fabola.",
+          "character": "LE MUFTI",
+          "text": "Ti star nobile, non star fabola.",
+          "textWithEmoji": "Ti star nobile, non star fabola.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "LE MUFTI",
           "text": " Pigliar schiabola.",
           "textWithEmoji": " Pigliar schiabola.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "LE MUFTI",
           "text": " Puis il se retire.",
           "textWithEmoji": " Puis il se retire.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "LE MUFTI",
           "text": " Les Turcs répètent les mêmes vers, mettant tous le sabre à la main, et six d’entre eux dansent autour du Bourgeois, auquel ils feignent de donner plusieurs coups de sabre.",
           "textWithEmoji": " Les Turcs répètent les mêmes vers, mettant tous le sabre à la main ✋, et six d’entre eux dansent autour du Bourgeois, auquel ils feignent de donner plusieurs 🎶 coups de sabre.",
           "emojiWords": {
@@ -1420,19 +1420,19 @@
           }
         },
         {
-          "character": "COVIELLE",
-          "text": " LE MUFTI commande aux Turcs de bâtonner le Bourgeois, et chante les paroles qui suivent.",
-          "textWithEmoji": " LE MUFTI commande aux Turcs de bâtonner le Bourgeois, et chante les paroles qui suivent.",
+          "character": "LE MUFTI commande aux Turcs de bâtonner",
+          "text": "le Bourgeois, et chante les paroles qui suivent.",
+          "textWithEmoji": "le Bourgeois, et chante les paroles qui suivent.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "LE MUFTI commande aux Turcs de bâtonner",
           "text": " Dara, dara, bastonara, bastonara.",
           "textWithEmoji": " Dara, dara, bastonara, bastonara.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "LE MUFTI commande aux Turcs de bâtonner",
           "text": " Les Turcs répètent les mêmes vers, et lui donnent plusieurs coups de bâton en cadence.",
           "textWithEmoji": " Les Turcs répètent les mêmes vers, et lui donnent plusieurs 🎶 coups de bâton en cadence.",
           "emojiWords": {
@@ -1440,19 +1440,19 @@
           }
         },
         {
-          "character": "COVIELLE",
-          "text": " LE MUFTI Non tener honta Questa star l’ultima affronta.",
-          "textWithEmoji": " LE MUFTI Non tener honta Questa star l’ultima affronta.",
+          "character": "LE MUFTI",
+          "text": "Non tener honta Questa star l’ultima affronta.",
+          "textWithEmoji": "Non tener honta Questa star l’ultima affronta.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "LE MUFTI",
           "text": " Les Turcs répètent les mêmes vers.",
           "textWithEmoji": " Les Turcs répètent les mêmes vers.",
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE",
+          "character": "LE MUFTI",
           "text": " Le Mufti recommence une invocation et se retire après la cérémonie avec tous les Turcs, en dansant et chantant avec plusieurs instruments à la turque.",
           "textWithEmoji": " Le Mufti recommence une invocation et se retire après la cérémonie 🎑 avec tous les Turcs, en dansant et chantant avec plusieurs 🎶 instruments à la turque.",
           "emojiWords": {

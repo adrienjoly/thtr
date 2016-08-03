@@ -1034,129 +1034,143 @@
           "emojiWords": {}
         },
         {
-          "character": "MONSIEUR JOURDAIN",
-          "text": " DIALOGUE EN MUSIQUE UNE MUSICIENNE ET DEUX MUSICIENS Un cœur, dans l’amoureux empire, De mille soins est toujours agité : On dit qu’avec plaisir on languit, on soupire; Mais, quoi qu’on puisse dire, Il n’est rien de si doux que notre liberté.",
-          "textWithEmoji": " DIALOGUE EN MUSIQUE UNE MUSICIENNE ET DEUX MUSICIENS Un cœur 💛, dans l’amoureux empire, De mille soins est toujours agité : On dit qu’avec plaisir on languit, on soupire; Mais, quoi qu’on puisse dire, Il n’est rien de si doux que notre liberté.",
+          "character": "UNE MUSICIENNE ET DEUX MUSICIENS [10]",
+          "text": "Un cœur, dans l’amoureux empire, De mille soins est toujours agité : On dit qu’avec plaisir on languit, on soupire; Mais, quoi qu’on puisse dire, Il n’est rien de si doux que notre liberté.",
+          "textWithEmoji": "Un cœur 💛, dans l’amoureux empire, De mille soins est toujours agité : On dit qu’avec plaisir on languit, on soupire; Mais, quoi qu’on puisse dire, Il n’est rien de si doux que notre liberté.",
           "emojiWords": {
             "cœur": "💛"
           }
         },
         {
-          "character": "MONSIEUR JOURDAIN",
-          "text": " PREMIER MUSICIEN Il n’est rien de si doux que les tendres ardeurs Qui font vivre deux cœurs Dans une même envie : On ne peut être heureux sans amoureux désirs; Ôtez l’amour de la vie, Vous en ôtez les plaisirs.",
-          "textWithEmoji": " PREMIER MUSICIEN Il n’est rien de si doux que les tendres ardeurs Qui font vivre deux 👬 cœurs Dans une même envie : On ne peut être heureux sans amoureux désirs; Ôtez l’amour de la vie, Vous en ôtez les plaisirs.",
+          "character": "PREMIER MUSICIEN",
+          "text": "Il n’est rien de si doux que les tendres ardeurs Qui font vivre deux cœurs Dans une même envie : On ne peut être heureux sans amoureux désirs; Ôtez l’amour de la vie, Vous en ôtez les plaisirs.",
+          "textWithEmoji": "Il n’est rien de si doux que les tendres ardeurs Qui font vivre deux 👬 cœurs Dans une même envie : On ne peut être heureux sans amoureux désirs; Ôtez l’amour de la vie, Vous en ôtez les plaisirs.",
           "emojiWords": {
             "deux": "👬"
           }
         },
         {
-          "character": "MONSIEUR JOURDAIN",
-          "text": " SECOND MUSICIEN Il serait doux d’entrer sous l’amoureuse loi, Si l’on trouvait en amour de la foi : Mais hélas, ô rigueur cruelle, On ne voit point de bergère fidèle; Et ce sexe inconstant, trop indigne du jour, Doit faire pour jamais renoncer à l’amour.",
-          "textWithEmoji": " SECOND MUSICIEN Il serait doux d’entrer sous l’amoureuse loi, Si l’on trouvait en amour de la foi : Mais hélas, ô rigueur cruelle, On ne voit point ‼ de bergère fidèle; Et ce sexe inconstant, trop indigne du jour, Doit faire pour jamais renoncer à l’amour.",
+          "character": "SECOND MUSICIEN",
+          "text": "Il serait doux d’entrer sous l’amoureuse loi, Si l’on trouvait en amour de la foi : Mais hélas, ô rigueur cruelle, On ne voit point de bergère fidèle; Et ce sexe inconstant, trop indigne du jour, Doit faire pour jamais renoncer à l’amour.",
+          "textWithEmoji": "Il serait doux d’entrer sous l’amoureuse loi, Si l’on trouvait en amour de la foi : Mais hélas, ô rigueur cruelle, On ne voit point ‼ de bergère fidèle; Et ce sexe inconstant, trop indigne du jour, Doit faire pour jamais renoncer à l’amour.",
           "emojiWords": {
             "point": "‼"
           }
         },
         {
-          "character": "MONSIEUR JOURDAIN",
-          "text": " PREMIER MUSICIEN Aimable ardeur !",
-          "textWithEmoji": " PREMIER MUSICIEN Aimable ardeur !",
+          "character": "PREMIER MUSICIEN",
+          "text": "Aimable ardeur !",
+          "textWithEmoji": "Aimable ardeur !",
           "emojiWords": {}
         },
         {
-          "character": "MONSIEUR JOURDAIN",
-          "text": " MUSICIENNE Franchise heureuse !",
-          "textWithEmoji": " MUSICIENNE Franchise heureuse !",
+          "character": "MUSICIENNE",
+          "text": "Franchise heureuse !",
+          "textWithEmoji": "Franchise heureuse !",
           "emojiWords": {}
         },
         {
-          "character": "MONSIEUR JOURDAIN",
-          "text": " SECOND MUSICIEN Sexe trompeur !",
-          "textWithEmoji": " SECOND MUSICIEN Sexe trompeur !",
+          "character": "SECOND MUSICIEN",
+          "text": "Sexe trompeur !",
+          "textWithEmoji": "Sexe trompeur !",
           "emojiWords": {}
         },
         {
-          "character": "MONSIEUR JOURDAIN",
-          "text": " PREMIER MUSICIEN Que tu m’es précieuse !",
-          "textWithEmoji": " PREMIER MUSICIEN Que tu m’es précieuse !",
+          "character": "PREMIER MUSICIEN",
+          "text": "Que tu m’es précieuse !",
+          "textWithEmoji": "Que tu m’es précieuse !",
           "emojiWords": {}
         },
         {
-          "character": "MONSIEUR JOURDAIN",
-          "text": " MUSICIENNE Que tu plais à mon cœur !",
-          "textWithEmoji": " MUSICIENNE Que tu plais à mon cœur 💛 !",
+          "character": "MUSICIENNE",
+          "text": "Que tu plais à mon cœur !",
+          "textWithEmoji": "Que tu plais à mon cœur 💛 !",
           "emojiWords": {
             "cœur": "💛"
           }
         },
         {
-          "character": "MONSIEUR JOURDAIN",
-          "text": " SECOND MUSICIEN Que tu me fais d’horreur !",
-          "textWithEmoji": " SECOND MUSICIEN Que tu me fais d’horreur !",
+          "character": "SECOND MUSICIEN",
+          "text": "Que tu me fais d’horreur !",
+          "textWithEmoji": "Que tu me fais d’horreur !",
           "emojiWords": {}
         },
         {
-          "character": "MONSIEUR JOURDAIN",
-          "text": " PREMIER MUSICIEN Ah !",
-          "textWithEmoji": " PREMIER MUSICIEN Ah !",
+          "character": "PREMIER MUSICIEN",
+          "text": "Ah !",
+          "textWithEmoji": "Ah !",
           "emojiWords": {}
         },
         {
-          "character": "MONSIEUR JOURDAIN",
+          "character": "PREMIER MUSICIEN",
           "text": " quitte pour aimer, cette haine mortelle !",
           "textWithEmoji": " quitte pour aimer, cette haine mortelle !",
           "emojiWords": {}
         },
         {
-          "character": "MONSIEUR JOURDAIN",
-          "text": " MUSICIENNE On peut, on peut te montrer Une bergère fidèle.",
-          "textWithEmoji": " MUSICIENNE On peut, on peut te montrer Une bergère fidèle.",
+          "character": "MUSICIENNE",
+          "text": "On peut, on peut te montrer Une bergère fidèle.",
+          "textWithEmoji": "On peut, on peut te montrer Une bergère fidèle.",
           "emojiWords": {}
         },
         {
-          "character": "MONSIEUR JOURDAIN",
-          "text": " SECOND MUSICIEN Hélas !",
-          "textWithEmoji": " SECOND MUSICIEN Hélas !",
+          "character": "SECOND MUSICIEN",
+          "text": "Hélas !",
+          "textWithEmoji": "Hélas !",
           "emojiWords": {}
         },
         {
-          "character": "MONSIEUR JOURDAIN",
+          "character": "SECOND MUSICIEN",
           "text": " où la rencontrer ?",
           "textWithEmoji": " où la rencontrer ?",
           "emojiWords": {}
         },
         {
-          "character": "MONSIEUR JOURDAIN",
-          "text": " MUSICIENNE Pour défendre notre gloire, Je te veux offrir mon cœur.",
-          "textWithEmoji": " MUSICIENNE Pour défendre notre gloire, Je te veux offrir mon cœur 💛.",
+          "character": "MUSICIENNE",
+          "text": "Pour défendre notre gloire, Je te veux offrir mon cœur.",
+          "textWithEmoji": "Pour défendre notre gloire, Je te veux offrir mon cœur 💛.",
           "emojiWords": {
             "cœur": "💛"
           }
         },
         {
-          "character": "MONSIEUR JOURDAIN",
-          "text": " SECOND MUSICIEN Mais, bergère, puis-je croire Qu’il ne sera point trompeur ?",
-          "textWithEmoji": " SECOND MUSICIEN Mais, bergère, puis-je croire Qu’il ne sera point ‼ trompeur ?",
+          "character": "SECOND MUSICIEN",
+          "text": "Mais, bergère, puis-je croire Qu’il ne sera point trompeur ?",
+          "textWithEmoji": "Mais, bergère, puis-je croire Qu’il ne sera point ‼ trompeur ?",
           "emojiWords": {
             "point": "‼"
           }
         },
         {
-          "character": "MONSIEUR JOURDAIN",
-          "text": " MUSICIENNE Voyons par expérience Qui des deux aimera mieux.",
-          "textWithEmoji": " MUSICIENNE Voyons par expérience Qui des deux 👬 aimera mieux.",
+          "character": "MUSICIENNE",
+          "text": "Voyons par expérience Qui des deux aimera mieux.",
+          "textWithEmoji": "Voyons par expérience Qui des deux 👬 aimera mieux.",
+          "emojiWords": {
+            "deux": "👬"
+          }
+        },
+        {
+          "character": "SECOND MUSICIEN",
+          "text": "Qui manquera de constance, Le puissent perdre les Dieux.",
+          "textWithEmoji": "Qui manquera de constance, Le puissent perdre les Dieux.",
+          "emojiWords": {}
+        },
+        {
+          "character": "TOUS TROIS",
+          "text": "À des ardeurs si belles Laissons-nous enflammer; Ah !",
+          "textWithEmoji": "À des ardeurs si belles Laissons-nous enflammer; Ah !",
+          "emojiWords": {}
+        },
+        {
+          "character": "TOUS TROIS",
+          "text": " qu’il est doux d’aimer, Quand deux cœurs sont fidèles !",
+          "textWithEmoji": " qu’il est doux d’aimer, Quand deux 👬 cœurs sont fidèles !",
           "emojiWords": {
             "deux": "👬"
           }
         },
         {
           "character": "MONSIEUR JOURDAIN",
-          "text": " SECOND MUSICIEN Qui manquera de constance, Le puissent perdre les Dieux.",
-          "textWithEmoji": " SECOND MUSICIEN Qui manquera de constance, Le puissent perdre les Dieux.",
-          "emojiWords": {}
-        },
-        {
-          "character": "TOUS TROIS\nÀ des ardeurs si belles\nLaissons-nous enflammer ;\nAh ! qu’il est doux d’aimer,\nQuand deux cœurs sont fidèles !\nMONSIEUR JOURDAIN",
           "text": "Est-ce tout ?",
           "textWithEmoji": "Est-ce tout ?",
           "emojiWords": {}
