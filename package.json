@@ -16,7 +16,7 @@
     "gen-play-metadata": "node gen-play-metadata.js",
     "apply-emoji": "for f in $(find ./plays -name '*.json'); do node apply-emoji.js $f; done",
     "start": "node server.js",
-    "test": "node server.js & sleep 2; curl http://localhost:3000/api/plays | jq . >tests.log; cd plays; for f in *.json; do curl http://localhost:3000/api/play/${f%.json}/act/1 | jq . >>../tests.log; done; cd ..; kill $!"
+    "test": "npm run convert; node server.js & sleep 2; curl http://localhost:3000/api/plays | jq . >tests.log; cd plays; for f in *.json; do curl http://localhost:3000/api/play/${f%.json}/act/1 | jq . >>../tests.log; done; cd ..; kill $!"
   },
   "engines": {
     "node": "^6.3.1",
