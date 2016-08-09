@@ -83,7 +83,7 @@ function parseText(text) {
   parts = parts.map((part, index) => {
     part = part.replace(/\nDIALOGUE EN MUSIQUE\n/g, '\n');
     var all = part.split(ACTOR_SPEECH); // alternance of character and character's speech
-    var characterList = all.shift();
+    var sceneContext = all.shift().split('\n\n').slice(1).join('\n');
     var characters = all.filter((a, i) => (i + 1) % 2);
     var speech = all.filter((a, i) => i % 2);
     var dialogue = subDivideIntoSentences(characters.filter(a => !!a).map((a, i) => {
@@ -95,6 +95,7 @@ function parseText(text) {
     return {
       act: act.split(',')[0],
       scene: index + 1,
+      sceneContext: sceneContext,
       dialogue: dialogue.map(dialogueProcessors) 
     };
   });

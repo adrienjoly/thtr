@@ -8,6 +8,7 @@
     {
       "act": "II",
       "scene": 1,
+      "sceneContext": "MONSIEUR JOURDAIN, MAÎTRE DE MUSIQUE, MAÎTRE À DANSER, LAQUAIS.",
       "dialogue": [
         {
           "character": "MONSIEUR JOURDAIN",
@@ -339,6 +340,7 @@
     {
       "act": "II",
       "scene": 2,
+      "sceneContext": "MAÎTRE D’ARMES, MAÎTRE DE MUSIQUE, MAÎTRE À DANSER, MONSIEUR JOURDAIN, DEUX LAQUAIS.",
       "dialogue": [
         {
           "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
@@ -800,6 +802,7 @@
     {
       "act": "II",
       "scene": 3,
+      "sceneContext": "MAÎTRE DE PHILOSOPHIE, MAÎTRE DE MUSIQUE, MAÎTRE À DANSER, MAÎTRE D’ARMES, MONSIEUR JOURDAIN, LAQUAIS.",
       "dialogue": [
         {
           "character": "MONSIEUR JOURDAIN",
@@ -1114,6 +1117,7 @@
     {
       "act": "II",
       "scene": 4,
+      "sceneContext": "MAÎTRE DE PHILOSOPHIE, MONSIEUR JOURDAIN.",
       "dialogue": [
         {
           "character": "MAÎTRE DE PHILOSOPHIE,en raccommodant son collet",
@@ -2040,6 +2044,7 @@
     {
       "act": "II",
       "scene": 5,
+      "sceneContext": "MAÎTRE TAILLEUR, GARÇON TAILLEUR, portant l’habit de M. Jourdain, MONSIEUR JOURDAIN, LAQUAIS.",
       "dialogue": [
         {
           "character": "MONSIEUR JOURDAIN",

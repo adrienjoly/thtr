@@ -8,6 +8,7 @@
     {
       "act": "II",
       "scene": 1,
+      "sceneContext": "GÉRONTE, ARGANTE.",
       "dialogue": [
         {
           "character": "GÉRONTE",
@@ -201,6 +202,7 @@
     {
       "act": "II",
       "scene": 2,
+      "sceneContext": "LÉANDRE, GÉRONTE.",
       "dialogue": [
         {
           "character": "GÉRONTE",
@@ -435,6 +437,7 @@
     {
       "act": "II",
       "scene": 3,
+      "sceneContext": "OCTAVE, SCAPIN, LÉANDRE.",
       "dialogue": [
         {
           "character": "LÉANDRE",
@@ -926,6 +929,7 @@
     {
       "act": "II",
       "scene": 4,
+      "sceneContext": "CARLE, SCAPIN, LÉANDRE, OCTAVE.",
       "dialogue": [
         {
           "character": "CARLE",
@@ -1286,6 +1290,7 @@
     {
       "act": "II",
       "scene": 5,
+      "sceneContext": "ARGANTE, SCAPIN.",
       "dialogue": [
         {
           "character": "SCAPIN",
@@ -1938,6 +1943,7 @@
     {
       "act": "II",
       "scene": 6,
+      "sceneContext": "SILVESTRE, ARGANTE, SCAPIN.",
       "dialogue": [
         {
           "character": "SILVESTRE [19] ",
@@ -2470,6 +2476,7 @@
     {
       "act": "II",
       "scene": 7,
+      "sceneContext": "GÉRONTE, SCAPIN.",
       "dialogue": [
         {
           "character": "SCAPIN [22] ",
@@ -3218,6 +3225,7 @@
     {
       "act": "II",
       "scene": 8,
+      "sceneContext": "OCTAVE, LÉANDRE, SCAPIN.",
       "dialogue": [
         {
           "character": "OCTAVE",

@@ -8,6 +8,7 @@
     {
       "act": "V",
       "scene": 1,
+      "sceneContext": "MADAME JOURDAIN, MONSIEUR JOURDAIN.",
       "dialogue": [
         {
           "character": "MADAME JOURDAIN",
@@ -266,6 +267,7 @@
     {
       "act": "V",
       "scene": 2,
+      "sceneContext": "DORANTE, DORIMÈNE.",
       "dialogue": [
         {
           "character": "DORANTE",
@@ -368,6 +370,7 @@
     {
       "act": "V",
       "scene": 3,
+      "sceneContext": "MONSIEUR JOURDAIN, DORANTE, DORIMÈNE.",
       "dialogue": [
         {
           "character": "DORANTE",
@@ -457,6 +460,7 @@
     {
       "act": "V",
       "scene": 4,
+      "sceneContext": "CLÉONTE, COVIELLE, MONSIEUR JOURDAIN, etc.",
       "dialogue": [
         {
           "character": "DORANTE",
@@ -585,6 +589,7 @@
     {
       "act": "V",
       "scene": 5,
+      "sceneContext": "LUCILE, MONSIEUR JOURDAIN, DORANTE, DORIMÈNE, etc.",
       "dialogue": [
         {
           "character": "MONSIEUR JOURDAIN",
@@ -716,6 +721,7 @@
     {
       "act": "V",
       "scene": 6,
+      "sceneContext": "MADAME JOURDAIN, MONSIEUR JOURDAIN, CLÉONTE, etc.",
       "dialogue": [
         {
           "character": "MADAME JOURDAIN",

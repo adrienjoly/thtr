@@ -8,6 +8,7 @@
     {
       "act": "III",
       "scene": 1,
+      "sceneContext": "MONSIEUR JOURDAIN, LAQUAIS.",
       "dialogue": [
         {
           "character": "MONSIEUR JOURDAIN",
@@ -41,6 +42,7 @@
     {
       "act": "III",
       "scene": 2,
+      "sceneContext": "NICOLE, MONSIEUR JOURDAIN, LAQUAIS.",
       "dialogue": [
         {
           "character": "MONSIEUR JOURDAIN",
@@ -384,6 +386,7 @@
     {
       "act": "III",
       "scene": 3,
+      "sceneContext": "MADAME JOURDAIN, MONSIEUR JOURDAIN, NICOLE, LAQUAIS.",
       "dialogue": [
         {
           "character": "MADAME JOURDAIN",
@@ -1178,6 +1181,7 @@
     {
       "act": "III",
       "scene": 4,
+      "sceneContext": "DORANTE, MONSIEUR JOURDAIN, MADAME JOURDAIN, NICOLE.",
       "dialogue": [
         {
           "character": "DORANTE",
@@ -1756,6 +1760,7 @@
     {
       "act": "III",
       "scene": 5,
+      "sceneContext": "DORANTE, MADAME JOURDAIN, NICOLE.",
       "dialogue": [
         {
           "character": "DORANTE",
@@ -1852,6 +1857,7 @@
     {
       "act": "III",
       "scene": 6,
+      "sceneContext": "MONSIEUR JOURDAIN, MADAME JOURDAIN, DORANTE, NICOLE.",
       "dialogue": [
         {
           "character": "MONSIEUR JOURDAIN",
@@ -2123,6 +2129,7 @@
     {
       "act": "III",
       "scene": 7,
+      "sceneContext": "MADAME JOURDAIN, NICOLE.",
       "dialogue": [
         {
           "character": "NICOLE",
@@ -2198,6 +2205,7 @@
     {
       "act": "III",
       "scene": 8,
+      "sceneContext": "CLÉONTE, COVIELLE, NICOLE.",
       "dialogue": [
         {
           "character": "NICOLE",
@@ -2302,6 +2310,7 @@
     {
       "act": "III",
       "scene": 9,
+      "sceneContext": "CLÉONTE, COVIELLE.",
       "dialogue": [
         {
           "character": "CLÉONTE",
@@ -2702,6 +2711,7 @@
     {
       "act": "III",
       "scene": 10,
+      "sceneContext": "CLÉONTE, LUCILE, COVIELLE, NICOLE.",
       "dialogue": [
         {
           "character": "NICOLE",
@@ -3373,6 +3383,7 @@
     {
       "act": "III",
       "scene": 11,
+      "sceneContext": "MADAME JOURDAIN, CLÉONTE, LUCILE, COVIELLE, NICOLE.",
       "dialogue": [
         {
           "character": "MADAME JOURDAIN",
@@ -3411,6 +3422,7 @@
     {
       "act": "III",
       "scene": 12,
+      "sceneContext": "MONSIEUR JOURDAIN, MADAME JOURDAIN, CLÉONTE, LUCILE, COVIELLE, NICOLE.",
       "dialogue": [
         {
           "character": "CLÉONTE",
@@ -3748,6 +3760,7 @@
     {
       "act": "III",
       "scene": 13,
+      "sceneContext": "CLÉONTE, COVIELLE.",
       "dialogue": [
         {
           "character": "COVIELLE",
@@ -3869,6 +3882,7 @@
     {
       "act": "III",
       "scene": 14,
+      "sceneContext": "MONSIEUR JOURDAIN, LAQUAIS.",
       "dialogue": [
         {
           "character": "MONSIEUR JOURDAIN",
@@ -3910,6 +3924,7 @@
     {
       "act": "III",
       "scene": 15,
+      "sceneContext": "DORIMÈNE, DORANTE, LAQUAIS.",
       "dialogue": [
         {
           "character": "LAQUAIS",
@@ -4059,6 +4074,7 @@
     {
       "act": "III",
       "scene": 16,
+      "sceneContext": "MONSIEUR JOURDAIN, DORIMÈNE, DORANTE, LAQUAIS.",
       "dialogue": [
         {
           "character": "MONSIEUR JOURDAIN, après avoir fait deux révérences, se trouvant trop près de Dorimène",

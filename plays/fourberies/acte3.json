@@ -8,6 +8,7 @@
     {
       "act": "III",
       "scene": 1,
+      "sceneContext": "ZERBINETTE, HYACINTE, SCAPIN, SILVESTRE.",
       "dialogue": [
         {
           "character": "SILVESTRE",
@@ -297,6 +298,7 @@
     {
       "act": "III",
       "scene": 2,
+      "sceneContext": "GÉRONTE, SCAPIN.",
       "dialogue": [
         {
           "character": "GÉRONTE",
@@ -1467,6 +1469,7 @@
     {
       "act": "III",
       "scene": 3,
+      "sceneContext": "ZERBINETTE, GÉRONTE.",
       "dialogue": [
         {
           "character": "ZERBINETTE [11] ",
@@ -1925,6 +1928,7 @@
     {
       "act": "III",
       "scene": 4,
+      "sceneContext": "SILVESTRE, ZERBINETTE.",
       "dialogue": [
         {
           "character": "SILVESTRE",
@@ -1995,6 +1999,7 @@
     {
       "act": "III",
       "scene": 5,
+      "sceneContext": "ARGANTE, SILVESTRE.",
       "dialogue": [
         {
           "character": "ARGANTE",
@@ -2043,6 +2048,7 @@
     {
       "act": "III",
       "scene": 6,
+      "sceneContext": "GÉRONTE, ARGANTE, SILVESTRE.",
       "dialogue": [
         {
           "character": "GÉRONTE",
@@ -2144,6 +2150,7 @@
     {
       "act": "III",
       "scene": 7,
+      "sceneContext": "NÉRINE, ARGANTE, GÉRONTE, SILVESTRE.",
       "dialogue": [
         {
           "character": "GÉRONTE",
@@ -2286,6 +2293,7 @@
     {
       "act": "III",
       "scene": 8,
+      "sceneContext": "SCAPIN, SILVESTRE.",
       "dialogue": [
         {
           "character": "SCAPIN",
@@ -2360,6 +2368,7 @@
     {
       "act": "III",
       "scene": 9,
+      "sceneContext": "GÉRONTE, ARGANTE, SILVESTRE, NÉRINE, HYACINTE.",
       "dialogue": [
         {
           "character": "GÉRONTE",
@@ -2386,6 +2395,7 @@
     {
       "act": "III",
       "scene": 10,
+      "sceneContext": "OCTAVE, ARGANTE, GÉRONTE, HYACINTE, NÉRINE, ZERBINETTE, SILVESTRE.",
       "dialogue": [
         {
           "character": "ARGANTE",
@@ -2599,6 +2609,7 @@
     {
       "act": "III",
       "scene": 11,
+      "sceneContext": "LÉANDRE, OCTAVE, HYACINTE, ZERBINETTE, ARGANTE, GÉRONTE, SILVESTRE, NÉRINE.",
       "dialogue": [
         {
           "character": "LÉANDRE",
@@ -2662,6 +2673,7 @@
     {
       "act": "III",
       "scene": 12,
+      "sceneContext": "CARLE, LÉANDRE, OCTAVE, GÉRONTE, ARGANTE, HYACINTE, ZERBINETTE, SILVESTRE, NÉRINE.",
       "dialogue": [
         {
           "character": "CARLE",
@@ -2731,6 +2743,7 @@
     {
       "act": "III",
       "scene": 13,
+      "sceneContext": "SCAPIN, CARLE, GÉRONTE, ARGANTE, etc.",
       "dialogue": [
         {
           "character": "SCAPIN, apporté par deux hommes, et la tête entourée de linges, comme s’il avait été blessé",

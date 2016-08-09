@@ -53,7 +53,7 @@ CHŒUR
 Si vous daignez nous écouter patiemment,
 Notre zèle s’efforcera de corriger notre insuffisance.
 
-ACTE I, SCÈNE PREMIÈRE
+SCÈNE PREMIÈRE
 
 Vérone. Une place publique.
 Entrent Samson et Grégoire, armés d’épées et de boucliers.
@@ -348,7 +348,9 @@ Ce serait le moyen de rehausser encore ses grâces exquises. Les bienheureux mas
  
 BENVOLIO
 J’achèterai ce secret-là, dussé-je mourir insolvable ! (Ils sortent.)
-Scène II
+
+SCÈNE II
+
 Devant la maison de Capulet.
 Entrent Capulet, Paris et un valet
  
@@ -440,7 +442,9 @@ Bah ! vous l’avez vue belle, parce que vous l’avez vue seule ; pour vos ye
  
 ROMÉO
 Soit ! J’irai, non pour voir ce que tu dis, mais pour jouir de la splendeur de mon adorée. (Ils sortent.)
-Scène III
+
+SCÈNE III
+
 Dans la maison de Capulet.
 Entrent lady Capulet et la nourrice.
  
@@ -534,7 +538,9 @@ Nous te suivons. Juliette, le comte nous attend.
  
 LA NOURRICE
 Va, fillette, va ajouter d’heureuses nuits à tes heureux jours. (Tous sortent.)
-Scène IV
+
+SCÈNE IV
+
 Une place sur laquelle est située la maison de Capulet.
 Entrent Roméo, costumé ; Mercutio, Benvolio, avec cinq ou six autres masques ; des gens portant des torches, et des musiciens.
  
@@ -623,7 +629,9 @@ Trop tôt, j’en ai peur ! Mon âme pressent qu’une amère catastrophe, enco
 BENVOLIO
 Battez, tambours ! (Ils sortent.)
  
-Scène V
+
+SCÈNE V
+
 Une salle dans la maison de Capulet.
 Entrent plusieurs valets portant des serviettes.
  
@@ -807,7 +815,9 @@ Et Juliette, tout aussi éprise, est plus impuissante encore
 À se ménager une rencontre avec son amoureux.
 Mais la passion leur donne la force, et le temps, l’occasion
 De goûter ensemble d’ineffables joies dans d’ineffables transes. (Il sort.)
-Scène VI
+
+SCÈNE VI
+
 Une route aux abords du jardin de Capulet.
 Roméo entre précipitamment.
  
@@ -842,7 +852,9 @@ Si l’amour est aveugle, il ne peut pas frapper le but… Sans doute Roméo s�
  
 BENVOLIO
 Oui, partons ; car il est inutile de chercher ici qui ne veut pas se laisser trouver (Ils sortent.)
-Scène VII
+
+SCÈNE VII
+
 Le jardin de Capulet. Sous les fenêtres de l’appartement de Juliette.
 Entre Roméo.
  
@@ -1016,7 +1028,9 @@ Ami, je le voudrais aussi ; mais je te tuerais à force de caresses. Bonne nuit
  
 ROMÉO, seul.
 Que le sommeil se fixe sur tes yeux et la paix dans ton cœur ! Je voudrais être le sommeil et la paix, pour reposer si délicieusement ! Je vais de ce pas à la cellule de mon père spirituel, pour implorer son aide et lui conter mon bonheur. (Il sort.)
-Scène VIII
+
+SCÈNE VIII
+
 La cellule de frère Laurence.
 Entre frère Laurence, portant un panier.
  
@@ -1081,7 +1095,9 @@ Oh ! partons : il y a urgence à nous hâter.
  
 LAURENCE
 Allons sagement et doucement : trébuche qui court vite. (Ils sortent.)
-Scène IX
+
+SCÈNE IX
+
 Une rue. Entrent Benvolio et Mercutio.
 
 
@@ -1368,7 +1384,9 @@ Voilà !
  
 LA NOURRICE
 En avant, et lestement. (Ils sortent.)
-Scène X
+
+SCÈNE X
+
 Le jardin de Capulet. Entre Juliette.
  
  
@@ -1432,7 +1450,9 @@ Eh bien, courez de ce pas à la cellule de frère Laurence : un mari vous y att
  
 JULIETTE
 Vite au bonheur suprême !… Honnête nourrice, adieu. (Elles sortent par des côtés différents.)
-Scène XI
+
+SCÈNE XI
+
 La cellule de frère Laurence.
  
  
@@ -1466,7 +1486,9 @@ Le sentiment, plus riche en impressions qu’en paroles, est fier de son essence
  
 LAURENCE
 Allons, venez avec moi, et nous aurons bientôt fait ; sauf votre bon plaisir, je ne vous laisserai seuls que quand la sainte Église vous aura incorporés l’un à l’autre. (Ils sortent.)
-Scène XII
+
+SCÈNE XII
+
 Vérone
 La promenade du Cours près de la porte des Borsari.
 Entrent Mercutio, Benvolio, un page et des valets.
@@ -1655,7 +1677,9 @@ Ce ne doit pas être Roméo, prince, il était l’ami de Mercutio. Sa faute n�
  
 .LE PRINCE
 Et, pour cette offense, nous l’exilons sur-le-champ. Je suis moi-même victime de vos haines ; mon sang coule pour vos brutales disputes ; mais je vous imposerai une si rude amende que vous vous repentirez tous du malheur dont je souffre. Je serai sourd aux plaidoyers et aux excuses ; ni larmes ni prières ne rachèteront les torts ; elles sont donc inutiles. Que Roméo se hâte de partir ; l’heure où on le trouverait ici serait pour lui la dernière. Qu’on emporte ce corps et qu’on défère à notre volonté : la clémence ne fait qu’assassiner en pardonnant à ceux qui tuent.
-Scène XIII
+
+SCÈNE XIII
+
 Le jardin de Capulet. Entre Juliette.
  
  
@@ -1731,7 +1755,9 @@ Courez à votre chambre ; je vais trouver Roméo pour qu’il vous console… J
  
 JULIETTE, détachant une bague de son doigt
 Oh ! trouve-le ! Remets cet anneau à mon fidèle chevalier, et dis-lui de venir me faire ses derniers adieux.
-Scène XIV
+
+SCÈNE XIV
+
 La cellule de frère Laurence.
 Entrent Frère Laurence, puis Roméo. Le jour baisse.
  
@@ -1857,7 +1883,9 @@ Partez. Bonne nuit. Mais faites-y attention, tout votre sort en dépend, quittez
  
 ROMÉO
 Si une joie au-dessus de toute joie ne m’appelait ailleurs, j’aurais un vif chagrin à me séparer de toi si vite. Adieu. (Ils sortent.)
-Scène XV
+
+SCÈNE XV
+
 Dans la maison de Capulet.
 Entrent Capulet, Lady Capulet et Paris.
  
@@ -1885,7 +1913,9 @@ Monseigneur, je voudrais que jeudi soit demain.
  
 CAPULET
 Bon ; vous pouvez partir… Ce sera pour jeudi, alors. Vous, femme, allez voir Juliette avant d’aller au lit, et préparez-la pour la noce… Adieu, messire… De la lumière dans ma chambre, holà ! Ma foi, il est déjà si tard qu’avant peu il sera de bonne heure… Bonne nuit. (Ils sortent.)
-Scène XVI
+
+SCÈNE XVI
+
 La chambre à coucher de Juliette. Entrent Roméo et Juliette.
  
  
@@ -2094,7 +2124,9 @@ Oui, certes, j’y vais. Vous faites sagement. (Elle sort.)
  
 JULIETTE, regardant s’éloigner la nourrice.
 Ô vieille damnée ! abominable démon ! Je ne sais quel est ton plus grand crime, ou de souhaiter que je me parjure, ou de ravaler mon seigneur de cette même bouche qui l’a exalté au-dessus de toute comparaison tant de milliers de fois… Va-t’en, conseillère ; entre toi et mon cœur il y a désormais rupture. Je vais trouver le religieux pour lui demander un remède ; à défaut de tout autre, j’ai la ressource de mourir. (Elle sort.)
-Scène XVII
+
+SCÈNE XVII
+
 La cellule de frère Laurence.
 Entrent Laurence et Paris.
  
@@ -2197,7 +2229,9 @@ Tiens, pars ! Sois forte et sois heureuse dans ta résolution. Je vais dépêch
  
 JULIETTE
 Amour donne-moi ta force, et cette force me sauvera. Adieu, mon père ! (Ils se séparent.)
-Scène XVIII
+
+SCÈNE XVIII
+
 Dans la maison de Capulet.
 Entrent Capulet, lady Capulet, la nourrice et des valets.
  
@@ -2256,7 +2290,9 @@ Nous serons pris à court pour les préparatifs : il est presque nuit déjà.
  
 CAPULET
 Bah ! je vais me remuer, et tout ira bien, je te le garantis, femme ! Toi, va rejoindre Juliette, et aide-la à se parer ; je ne me coucherai pas cette nuit… Laisse-moi seul ; c’est moi qui ferai la ménagère cette fois… Holà !… Ils sont tous sortis. Allons, je vais moi-même chez le comte Paris le prévenir pour demain. J’ai le cœur étonnamment allègre, depuis que cette petite folle est venue à résipiscence. (Ils sortent.)
-Scène XIX
+
+SCÈNE XIX
+
 La chambre à coucher de Juliette.
 Entrent Juliette et la nourrice.
  
@@ -2275,7 +2311,9 @@ Bonne nuit ! Mets-toi au lit, et repose ; car tu en as besoin. (Lady Capulet s
  
 JULIETTE
 Adieu !… Dieu sait quand nous nous reverrons. Une vague frayeur répand le frisson dans mes veines et y glace presque la chaleur vitale… Je vais les rappeler pour me rassurer. Nourrice !… qu’a-t-elle à faire ici ? Il faut que je joue seule mon horrible scène. (Prenant la fiole que Laurence lui a donnée.) À moi, fiole !… Eh quoi ! si ce breuvage n’agissait pas ! serais-je donc mariée demain matin ?… Non, non. Voici qui l’empêcherait… Repose ici, toi. (Elle met un couteau à côté de son lit.) Et si c’était un poison que le moine m’eût subtilement administré pour me faire mourir afin de ne pas être déshonorée par ce mariage, lui qui m’a déjà mariée à Roméo ? J’ai peur de cela ; mais non, c’est impossible : il a toujours été reconnu pour un saint homme… Et si, une fois déposée dans le tombeau, je m’éveillais avant le moment où Roméo doit venir me délivrer ! Ah ! l’effroyable chose ! Ne pourrais-je pas être étouffée dans ce caveau dont la bouche hideuse n’aspire jamais un air pur et mourir suffoquée avant que Roméo n’arrive ? Ou même, si je vis, n’est-il pas probable que l’horrible impression de la mort et de la nuit jointe à la terreur du lieu… En effet ce caveau est l’ancien réceptacle où depuis bien des siècles sont entassés les os de tous mes ancêtres ensevelis ; où Tybalt sanglant et encore tout frais dans la terre pourrit sous son linceul ; où, dit-on, à certaines heures de la nuit, les esprits s’assemblent ! Hélas ! hélas ! n’est-il pas probable que, réveillée avant l’heure, au milieu d’exhalaisons infectes et de gémissements pareils à ces cris de mandragores déracinées que des vivants ne peuvent entendre sans devenir fous… Oh ! si je m’éveille ainsi, est-ce que je ne perdrai pas la raison, environnée de toutes ces horreurs ? Peut-être alors, insensée, voudrai-je jouer avec les squelettes de mes ancêtres, arracher de son linceul Tybalt mutilé, et, dans ce délire, saisissant l’os de quelque grand-parent comme une massue, en broyer ma cervelle désespérée ! Oh ! tenez ! il me semble voir le spectre de mon cousin poursuivant Roméo qui lui a troué le corps avec la pointe de son épée… Arrête, Tybalt, arrête ! (Elle porte la fiole à ses lèvres.) Roméo ! Roméo ! Roméo ! voici à boire ! je bois à toi. (Elle se jette sur son lit derrière un rideau.)
-Scène XX
+
+SCÈNE XX
+
 Une salle dans la maison de Capulet. le jour se lève.
 Entrent lady Capulet et la nourrice.
  
@@ -2315,7 +2353,9 @@ Par la messe, bien répondu. Voilà un plaisant coquin ! Ah ! je te proclame r
  
 CAPULET
 Allez éveiller Juliette, allez, et habillez-la ; je vais causer avec Paris… Vite, hâtez-vous, hâtez-vous ! le fiancé est déjà arrivé ; hâtez-vous, vous dis-je. (Tous sortent.)
-Scène XXI
+
+SCÈNE XXI
+
 La chambre à coucher de Juliette. Entre la nourrice.
  
  
@@ -2473,7 +2513,9 @@ Voilà un fieffé coquin !
  
 DEUXIÈME MUSICIEN
 Qu’il aille se faire pendre !… Sortons, nous autres ! attendons le convoi, et nous resterons à dîner. (Ils sortent.)
-Scène XXII
+
+SCÈNE XXII
+
 Mantoue. Une rue. Entre Roméo.
  
  
@@ -2524,7 +2566,9 @@ L’APOTHICAIRE
 Mettez ceci dans le liquide que vous voudrez, et avalez ; eussiez-vous la force de vingt hommes, vous serez expédié immédiatement.
  
 ROMÉO, lui jetant sa bourse. - Voici ton or ; ce poison est plus funeste à l’âme des hommes, il commet plus de meurtres dans cet odieux monde que ces pauvres mixtures que tu n’as pas le droit de vendre. C’est moi qui te vends du poison ; tu ne m’en as pas vendu. Adieu, achète de quoi manger et engraisse. (Servant la fiole que l’apothicaire lui a remise.) Ceci, du poison ? non ! Viens, cordial, viens avec moi au tombeau de Juliette ; c’est là que tu dois me servir (Ils se séparent.)
-Scène XXIII
+
+SCÈNE XXIII
+
 La cellule de Frère Laurence. Entre Frère Jean.
  
  
@@ -2551,7 +2595,9 @@ Frère, je vais te l’apporter (Il sort.)
  
 LAURENCE
 Maintenant il faut que je me rende seul au tombeau ; dans trois heures la belle Juliette s’éveillera. Elle me maudira, parce que Roméo n’a pas été prévenu de ce qui est arrivé ; mais je vais récrire à Mantoue, et je la garderai dans ma cellule jusqu’à la venue de Roméo. Pauvre cadavre vivant, enfermé dans le sépulcre d’un mort ! (Il sort.)
-Scène XXIV
+
+SCÈNE XXIV
+
 Vérone
 Un cimetière au milieu duquel s’élève le tombeau des Capulets.
 Entre Paris suivi de son page qui porte une torche et des fleurs.

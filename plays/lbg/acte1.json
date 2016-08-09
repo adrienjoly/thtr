@@ -77,6 +77,7 @@
     {
       "act": "I",
       "scene": 1,
+      "sceneContext": "MAÎTRE DE MUSIQUE, MAÎTRE À DANSER, TROIS MUSICIENS, DEUX VIOLONS, QUATRE DANSEURS.",
       "dialogue": [
         {
           "character": "MAÎTRE DE MUSIQUE, parlant à ses Musiciens",
@@ -324,6 +325,7 @@
     {
       "act": "I",
       "scene": 2,
+      "sceneContext": "MONSIEUR JOURDAIN, DEUX LAQUAIS, MAÎTRE DE MUSIQUE, MAÎTRE À DANSER, VIOLONS, MUSICIENS ET DANSEURS.",
       "dialogue": [
         {
           "character": "MONSIEUR JOURDAIN",

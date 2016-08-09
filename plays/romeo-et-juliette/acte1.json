@@ -90,6 +90,7 @@
     {
       "act": "I",
       "scene": 1,
+      "sceneContext": "",
       "dialogue": [
         {
           "character": "CHŒUR",
@@ -127,6 +128,7 @@
     {
       "act": "I",
       "scene": 2,
+      "sceneContext": "Vérone. Une place publique.\nEntrent Samson et Grégoire, armés d’épées et de boucliers.\n ",
       "dialogue": [
         {
           "character": "SAMSON",
@@ -1433,15 +1435,14 @@
           "text": " (Ils sortent.",
           "textWithEmoji": " (Ils sortent.",
           "emojiWords": {}
-        },
-        {
-          "character": "BENVOLIO",
-          "text": ") Scène II Devant la maison de Capulet.",
-          "textWithEmoji": ") Scène II Devant la maison 🏡 de Capulet.",
-          "emojiWords": {
-            "maison": "🏡"
-          }
-        },
+        }
+      ]
+    },
+    {
+      "act": "I",
+      "scene": 3,
+      "sceneContext": "Devant la maison de Capulet.\nEntrent Capulet, Paris et un valet\n \n ",
+      "dialogue": [
         {
           "character": "CAPULET",
           "text": "Montague est lié comme moi, et sous une égale caution.",
@@ -1843,21 +1844,14 @@
           "text": " (Ils sortent.",
           "textWithEmoji": " (Ils sortent.",
           "emojiWords": {}
-        },
-        {
-          "character": "ROMÉO",
-          "text": ") Scène III Dans la maison de Capulet.",
-          "textWithEmoji": ") Scène III Dans la maison 🏡 de Capulet.",
-          "emojiWords": {
-            "maison": "🏡"
-          }
-        },
-        {
-          "character": "ROMÉO",
-          "text": " Entrent lady Capulet et la nourrice.",
-          "textWithEmoji": " Entrent lady Capulet et la nourrice.",
-          "emojiWords": {}
-        },
+        }
+      ]
+    },
+    {
+      "act": "I",
+      "scene": 4,
+      "sceneContext": "Dans la maison de Capulet.\nEntrent lady Capulet et la nourrice.\n \n ",
+      "dialogue": [
         {
           "character": "LADY CAPULET",
           "text": "Nourrice, où est ma fille ?",
@@ -2399,21 +2393,14 @@
           "text": " (Tous sortent.",
           "textWithEmoji": " (Tous sortent.",
           "emojiWords": {}
-        },
-        {
-          "character": "LA NOURRICE",
-          "text": ") Scène IV Une place sur laquelle est située la maison de Capulet.",
-          "textWithEmoji": ") Scène IV Une place sur laquelle est située la maison 🏡 de Capulet.",
-          "emojiWords": {
-            "maison": "🏡"
-          }
-        },
-        {
-          "character": "LA NOURRICE",
-          "text": " Entrent Roméo, costumé; Mercutio, Benvolio, avec cinq ou six autres masques; des gens portant des torches, et des musiciens.",
-          "textWithEmoji": " Entrent Roméo, costumé; Mercutio, Benvolio, avec cinq ou six autres masques; des gens portant des torches, et des musiciens.",
-          "emojiWords": {}
-        },
+        }
+      ]
+    },
+    {
+      "act": "I",
+      "scene": 5,
+      "sceneContext": "Une place sur laquelle est située la maison de Capulet.\nEntrent Roméo, costumé ; Mercutio, Benvolio, avec cinq ou six autres masques ; des gens portant des torches, et des musiciens.\n \n ",
+      "dialogue": [
         {
           "character": "ROMÉO",
           "text": "Voyons, faut-il prononcer un discours pour nous excuser ou entrer sans apologie ?",
@@ -2814,23 +2801,14 @@
           "text": " (Ils sortent.",
           "textWithEmoji": " (Ils sortent.",
           "emojiWords": {}
-        },
-        {
-          "character": "BENVOLIO",
-          "text": ") Scène V Une salle dans la maison de Capulet.",
-          "textWithEmoji": ") Scène V Une salle dans la maison 🏡 de Capulet.",
-          "emojiWords": {
-            "maison": "🏡"
-          }
-        },
-        {
-          "character": "BENVOLIO",
-          "text": " Entrent plusieurs valets portant des serviettes.",
-          "textWithEmoji": " Entrent plusieurs 🎶 valets portant des serviettes.",
-          "emojiWords": {
-            "plusieurs": "🎶"
-          }
-        },
+        }
+      ]
+    },
+    {
+      "act": "I",
+      "scene": 6,
+      "sceneContext": "Une salle dans la maison de Capulet.\nEntrent plusieurs valets portant des serviettes.\n \n ",
+      "dialogue": [
         {
           "character": "PREMIER VALET",
           "text": "Où est donc Laterrine, qu’il ne m’aide pas à desservir ?",
@@ -3961,19 +3939,14 @@
           "text": " (Il sort.",
           "textWithEmoji": " (Il sort.",
           "emojiWords": {}
-        },
-        {
-          "character": "LE CHŒUR",
-          "text": ") Scène VI Une route aux abords du jardin de Capulet.",
-          "textWithEmoji": ") Scène VI Une route aux abords du jardin de Capulet.",
-          "emojiWords": {}
-        },
-        {
-          "character": "LE CHŒUR",
-          "text": " Roméo entre précipitamment.",
-          "textWithEmoji": " Roméo entre précipitamment.",
-          "emojiWords": {}
-        },
+        }
+      ]
+    },
+    {
+      "act": "I",
+      "scene": 7,
+      "sceneContext": "Une route aux abords du jardin de Capulet.\nRoméo entre précipitamment.\n \n ",
+      "dialogue": [
         {
           "character": "ROMÉO, montrant le mur du jardin",
           "text": "Puis-je aller plus loin, quand mon cœur est ici ?",
@@ -4200,25 +4173,14 @@
           "text": "Oui, partons; car il est inutile de chercher ici qui ne veut pas se laisser trouver (Ils sortent.",
           "textWithEmoji": "Oui, partons; car il est inutile de chercher ici qui ne veut pas se laisser trouver (Ils sortent.",
           "emojiWords": {}
-        },
-        {
-          "character": "BENVOLIO",
-          "text": ") Scène VII Le jardin de Capulet.",
-          "textWithEmoji": ") Scène VII Le jardin de Capulet.",
-          "emojiWords": {}
-        },
-        {
-          "character": "BENVOLIO",
-          "text": " Sous les fenêtres de l’appartement de Juliette.",
-          "textWithEmoji": " Sous les fenêtres de l’appartement de Juliette.",
-          "emojiWords": {}
-        },
-        {
-          "character": "BENVOLIO",
-          "text": " Entre Roméo.",
-          "textWithEmoji": " Entre Roméo.",
-          "emojiWords": {}
-        },
+        }
+      ]
+    },
+    {
+      "act": "I",
+      "scene": 8,
+      "sceneContext": "Le jardin de Capulet. Sous les fenêtres de l’appartement de Juliette.\nEntre Roméo.\n \n ",
+      "dialogue": [
         {
           "character": "ROMÉO",
           "text": "Il se rit des plaies, celui qui n’a jamais reçu de blessures !",
@@ -5217,19 +5179,14 @@
           "text": " (Il sort.",
           "textWithEmoji": " (Il sort.",
           "emojiWords": {}
-        },
-        {
-          "character": "JULIETTE",
-          "text": ") Scène VIII La cellule de frère Laurence.",
-          "textWithEmoji": ") Scène VIII La cellule de frère Laurence.",
-          "emojiWords": {}
-        },
-        {
-          "character": "JULIETTE",
-          "text": " Entre frère Laurence, portant un panier.",
-          "textWithEmoji": " Entre frère Laurence, portant un panier.",
-          "emojiWords": {}
-        },
+        }
+      ]
+    },
+    {
+      "act": "I",
+      "scene": 9,
+      "sceneContext": "La cellule de frère Laurence.\nEntre frère Laurence, portant un panier.\n \n ",
+      "dialogue": [
         {
           "character": "LAURENCE",
           "text": "L’aube aux yeux gris couvre de son sourire la nuit grimaçante, et diapre de lignes lumineuses les nuées d’Orient; l’ombre couperosée, chancelant comme un ivrogne, s’éloigne de la route du jour devant les roues du Titan radieux.",
@@ -5617,19 +5574,14 @@
           "text": " (Ils sortent.",
           "textWithEmoji": " (Ils sortent.",
           "emojiWords": {}
-        },
-        {
-          "character": "LAURENCE",
-          "text": ") Scène IX Une rue.",
-          "textWithEmoji": ") Scène IX Une rue.",
-          "emojiWords": {}
-        },
-        {
-          "character": "LAURENCE",
-          "text": " Entrent Benvolio et Mercutio.",
-          "textWithEmoji": " Entrent Benvolio et Mercutio.",
-          "emojiWords": {}
-        },
+        }
+      ]
+    },
+    {
+      "act": "I",
+      "scene": 10,
+      "sceneContext": "Une rue. Entrent Benvolio et Mercutio.\n",
+      "dialogue": [
         {
           "character": "MERCUTIO",
           "text": "Où diable ce Roméo peut-il être ?",
@@ -6884,19 +6836,14 @@
           "text": " (Ils sortent.",
           "textWithEmoji": " (Ils sortent.",
           "emojiWords": {}
-        },
-        {
-          "character": "LA NOURRICE",
-          "text": ") Scène X Le jardin de Capulet.",
-          "textWithEmoji": ") Scène X Le jardin de Capulet.",
-          "emojiWords": {}
-        },
-        {
-          "character": "LA NOURRICE",
-          "text": " Entre Juliette.",
-          "textWithEmoji": " Entre Juliette.",
-          "emojiWords": {}
-        },
+        }
+      ]
+    },
+    {
+      "act": "I",
+      "scene": 11,
+      "sceneContext": "Le jardin de Capulet. Entre Juliette.\n \n ",
+      "dialogue": [
         {
           "character": "JULIETTE",
           "text": "L’horloge frappait neuf heures, quand j’ai envoyé la nourrice; elle m’avait promis d’être de retour en une demi-heure… Peut-être n’a-t-elle pas pu le trouver !",
@@ -7341,13 +7288,14 @@
           "text": " (Elles sortent par des côtés différents.",
           "textWithEmoji": " (Elles sortent par des côtés différents.",
           "emojiWords": {}
-        },
-        {
-          "character": "JULIETTE",
-          "text": ") Scène XI La cellule de frère Laurence.",
-          "textWithEmoji": ") Scène XI La cellule de frère Laurence.",
-          "emojiWords": {}
-        },
+        }
+      ]
+    },
+    {
+      "act": "I",
+      "scene": 12,
+      "sceneContext": "La cellule de frère Laurence.\n \n ",
+      "dialogue": [
         {
           "character": "LAURENCE",
           "text": "Veuille le ciel sourire à cet acte pieux, et puisse l’avenir ne pas nous le reprocher par un chagrin !",
@@ -7481,23 +7429,14 @@
           "text": " (Ils sortent.",
           "textWithEmoji": " (Ils sortent.",
           "emojiWords": {}
-        },
-        {
-          "character": "LAURENCE",
-          "text": ") Scène XII Vérone La promenade du Cours près de la porte des Borsari.",
-          "textWithEmoji": ") Scène XII Vérone La promenade du Cours près de la porte 🚪 des Borsari.",
-          "emojiWords": {
-            "porte": "🚪"
-          }
-        },
-        {
-          "character": "LAURENCE",
-          "text": " Entrent Mercutio, Benvolio, un page et des valets.",
-          "textWithEmoji": " Entrent Mercutio, Benvolio, un page 📄 et des valets.",
-          "emojiWords": {
-            "page": "📄"
-          }
-        },
+        }
+      ]
+    },
+    {
+      "act": "I",
+      "scene": 13,
+      "sceneContext": "Vérone\nLa promenade du Cours près de la porte des Borsari.\nEntrent Mercutio, Benvolio, un page et des valets.\n \n ",
+      "dialogue": [
         {
           "character": "BENVOLIO",
           "text": "Je t’en prie, bon Mercutio, retirons-nous; la journée est chaude; les Capulets sont dehors, et, si nous les rencontrons, nous ne pourrons pas éviter une querelle : car, dans ces jours de chaleur, le sang est furieusement excité !",
@@ -8562,19 +8501,14 @@
           "text": " Qu’on emporte ce corps et qu’on défère à notre volonté : la clémence ne fait qu’assassiner en pardonnant à ceux qui tuent.",
           "textWithEmoji": " Qu’on emporte ce corps et qu’on défère à notre volonté : la clémence ne fait qu’assassiner en pardonnant à ceux qui tuent.",
           "emojiWords": {}
-        },
-        {
-          "character": "MONTAGUE",
-          "text": " Scène XIII Le jardin de Capulet.",
-          "textWithEmoji": " Scène XIII Le jardin de Capulet.",
-          "emojiWords": {}
-        },
-        {
-          "character": "MONTAGUE",
-          "text": " Entre Juliette.",
-          "textWithEmoji": " Entre Juliette.",
-          "emojiWords": {}
-        },
+        }
+      ]
+    },
+    {
+      "act": "I",
+      "scene": 14,
+      "sceneContext": "Le jardin de Capulet. Entre Juliette.\n \n ",
+      "dialogue": [
         {
           "character": "JULIETTE",
           "text": "Retournez au galop, vous coursiers aux pieds de flamme, vers le logis de Phébus; déjà un cocher comme Phaéton vous aurait lancés dans l’ouest et aurait ramené la nuit nébuleuse… Étends ton épais rideau, nuit vouée à l’amour, que les yeux de la rumeur se ferment et que Roméo bondisse dans mes bras, ignoré, inaperçu !",
@@ -9326,25 +9260,14 @@
           "text": " Remets cet anneau à mon fidèle chevalier, et dis-lui de venir me faire ses derniers adieux.",
           "textWithEmoji": " Remets cet anneau à mon fidèle chevalier, et dis-lui de venir me faire ses derniers adieux.",
           "emojiWords": {}
-        },
-        {
-          "character": "JULIETTE, détachant une bague de son doigt",
-          "text": " Scène XIV La cellule de frère Laurence.",
-          "textWithEmoji": " Scène XIV La cellule de frère Laurence.",
-          "emojiWords": {}
-        },
-        {
-          "character": "JULIETTE, détachant une bague de son doigt",
-          "text": " Entrent Frère Laurence, puis Roméo.",
-          "textWithEmoji": " Entrent Frère Laurence, puis Roméo.",
-          "emojiWords": {}
-        },
-        {
-          "character": "JULIETTE, détachant une bague de son doigt",
-          "text": " Le jour baisse.",
-          "textWithEmoji": " Le jour baisse.",
-          "emojiWords": {}
-        },
+        }
+      ]
+    },
+    {
+      "act": "I",
+      "scene": 15,
+      "sceneContext": "La cellule de frère Laurence.\nEntrent Frère Laurence, puis Roméo. Le jour baisse.\n \n ",
+      "dialogue": [
         {
           "character": "LAURENCE",
           "text": "Viens, Roméo; viens, homme sinistre; l’affliction s’est enamourée de ta personne, et tu es fiancé à la calamité.",
@@ -10277,21 +10200,14 @@
           "text": " (Ils sortent.",
           "textWithEmoji": " (Ils sortent.",
           "emojiWords": {}
-        },
-        {
-          "character": "ROMÉO",
-          "text": ") Scène XV Dans la maison de Capulet.",
-          "textWithEmoji": ") Scène XV Dans la maison 🏡 de Capulet.",
-          "emojiWords": {
-            "maison": "🏡"
-          }
-        },
-        {
-          "character": "ROMÉO",
-          "text": " Entrent Capulet, Lady Capulet et Paris.",
-          "textWithEmoji": " Entrent Capulet, Lady Capulet et Paris.",
-          "emojiWords": {}
-        },
+        }
+      ]
+    },
+    {
+      "act": "I",
+      "scene": 16,
+      "sceneContext": "Dans la maison de Capulet.\nEntrent Capulet, Lady Capulet et Paris.\n \n ",
+      "dialogue": [
         {
           "character": "CAPULET",
           "text": "Les choses ont tourné si malheureusement, messire, que nous n’avons pas eu le temps de disposer notre fille.",
@@ -10476,21 +10392,14 @@
           "text": " (Ils sortent.",
           "textWithEmoji": " (Ils sortent.",
           "emojiWords": {}
-        },
-        {
-          "character": "CAPULET",
-          "text": ") Scène XVI La chambre à coucher de Juliette.",
-          "textWithEmoji": ") Scène XVI La chambre à coucher 🌇 de Juliette.",
-          "emojiWords": {
-            "coucher": "🌇"
-          }
-        },
-        {
-          "character": "CAPULET",
-          "text": " Entrent Roméo et Juliette.",
-          "textWithEmoji": " Entrent Roméo et Juliette.",
-          "emojiWords": {}
-        },
+        }
+      ]
+    },
+    {
+      "act": "I",
+      "scene": 17,
+      "sceneContext": "La chambre à coucher de Juliette. Entrent Roméo et Juliette.\n \n ",
+      "dialogue": [
         {
           "character": "JULIETTE",
           "text": "Veux-tu donc partir ?",
@@ -11830,19 +11739,14 @@
           "text": " (Elle sort.",
           "textWithEmoji": " (Elle sort.",
           "emojiWords": {}
-        },
-        {
-          "character": "LA NOURRICE",
-          "text": ") Scène XVII La cellule de frère Laurence.",
-          "textWithEmoji": ") Scène XVII La cellule de frère Laurence.",
-          "emojiWords": {}
-        },
-        {
-          "character": "LA NOURRICE",
-          "text": " Entrent Laurence et Paris.",
-          "textWithEmoji": " Entrent Laurence et Paris.",
-          "emojiWords": {}
-        },
+        }
+      ]
+    },
+    {
+      "act": "I",
+      "scene": 18,
+      "sceneContext": "La cellule de frère Laurence.\nEntrent Laurence et Paris.\n \n ",
+      "dialogue": [
         {
           "character": "LAURENCE",
           "text": "Jeudi, seigneur !",
@@ -12354,53 +12258,14 @@
           "text": " (Ils se séparent.",
           "textWithEmoji": " (Ils se séparent.",
           "emojiWords": {}
-        },
-        {
-          "character": "JULIETTE",
-          "text": ") Scène XVIII Dans la maison de Capulet.",
-          "textWithEmoji": ") Scène XVIII Dans la maison 🏡 de Capulet.",
-          "emojiWords": {
-            "maison": "🏡"
-          }
-        },
-        {
-          "character": "JULIETTE",
-          "text": " Entrent Capulet, lady Capulet, la nourrice et des valets.",
-          "textWithEmoji": " Entrent Capulet, lady Capulet, la nourrice et des valets.",
-          "emojiWords": {}
-        },
-        {
-          "character": "JULIETTE",
-          "text": " CAPULET, remettant un papier au premier valet.",
-          "textWithEmoji": " CAPULET, remettant un papier au premier 🌛 valet.",
-          "emojiWords": {
-            "premier": "🌛"
-          }
-        },
-        {
-          "character": "JULIETTE",
-          "text": " Tu inviteras toutes les personnes dont les noms sont écrits ici.",
-          "textWithEmoji": " Tu inviteras toutes les personnes dont les noms sont écrits ici.",
-          "emojiWords": {}
-        },
-        {
-          "character": "JULIETTE",
-          "text": " (Le valet sort.",
-          "textWithEmoji": " (Le valet sort.",
-          "emojiWords": {}
-        },
-        {
-          "character": "JULIETTE",
-          "text": ") (Au second valet.",
-          "textWithEmoji": ") (Au second valet.",
-          "emojiWords": {}
-        },
-        {
-          "character": "JULIETTE",
-          "text": ") Maraud, va me louer vingt cuisiniers habiles.",
-          "textWithEmoji": ") Maraud, va me louer vingt cuisiniers habiles.",
-          "emojiWords": {}
-        },
+        }
+      ]
+    },
+    {
+      "act": "I",
+      "scene": 19,
+      "sceneContext": "Dans la maison de Capulet.\nEntrent Capulet, lady Capulet, la nourrice et des valets.\n \n \nCAPULET, remettant un papier au premier valet.\nTu inviteras toutes les personnes dont les noms sont écrits ici. (Le valet sort.) (Au second valet.) Maraud, va me louer vingt cuisiniers habiles.\n ",
+      "dialogue": [
         {
           "character": "DEUXIÈME VALET",
           "text": "Vous n’en aurez que de bons, monsieur, car je m’assurerai d’abord s’ils se lèchent les doigts.",
@@ -12683,21 +12548,14 @@
           "text": " (Ils sortent.",
           "textWithEmoji": " (Ils sortent.",
           "emojiWords": {}
-        },
-        {
-          "character": "CAPULET",
-          "text": ") Scène XIX La chambre à coucher de Juliette.",
-          "textWithEmoji": ") Scène XIX La chambre à coucher 🌇 de Juliette.",
-          "emojiWords": {
-            "coucher": "🌇"
-          }
-        },
-        {
-          "character": "CAPULET",
-          "text": " Entrent Juliette et la nourrice.",
-          "textWithEmoji": " Entrent Juliette et la nourrice.",
-          "emojiWords": {}
-        },
+        }
+      ]
+    },
+    {
+      "act": "I",
+      "scene": 20,
+      "sceneContext": "La chambre à coucher de Juliette.\nEntrent Juliette et la nourrice.\n \n ",
+      "dialogue": [
         {
           "character": "JULIETTE",
           "text": "Oui, c’est la toilette qu’il faut… Mais, gentille nourrice, laisse-moi seule cette nuit, je t’en prie : car j’ai besoin de beaucoup prier pour décider le ciel à sourire à mon existence, qui est, tu le sais bien, pleine de trouble et de péché.",
@@ -12984,39 +12842,14 @@
           "text": " (Elle se jette sur son lit derrière un rideau.",
           "textWithEmoji": " (Elle se jette sur son lit derrière un rideau.",
           "emojiWords": {}
-        },
-        {
-          "character": "JULIETTE",
-          "text": ") Scène XX Une salle dans la maison de Capulet.",
-          "textWithEmoji": ") Scène XX Une salle dans la maison 🏡 de Capulet.",
-          "emojiWords": {
-            "maison": "🏡"
-          }
-        },
-        {
-          "character": "JULIETTE",
-          "text": " le jour se lève.",
-          "textWithEmoji": " le jour se lève.",
-          "emojiWords": {}
-        },
-        {
-          "character": "JULIETTE",
-          "text": " Entrent lady Capulet et la nourrice.",
-          "textWithEmoji": " Entrent lady Capulet et la nourrice.",
-          "emojiWords": {}
-        },
-        {
-          "character": "JULIETTE",
-          "text": " LADY CAPULET, donnant un trousseau de clefs à la nourrice.",
-          "textWithEmoji": " LADY CAPULET, donnant un trousseau de clefs à la nourrice.",
-          "emojiWords": {}
-        },
-        {
-          "character": "JULIETTE",
-          "text": " Tenez, nourrice, prenez ces clefs et allez chercher d’autres épices.",
-          "textWithEmoji": " Tenez, nourrice, prenez ces clefs et allez chercher d’autres épices.",
-          "emojiWords": {}
-        },
+        }
+      ]
+    },
+    {
+      "act": "I",
+      "scene": 21,
+      "sceneContext": "Une salle dans la maison de Capulet. le jour se lève.\nEntrent lady Capulet et la nourrice.\n \n \nLADY CAPULET, donnant un trousseau de clefs à la nourrice. Tenez, nourrice, prenez ces clefs et allez chercher d’autres épices.\n ",
+      "dialogue": [
         {
           "character": "LA NOURRICE",
           "text": "On demande des dattes et des coings pour la pâtisserie.",
@@ -13266,21 +13099,14 @@
           "text": " (Tous sortent.",
           "textWithEmoji": " (Tous sortent.",
           "emojiWords": {}
-        },
-        {
-          "character": "CAPULET",
-          "text": ") Scène XXI La chambre à coucher de Juliette.",
-          "textWithEmoji": ") Scène XXI La chambre à coucher 🌇 de Juliette.",
-          "emojiWords": {
-            "coucher": "🌇"
-          }
-        },
-        {
-          "character": "CAPULET",
-          "text": " Entre la nourrice.",
-          "textWithEmoji": " Entre la nourrice.",
-          "emojiWords": {}
-        },
+        }
+      ]
+    },
+    {
+      "act": "I",
+      "scene": 22,
+      "sceneContext": "La chambre à coucher de Juliette. Entre la nourrice.\n \n ",
+      "dialogue": [
         {
           "character": "LA NOURRICE, appelant",
           "text": "Madame !",
@@ -14357,25 +14183,14 @@
           "text": " (Ils sortent.",
           "textWithEmoji": " (Ils sortent.",
           "emojiWords": {}
-        },
-        {
-          "character": "DEUXIÈME MUSICIEN",
-          "text": ") Scène XXII Mantoue.",
-          "textWithEmoji": ") Scène XXII Mantoue.",
-          "emojiWords": {}
-        },
-        {
-          "character": "DEUXIÈME MUSICIEN",
-          "text": " Une rue.",
-          "textWithEmoji": " Une rue.",
-          "emojiWords": {}
-        },
-        {
-          "character": "DEUXIÈME MUSICIEN",
-          "text": " Entre Roméo.",
-          "textWithEmoji": " Entre Roméo.",
-          "emojiWords": {}
-        },
+        }
+      ]
+    },
+    {
+      "act": "I",
+      "scene": 23,
+      "sceneContext": "Mantoue. Une rue. Entre Roméo.\n \n ",
+      "dialogue": [
         {
           "character": "ROMÉO",
           "text": "Si je puis me fier aux flatteuses assurances du sommeil, mes rêves m’annoncent l’arrivée de quelque joyeuse nouvelle.",
@@ -14756,19 +14571,14 @@
           "text": " Viens, cordial, viens avec moi au tombeau de Juliette; c’est là que tu dois me servir (Ils se séparent.",
           "textWithEmoji": " Viens, cordial, viens avec moi au tombeau de Juliette; c’est là que tu dois me servir (Ils se séparent.",
           "emojiWords": {}
-        },
-        {
-          "character": "L’APOTHICAIRE",
-          "text": ") Scène XXIII La cellule de Frère Laurence.",
-          "textWithEmoji": ") Scène XXIII La cellule de Frère Laurence.",
-          "emojiWords": {}
-        },
-        {
-          "character": "L’APOTHICAIRE",
-          "text": " Entre Frère Jean.",
-          "textWithEmoji": " Entre Frère Jean.",
-          "emojiWords": {}
-        },
+        }
+      ]
+    },
+    {
+      "act": "I",
+      "scene": 24,
+      "sceneContext": "La cellule de Frère Laurence. Entre Frère Jean.\n \n ",
+      "dialogue": [
         {
           "character": "JEAN",
           "text": "Saint franciscain !",
@@ -14898,23 +14708,14 @@
           "text": " (Il sort.",
           "textWithEmoji": " (Il sort.",
           "emojiWords": {}
-        },
-        {
-          "character": "LAURENCE",
-          "text": ") Scène XXIV Vérone Un cimetière au milieu duquel s’élève le tombeau des Capulets.",
-          "textWithEmoji": ") Scène XXIV Vérone Un cimetière au milieu duquel s’élève le tombeau des Capulets.",
-          "emojiWords": {}
-        },
-        {
-          "character": "LAURENCE",
-          "text": " Entre Paris suivi de son page qui porte une torche et des fleurs.",
-          "textWithEmoji": " Entre Paris suivi de son page 📄 qui porte 🚪 une torche 🔦 et des fleurs.",
-          "emojiWords": {
-            "page": "📄",
-            "porte": "🚪",
-            "torche": "🔦"
-          }
-        },
+        }
+      ]
+    },
+    {
+      "act": "I",
+      "scene": 25,
+      "sceneContext": "Vérone\nUn cimetière au milieu duquel s’élève le tombeau des Capulets.\nEntre Paris suivi de son page qui porte une torche et des fleurs.\n \n ",
+      "dialogue": [
         {
           "character": "PARIS",
           "text": "Page, donne-moi ta torche.",

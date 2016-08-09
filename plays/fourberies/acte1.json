@@ -54,6 +54,7 @@
     {
       "act": "I",
       "scene": 1,
+      "sceneContext": "OCTAVE, SILVESTRE.",
       "dialogue": [
         {
           "character": "OCTAVE",
@@ -296,6 +297,7 @@
     {
       "act": "I",
       "scene": 2,
+      "sceneContext": "SCAPIN, OCTAVE, SILVESTRE.",
       "dialogue": [
         {
           "character": "SCAPIN",
@@ -853,6 +855,7 @@
     {
       "act": "I",
       "scene": 3,
+      "sceneContext": "HYACINTE, OCTAVE, SCAPIN, SILVESTRE.",
       "dialogue": [
         {
           "character": "HYACINTE",
@@ -1360,6 +1363,7 @@
     {
       "act": "I",
       "scene": 4,
+      "sceneContext": "ARGANTE, SCAPIN, SILVESTRE.",
       "dialogue": [
         {
           "character": "ARGANTE",
@@ -2257,6 +2261,7 @@
     {
       "act": "I",
       "scene": 5,
+      "sceneContext": "SCAPIN, SILVESTRE.",
       "dialogue": [
         {
           "character": "SILVESTRE",

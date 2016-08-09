@@ -8,6 +8,7 @@
     {
       "act": "IV",
       "scene": 1,
+      "sceneContext": "DORANTE, DORIMÈNE, MONSIEUR JOURDAIN, DEUX MUSICIENS, UNE MUSICIENNE, LAQUAIS.\nDORIMÈNE.— Comment, Dorante, voilà un repas tout à fait magnifique !\nMONSIEUR JOURDAIN.— Vous vous moquez, Madame, et je voudrais qu’il fût plus digne de vous être offert.\nTous se mettent à table.\nDORANTE.— Monsieur Jourdain a raison, Madame, de parler de la sorte, et il m’oblige de vous faire si bien les honneurs de chez lui. Je demeure d’accord avec lui, que le repas n’est pas digne de vous. Comme c’est moi qui l’ai ordonné, et que je n’ai pas sur cette matière les lumières de nos amis, vous n’avez pas ici un repas fort savant, et vous y trouverez des incongruités de bonne chère, et des barbarismes de bon goût. Si Damis s’en était mêlé , tout serait dans les règles ; il y aurait partout de l’élégance et de l’érudition, et il ne manquerait pas de vous exagérer lui-même toutes les pièces du repas qu’il vous donnerait, et de vous faire tomber d’accord de sa haute capacité dans la science des bons morceaux ; de vous parler d’un pain de rive , à biseau doré, relevé de croûte partout, croquant tendrement sous la dent ; d’un vin à sève veloutée, armé d’un vert qui n’est point trop commandant ; d’un carré de mouton gourmandé de persil [1]  ; d’une longe de veau de rivière, longue comme cela, blanche, délicate, et qui sous les dents est une vraie pâte d’amande ; de perdrix relevées d’un fumet surprenant ; et pour son opéra [2] , d’une soupe à bouillon perlé, soutenue d’un jeune gros dindon, cantonné [3] de pigeonneaux, et couronnée d’oignons blancs, mariés avec la chicorée. Mais pour moi, je vous avoue mon ignorance ; et comme Monsieur Jourdain a fort bien dit, je voudrais que le repas fût plus digne de vous être offert.",
       "dialogue": [
         {
           "character": "DORIMÈNE",
@@ -258,6 +259,7 @@
     {
       "act": "IV",
       "scene": 2,
+      "sceneContext": "MADAME JOURDAIN, MONSIEUR JOURDAIN, DORIMÈNE, DORANTE, MUSICIENS, MUSICIENNE, LAQUAIS.",
       "dialogue": [
         {
           "character": "MADAME JOURDAIN",
@@ -451,6 +453,7 @@
     {
       "act": "IV",
       "scene": 3,
+      "sceneContext": "COVIELLE, déguisé en voyageur, MONSIEUR JOURDAIN, LAQUAIS.",
       "dialogue": [
         {
           "character": "COVIELLE",
@@ -1007,6 +1010,7 @@
     {
       "act": "IV",
       "scene": 4,
+      "sceneContext": "CLÉONTE en Turc, avec trois pages portant sa veste [12] , MONSIEUR JOURDAIN, COVIELLE déguisé.",
       "dialogue": [
         {
           "character": "CLÉONTE",
@@ -1107,6 +1111,7 @@
     {
       "act": "IV",
       "scene": 5,
+      "sceneContext": "DORANTE, COVIELLE.",
       "dialogue": [
         {
           "character": "COVIELLE",
