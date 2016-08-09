@@ -1,0 +1,89 @@
+{
+  "id": "romeo-et-juliette",
+  "title": "Roméo et Juliette",
+  "illustrationFile": "/play/romeo-et-juliette/illustration.png",
+  "characters": [
+    {
+      "selectable": true,
+      "name": "JULIETTE",
+      "desc": "Fille de Capulet."
+    },
+    {
+      "selectable": true,
+      "name": "ROMÉO",
+      "desc": "Fils de Montague."
+    },
+    {
+      "name": "MONTAGUE",
+      "desc": "Chef de la maison ennemie des Capulet."
+    },
+    {
+      "name": "CAPULET",
+      "desc": "Chef de la maison ennemie des Montague."
+    },
+    {
+      "name": "LADY MONTAGUE",
+      "desc": "Femme de Montague."
+    },
+    {
+      "name": "LADY CAPULET",
+      "desc": "Femme de Capulet."
+    },
+    {
+      "name": "LA NOURRICE",
+      "desc": "Nourrice de Juliette."
+    },
+    {
+      "name": "MERCUTIO",
+      "desc": "Parent du Prince et ami de Roméo."
+    },
+    {
+      "name": "BENVOLIO",
+      "desc": "Neveu de Montague et ami de Roméo."
+    },
+    {
+      "name": "TYBALT",
+      "desc": "Neveu de Lady Capulet."
+    },
+    {
+      "name": "LAURENCE",
+      "desc": "Moine franciscain."
+    },
+    {
+      "name": "SAMSON",
+      "desc": "Valet de Capulet."
+    },
+    {
+      "name": "GRÉGOIRE",
+      "desc": "Valet de Capulet."
+    },
+    {
+      "name": "BALTHAZAR",
+      "desc": "Page de Roméo."
+    },
+    {
+      "name": "ABRAHAM",
+      "desc": "Valet de Montague."
+    },
+    {
+      "name": "PIERRE",
+      "desc": "valet de la nourrice."
+    },
+    {
+      "name": "PARIS",
+      "desc": "Jeune seigneur."
+    },
+    {
+      "name": "LE PRINCE",
+      "desc": "Escalus, Prince de Vérone."
+    },
+    {
+      "name": "LE VIEILLARD",
+      "desc": "Oncle de Capulet."
+    },
+    {
+      "name": "JEAN",
+      "desc": "Frère Jean, Religieux franciscain."
+    }
+  ]
+}

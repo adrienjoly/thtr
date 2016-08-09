@@ -4,7 +4,7 @@ var fs = require('fs');
 var EmojiApplier = require('./EmojiApplier')
 
 const ACTOR_NAME = /^[^a-z0-9\.\,]{3,}/;
-const ACTOR_SPEECH = /\n([A-ZÉÈÊÎ’\' ]{3,}[^\.\n]+)(?:\n|\.\- )/; // TODO: add more accentuated chars.
+const ACTOR_SPEECH = /\n([A-ZÉÈÊÎŒ’\' ]{3,}[^\.\n]+)(?:\n|\.\- )/; // TODO: add more accentuated chars.
 
 const appendEmojiWords = item => Object.assign(item, {
   emojiWords: EmojiApplier.findEmojiWords(item.text)
