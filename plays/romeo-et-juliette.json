@@ -1,33 +1,37 @@
 {
   "id": "romeo-et-juliette",
-  "title": "Roméo et Juliette",
+  "title": "http://www.atramenta.net/lire/romeo-et-juliette/2124",
   "illustrationFile": "/play/romeo-et-juliette/illustration.png",
   "characters": [
     {
-      "selectable": true,
       "name": "JULIETTE",
-      "desc": "Fille de Capulet."
+      "desc": "Fille de Capulet.",
+      "avatarFile": "/play/romeo-et-juliette/avatars/juliette.png"
     },
     {
-      "selectable": true,
       "name": "ROMÉO",
-      "desc": "Fils de Montague."
+      "desc": "Fils de Montague.",
+      "avatarFile": "/play/romeo-et-juliette/avatars/romeo.png"
     },
     {
       "name": "MONTAGUE",
-      "desc": "Chef de la maison ennemie des Capulet."
+      "desc": "Chef de la maison ennemie des Capulet.",
+      "avatarFile": "/play/romeo-et-juliette/avatars/montague.png"
     },
     {
       "name": "CAPULET",
-      "desc": "Chef de la maison ennemie des Montague."
+      "desc": "Chef de la maison ennemie des Montague.",
+      "avatarFile": "/play/romeo-et-juliette/avatars/capulet.png"
     },
     {
       "name": "LADY MONTAGUE",
-      "desc": "Femme de Montague."
+      "desc": "Femme de Montague.",
+      "avatarFile": "/play/romeo-et-juliette/avatars/lady-montague.png"
     },
     {
       "name": "LADY CAPULET",
-      "desc": "Femme de Capulet."
+      "desc": "Femme de Capulet.",
+      "avatarFile": "/play/romeo-et-juliette/avatars/lady-capulet.png"
     },
     {
       "name": "LA NOURRICE",
@@ -35,47 +39,58 @@
     },
     {
       "name": "MERCUTIO",
-      "desc": "Parent du Prince et ami de Roméo."
+      "desc": "Parent du Prince et ami de Roméo.",
+      "avatarFile": "/play/romeo-et-juliette/avatars/mercutio.png"
     },
     {
       "name": "BENVOLIO",
-      "desc": "Neveu de Montague et ami de Roméo."
+      "desc": "Neveu de Montague et ami de Roméo.",
+      "avatarFile": "/play/romeo-et-juliette/avatars/benvolio.png"
     },
     {
       "name": "TYBALT",
-      "desc": "Neveu de Lady Capulet."
+      "desc": "Neveu de Lady Capulet.",
+      "avatarFile": "/play/romeo-et-juliette/avatars/tybalt.png"
     },
     {
       "name": "LAURENCE",
-      "desc": "Moine franciscain."
+      "desc": "Moine franciscain.",
+      "avatarFile": "/play/romeo-et-juliette/avatars/laurence.png"
     },
     {
       "name": "SAMSON",
-      "desc": "Valet de Capulet."
+      "desc": "Valet de Capulet.",
+      "avatarFile": "/play/romeo-et-juliette/avatars/samson.png"
     },
     {
       "name": "GRÉGOIRE",
-      "desc": "Valet de Capulet."
+      "desc": "Valet de Capulet.",
+      "avatarFile": "/play/romeo-et-juliette/avatars/gregoire.png"
     },
     {
       "name": "BALTHAZAR",
-      "desc": "Page de Roméo."
+      "desc": "Page de Roméo.",
+      "avatarFile": "/play/romeo-et-juliette/avatars/balthazar.png"
     },
     {
       "name": "ABRAHAM",
-      "desc": "Valet de Montague."
+      "desc": "Valet de Montague.",
+      "avatarFile": "/play/romeo-et-juliette/avatars/abraham.png"
     },
     {
       "name": "PIERRE",
-      "desc": "valet de la nourrice."
+      "desc": "valet de la nourrice.",
+      "avatarFile": "/play/romeo-et-juliette/avatars/pierre.png"
     },
     {
       "name": "PARIS",
-      "desc": "Jeune seigneur."
+      "desc": "Jeune seigneur.",
+      "avatarFile": "/play/romeo-et-juliette/avatars/paris.png"
     },
     {
       "name": "LE PRINCE",
-      "desc": "Escalus, Prince de Vérone."
+      "desc": "Escalus, Prince de Vérone.",
+      "avatarFile": "/play/romeo-et-juliette/avatars/le-prince.png"
     },
     {
       "name": "LE VIEILLARD",
@@ -83,7 +98,8 @@
     },
     {
       "name": "JEAN",
-      "desc": "Frère Jean, Religieux franciscain."
+      "desc": "Frère Jean, Religieux franciscain.",
+      "avatarFile": "/play/romeo-et-juliette/avatars/jean.png"
     }
   ]
 }
