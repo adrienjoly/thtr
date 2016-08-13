@@ -1,14 +1,16 @@
 {
   "id": "romeo-et-juliette",
-  "title": "http://www.atramenta.net/lire/romeo-et-juliette/2124",
+  "title": "Roméo et Juliette",
   "illustrationFile": "/play/romeo-et-juliette/illustration.png",
   "characters": [
     {
+      "selectable": true,
       "name": "JULIETTE",
       "desc": "Fille de Capulet.",
       "avatarFile": "/play/romeo-et-juliette/avatars/juliette.png"
     },
     {
+      "selectable": true,
       "name": "ROMÉO",
       "desc": "Fils de Montague.",
       "avatarFile": "/play/romeo-et-juliette/avatars/romeo.png"
