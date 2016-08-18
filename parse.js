@@ -69,7 +69,7 @@ function parseText(text) {
         context.push('Autres personnages présents: ' + l);
       } else {
         characters.push({
-          name: name,
+          name: name.replace(/\.$/, ''),
           desc: desc.join(', ')
         });
       }
@@ -87,9 +87,12 @@ function parseText(text) {
     var characters = all.filter((a, i) => (i + 1) % 2);
     var speech = all.filter((a, i) => i % 2);
     var dialogue = subDivideIntoSentences(characters.filter(a => !!a).map((a, i) => {
+      var localContext = a.split(',');
+      var character = localContext[0].replace(/\.$/, '');
+      var text = (localContext[1] ? '(' + localContext[1].trim() + ') ' : '') + speech[i];
       return {
-        character: a,
-        text: speech[i]
+        character: character,
+        text: text
       };
     }))
     return {
