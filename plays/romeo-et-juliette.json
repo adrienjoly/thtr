@@ -102,6 +102,11 @@
       "name": "JEAN",
       "desc": "Frère Jean, Religieux franciscain.",
       "avatarFile": "/play/romeo-et-juliette/avatars/jean.png"
+    },
+    {
+      "name": "Chœur",
+      "desc": "",
+      "avatarFile": "/play/romeo-et-juliette/avatars/le-choeur.png"
     }
   ]
 }
