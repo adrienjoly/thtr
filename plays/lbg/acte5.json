@@ -227,9 +227,9 @@
           "emojiWords": {}
         },
         {
-          "character": "MONSIEUR JOURDAIN, sortant [3] ",
-          "text": "Paix, insolente, portez respect à Monsieur le Mamamouchi.",
-          "textWithEmoji": "Paix, insolente, portez respect à Monsieur le Mamamouchi.",
+          "character": "MONSIEUR JOURDAIN",
+          "text": "(sortant ) Paix, insolente, portez respect à Monsieur le Mamamouchi.",
+          "textWithEmoji": "(sortant ) Paix, insolente, portez respect à Monsieur le Mamamouchi.",
           "emojiWords": {}
         },
         {
@@ -382,9 +382,9 @@
           }
         },
         {
-          "character": "MONSIEUR JOURDAIN, après avoir fait les révérences à la turque [7] ",
-          "text": "Monsieur, je vous souhaite la force des serpents, et la prudence des lions.",
-          "textWithEmoji": "Monsieur, je vous souhaite la force des serpents, et la prudence des lions.",
+          "character": "MONSIEUR JOURDAIN",
+          "text": "(après avoir fait les révérences à la turque ) Monsieur, je vous souhaite la force des serpents, et la prudence des lions.",
+          "textWithEmoji": "(après avoir fait les révérences à la turque ) Monsieur, je vous souhaite la force des serpents, et la prudence des lions.",
           "emojiWords": {}
         },
         {
@@ -1052,15 +1052,15 @@
           "emojiWords": {}
         },
         {
-          "character": "COVIELLE, à part",
-          "text": "Il y a une heure, Madame, que nous vous faisons signe.",
-          "textWithEmoji": "Il y a une heure, Madame, que nous vous faisons signe ⚡.",
+          "character": "COVIELLE",
+          "text": "(à part) Il y a une heure, Madame, que nous vous faisons signe.",
+          "textWithEmoji": "(à part) Il y a une heure, Madame, que nous vous faisons signe ⚡.",
           "emojiWords": {
             "signe": "⚡"
           }
         },
         {
-          "character": "COVIELLE, à part",
+          "character": "COVIELLE",
           "text": " Ne voyez-vous pas bien que tout ceci n’est fait que pour nous ajuster aux visions de votre mari, que nous l’abusons sous ce déguisement, et que c’est Cléonte lui-même qui est le fils du Grand Turc ?",
           "textWithEmoji": " Ne voyez-vous pas bien que tout ceci n’est fait que pour nous ajuster aux visions de votre mari, que nous l’abusons sous ce déguisement, et que c’est Cléonte lui-même qui est le fils du Grand Turc ?",
           "emojiWords": {}

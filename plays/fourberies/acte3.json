@@ -416,15 +416,15 @@
           }
         },
         {
-          "character": "GÉRONTE, en tremblant",
-          "text": "Eh ?",
-          "textWithEmoji": "Eh ?",
+          "character": "GÉRONTE",
+          "text": "(en tremblant) Eh ?",
+          "textWithEmoji": "(en tremblant) Eh ?",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, en revenant",
-          "text": "Non, non, non, ce n’est rien.",
-          "textWithEmoji": "Non, non, non, ce n’est rien.",
+          "character": "SCAPIN",
+          "text": "(en revenant) Non, non, non, ce n’est rien.",
+          "textWithEmoji": "(en revenant) Non, non, non, ce n’est rien.",
           "emojiWords": {}
         },
         {
@@ -490,9 +490,9 @@
           }
         },
         {
-          "character": "GÉRONTE, croyant voir quelqu’un",
-          "text": "Ah !",
-          "textWithEmoji": "Ah !",
+          "character": "GÉRONTE",
+          "text": "(croyant voir quelqu’un) Ah !",
+          "textWithEmoji": "(croyant voir quelqu’un) Ah !",
           "emojiWords": {}
         },
         {
@@ -872,9 +872,9 @@
           "emojiWords": {}
         },
         {
-          "character": "GÉRONTE, mettant la tête hors du sac",
-          "text": "Ah, Scapin, je n’en puis plus.",
-          "textWithEmoji": "Ah, Scapin, je n’en puis plus.",
+          "character": "GÉRONTE",
+          "text": "(mettant la tête hors du sac) Ah, Scapin, je n’en puis plus.",
+          "textWithEmoji": "(mettant la tête hors du sac) Ah, Scapin, je n’en puis plus.",
           "emojiWords": {}
         },
         {
@@ -1175,13 +1175,13 @@
           "emojiWords": {}
         },
         {
-          "character": "GÉRONTE, sortant sa tête du sac",
-          "text": "Ah !",
-          "textWithEmoji": "Ah !",
+          "character": "GÉRONTE",
+          "text": "(sortant sa tête du sac) Ah !",
+          "textWithEmoji": "(sortant sa tête du sac) Ah !",
           "emojiWords": {}
         },
         {
-          "character": "GÉRONTE, sortant sa tête du sac",
+          "character": "GÉRONTE",
           "text": " je suis roué.",
           "textWithEmoji": " je suis roué.",
           "emojiWords": {}
@@ -1205,15 +1205,15 @@
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
-          "text": "Prenez garde, voici une demi-douzaine de soldats tout ensemble.",
-          "textWithEmoji": "Prenez garde 💂, voici une demi-douzaine de soldats tout ensemble.",
+          "character": "SCAPIN",
+          "text": "(lui remettant sa tête dans le sac) Prenez garde, voici une demi-douzaine de soldats tout ensemble.",
+          "textWithEmoji": "(lui remettant sa tête dans le sac) Prenez garde 💂, voici une demi-douzaine de soldats tout ensemble.",
           "emojiWords": {
             "garde": "💂"
           }
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " (Il contrefait plusieurs personnes ensemble.",
           "textWithEmoji": " (Il contrefait plusieurs 🎶 personnes ensemble.",
           "emojiWords": {
@@ -1221,13 +1221,13 @@
           }
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": ") \"Allons, tâchons à trouver ce Géronte, cherchons partout.",
           "textWithEmoji": ") \"Allons, tâchons à trouver ce Géronte, cherchons partout.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " N’épargnons point nos pas.",
           "textWithEmoji": " N’épargnons point ‼ nos pas.",
           "emojiWords": {
@@ -1235,91 +1235,91 @@
           }
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " Courons toute la ville.",
           "textWithEmoji": " Courons toute la ville.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " N’oublions aucun lieu.",
           "textWithEmoji": " N’oublions aucun lieu.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " Visitons tout.",
           "textWithEmoji": " Visitons tout.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " Furetons de tous les côtés.",
           "textWithEmoji": " Furetons de tous les côtés.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " Par où irons-nous ?",
           "textWithEmoji": " Par où irons-nous ?",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " Tournons par là.",
           "textWithEmoji": " Tournons par là.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " Non, par Ici.",
           "textWithEmoji": " Non, par Ici.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " À gauche.",
           "textWithEmoji": " À gauche.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " À droit.",
           "textWithEmoji": " À droit.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " Nenni.",
           "textWithEmoji": " Nenni.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " Si fait.",
           "textWithEmoji": " Si fait.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": "\" Cachez-vous bien.",
           "textWithEmoji": "\" Cachez-vous bien.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " \"Ah, camarades, voici son valet.",
           "textWithEmoji": " \"Ah, camarades, voici son valet.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " Allons, coquin, il faut que tu nous enseignes où est ton maître.",
           "textWithEmoji": " Allons, coquin, il faut que tu nous enseignes où est ton maître.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": "\" Eh, Messieurs, ne me maltraitez point.",
           "textWithEmoji": "\" Eh, Messieurs, ne me maltraitez point ‼.",
           "emojiWords": {
@@ -1327,49 +1327,49 @@
           }
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " \"Allons, dis-nous où il est.",
           "textWithEmoji": " \"Allons, dis-nous où il est.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " Parle.",
           "textWithEmoji": " Parle.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " Hâte-toi.",
           "textWithEmoji": " Hâte-toi.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " Expédions.",
           "textWithEmoji": " Expédions.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " Dépêche vite.",
           "textWithEmoji": " Dépêche vite.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " Tôt.",
           "textWithEmoji": " Tôt.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": "\" Eh, Messieurs, doucement.",
           "textWithEmoji": "\" Eh, Messieurs, doucement.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " (Géronte met doucement la tête hors du sac, et aperçoit la fourberie de Scapin.",
           "textWithEmoji": " (Géronte met doucement la tête hors du sac 👜, et aperçoit la fourberie de Scapin.",
           "emojiWords": {
@@ -1377,37 +1377,37 @@
           }
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": ") \"Si tu ne nous fais trouver ton maître tout à l’heure, nous allons faire pleuvoir sur toi une ondée de coups de bâton.",
           "textWithEmoji": ") \"Si tu ne nous fais trouver ton maître tout à l’heure, nous allons faire pleuvoir sur toi une ondée de coups de bâton.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": "\" J’aime mieux souffrir toute chose que de vous découvrir mon maître.",
           "textWithEmoji": "\" J’aime mieux souffrir toute chose que de vous découvrir mon maître.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " \"Nous allons t’assommer.",
           "textWithEmoji": " \"Nous allons t’assommer.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": "\" Faites tout ce qu’il vous plaira.",
           "textWithEmoji": "\" Faites tout ce qu’il vous plaira.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " \"Tu as envie d’être battu.",
           "textWithEmoji": " \"Tu as envie d’être battu.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": "\" Je ne trahirai point mon maître.",
           "textWithEmoji": "\" Je ne trahirai point ‼ mon maître.",
           "emojiWords": {
@@ -1415,25 +1415,25 @@
           }
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " \"Ah !",
           "textWithEmoji": " \"Ah !",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " tu en veux tâter ?",
           "textWithEmoji": " tu en veux tâter ?",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": "\" Oh !",
           "textWithEmoji": "\" Oh !",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, lui remettant sa tête dans le sac",
+          "character": "SCAPIN",
           "text": " Comme il est prêt de frapper, Géronte sort du sac, et Scapin s’enfuit.",
           "textWithEmoji": " Comme il est prêt de frapper, Géronte sort du sac 👜, et Scapin s’enfuit.",
           "emojiWords": {
@@ -2165,9 +2165,9 @@
           "emojiWords": {}
         },
         {
-          "character": "NÉRINE, se jetant à ses genoux",
-          "text": "Ah, seigneur Pandolphe, que...",
-          "textWithEmoji": "Ah, seigneur Pandolphe, que...",
+          "character": "NÉRINE",
+          "text": "(se jetant à ses genoux) Ah, seigneur Pandolphe, que...",
+          "textWithEmoji": "(se jetant à ses genoux) Ah, seigneur Pandolphe, que...",
           "emojiWords": {}
         },
         {
@@ -2412,16 +2412,16 @@
           "emojiWords": {}
         },
         {
-          "character": "OCTAVE, sans voir Hyacinte",
-          "text": "Non, mon père, toutes vos propositions de mariage ne serviront de rien.",
-          "textWithEmoji": "Non, mon père 🎅, toutes vos propositions de mariage 💒 ne serviront de rien.",
+          "character": "OCTAVE",
+          "text": "(sans voir Hyacinte) Non, mon père, toutes vos propositions de mariage ne serviront de rien.",
+          "textWithEmoji": "(sans voir Hyacinte) Non, mon père 🎅, toutes vos propositions de mariage 💒 ne serviront de rien.",
           "emojiWords": {
             "père": "🎅",
             "mariage": "💒"
           }
         },
         {
-          "character": "OCTAVE, sans voir Hyacinte",
+          "character": "OCTAVE",
           "text": " Je dois lever le masque avec vous, et l’on vous a dit mon engagement.",
           "textWithEmoji": " Je dois lever 🌄 le masque avec vous, et l’on vous a dit mon engagement.",
           "emojiWords": {
@@ -2746,43 +2746,45 @@
       "sceneContext": "SCAPIN, CARLE, GÉRONTE, ARGANTE, etc.",
       "dialogue": [
         {
-          "character": "SCAPIN, apporté par deux hommes, et la tête entourée de linges, comme s’il avait été blessé",
-          "text": "Ahi, ahi.",
-          "textWithEmoji": "Ahi, ahi.",
-          "emojiWords": {}
+          "character": "SCAPIN",
+          "text": "(apporté par deux hommes) Ahi, ahi.",
+          "textWithEmoji": "(apporté par deux 👬 hommes) Ahi, ahi.",
+          "emojiWords": {
+            "deux": "👬"
+          }
         },
         {
-          "character": "SCAPIN, apporté par deux hommes, et la tête entourée de linges, comme s’il avait été blessé",
+          "character": "SCAPIN",
           "text": " Messieurs, vous me voyez...",
           "textWithEmoji": " Messieurs, vous me voyez...",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, apporté par deux hommes, et la tête entourée de linges, comme s’il avait été blessé",
+          "character": "SCAPIN",
           "text": " Ahi, vous me voyez dans un étrange état.",
           "textWithEmoji": " Ahi, vous me voyez dans un étrange état.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, apporté par deux hommes, et la tête entourée de linges, comme s’il avait été blessé",
+          "character": "SCAPIN",
           "text": " Ahi.",
           "textWithEmoji": " Ahi.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, apporté par deux hommes, et la tête entourée de linges, comme s’il avait été blessé",
+          "character": "SCAPIN",
           "text": " Je n’ai pas voulu mourir, sans venir demander pardon à toutes les personnes que je puis avoir offensées.",
           "textWithEmoji": " Je n’ai pas voulu mourir, sans venir demander pardon à toutes les personnes que je puis avoir offensées.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, apporté par deux hommes, et la tête entourée de linges, comme s’il avait été blessé",
+          "character": "SCAPIN",
           "text": " Ahi.",
           "textWithEmoji": " Ahi.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, apporté par deux hommes, et la tête entourée de linges, comme s’il avait été blessé",
+          "character": "SCAPIN",
           "text": " Oui, messieurs, avant que de rendre le dernier soupir, je vous conjure de tout mon cœur, de vouloir me pardonner tout ce que je puis vous avoir fait, et principalement le seigneur Argante, et le seigneur Géronte.",
           "textWithEmoji": " Oui, messieurs, avant que de rendre le dernier soupir, je vous conjure de tout mon cœur 💛, de vouloir me pardonner tout ce que je puis vous avoir fait, et principalement le seigneur Argante, et le seigneur Géronte.",
           "emojiWords": {
@@ -2790,7 +2792,7 @@
           }
         },
         {
-          "character": "SCAPIN, apporté par deux hommes, et la tête entourée de linges, comme s’il avait été blessé",
+          "character": "SCAPIN",
           "text": " Ahi.",
           "textWithEmoji": " Ahi.",
           "emojiWords": {}

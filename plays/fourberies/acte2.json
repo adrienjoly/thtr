@@ -231,13 +231,13 @@
           "emojiWords": {}
         },
         {
-          "character": "LÉANDRE, en courant à lui pour l’embrasser",
-          "text": "Ah !",
-          "textWithEmoji": "Ah !",
+          "character": "LÉANDRE",
+          "text": "(en courant à lui pour l’embrasser) Ah !",
+          "textWithEmoji": "(en courant à lui pour l’embrasser) Ah !",
           "emojiWords": {}
         },
         {
-          "character": "LÉANDRE, en courant à lui pour l’embrasser",
+          "character": "LÉANDRE",
           "text": " mon père, que j’ai de joie de vous voir de retour !",
           "textWithEmoji": " mon père 🎅, que j’ai de joie de vous voir de retour !",
           "emojiWords": {
@@ -245,13 +245,13 @@
           }
         },
         {
-          "character": "GÉRONTE, refusant de l’embrasser",
-          "text": "Doucement.",
-          "textWithEmoji": "Doucement.",
+          "character": "GÉRONTE",
+          "text": "(refusant de l’embrasser) Doucement.",
+          "textWithEmoji": "(refusant de l’embrasser) Doucement.",
           "emojiWords": {}
         },
         {
-          "character": "GÉRONTE, refusant de l’embrasser",
+          "character": "GÉRONTE",
           "text": " Parlons un peu d’affaire.",
           "textWithEmoji": " Parlons un peu d’affaire.",
           "emojiWords": {}
@@ -263,9 +263,9 @@
           "emojiWords": {}
         },
         {
-          "character": "GÉRONTE, le repoussant encore",
-          "text": "Doucement, vous dis-je.",
-          "textWithEmoji": "Doucement, vous dis-je.",
+          "character": "GÉRONTE",
+          "text": "(le repoussant encore) Doucement, vous dis-je.",
+          "textWithEmoji": "(le repoussant encore) Doucement, vous dis-je.",
           "emojiWords": {}
         },
         {
@@ -513,33 +513,33 @@
           "emojiWords": {}
         },
         {
-          "character": "LÉANDRE, en mettant l’épée à la main",
-          "text": "Vous faites le méchant plaisant.",
-          "textWithEmoji": "Vous faites le méchant plaisant.",
+          "character": "LÉANDRE",
+          "text": "(en mettant l’épée à la main) Vous faites le méchant plaisant.",
+          "textWithEmoji": "(en mettant l’épée à la main) Vous faites le méchant plaisant.",
           "emojiWords": {}
         },
         {
-          "character": "LÉANDRE, en mettant l’épée à la main",
+          "character": "LÉANDRE",
           "text": " Ah !",
           "textWithEmoji": " Ah !",
           "emojiWords": {}
         },
         {
-          "character": "LÉANDRE, en mettant l’épée à la main",
+          "character": "LÉANDRE",
           "text": " je vous apprendrai...",
           "textWithEmoji": " je vous apprendrai...",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, se mettant à genoux",
-          "text": "Monsieur.",
-          "textWithEmoji": "Monsieur.",
+          "character": "SCAPIN",
+          "text": "(se mettant à genoux) Monsieur.",
+          "textWithEmoji": "(se mettant à genoux) Monsieur.",
           "emojiWords": {}
         },
         {
-          "character": "OCTAVE, se mettant entre-deux, pour empêcher Léandre de le frapper",
-          "text": "Ah, Léandre.",
-          "textWithEmoji": "Ah, Léandre.",
+          "character": "OCTAVE",
+          "text": "(se mettant entre-deux) Ah, Léandre.",
+          "textWithEmoji": "(se mettant entre-deux) Ah, Léandre.",
           "emojiWords": {}
         },
         {
@@ -557,15 +557,15 @@
           "emojiWords": {}
         },
         {
-          "character": "OCTAVE, le retenant",
-          "text": "De grâce.",
-          "textWithEmoji": "De grâce.",
+          "character": "OCTAVE",
+          "text": "(le retenant) De grâce.",
+          "textWithEmoji": "(le retenant) De grâce.",
           "emojiWords": {}
         },
         {
-          "character": "LÉANDRE, voulant frapper Scapin",
-          "text": "Laissez-moi contenter mon ressentiment.",
-          "textWithEmoji": "Laissez-moi contenter mon ressentiment.",
+          "character": "LÉANDRE",
+          "text": "(voulant frapper Scapin) Laissez-moi contenter mon ressentiment.",
+          "textWithEmoji": "(voulant frapper Scapin) Laissez-moi contenter mon ressentiment.",
           "emojiWords": {}
         },
         {
@@ -583,15 +583,15 @@
           "emojiWords": {}
         },
         {
-          "character": "LÉANDRE, voulant le frapper",
-          "text": "Ce que tu m’as fait, traître ?",
-          "textWithEmoji": "Ce que tu m’as fait, traître ?",
+          "character": "LÉANDRE",
+          "text": "(voulant le frapper) Ce que tu m’as fait, traître ?",
+          "textWithEmoji": "(voulant le frapper) Ce que tu m’as fait, traître ?",
           "emojiWords": {}
         },
         {
-          "character": "OCTAVE, le retenant",
-          "text": "Eh doucement.",
-          "textWithEmoji": "Eh doucement.",
+          "character": "OCTAVE",
+          "text": "(le retenant) Eh doucement.",
+          "textWithEmoji": "(le retenant) Eh doucement.",
           "emojiWords": {}
         },
         {
@@ -645,15 +645,15 @@
           "emojiWords": {}
         },
         {
-          "character": "LÉANDRE, s’avançant pour le frapper",
-          "text": "Tu l’ignores !",
-          "textWithEmoji": "Tu l’ignores !",
+          "character": "LÉANDRE",
+          "text": "(s’avançant pour le frapper) Tu l’ignores !",
+          "textWithEmoji": "(s’avançant pour le frapper) Tu l’ignores !",
           "emojiWords": {}
         },
         {
-          "character": "OCTAVE, le retenant",
-          "text": "Léandre.",
-          "textWithEmoji": "Léandre.",
+          "character": "OCTAVE",
+          "text": "(le retenant) Léandre.",
+          "textWithEmoji": "(le retenant) Léandre.",
           "emojiWords": {}
         },
         {
@@ -705,9 +705,9 @@
           "emojiWords": {}
         },
         {
-          "character": "LÉANDRE, le voulant frapper",
-          "text": "Tu ne veux pas parler ?",
-          "textWithEmoji": "Tu ne veux pas parler ?",
+          "character": "LÉANDRE",
+          "text": "(le voulant frapper) Tu ne veux pas parler ?",
+          "textWithEmoji": "(le voulant frapper) Tu ne veux pas parler ?",
           "emojiWords": {}
         },
         {
@@ -717,9 +717,9 @@
           "emojiWords": {}
         },
         {
-          "character": "OCTAVE, le retenant",
-          "text": "Tout doux.",
-          "textWithEmoji": "Tout doux.",
+          "character": "OCTAVE",
+          "text": "(le retenant) Tout doux.",
+          "textWithEmoji": "(le retenant) Tout doux.",
           "emojiWords": {}
         },
         {
@@ -801,15 +801,15 @@
           "emojiWords": {}
         },
         {
-          "character": "LÉANDRE, voulant frapper Scapin",
-          "text": "Voilà tout ?",
-          "textWithEmoji": "Voilà tout ?",
+          "character": "LÉANDRE",
+          "text": "(voulant frapper Scapin) Voilà tout ?",
+          "textWithEmoji": "(voulant frapper Scapin) Voilà tout ?",
           "emojiWords": {}
         },
         {
-          "character": "OCTAVE, se mettant au-devant",
-          "text": "Eh.",
-          "textWithEmoji": "Eh.",
+          "character": "OCTAVE",
+          "text": "(se mettant au-devant) Eh.",
+          "textWithEmoji": "(se mettant au-devant) Eh.",
           "emojiWords": {}
         },
         {
@@ -982,19 +982,19 @@
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, passant devant lui avec un air fier",
-          "text": "\"Ah !",
-          "textWithEmoji": "\"Ah !",
+          "character": "SCAPIN",
+          "text": "(passant devant lui avec un air fier) \"Ah !",
+          "textWithEmoji": "(passant devant lui avec un air fier) \"Ah !",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, passant devant lui avec un air fier",
+          "character": "SCAPIN",
           "text": " mon pauvre Scapin.",
           "textWithEmoji": " mon pauvre Scapin.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, passant devant lui avec un air fier",
+          "character": "SCAPIN",
           "text": "\" Je suis \"mon pauvre Scapin\" à cette heure qu’on a besoin de moi.",
           "textWithEmoji": "\" Je suis \"mon pauvre Scapin\" à cette heure qu’on a besoin de moi.",
           "emojiWords": {}
@@ -1813,9 +1813,9 @@
           "emojiWords": {}
         },
         {
-          "character": "ARGANTE, se promenant en colère le long du théâtre",
-          "text": "Allons, allons, nous plaiderons.",
-          "textWithEmoji": "Allons, allons, nous plaiderons.",
+          "character": "ARGANTE",
+          "text": "(se promenant en colère le long du théâtre) Allons, allons, nous plaiderons.",
+          "textWithEmoji": "(se promenant en colère le long du théâtre) Allons, allons, nous plaiderons.",
           "emojiWords": {}
         },
         {
@@ -2075,19 +2075,19 @@
           "emojiWords": {}
         },
         {
-          "character": "SILVESTRE, lui prend rudement la main",
-          "text": "Touchez là.",
-          "textWithEmoji": "Touchez là.",
+          "character": "SILVESTRE",
+          "text": "(lui prend rudement la main) Touchez là.",
+          "textWithEmoji": "(lui prend rudement la main) Touchez là.",
           "emojiWords": {}
         },
         {
-          "character": "SILVESTRE, lui prend rudement la main",
+          "character": "SILVESTRE",
           "text": " Touchez.",
           "textWithEmoji": " Touchez.",
           "emojiWords": {}
         },
         {
-          "character": "SILVESTRE, lui prend rudement la main",
+          "character": "SILVESTRE",
           "text": " Je vous donne ma parole, et vous jure sur mon honneur, par l’épée que je porte, par tous les serments que je saurais faire, qu’avant la fin du jour je vous déferai de ce maraud fieffé, de ce faquin d’Argante.",
           "textWithEmoji": " Je vous donne ma parole, et vous jure sur mon honneur, par l’épée que je porte 🚪, par tous les serments que je saurais faire, qu’avant la fin 🔚 du jour je vous déferai de ce maraud fieffé, de ce faquin d’Argante.",
           "emojiWords": {
@@ -2096,7 +2096,7 @@
           }
         },
         {
-          "character": "SILVESTRE, lui prend rudement la main",
+          "character": "SILVESTRE",
           "text": " Reposez-vous sur moi.",
           "textWithEmoji": " Reposez-vous sur moi.",
           "emojiWords": {}
@@ -2287,9 +2287,9 @@
           "emojiWords": {}
         },
         {
-          "character": "ARGANTE, tout tremblant",
-          "text": "Scapin.",
-          "textWithEmoji": "Scapin.",
+          "character": "ARGANTE",
+          "text": "(tout tremblant) Scapin.",
+          "textWithEmoji": "(tout tremblant) Scapin.",
           "emojiWords": {}
         },
         {
@@ -2911,13 +2911,13 @@
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, en lui rendant la clef",
-          "text": "Eh, Monsieur, rêvez-vous ?",
-          "textWithEmoji": "Eh, Monsieur, rêvez-vous ?",
+          "character": "SCAPIN",
+          "text": "(en lui rendant la clef) Eh, Monsieur, rêvez-vous ?",
+          "textWithEmoji": "(en lui rendant la clef) Eh, Monsieur, rêvez-vous ?",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, en lui rendant la clef",
+          "character": "SCAPIN",
           "text": " Je n’aurais pas cent francs de tout ce que vous dites; et de plus, vous savez le peu de temps qu’on m’a donné.",
           "textWithEmoji": " Je n’aurais pas cent francs de tout ce que vous dites; et de plus, vous savez le peu de temps qu’on m’a donné.",
           "emojiWords": {}
@@ -3147,15 +3147,15 @@
           "emojiWords": {}
         },
         {
-          "character": "GÉRONTE, remet la bourse dans sa poche, et s’en va",
-          "text": "Va, va vite requérir mon fils.",
-          "textWithEmoji": "Va, va vite requérir mon fils.",
+          "character": "GÉRONTE",
+          "text": "(remet la bourse dans sa poche) Va, va vite requérir mon fils.",
+          "textWithEmoji": "(remet la bourse dans sa poche) Va, va vite requérir mon fils.",
           "emojiWords": {}
         },
         {
-          "character": "SCAPIN, allant après lui",
-          "text": "Holà, Monsieur.",
-          "textWithEmoji": "Holà, Monsieur.",
+          "character": "SCAPIN",
+          "text": "(allant après lui) Holà, Monsieur.",
+          "textWithEmoji": "(allant après lui) Holà, Monsieur.",
           "emojiWords": {}
         },
         {

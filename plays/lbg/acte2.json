@@ -343,19 +343,19 @@
       "sceneContext": "MAÎTRE D’ARMES, MAÎTRE DE MUSIQUE, MAÎTRE À DANSER, MONSIEUR JOURDAIN, DEUX LAQUAIS.",
       "dialogue": [
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
-          "text": "Allons, Monsieur, la révérence.",
-          "textWithEmoji": "Allons, Monsieur, la révérence.",
+          "character": "MAÎTRE D’ARMES",
+          "text": "(après lui avoir mis le fleuret à la main) Allons, Monsieur, la révérence.",
+          "textWithEmoji": "(après lui avoir mis le fleuret à la main) Allons, Monsieur, la révérence.",
           "emojiWords": {}
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " Votre corps droit.",
           "textWithEmoji": " Votre corps droit.",
           "emojiWords": {}
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " Un peu penché sur la cuisse gauche.",
           "textWithEmoji": " Un peu penché sur la cuisse 🍗 gauche.",
           "emojiWords": {
@@ -363,7 +363,7 @@
           }
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " Les jambes point tant écartées.",
           "textWithEmoji": " Les jambes point ‼ tant écartées.",
           "emojiWords": {
@@ -371,31 +371,31 @@
           }
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " Vos pieds sur une même ligne.",
           "textWithEmoji": " Vos pieds sur une même ligne.",
           "emojiWords": {}
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " Votre poignet à l’opposite de votre hanche.",
           "textWithEmoji": " Votre poignet à l’opposite de votre hanche.",
           "emojiWords": {}
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " La pointe de votre épée vis-à-vis de votre épaule.",
           "textWithEmoji": " La pointe de votre épée vis-à-vis de votre épaule.",
           "emojiWords": {}
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " Le bras pas tout à fait si étendu.",
           "textWithEmoji": " Le bras pas tout à fait si étendu.",
           "emojiWords": {}
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " La main gauche à la hauteur de l’œil.",
           "textWithEmoji": " La main ✋ gauche à la hauteur de l’œil.",
           "emojiWords": {
@@ -403,43 +403,43 @@
           }
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " L’épaule gauche plus quartée [i].",
           "textWithEmoji": " L’épaule gauche plus quartée [i].",
           "emojiWords": {}
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " La tête droite.",
           "textWithEmoji": " La tête droite.",
           "emojiWords": {}
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " Le regard assuré.",
           "textWithEmoji": " Le regard assuré.",
           "emojiWords": {}
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " Avancez.",
           "textWithEmoji": " Avancez.",
           "emojiWords": {}
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " Le corps ferme.",
           "textWithEmoji": " Le corps ferme.",
           "emojiWords": {}
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " Touchez-moi l’épée de quarte, et achevez de même.",
           "textWithEmoji": " Touchez-moi l’épée de quarte, et achevez de même.",
           "emojiWords": {}
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " Une, deux.",
           "textWithEmoji": " Une, deux 👬.",
           "emojiWords": {
@@ -447,19 +447,19 @@
           }
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " Remettez-vous.",
           "textWithEmoji": " Remettez-vous.",
           "emojiWords": {}
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " Redoublez de pied ferme.",
           "textWithEmoji": " Redoublez de pied ferme.",
           "emojiWords": {}
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " Un saut en arrière.",
           "textWithEmoji": " Un saut en arrière 🔙.",
           "emojiWords": {
@@ -467,13 +467,13 @@
           }
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " Quand vous portez la botte, Monsieur, il faut que l’épée parte la première, et que le corps soit bien effacé.",
           "textWithEmoji": " Quand vous portez la botte, Monsieur, il faut que l’épée parte la première, et que le corps soit bien effacé.",
           "emojiWords": {}
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " Une, deux.",
           "textWithEmoji": " Une, deux 👬.",
           "emojiWords": {
@@ -481,37 +481,37 @@
           }
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " Allons, touchez-moi l’épée de tierce, et achevez de même.",
           "textWithEmoji": " Allons, touchez-moi l’épée de tierce, et achevez de même.",
           "emojiWords": {}
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " Avancez.",
           "textWithEmoji": " Avancez.",
           "emojiWords": {}
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " Le corps ferme.",
           "textWithEmoji": " Le corps ferme.",
           "emojiWords": {}
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " Avancez.",
           "textWithEmoji": " Avancez.",
           "emojiWords": {}
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " Partez de là.",
           "textWithEmoji": " Partez de là.",
           "emojiWords": {}
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " Une, deux.",
           "textWithEmoji": " Une, deux 👬.",
           "emojiWords": {
@@ -519,19 +519,19 @@
           }
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " Remettez-vous.",
           "textWithEmoji": " Remettez-vous.",
           "emojiWords": {}
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " Redoublez.",
           "textWithEmoji": " Redoublez.",
           "emojiWords": {}
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " Un saut en arrière.",
           "textWithEmoji": " Un saut en arrière 🔙.",
           "emojiWords": {
@@ -539,7 +539,7 @@
           }
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " En garde, Monsieur, en garde.",
           "textWithEmoji": " En garde 💂, Monsieur, en garde 💂.",
           "emojiWords": {
@@ -547,7 +547,7 @@
           }
         },
         {
-          "character": "MAÎTRE D’ARMES, après lui avoir mis le fleuret à la main",
+          "character": "MAÎTRE D’ARMES",
           "text": " Le Maître d’armes lui pousse deux ou trois bottes, en lui disant, \"En garde\".",
           "textWithEmoji": " Le Maître d’armes lui pousse deux 👬 ou trois bottes 👢, en lui disant, \"En garde\".",
           "emojiWords": {
@@ -670,9 +670,9 @@
           "emojiWords": {}
         },
         {
-          "character": "MONSIEUR JOURDAIN, au Maître à danser",
-          "text": "Ètes-vous fou de l’aller quereller, lui qui entend la tierce et la quarte, et qui sait tuer un homme par raison démonstrative ?",
-          "textWithEmoji": "Ètes-vous fou de l’aller quereller, lui qui entend la tierce et la quarte, et qui sait tuer un homme 👲 par raison démonstrative ?",
+          "character": "MONSIEUR JOURDAIN",
+          "text": "(au Maître à danser) Ètes-vous fou de l’aller quereller, lui qui entend la tierce et la quarte, et qui sait tuer un homme par raison démonstrative ?",
+          "textWithEmoji": "(au Maître à danser) Ètes-vous fou de l’aller quereller, lui qui entend la tierce et la quarte, et qui sait tuer un homme 👲 par raison démonstrative ?",
           "emojiWords": {
             "homme": "👲"
           }
@@ -1120,9 +1120,9 @@
       "sceneContext": "MAÎTRE DE PHILOSOPHIE, MONSIEUR JOURDAIN.",
       "dialogue": [
         {
-          "character": "MAÎTRE DE PHILOSOPHIE,en raccommodant son collet",
-          "text": "Venons à notre leçon.",
-          "textWithEmoji": "Venons à notre leçon.",
+          "character": "MAÎTRE DE PHILOSOPHIE",
+          "text": "(en raccommodant son collet) Venons à notre leçon.",
+          "textWithEmoji": "(en raccommodant son collet) Venons à notre leçon.",
           "emojiWords": {}
         },
         {
@@ -2266,13 +2266,13 @@
           "emojiWords": {}
         },
         {
-          "character": "MONSIEUR JOURDAIN, en regardant l’habit du tailleur",
-          "text": "Ah, ah, Monsieur le tailleur, voilà de mon étoffe du dernier habit que vous m’avez fait.",
-          "textWithEmoji": "Ah, ah, Monsieur le tailleur, voilà de mon étoffe du dernier habit que vous m’avez fait.",
+          "character": "MONSIEUR JOURDAIN",
+          "text": "(en regardant l’habit du tailleur) Ah, ah, Monsieur le tailleur, voilà de mon étoffe du dernier habit que vous m’avez fait.",
+          "textWithEmoji": "(en regardant l’habit du tailleur) Ah, ah, Monsieur le tailleur, voilà de mon étoffe du dernier habit que vous m’avez fait.",
           "emojiWords": {}
         },
         {
-          "character": "MONSIEUR JOURDAIN, en regardant l’habit du tailleur",
+          "character": "MONSIEUR JOURDAIN",
           "text": " Je la reconnais bien.",
           "textWithEmoji": " Je la reconnais bien.",
           "emojiWords": {}

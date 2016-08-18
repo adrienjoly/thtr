@@ -337,9 +337,9 @@
           }
         },
         {
-          "character": "ABRAHAM, à Samson",
-          "text": "Est-ce à notre intention que vous mordez votre pouce, monsieur ?",
-          "textWithEmoji": "Est-ce à notre intention que vous mordez votre pouce 👍, monsieur ?",
+          "character": "ABRAHAM",
+          "text": "(à Samson) Est-ce à notre intention que vous mordez votre pouce, monsieur ?",
+          "textWithEmoji": "(à Samson) Est-ce à notre intention que vous mordez votre pouce 👍, monsieur ?",
           "emojiWords": {
             "pouce": "👍"
           }
@@ -361,29 +361,29 @@
           }
         },
         {
-          "character": "SAMSON, bas à Grégoire",
-          "text": "La loi est-elle de notre côté, si je dis oui ?",
-          "textWithEmoji": "La loi est-elle de notre côté, si je dis oui ?",
+          "character": "SAMSON",
+          "text": "(bas à Grégoire) La loi est-elle de notre côté, si je dis oui ?",
+          "textWithEmoji": "(bas à Grégoire) La loi est-elle de notre côté, si je dis oui ?",
           "emojiWords": {}
         },
         {
-          "character": "GRÉGOIRE, bas à Samson",
-          "text": "Non.",
-          "textWithEmoji": "Non.",
+          "character": "GRÉGOIRE",
+          "text": "(bas à Samson) Non.",
+          "textWithEmoji": "(bas à Samson) Non.",
           "emojiWords": {}
         },
         {
-          "character": "SAMSON, haut à Abraham",
-          "text": "Non, monsieur ce n’est pas à votre intention que je mords mon pouce, monsieur; mais je mords mon pouce, monsieur.",
-          "textWithEmoji": "Non, monsieur ce n’est pas à votre intention que je mords mon pouce 👍, monsieur; mais je mords mon pouce 👍, monsieur.",
+          "character": "SAMSON",
+          "text": "(haut à Abraham) Non, monsieur ce n’est pas à votre intention que je mords mon pouce, monsieur; mais je mords mon pouce, monsieur.",
+          "textWithEmoji": "(haut à Abraham) Non, monsieur ce n’est pas à votre intention que je mords mon pouce 👍, monsieur; mais je mords mon pouce 👍, monsieur.",
           "emojiWords": {
             "pouce": "👍"
           }
         },
         {
-          "character": "GRÉGOIRE, à Abraham",
-          "text": "Cherchez-vous une querelle, monsieur ?",
-          "textWithEmoji": "Cherchez-vous une querelle, monsieur ?",
+          "character": "GRÉGOIRE",
+          "text": "(à Abraham) Cherchez-vous une querelle, monsieur ?",
+          "textWithEmoji": "(à Abraham) Cherchez-vous une querelle, monsieur ?",
           "emojiWords": {}
         },
         {
@@ -540,9 +540,9 @@
           "emojiWords": {}
         },
         {
-          "character": "BENVOLIO, à Tybalt",
-          "text": "Je ne veux ici que maintenir la paix; rengaine ton épée, ou emploie-la, comme moi, à séparer ces hommes.",
-          "textWithEmoji": "Je ne veux ici que maintenir la paix; rengaine ton épée, ou emploie-la, comme moi, à séparer ces hommes.",
+          "character": "BENVOLIO",
+          "text": "(à Tybalt) Je ne veux ici que maintenir la paix; rengaine ton épée, ou emploie-la, comme moi, à séparer ces hommes.",
+          "textWithEmoji": "(à Tybalt) Je ne veux ici que maintenir la paix; rengaine ton épée, ou emploie-la, comme moi, à séparer ces hommes.",
           "emojiWords": {}
         },
         {
@@ -704,13 +704,13 @@
           "emojiWords": {}
         },
         {
-          "character": "LADY MONTAGUE, le retenant",
-          "text": "Tu ne feras pas un seul pas vers ton ennemi.",
-          "textWithEmoji": "Tu ne feras pas un seul pas vers ton ennemi.",
+          "character": "LADY MONTAGUE",
+          "text": "(le retenant) Tu ne feras pas un seul pas vers ton ennemi.",
+          "textWithEmoji": "(le retenant) Tu ne feras pas un seul pas vers ton ennemi.",
           "emojiWords": {}
         },
         {
-          "character": "LADY MONTAGUE, le retenant",
+          "character": "LADY MONTAGUE",
           "text": " (Entre le prince Escalus, avec sa suite.",
           "textWithEmoji": " (Entre le prince Escalus, avec sa suite.",
           "emojiWords": {}
@@ -1555,25 +1555,25 @@
           "emojiWords": {}
         },
         {
-          "character": "LE VALET, seul, les yeux fixés sur le papier",
-          "text": "Trouver les gens dont les noms sont écrits ici ?",
-          "textWithEmoji": "Trouver les gens dont les noms sont écrits ici ?",
+          "character": "LE VALET",
+          "text": "(seul) Trouver les gens dont les noms sont écrits ici ?",
+          "textWithEmoji": "(seul) Trouver les gens dont les noms sont écrits ici ?",
           "emojiWords": {}
         },
         {
-          "character": "LE VALET, seul, les yeux fixés sur le papier",
+          "character": "LE VALET",
           "text": " Il est écrit… que le cordonnier doit se servir de son aune, le tailleur de son alêne, le pêcheur de ses pinceaux et le peintre de ses filets; mais moi, on veut que j’aille trouver les personnes dont les noms sont écrits ici, quand je ne peux même pas trouver quels noms a écrits ici l’écrivain !",
           "textWithEmoji": " Il est écrit… que le cordonnier doit se servir de son aune, le tailleur de son alêne, le pêcheur de ses pinceaux et le peintre de ses filets; mais moi, on veut que j’aille trouver les personnes dont les noms sont écrits ici, quand je ne peux même pas trouver quels noms a écrits ici l’écrivain !",
           "emojiWords": {}
         },
         {
-          "character": "LE VALET, seul, les yeux fixés sur le papier",
+          "character": "LE VALET",
           "text": " Il faut que je m’adresse aux savants… Heureuse rencontre !",
           "textWithEmoji": " Il faut que je m’adresse aux savants… Heureuse rencontre !",
           "emojiWords": {}
         },
         {
-          "character": "LE VALET, seul, les yeux fixés sur le papier",
+          "character": "LE VALET",
           "text": " Entrent Benvolio et Roméo.",
           "textWithEmoji": " Entrent Benvolio et Roméo.",
           "emojiWords": {}
@@ -2335,9 +2335,9 @@
           "emojiWords": {}
         },
         {
-          "character": "LADY CAPULET, à Juliette",
-          "text": "Bref, dites-moi si vous répondrez à l’amour de Paris.",
-          "textWithEmoji": "Bref, dites-moi si vous répondrez à l’amour de Paris.",
+          "character": "LADY CAPULET",
+          "text": "(à Juliette) Bref, dites-moi si vous répondrez à l’amour de Paris.",
+          "textWithEmoji": "(à Juliette) Bref, dites-moi si vous répondrez à l’amour de Paris.",
           "emojiWords": {}
         },
         {
@@ -3496,9 +3496,9 @@
           "emojiWords": {}
         },
         {
-          "character": "ROMÉO, prenant la main de Juliette",
-          "text": "Si j’ai profané avec mon indigne main cette châsse sacrée, je suis prêt à une douce pénitence : permettez à mes lèvres, comme à deux pèlerins rougissants, d’effacer ce grossier attouchement par un tendre baiser.",
-          "textWithEmoji": "Si j’ai profané avec mon indigne main ✋ cette châsse sacrée, je suis prêt à une douce pénitence : permettez à mes lèvres, comme à deux 👬 pèlerins rougissants, d’effacer ce grossier attouchement par un tendre baiser 💏.",
+          "character": "ROMÉO",
+          "text": "(prenant la main de Juliette) Si j’ai profané avec mon indigne main cette châsse sacrée, je suis prêt à une douce pénitence : permettez à mes lèvres, comme à deux pèlerins rougissants, d’effacer ce grossier attouchement par un tendre baiser.",
+          "textWithEmoji": "(prenant la main ✋ de Juliette) Si j’ai profané avec mon indigne main ✋ cette châsse sacrée, je suis prêt à une douce pénitence : permettez à mes lèvres, comme à deux 👬 pèlerins rougissants, d’effacer ce grossier attouchement par un tendre baiser 💏.",
           "emojiWords": {
             "main": "✋",
             "deux": "👬",
@@ -3635,9 +3635,9 @@
           "emojiWords": {}
         },
         {
-          "character": "ROMÉO, à la nourrice",
-          "text": "Qui donc est sa mère ?",
-          "textWithEmoji": "Qui donc est sa mère ?",
+          "character": "ROMÉO",
+          "text": "(à la nourrice) Qui donc est sa mère ?",
+          "textWithEmoji": "(à la nourrice) Qui donc est sa mère ?",
           "emojiWords": {}
         },
         {
@@ -3827,9 +3827,9 @@
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, revenant",
-          "text": "Son nom est Roméo; c’est un Montague, le fils unique de votre grand ennemi.",
-          "textWithEmoji": "Son nom est Roméo; c’est un Montague, le fils unique de votre grand 🏬 ennemi.",
+          "character": "LA NOURRICE",
+          "text": "(revenant) Son nom est Roméo; c’est un Montague, le fils unique de votre grand ennemi.",
+          "textWithEmoji": "(revenant) Son nom est Roméo; c’est un Montague, le fils unique de votre grand 🏬 ennemi.",
           "emojiWords": {
             "grand": "🏬"
           }
@@ -3948,15 +3948,15 @@
       "sceneContext": "Une route aux abords du jardin de Capulet.\nRoméo entre précipitamment.\n \n ",
       "dialogue": [
         {
-          "character": "ROMÉO, montrant le mur du jardin",
-          "text": "Puis-je aller plus loin, quand mon cœur est ici ?",
-          "textWithEmoji": "Puis-je aller plus loin, quand mon cœur 💛 est ici ?",
+          "character": "ROMÉO",
+          "text": "(montrant le mur du jardin) Puis-je aller plus loin, quand mon cœur est ici ?",
+          "textWithEmoji": "(montrant le mur du jardin) Puis-je aller plus loin, quand mon cœur 💛 est ici ?",
           "emojiWords": {
             "cœur": "💛"
           }
         },
         {
-          "character": "ROMÉO, montrant le mur du jardin",
+          "character": "ROMÉO",
           "text": " En arrière, masse terrestre, et retrouve ton centre.",
           "textWithEmoji": " En arrière 🔙, masse terrestre, et retrouve ton centre.",
           "emojiWords": {
@@ -3964,13 +3964,13 @@
           }
         },
         {
-          "character": "ROMÉO, montrant le mur du jardin",
+          "character": "ROMÉO",
           "text": " (Il escalade le mur et disparaît.",
           "textWithEmoji": " (Il escalade le mur et disparaît.",
           "emojiWords": {}
         },
         {
-          "character": "ROMÉO, montrant le mur du jardin",
+          "character": "ROMÉO",
           "text": ") Entrent Benvolio et Mercutio.",
           "textWithEmoji": ") Entrent Benvolio et Mercutio.",
           "emojiWords": {}
@@ -4380,9 +4380,9 @@
           }
         },
         {
-          "character": "ROMÉO, à part",
-          "text": "Dois-je l’écouter encore ou lui répondre ?",
-          "textWithEmoji": "Dois-je l’écouter encore ou lui répondre ?",
+          "character": "ROMÉO",
+          "text": "(à part) Dois-je l’écouter encore ou lui répondre ?",
+          "textWithEmoji": "(à part) Dois-je l’écouter encore ou lui répondre ?",
           "emojiWords": {}
         },
         {
@@ -4876,9 +4876,9 @@
           }
         },
         {
-          "character": "LA NOURRICE, derrière le théâtre",
-          "text": "Madame !",
-          "textWithEmoji": "Madame !",
+          "character": "LA NOURRICE",
+          "text": "(derrière le théâtre) Madame !",
+          "textWithEmoji": "(derrière le théâtre) Madame !",
           "emojiWords": {}
         },
         {
@@ -4894,9 +4894,9 @@
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, derrière le théâtre",
-          "text": "Madame !",
-          "textWithEmoji": "Madame !",
+          "character": "LA NOURRICE",
+          "text": "(derrière le théâtre) Madame !",
+          "textWithEmoji": "(derrière le théâtre) Madame !",
           "emojiWords": {}
         },
         {
@@ -5034,9 +5034,9 @@
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, derrière le théâtre",
-          "text": "Madame !",
-          "textWithEmoji": "Madame !",
+          "character": "LA NOURRICE",
+          "text": "(derrière le théâtre) Madame !",
+          "textWithEmoji": "(derrière le théâtre) Madame !",
           "emojiWords": {}
         },
         {
@@ -5767,31 +5767,31 @@
           "emojiWords": {}
         },
         {
-          "character": "MERCUTIO, se relevant",
-          "text": "Au diable ces merveilleux grotesques avec leur zézaiement, et leur affectation, et leur nouvel accent !",
-          "textWithEmoji": "Au diable ces merveilleux grotesques avec leur zézaiement, et leur affectation, et leur nouvel accent !",
+          "character": "MERCUTIO",
+          "text": "(se relevant) Au diable ces merveilleux grotesques avec leur zézaiement, et leur affectation, et leur nouvel accent !",
+          "textWithEmoji": "(se relevant) Au diable ces merveilleux grotesques avec leur zézaiement, et leur affectation, et leur nouvel accent !",
           "emojiWords": {}
         },
         {
-          "character": "MERCUTIO, se relevant",
+          "character": "MERCUTIO",
           "text": " (Changeant de voix.",
           "textWithEmoji": " (Changeant de voix.",
           "emojiWords": {}
         },
         {
-          "character": "MERCUTIO, se relevant",
+          "character": "MERCUTIO",
           "text": ") Jésus !",
           "textWithEmoji": ") Jésus !",
           "emojiWords": {}
         },
         {
-          "character": "MERCUTIO, se relevant",
+          "character": "MERCUTIO",
           "text": " la bonne lame !",
           "textWithEmoji": " la bonne lame !",
           "emojiWords": {}
         },
         {
-          "character": "MERCUTIO, se relevant",
+          "character": "MERCUTIO",
           "text": " le bel homme !",
           "textWithEmoji": " le bel homme 👲 !",
           "emojiWords": {
@@ -5799,25 +5799,25 @@
           }
         },
         {
-          "character": "MERCUTIO, se relevant",
+          "character": "MERCUTIO",
           "text": " l’excellente putain !",
           "textWithEmoji": " l’excellente putain !",
           "emojiWords": {}
         },
         {
-          "character": "MERCUTIO, se relevant",
+          "character": "MERCUTIO",
           "text": " Ah !",
           "textWithEmoji": " Ah !",
           "emojiWords": {}
         },
         {
-          "character": "MERCUTIO, se relevant",
+          "character": "MERCUTIO",
           "text": " mon grand-père, n’est-ce pas chose lamentable que nous soyons ainsi harcelés par ces moustiques étrangers, par ces colporteurs de modes qui nous poursuivent de leurs pardonnez-moi, et qui, tant ils sont rigides sur leurs nouvelles formes, ne sauraient plus s’asseoir à l’aise sur nos vieux escabeaux ?",
           "textWithEmoji": " mon grand-père, n’est-ce pas chose lamentable que nous soyons ainsi harcelés par ces moustiques étrangers, par ces colporteurs de modes qui nous poursuivent de leurs pardonnez-moi, et qui, tant ils sont rigides sur leurs nouvelles formes, ne sauraient plus s’asseoir à l’aise sur nos vieux escabeaux ?",
           "emojiWords": {}
         },
         {
-          "character": "MERCUTIO, se relevant",
+          "character": "MERCUTIO",
           "text": " Peste soit de leurs bonjours et de leurs bonsoirs.",
           "textWithEmoji": " Peste soit de leurs bonjours et de leurs bonsoirs.",
           "emojiWords": {}
@@ -6309,9 +6309,9 @@
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, à Roméo",
-          "text": "Si vous êtes Roméo, monsieur, je désire vous faire une courte confidence.",
-          "textWithEmoji": "Si vous êtes Roméo, monsieur, je désire vous faire une courte confidence.",
+          "character": "LA NOURRICE",
+          "text": "(à Roméo) Si vous êtes Roméo, monsieur, je désire vous faire une courte confidence.",
+          "textWithEmoji": "(à Roméo) Si vous êtes Roméo, monsieur, je désire vous faire une courte confidence.",
           "emojiWords": {}
         },
         {
@@ -6345,9 +6345,9 @@
           "emojiWords": {}
         },
         {
-          "character": "ROMÉO, à Mercutio",
-          "text": "Quel gibier as-tu donc levé ?",
-          "textWithEmoji": "Quel gibier as-tu donc levé ?",
+          "character": "ROMÉO",
+          "text": "(à Mercutio) Quel gibier as-tu donc levé ?",
+          "textWithEmoji": "(à Mercutio) Quel gibier as-tu donc levé ?",
           "emojiWords": {}
         },
         {
@@ -6401,19 +6401,19 @@
           "emojiWords": {}
         },
         {
-          "character": "MERCUTIO, saluant la nourrice en chantant",
-          "text": "Adieu, antique dame, adieu, madame, adieu, madame.",
-          "textWithEmoji": "Adieu, antique dame, adieu, madame, adieu, madame.",
+          "character": "MERCUTIO",
+          "text": "(saluant la nourrice en chantant) Adieu, antique dame, adieu, madame, adieu, madame.",
+          "textWithEmoji": "(saluant la nourrice en chantant) Adieu, antique dame, adieu, madame, adieu, madame.",
           "emojiWords": {}
         },
         {
-          "character": "MERCUTIO, saluant la nourrice en chantant",
+          "character": "MERCUTIO",
           "text": " (Sortent Mercutio et Benvolio.",
           "textWithEmoji": " (Sortent Mercutio et Benvolio.",
           "emojiWords": {}
         },
         {
-          "character": "MERCUTIO, saluant la nourrice en chantant",
+          "character": "MERCUTIO",
           "text": ").",
           "textWithEmoji": ").",
           "emojiWords": {}
@@ -7817,13 +7817,13 @@
           "emojiWords": {}
         },
         {
-          "character": "MERCUTIO, à Tybalt",
-          "text": "Allons, messire, votre meilleure passe !",
-          "textWithEmoji": "Allons, messire, votre meilleure passe !",
+          "character": "MERCUTIO",
+          "text": "(à Tybalt) Allons, messire, votre meilleure passe !",
+          "textWithEmoji": "(à Tybalt) Allons, messire, votre meilleure passe !",
           "emojiWords": {}
         },
         {
-          "character": "MERCUTIO, à Tybalt",
+          "character": "MERCUTIO",
           "text": " (Ils se battent.",
           "textWithEmoji": " (Ils se battent.",
           "emojiWords": {}
@@ -7899,9 +7899,9 @@
           "emojiWords": {}
         },
         {
-          "character": "BENVOLIO, soutenant Mercutio",
-          "text": "Quoi, es-tu blessé ?",
-          "textWithEmoji": "Quoi, es-tu blessé ?",
+          "character": "BENVOLIO",
+          "text": "(soutenant Mercutio) Quoi, es-tu blessé ?",
+          "textWithEmoji": "(soutenant Mercutio) Quoi, es-tu blessé ?",
           "emojiWords": {}
         },
         {
@@ -8023,15 +8023,15 @@
           "emojiWords": {}
         },
         {
-          "character": "ROMÉO, seul",
-          "text": "Donc un bon gentilhomme, le proche parent du prince, mon intime ami, a reçu le coup mortel pour moi, après l’outrage déshonorant fait à ma réputation par Tybalt, par Tybalt, qui depuis une heure est mon cousin !",
-          "textWithEmoji": "Donc un bon gentilhomme, le proche parent du prince, mon intime ami, a reçu le coup 🎯 mortel pour moi, après l’outrage déshonorant fait à ma réputation par Tybalt, par Tybalt, qui depuis une heure est mon cousin !",
+          "character": "ROMÉO",
+          "text": "(seul) Donc un bon gentilhomme, le proche parent du prince, mon intime ami, a reçu le coup mortel pour moi, après l’outrage déshonorant fait à ma réputation par Tybalt, par Tybalt, qui depuis une heure est mon cousin !",
+          "textWithEmoji": "(seul) Donc un bon gentilhomme, le proche parent du prince, mon intime ami, a reçu le coup 🎯 mortel pour moi, après l’outrage déshonorant fait à ma réputation par Tybalt, par Tybalt, qui depuis une heure est mon cousin !",
           "emojiWords": {
             "coup": "🎯"
           }
         },
         {
-          "character": "ROMÉO, seul",
+          "character": "ROMÉO",
           "text": "… Ô ma douce Juliette, ta beauté m’a efféminé; elle a amolli la trempe d’acier de ma valeur Rentre Benvolio.",
           "textWithEmoji": "… Ô ma douce Juliette, ta beauté m’a efféminé; elle a amolli la trempe d’acier de ma valeur Rentre Benvolio.",
           "emojiWords": {}
@@ -9244,19 +9244,21 @@
           }
         },
         {
-          "character": "JULIETTE, détachant une bague de son doigt",
-          "text": "Oh !",
-          "textWithEmoji": "Oh !",
-          "emojiWords": {}
+          "character": "JULIETTE",
+          "text": "(détachant une bague de son doigt) Oh !",
+          "textWithEmoji": "(détachant une bague 💍 de son doigt) Oh !",
+          "emojiWords": {
+            "bague": "💍"
+          }
         },
         {
-          "character": "JULIETTE, détachant une bague de son doigt",
+          "character": "JULIETTE",
           "text": " trouve-le !",
           "textWithEmoji": " trouve-le !",
           "emojiWords": {}
         },
         {
-          "character": "JULIETTE, détachant une bague de son doigt",
+          "character": "JULIETTE",
           "text": " Remets cet anneau à mon fidèle chevalier, et dis-lui de venir me faire ses derniers adieux.",
           "textWithEmoji": " Remets cet anneau à mon fidèle chevalier, et dis-lui de venir me faire ses derniers adieux.",
           "emojiWords": {}
@@ -10126,19 +10128,19 @@
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, lui remettant une bague",
-          "text": "Voici, monsieur un anneau qu’elle m’a dit de vous donner Monsieur accourez vite, dépêchez-vous, car il se fait tard.",
-          "textWithEmoji": "Voici, monsieur un anneau qu’elle m’a dit de vous donner Monsieur accourez vite, dépêchez-vous, car il se fait tard.",
+          "character": "LA NOURRICE",
+          "text": "(lui remettant une bague) Voici, monsieur un anneau qu’elle m’a dit de vous donner Monsieur accourez vite, dépêchez-vous, car il se fait tard.",
+          "textWithEmoji": "(lui remettant une bague) Voici, monsieur un anneau qu’elle m’a dit de vous donner Monsieur accourez vite, dépêchez-vous, car il se fait tard.",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, lui remettant une bague",
+          "character": "LA NOURRICE",
           "text": " (La nourrice sort.",
           "textWithEmoji": " (La nourrice sort.",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, lui remettant une bague",
+          "character": "LA NOURRICE",
           "text": ") ROMÉO, mettant la bague.",
           "textWithEmoji": ") ROMÉO, mettant la bague 💍.",
           "emojiWords": {
@@ -10146,7 +10148,7 @@
           }
         },
         {
-          "character": "LA NOURRICE, lui remettant une bague",
+          "character": "LA NOURRICE",
           "text": " Comme ceci ranime mon courage !",
           "textWithEmoji": " Comme ceci ranime mon courage !",
           "emojiWords": {}
@@ -11809,31 +11811,31 @@
           "emojiWords": {}
         },
         {
-          "character": "LAURENCE, à part",
-          "text": "Hélas !",
-          "textWithEmoji": "Hélas !",
+          "character": "LAURENCE",
+          "text": "(à part) Hélas !",
+          "textWithEmoji": "(à part) Hélas !",
           "emojiWords": {}
         },
         {
-          "character": "LAURENCE, à part",
+          "character": "LAURENCE",
           "text": " je connais trop celles qui devraient le ralentir !",
           "textWithEmoji": " je connais trop celles qui devraient le ralentir !",
           "emojiWords": {}
         },
         {
-          "character": "LAURENCE, à part",
+          "character": "LAURENCE",
           "text": " (Haut.",
           "textWithEmoji": " (Haut.",
           "emojiWords": {}
         },
         {
-          "character": "LAURENCE, à part",
+          "character": "LAURENCE",
           "text": ") Justement, messire, voici la dame qui vient à ma cellule.",
           "textWithEmoji": ") Justement, messire, voici la dame qui vient à ma cellule.",
           "emojiWords": {}
         },
         {
-          "character": "LAURENCE, à part",
+          "character": "LAURENCE",
           "text": " (Entre Juliette.",
           "textWithEmoji": " (Entre Juliette.",
           "emojiWords": {}
@@ -11881,9 +11883,9 @@
           "emojiWords": {}
         },
         {
-          "character": "PARIS, à Juliette",
-          "text": "venez-vous faire votre confession à ce bon père ?",
-          "textWithEmoji": "venez-vous faire votre confession à ce bon père 🎅 ?",
+          "character": "PARIS",
+          "text": "(à Juliette) venez-vous faire votre confession à ce bon père ?",
+          "textWithEmoji": "(à Juliette) venez-vous faire votre confession à ce bon père 🎅 ?",
           "emojiWords": {
             "père": "🎅"
           }
@@ -12907,9 +12909,9 @@
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, à Capulet",
-          "text": "Allez, allez, cogne-fétu, allez vous mettre au lit; ma parole, vous serez malade demain d’avoir veillé cette nuit.",
-          "textWithEmoji": "Allez, allez, cogne-fétu, allez vous mettre au lit; ma parole, vous serez malade demain d’avoir veillé cette nuit 🌃.",
+          "character": "LA NOURRICE",
+          "text": "(à Capulet) Allez, allez, cogne-fétu, allez vous mettre au lit; ma parole, vous serez malade demain d’avoir veillé cette nuit.",
+          "textWithEmoji": "(à Capulet) Allez, allez, cogne-fétu, allez vous mettre au lit; ma parole, vous serez malade demain d’avoir veillé cette nuit 🌃.",
           "emojiWords": {
             "nuit": "🌃"
           }
@@ -13108,55 +13110,55 @@
       "sceneContext": "La chambre à coucher de Juliette. Entre la nourrice.\n \n ",
       "dialogue": [
         {
-          "character": "LA NOURRICE, appelant",
-          "text": "Madame !",
-          "textWithEmoji": "Madame !",
+          "character": "LA NOURRICE",
+          "text": "(appelant) Madame !",
+          "textWithEmoji": "(appelant) Madame !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": " allons, madame !",
           "textWithEmoji": " allons, madame !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": "… Juliette !",
           "textWithEmoji": "… Juliette !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": "… Elle dort profondément, je le garantis… Eh bien, agneau !",
           "textWithEmoji": "… Elle dort profondément, je le garantis… Eh bien, agneau !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": " eh bien, maîtresse !",
           "textWithEmoji": " eh bien, maîtresse !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": "… Fi, paresseuse !",
           "textWithEmoji": "… Fi, paresseuse !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": "… Allons, amour allons !",
           "textWithEmoji": "… Allons, amour allons !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": " Madame !",
           "textWithEmoji": " Madame !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": " mon cher cœur !",
           "textWithEmoji": " mon cher cœur 💛 !",
           "emojiWords": {
@@ -13164,7 +13166,7 @@
           }
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": " Allons, la mariée !",
           "textWithEmoji": " Allons, la mariée 👰 !",
           "emojiWords": {
@@ -13172,13 +13174,13 @@
           }
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": " Quoi, pas un mot !",
           "textWithEmoji": " Quoi, pas un mot !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": "… Vous en prenez pour votre argent cette fois, vous dormez pour une semaine, car, la nuit prochaine, j’en réponds, le comte a pris son parti de ne vous laisser prendre que peu de repos… Dieu me pardonne !",
           "textWithEmoji": "… Vous en prenez pour votre argent 💸 cette fois, vous dormez pour une semaine, car, la nuit 🌃 prochaine, j’en réponds, le comte a pris son parti de ne vous laisser prendre que peu de repos… Dieu me pardonne !",
           "emojiWords": {
@@ -13187,139 +13189,139 @@
           }
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": " Jésus Marie !",
           "textWithEmoji": " Jésus Marie !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": " comme elle dort !",
           "textWithEmoji": " comme elle dort !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": " Il faut que je l’éveille… Madame !",
           "textWithEmoji": " Il faut que je l’éveille… Madame !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": " madame !",
           "textWithEmoji": " madame !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": " madame !",
           "textWithEmoji": " madame !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": " Oui, que le comte vous surprenne au lit; c’est lui qui vous secouera, ma foi… (Elle tire les rideaux du lit et découvre Juliette étendue et immobile.",
           "textWithEmoji": " Oui, que le comte vous surprenne au lit; c’est lui qui vous secouera, ma foi… (Elle tire les rideaux du lit et découvre Juliette étendue et immobile.",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": ") Est-il possible !",
           "textWithEmoji": ") Est-il possible !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": " Quoi !",
           "textWithEmoji": " Quoi !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": " toute vêtue, toute parée, et recouchée !",
           "textWithEmoji": " toute vêtue, toute parée, et recouchée !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": " Il faut que je la réveille… Madame !",
           "textWithEmoji": " Il faut que je la réveille… Madame !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": " madame !",
           "textWithEmoji": " madame !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": " madame !",
           "textWithEmoji": " madame !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": " hélas !",
           "textWithEmoji": " hélas !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": " hélas !",
           "textWithEmoji": " hélas !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": " au secours !",
           "textWithEmoji": " au secours !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": " au secours !",
           "textWithEmoji": " au secours !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": " ma maîtresse est morte.",
           "textWithEmoji": " ma maîtresse est morte.",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": " ô malheur !",
           "textWithEmoji": " ô malheur !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": " faut-il que je sois jamais née !",
           "textWithEmoji": " faut-il que je sois jamais née !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": "… Holà, de l’eau-de-vie !",
           "textWithEmoji": "… Holà, de l’eau-de-vie !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": "… Monseigneur !",
           "textWithEmoji": "… Monseigneur !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": " Madame !",
           "textWithEmoji": " Madame !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, appelant",
+          "character": "LA NOURRICE",
           "text": " (Entre lady Capulet.",
           "textWithEmoji": " (Entre lady Capulet.",
           "emojiWords": {}
@@ -13343,13 +13345,13 @@
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, montrant le lit",
-          "text": "Regardez, regardez !",
-          "textWithEmoji": "Regardez, regardez !",
+          "character": "LA NOURRICE",
+          "text": "(montrant le lit) Regardez, regardez !",
+          "textWithEmoji": "(montrant le lit) Regardez, regardez !",
           "emojiWords": {}
         },
         {
-          "character": "LA NOURRICE, montrant le lit",
+          "character": "LA NOURRICE",
           "text": " Ô jour désolant !",
           "textWithEmoji": " Ô jour désolant !",
           "emojiWords": {}
@@ -13441,13 +13443,13 @@
           "emojiWords": {}
         },
         {
-          "character": "CAPULET, s’approchant de Juliette",
-          "text": "Ah !",
-          "textWithEmoji": "Ah !",
+          "character": "CAPULET",
+          "text": "(s’approchant de Juliette) Ah !",
+          "textWithEmoji": "(s’approchant de Juliette) Ah !",
           "emojiWords": {}
         },
         {
-          "character": "CAPULET, s’approchant de Juliette",
+          "character": "CAPULET",
           "text": " que je la voie !",
           "textWithEmoji": " que je la voie 🌌 !",
           "emojiWords": {
@@ -13455,31 +13457,31 @@
           }
         },
         {
-          "character": "CAPULET, s’approchant de Juliette",
+          "character": "CAPULET",
           "text": "… C’est fini, hélas !",
           "textWithEmoji": "… C’est fini, hélas !",
           "emojiWords": {}
         },
         {
-          "character": "CAPULET, s’approchant de Juliette",
+          "character": "CAPULET",
           "text": " elle est froide !",
           "textWithEmoji": " elle est froide !",
           "emojiWords": {}
         },
         {
-          "character": "CAPULET, s’approchant de Juliette",
+          "character": "CAPULET",
           "text": " Son sang est arrêté et ses membres sont roides.",
           "textWithEmoji": " Son sang est arrêté et ses membres sont roides.",
           "emojiWords": {}
         },
         {
-          "character": "CAPULET, s’approchant de Juliette",
+          "character": "CAPULET",
           "text": " La vie a depuis longtemps déserté ses lèvres.",
           "textWithEmoji": " La vie a depuis longtemps déserté ses lèvres.",
           "emojiWords": {}
         },
         {
-          "character": "CAPULET, s’approchant de Juliette",
+          "character": "CAPULET",
           "text": " La mort est sur elle, comme une gelée précoce sur la fleur des champs la plus suave.",
           "textWithEmoji": " La mort est sur elle, comme une gelée précoce sur la fleur 🌸 des champs la plus suave.",
           "emojiWords": {
@@ -14752,13 +14754,13 @@
           "emojiWords": {}
         },
         {
-          "character": "LE PAGE, à part",
-          "text": "J’ai presque peur de rester seul ici dans le cimetière; pourtant je me risque.",
-          "textWithEmoji": "J’ai presque peur de rester seul ici dans le cimetière; pourtant je me risque.",
+          "character": "LE PAGE",
+          "text": "(à part) J’ai presque peur de rester seul ici dans le cimetière; pourtant je me risque.",
+          "textWithEmoji": "(à part) J’ai presque peur de rester seul ici dans le cimetière; pourtant je me risque.",
           "emojiWords": {}
         },
         {
-          "character": "LE PAGE, à part",
+          "character": "LE PAGE",
           "text": " (Il se retire.",
           "textWithEmoji": " (Il se retire.",
           "emojiWords": {}
@@ -14906,37 +14908,37 @@
           "emojiWords": {}
         },
         {
-          "character": "BALTHAZAR, à part",
-          "text": "N’importe.",
-          "textWithEmoji": "N’importe.",
+          "character": "BALTHAZAR",
+          "text": "(à part) N’importe.",
+          "textWithEmoji": "(à part) N’importe.",
           "emojiWords": {}
         },
         {
-          "character": "BALTHAZAR, à part",
+          "character": "BALTHAZAR",
           "text": " Je vais me cacher aux alentours; sa mine m’effraye, et je suis inquiet sur ses intentions.",
           "textWithEmoji": " Je vais me cacher aux alentours; sa mine m’effraye, et je suis inquiet sur ses intentions.",
           "emojiWords": {}
         },
         {
-          "character": "BALTHAZAR, à part",
+          "character": "BALTHAZAR",
           "text": " (Il se retire.",
           "textWithEmoji": " (Il se retire.",
           "emojiWords": {}
         },
         {
-          "character": "BALTHAZAR, à part",
+          "character": "BALTHAZAR",
           "text": ") ROMÉO, prenant le levier et allant au tombeau.",
           "textWithEmoji": ") ROMÉO, prenant le levier et allant au tombeau.",
           "emojiWords": {}
         },
         {
-          "character": "BALTHAZAR, à part",
+          "character": "BALTHAZAR",
           "text": " Horrible gueule, matrice de la mort, gorgée de ce que la terre a de plus précieux, je parviendrai bien à ouvrir tes lèvres pourries et à te fourrer de force une nouvelle proie !",
           "textWithEmoji": " Horrible gueule, matrice de la mort, gorgée de ce que la terre a de plus précieux, je parviendrai bien à ouvrir tes lèvres pourries et à te fourrer de force une nouvelle proie !",
           "emojiWords": {}
         },
         {
-          "character": "BALTHAZAR, à part",
+          "character": "BALTHAZAR",
           "text": " (Il enfonce la porte du monument.",
           "textWithEmoji": " (Il enfonce la porte 🚪 du monument.",
           "emojiWords": {
@@ -15072,25 +15074,25 @@
           "emojiWords": {}
         },
         {
-          "character": "PARIS, tombant",
-          "text": "Oh !",
-          "textWithEmoji": "Oh !",
+          "character": "PARIS",
+          "text": "(tombant) Oh !",
+          "textWithEmoji": "(tombant) Oh !",
           "emojiWords": {}
         },
         {
-          "character": "PARIS, tombant",
+          "character": "PARIS",
           "text": " je suis tué !",
           "textWithEmoji": " je suis tué !",
           "emojiWords": {}
         },
         {
-          "character": "PARIS, tombant",
+          "character": "PARIS",
           "text": "… Si tu es généreux, ouvre le tombeau et dépose-moi près de Juliette.",
           "textWithEmoji": "… Si tu es généreux, ouvre le tombeau et dépose-moi près de Juliette.",
           "emojiWords": {}
         },
         {
-          "character": "PARIS, tombant",
+          "character": "PARIS",
           "text": " (Il expire.",
           "textWithEmoji": " (Il expire.",
           "emojiWords": {}
@@ -15801,9 +15803,9 @@
           "emojiWords": {}
         },
         {
-          "character": "PREMIER GARDE, derrière le théâtre",
-          "text": "Conduis-nous, page… De quel côté ?",
-          "textWithEmoji": "Conduis-nous, page… De quel côté ?",
+          "character": "PREMIER GARDE",
+          "text": "(derrière le théâtre) Conduis-nous, page… De quel côté ?",
+          "textWithEmoji": "(derrière le théâtre) Conduis-nous, page… De quel côté ?",
           "emojiWords": {}
         },
         {
@@ -15871,19 +15873,19 @@
           }
         },
         {
-          "character": "PREMIER GARDE, à l’entrée du tombeau",
-          "text": "Le sol est sanglant.",
-          "textWithEmoji": "Le sol est sanglant.",
+          "character": "PREMIER GARDE",
+          "text": "(à l’entrée du tombeau) Le sol est sanglant.",
+          "textWithEmoji": "(à l’entrée du tombeau) Le sol est sanglant.",
           "emojiWords": {}
         },
         {
-          "character": "PREMIER GARDE, à l’entrée du tombeau",
+          "character": "PREMIER GARDE",
           "text": " Qu’on fouille le cimetière.",
           "textWithEmoji": " Qu’on fouille le cimetière.",
           "emojiWords": {}
         },
         {
-          "character": "PREMIER GARDE, à l’entrée du tombeau",
+          "character": "PREMIER GARDE",
           "text": " Allez, plusieurs, et arrêtez qui vous trouverez.",
           "textWithEmoji": " Allez, plusieurs 🎶, et arrêtez qui vous trouverez.",
           "emojiWords": {
@@ -15891,31 +15893,31 @@
           }
         },
         {
-          "character": "PREMIER GARDE, à l’entrée du tombeau",
+          "character": "PREMIER GARDE",
           "text": " (Des gardes sortent.",
           "textWithEmoji": " (Des gardes sortent.",
           "emojiWords": {}
         },
         {
-          "character": "PREMIER GARDE, à l’entrée du tombeau",
+          "character": "PREMIER GARDE",
           "text": ") Spectacle navrant !",
           "textWithEmoji": ") Spectacle navrant !",
           "emojiWords": {}
         },
         {
-          "character": "PREMIER GARDE, à l’entrée du tombeau",
+          "character": "PREMIER GARDE",
           "text": " Voici le comte assassiné… et Juliette en sang !",
           "textWithEmoji": " Voici le comte assassiné… et Juliette en sang !",
           "emojiWords": {}
         },
         {
-          "character": "PREMIER GARDE, à l’entrée du tombeau",
+          "character": "PREMIER GARDE",
           "text": "… chaude encore !",
           "textWithEmoji": "… chaude encore !",
           "emojiWords": {}
         },
         {
-          "character": "PREMIER GARDE, à l’entrée du tombeau",
+          "character": "PREMIER GARDE",
           "text": "… morte il n’y a qu’un moment, elle qui était ensevelie depuis deux jours !",
           "textWithEmoji": "… morte il n’y a qu’un moment, elle qui était ensevelie depuis deux 👬 jours !",
           "emojiWords": {
@@ -15923,31 +15925,31 @@
           }
         },
         {
-          "character": "PREMIER GARDE, à l’entrée du tombeau",
+          "character": "PREMIER GARDE",
           "text": "… Allez prévenir le prince, courez chez les Capulets, réveillez-les Montagues… que d’autres aillent aux recherches !",
           "textWithEmoji": "… Allez prévenir le prince, courez chez les Capulets, réveillez-les Montagues… que d’autres aillent aux recherches !",
           "emojiWords": {}
         },
         {
-          "character": "PREMIER GARDE, à l’entrée du tombeau",
+          "character": "PREMIER GARDE",
           "text": " (D’autres gardes sortent.",
           "textWithEmoji": " (D’autres gardes sortent.",
           "emojiWords": {}
         },
         {
-          "character": "PREMIER GARDE, à l’entrée du tombeau",
+          "character": "PREMIER GARDE",
           "text": ") Nous voyons bien le lieu où sont entassés tous ces désastres; mais les causes qui ont donné lieu à ces désastres lamentables, nous ne pouvons les découvrir sans une enquête.",
           "textWithEmoji": ") Nous voyons bien le lieu où sont entassés tous ces désastres; mais les causes qui ont donné lieu à ces désastres lamentables, nous ne pouvons les découvrir sans une enquête.",
           "emojiWords": {}
         },
         {
-          "character": "PREMIER GARDE, à l’entrée du tombeau",
+          "character": "PREMIER GARDE",
           "text": " (Entrent quelques gardes, ramenant Balthazar.",
           "textWithEmoji": " (Entrent quelques gardes, ramenant Balthazar.",
           "emojiWords": {}
         },
         {
-          "character": "PREMIER GARDE, à l’entrée du tombeau",
+          "character": "PREMIER GARDE",
           "text": ").",
           "textWithEmoji": ").",
           "emojiWords": {}
@@ -16185,19 +16187,19 @@
           }
         },
         {
-          "character": "LE PRINCE, montrant le tombeau",
-          "text": "Regarde, et tu verras.",
-          "textWithEmoji": "Regarde, et tu verras.",
+          "character": "LE PRINCE",
+          "text": "(montrant le tombeau) Regarde, et tu verras.",
+          "textWithEmoji": "(montrant le tombeau) Regarde, et tu verras.",
           "emojiWords": {}
         },
         {
-          "character": "MONTAGUE, reconnaissant Roméo",
-          "text": "Malappris !",
-          "textWithEmoji": "Malappris !",
+          "character": "MONTAGUE",
+          "text": "(reconnaissant Roméo) Malappris !",
+          "textWithEmoji": "(reconnaissant Roméo) Malappris !",
           "emojiWords": {}
         },
         {
-          "character": "MONTAGUE, reconnaissant Roméo",
+          "character": "MONTAGUE",
           "text": " Y a-t-il donc bienséance à prendre le pas sur ton père dans la tombe ?",
           "textWithEmoji": " Y a-t-il donc bienséance à prendre le pas sur ton père 🎅 dans la tombe ?",
           "emojiWords": {
@@ -16389,16 +16391,16 @@
           }
         },
         {
-          "character": "LE PRINCE, prenant le papier que tient Balthazar",
-          "text": "Donne-moi cette lettre, je veux la voir… Où est le page du comte, celui qui a appelé le guet ?",
-          "textWithEmoji": "Donne-moi cette lettre 💌, je veux la voir… Où est le page 📄 du comte, celui qui a appelé le guet ?",
+          "character": "LE PRINCE",
+          "text": "(prenant le papier que tient Balthazar) Donne-moi cette lettre, je veux la voir… Où est le page du comte, celui qui a appelé le guet ?",
+          "textWithEmoji": "(prenant le papier que tient Balthazar) Donne-moi cette lettre 💌, je veux la voir… Où est le page 📄 du comte, celui qui a appelé le guet ?",
           "emojiWords": {
             "lettre": "💌",
             "page": "📄"
           }
         },
         {
-          "character": "LE PRINCE, prenant le papier que tient Balthazar",
+          "character": "LE PRINCE",
           "text": " Maraud, qu’est-ce que ton maître a fait ici ?",
           "textWithEmoji": " Maraud, qu’est-ce que ton maître a fait ici ?",
           "emojiWords": {}
@@ -16418,45 +16420,46 @@
           }
         },
         {
-          "character": "LE PRINCE, jetant les yeux sur la lettre",
-          "text": "Cette lettre confirme les paroles du moine… Voilà tout le récit de leurs amours… Il a appris qu’elle était morte; aussitôt, écrit-il, il a acheté du poison chez un pauvre apothicaire et sur-le-champ s’est rendu dans ce caveau pour y mourir et reposer près de Juliette.",
-          "textWithEmoji": "Cette lettre 💌 confirme les paroles du moine… Voilà tout le récit de leurs amours… Il a appris qu’elle était morte; aussitôt, écrit-il, il a acheté du poison chez un pauvre apothicaire et sur-le-champ s’est rendu dans ce caveau pour y mourir et reposer près de Juliette.",
+          "character": "LE PRINCE",
+          "text": "(jetant les yeux sur la lettre) Cette lettre confirme les paroles du moine… Voilà tout le récit de leurs amours… Il a appris qu’elle était morte; aussitôt, écrit-il, il a acheté du poison chez un pauvre apothicaire et sur-le-champ s’est rendu dans ce caveau pour y mourir et reposer près de Juliette.",
+          "textWithEmoji": "(jetant les yeux 👀 sur la lettre) Cette lettre 💌 confirme les paroles du moine… Voilà tout le récit de leurs amours… Il a appris qu’elle était morte; aussitôt, écrit-il, il a acheté du poison chez un pauvre apothicaire et sur-le-champ s’est rendu dans ce caveau pour y mourir et reposer près de Juliette.",
           "emojiWords": {
+            "yeux": "👀",
             "lettre": "💌"
           }
         },
         {
-          "character": "LE PRINCE, jetant les yeux sur la lettre",
+          "character": "LE PRINCE",
           "text": " (Regardant autour de lui.",
           "textWithEmoji": " (Regardant autour de lui.",
           "emojiWords": {}
         },
         {
-          "character": "LE PRINCE, jetant les yeux sur la lettre",
+          "character": "LE PRINCE",
           "text": ") Où sont-ils, ces ennemis ?",
           "textWithEmoji": ") Où sont-ils, ces ennemis ?",
           "emojiWords": {}
         },
         {
-          "character": "LE PRINCE, jetant les yeux sur la lettre",
+          "character": "LE PRINCE",
           "text": " Capulet !",
           "textWithEmoji": " Capulet !",
           "emojiWords": {}
         },
         {
-          "character": "LE PRINCE, jetant les yeux sur la lettre",
+          "character": "LE PRINCE",
           "text": " Montague !",
           "textWithEmoji": " Montague !",
           "emojiWords": {}
         },
         {
-          "character": "LE PRINCE, jetant les yeux sur la lettre",
+          "character": "LE PRINCE",
           "text": " Voyez par quel fléau le ciel châtie votre haine : pour tuer vos joies, il se sert de l’amour !",
           "textWithEmoji": " Voyez par quel fléau le ciel châtie votre haine : pour tuer vos joies, il se sert de l’amour !",
           "emojiWords": {}
         },
         {
-          "character": "LE PRINCE, jetant les yeux sur la lettre",
+          "character": "LE PRINCE",
           "text": "… Et moi, pour avoir fermé les yeux sur vos discordes, j’ai perdu deux parents.",
           "textWithEmoji": "… Et moi, pour avoir fermé les yeux 👀 sur vos discordes, j’ai perdu deux 👬 parents.",
           "emojiWords": {
@@ -16465,7 +16468,7 @@
           }
         },
         {
-          "character": "LE PRINCE, jetant les yeux sur la lettre",
+          "character": "LE PRINCE",
           "text": " Nous sommes tous punis.",
           "textWithEmoji": " Nous sommes tous punis.",
           "emojiWords": {}

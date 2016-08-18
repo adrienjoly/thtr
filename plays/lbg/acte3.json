@@ -63,9 +63,9 @@
           "emojiWords": {}
         },
         {
-          "character": "NICOLE, rit",
-          "text": "Hi, hi, hi, hi, hi.",
-          "textWithEmoji": "Hi, hi, hi, hi, hi.",
+          "character": "NICOLE",
+          "text": "(rit) Hi, hi, hi, hi, hi.",
+          "textWithEmoji": "(rit) Hi, hi, hi, hi, hi.",
           "emojiWords": {}
         },
         {
@@ -2113,13 +2113,13 @@
           "emojiWords": {}
         },
         {
-          "character": "MONSIEUR JOURDAIN s’aperçoit que Nicole écoute, et lui donne un soufflet",
-          "text": "Ouais, vous êtes bien impertinente.",
-          "textWithEmoji": "Ouais, vous êtes bien impertinente.",
+          "character": "MONSIEUR JOURDAIN s’aperçoit que Nicole écoute",
+          "text": "(et lui donne un soufflet) Ouais, vous êtes bien impertinente.",
+          "textWithEmoji": "(et lui donne un soufflet) Ouais, vous êtes bien impertinente.",
           "emojiWords": {}
         },
         {
-          "character": "MONSIEUR JOURDAIN s’aperçoit que Nicole écoute, et lui donne un soufflet",
+          "character": "MONSIEUR JOURDAIN s’aperçoit que Nicole écoute",
           "text": " Sortons, s’il vous plaît.",
           "textWithEmoji": " Sortons, s’il vous plaît.",
           "emojiWords": {}
@@ -4077,10 +4077,12 @@
       "sceneContext": "MONSIEUR JOURDAIN, DORIMÈNE, DORANTE, LAQUAIS.",
       "dialogue": [
         {
-          "character": "MONSIEUR JOURDAIN, après avoir fait deux révérences, se trouvant trop près de Dorimène",
-          "text": "Un peu plus loin, Madame.",
-          "textWithEmoji": "Un peu plus loin, Madame.",
-          "emojiWords": {}
+          "character": "MONSIEUR JOURDAIN",
+          "text": "(après avoir fait deux révérences) Un peu plus loin, Madame.",
+          "textWithEmoji": "(après avoir fait deux 👬 révérences) Un peu plus loin, Madame.",
+          "emojiWords": {
+            "deux": "👬"
+          }
         },
         {
           "character": "DORIMÈNE",

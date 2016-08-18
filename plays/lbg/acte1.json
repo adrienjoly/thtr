@@ -34,35 +34,35 @@
       "desc": "marquise."
     },
     {
-      "name": "MAÎTRE DE MUSIQUE.",
+      "name": "MAÎTRE DE MUSIQUE",
       "desc": ""
     },
     {
-      "name": "ÉLÈVE DU MAÎTRE DE MUSIQUE.",
+      "name": "ÉLÈVE DU MAÎTRE DE MUSIQUE",
       "desc": ""
     },
     {
-      "name": "MAÎTRE À DANSER.",
+      "name": "MAÎTRE À DANSER",
       "desc": ""
     },
     {
-      "name": "MAÎTRE D’ARMES.",
+      "name": "MAÎTRE D’ARMES",
       "desc": ""
     },
     {
-      "name": "MAÎTRE DE PHILOSOPHIE.",
+      "name": "MAÎTRE DE PHILOSOPHIE",
       "desc": ""
     },
     {
-      "name": "MAÎTRE TAILLEUR.",
+      "name": "MAÎTRE TAILLEUR",
       "desc": ""
     },
     {
-      "name": "GARÇON TAILLEUR.",
+      "name": "GARÇON TAILLEUR",
       "desc": ""
     },
     {
-      "name": "DEUX LAQUAIS.",
+      "name": "DEUX LAQUAIS",
       "desc": ""
     }
   ],
@@ -80,21 +80,21 @@
       "sceneContext": "MAÎTRE DE MUSIQUE, MAÎTRE À DANSER, TROIS MUSICIENS, DEUX VIOLONS, QUATRE DANSEURS.",
       "dialogue": [
         {
-          "character": "MAÎTRE DE MUSIQUE, parlant à ses Musiciens",
-          "text": "Venez, entrez dans cette salle, et vous reposez là, en attendant qu’il vienne.",
-          "textWithEmoji": "Venez, entrez dans cette salle, et vous reposez là, en attendant qu’il vienne.",
+          "character": "MAÎTRE DE MUSIQUE",
+          "text": "(parlant à ses Musiciens) Venez, entrez dans cette salle, et vous reposez là, en attendant qu’il vienne.",
+          "textWithEmoji": "(parlant à ses Musiciens) Venez, entrez dans cette salle, et vous reposez là, en attendant qu’il vienne.",
           "emojiWords": {}
         },
         {
-          "character": "MAÎTRE À DANSER, parlant aux Danseurs",
-          "text": "Et vous aussi, de ce côté.",
-          "textWithEmoji": "Et vous aussi, de ce côté.",
+          "character": "MAÎTRE À DANSER",
+          "text": "(parlant aux Danseurs) Et vous aussi, de ce côté.",
+          "textWithEmoji": "(parlant aux Danseurs) Et vous aussi, de ce côté.",
           "emojiWords": {}
         },
         {
-          "character": "MAÎTRE DE MUSIQUE,à l’Élève",
-          "text": "Est-ce fait ?",
-          "textWithEmoji": "Est-ce fait ?",
+          "character": "MAÎTRE DE MUSIQUE",
+          "text": "(à l’Élève) Est-ce fait ?",
+          "textWithEmoji": "(à l’Élève) Est-ce fait ?",
           "emojiWords": {}
         },
         {

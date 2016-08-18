@@ -413,13 +413,13 @@
           "emojiWords": {}
         },
         {
-          "character": "MADAME JOURDAIN, sortant",
-          "text": "Je me moque de cela.",
-          "textWithEmoji": "Je me moque de cela.",
+          "character": "MADAME JOURDAIN",
+          "text": "(sortant) Je me moque de cela.",
+          "textWithEmoji": "(sortant) Je me moque de cela.",
           "emojiWords": {}
         },
         {
-          "character": "MADAME JOURDAIN, sortant",
+          "character": "MADAME JOURDAIN",
           "text": " Ce sont mes droits que je défends, et j’aurai pour moi toutes les femmes.",
           "textWithEmoji": " Ce sont mes droits que je défends, et j’aurai pour moi toutes les femmes.",
           "emojiWords": {}
