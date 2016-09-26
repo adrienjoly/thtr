@@ -2,6 +2,8 @@
 
 cool weekend project with olivier desmoulin &amp; jerome gangneux about theatre
 
+since september 26th, 2016, the landing page and API endpoints are published statically from the `/docs` directory, thanks to github pages.
+
 # setup
 
 ```bash
